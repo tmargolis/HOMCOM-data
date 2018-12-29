@@ -1,0 +1,367 @@
+SUPMALE:I don't mean to be rude, but do you guys mind if I use this room for a while? Oh, no, go right ahead.
+LEADMALE:Well, what I mean is What I'm trying to say Want us to leave? Well, not right away.
+OTHERMALE:I was hoping you could help me clean up before you left.
+LEADFEMALE:Do we have to leave the grounds altogether? Can we find a room somewhere to hide? Oh, you don't understand.
+OTHERFEMALE:Sherry Marshall's gonna be here any minute, and I'm anxious to make a good impression on her.
+SUPFEMALE:Who is Sherry Marshall? She happens to be a pi nu, the best sorority in the whole world.
+SUPMALE:She's the president! Is she coming alone or with some secret service agents? Yesterday, out of all the kids in Mrs.
+SUPMALE:pober's class, Sherry picked me to do her science project with her.
+SUPFEMALE:I think she may ask me to pledge the sorority, so I want everything to be perfect.
+SUPFEMALE:Dad, can you give me a hand with skippy? Oh, no! Why are you bringing him in here? Is that the voice of my beloved? Is that you, Mallory?! I'm not your beloved, skippy.
+LEADFEMALE:We've been through this before.
+LEADMALE:I am your neighbor and ex-babysitter.
+OTHERMALE:What happened?! Oh, he was going out for a pass, and he ran into the pole.
+LEADMALE:I told you to run a down-and-in, skippy.
+OTHERMALE:You were supposed to go to the pole and stop.
+SUPFEMALE:I did I stopped when I hit the pole! Get a cold rag, honey.
+SUPMALE:Come sit down, skippy.
+LEADMALE:Oh, mom! Don't let him sit down! Sherry's gonna be here any minute.
+SUPFEMALE:He's hurt.
+SUPFEMALE:He's got to sit down.
+OTHERMALE:Well, then, at least cover him up with something.
+SUPFEMALE:Can't you talk nicely to skippy? Sorry, dad.
+SUPFEMALE:Listen, skip, uh It's vital that you leave now.
+LEADMALE:Someone very important is on her way over to see me.
+LEADFEMALE:Obviously, I don't want her to think I know you.
+OTHERFEMALE:I understand.
+OTHERMALE:Much better.
+LEADMALE:Come on, skippy, let's take a look at that scratch.
+SUPFEMALE: Yeah.
+LEADFEMALE:That's her! Quick get him out of here! Oh, Mallory! Hurry! Hurry! Before she sees me! Hi, Sherry.
+SUPMALE:Come on in.
+LEADFEMALE:Hi.
+LEADFEMALE:You know, I am really glad we're partners.
+LEADMALE:It's gonna be a lot of fun, and it's a great chance for us to get to know one another.
+LEADFEMALE:Yeah, great.
+LEADMALE:Where's Alex? Huh? Alex Keaton.
+LEADMALE:Isn't he your brother? I suppose technically he is, yeah.
+OTHERFEMALE:Anyway, I was thinking about something along the lines of ecology.
+SUPMALE:Maybe a chart showing the breeding cycles Yeah.
+LEADMALE:So, uh, is he here? Well, I don't know.
+LEADFEMALE:We're really not that close.
+LEADFEMALE:I run into him now and again down at the market.
+LEADFEMALE:Oh, I hope you don't mind.
+LEADFEMALE:It's time for the commerce and shipping news.
+OTHERMALE:Alex, we do mind.
+LEADFEMALE:We're doing a project for school here.
+LEADMALE:All right, all right.
+OTHERMALE:I'll listen to it upstairs.
+OTHERMALE:It's a lot more exciting in stereo, anyway.
+LEADMALE:Wait.
+SUPMALE:You know what? I'll go with you.
+OTHERMALE:I just love the commerce and shopping news.
+OTHERFEMALE:"Shipping.
+SUPMALE:" Ah.
+LEADMALE:Right.
+LEADFEMALE:You know, I don't think we've met.
+LEADFEMALE:I'm Sherry Marshall.
+OTHERFEMALE:Great.
+SUPFEMALE:Take care of yourself.
+LEADMALE:So, anyways, what do you think about the ecology thing? Or maybe you have something else in mind.
+LEADMALE:Does Alex ever go out with any of your friends? No, never.
+LEADFEMALE:He says he has some kind of reputation to uphold.
+OTHERFEMALE:That's too bad.
+SUPFEMALE:He's really cute.
+LEADFEMALE:I was hoping, um, we could double-date sometime.
+LEADFEMALE:Double-date? Me and you? But if Alex never goes out with your friends Uh, did I say "never"? I don't know what I was thinking.
+SUPFEMALE:You know, come to think of it, there's still some openings on our sorority list.
+SUPFEMALE:We're voting on them next week at our big dance.
+SUPMALE:That'd be a great place for a double date.
+LEADFEMALE:I forgot my globe.
+LEADFEMALE:Uh, how's your project coming? It's starting to shape up.
+SUPFEMALE:Ah! I've come up with a terrific idea for Mallory's science project.
+LEADMALE:Isn't Mallory supposed to come up with an idea? Her idea was for dad to come up with it.
+LEADFEMALE:Anyway, I think she should try making a scale model of a molecule.
+LEADMALE:Mallory can't even make a salad.
+SUPMALE:Steven, I can see it coming You're gonna do the whole project for her.
+LEADMALE:Unh-unh.
+OTHERFEMALE:I learned my lesson on that relief map of south America I did for Jennifer.
+LEADMALE:I had to take an incomplete on that one.
+OTHERMALE:I explained that to you, Jennifer.
+LEADFEMALE:I ran out of paste.
+OTHERFEMALE:Anyway, I still think you should have handed it in.
+LEADMALE:Mrs.
+LEADMALE:dannon's pretty sharp.
+LEADFEMALE:I think she would have noticed if Brazil was missing.
+LEADMALE:Hi, honey.
+LEADMALE:Hi.
+LEADFEMALE:Okay.
+LEADFEMALE:Uh, Jennifer, don't sit there.
+LEADFEMALE:That's Alex's chair.
+LEADFEMALE:Since when? Well, he prefers to sit there.
+LEADMALE:I think we should let Alex have his way on that.
+LEADMALE:He asks so little of us.
+LEADFEMALE:Have you been under your hair dryer too long? Morning.
+SUPMALE: Hey, Alex.
+SUPFEMALE:Oh, hi, Alex.
+LEADMALE:Your favorite chair is ready.
+SUPFEMALE:I've been holding it for you.
+LEADFEMALE:What kind of cereal will you be having this morning? This kind.
+LEADFEMALE:Let me get that for you.
+LEADMALE:Uh, would you like some toast to go with that? No, I'm, uh I'm going in early this morning.
+OTHERFEMALE:I haven't got time to wait for toast.
+LEADMALE:Well, have dad's.
+LEADFEMALE:I'm sorry, dad.
+SUPFEMALE:I-i didn't know you wanted that.
+SUPFEMALE:Sure.
+SUPFEMALE:T-there was no way you could tell.
+OTHERMALE:Alex, what would you say if I told you I could get you a date with one of the most popular girls in school? I'd say that I don't need your help to do that.
+LEADMALE:Like who? She is a wonderful girl with a great personality.
+LEADFEMALE:No, sounds bad already.
+LEADMALE:Look, Mallory, this wouldn't be your friend Sherry, would it? Right.
+OTHERFEMALE:No way.
+OTHERFEMALE:Why not? Well, just the fact that you want me to go out with her is enough reason not to.
+LEADMALE:That's sweet.
+LEADMALE:Look, Alex, for some strange reason, Sherry Marshall thinks you're cute.
+LEADFEMALE:Now, I want you to go out with her, say great things about me, and help me get into pi nu.
+LEADFEMALE:Mallory, you sound a little desperate about the sorority.
+LEADMALE:I'm not desperate, but I want to get in.
+LEADMALE:Is it worth joining the sorority, though, if you have to be manipulative and deceitful to get in? Yeah.
+OTHERFEMALE:Aw, mom, you know what these things are like.
+SUPMALE:The hard part is getting in.
+LEADFEMALE:And then once you're in, then you can be yourself.
+OTHERMALE:Well, that's my ride.
+SUPFEMALE:I got to be in early today.
+LEADFEMALE:Oh, what do you say, Alex? She really thinks you're cute.
+LEADFEMALE:Listen, Mallory, I don't go out with girls who have I.
+LEADFEMALE:Q.
+SUPMALE:S lower than room temperature, who have contagious diseases, or who are friends of yours.
+LEADFEMALE:And there's certainly some overlap in those three categories.
+SUPMALE:How's your science project going, dad? Well, it's not my science project, Jennifer.
+OTHERMALE:It's Mallory's.
+LEADFEMALE:Having some trouble with it.
+LEADFEMALE:What is it? Uh, ice.
+LEADFEMALE:Don't let it melt.
+OTHERMALE:No It's not really ice.
+LEADFEMALE:This is a perfect representation of a group of crystallized water molecules.
+SUPFEMALE:Your father's very proud of it.
+SUPFEMALE:He's hoping for an "a.
+LEADMALE:" Alex, why won't you help me out on this? It's just one date.
+OTHERFEMALE:That's all.
+OTHERMALE:It's the principle, Mallory.
+SUPFEMALE:I am not some cheap floozy available for one-night stands with people you want to impress.
+SUPMALE:Next thing, you'll be asking me to jump out of a cake.
+LEADMALE:Hi.
+LEADFEMALE:Hope I'm not interrupting anything.
+LEADFEMALE:Hi, skippy.
+LEADFEMALE:Actually, no.
+OTHERFEMALE:We're just going in to dinner.
+LEADMALE:As luck would have it, I'm free for dinner tonight! That is lucky.
+LEADMALE:Forget it, skippy.
+SUPMALE:She's kidding.
+SUPMALE:You're welcome to stay for dinner.
+LEADMALE:But call your mother.
+SUPMALE:She sent me over.
+SUPMALE:So, skippy, what do you think of my I mean, uh, Mallory's, uh, science project? Well, my dad I mean, mine came out better.
+LEADMALE:Mallory's not finished yet.
+SUPMALE:Alex, I'm not just here for dinner tonight.
+LEADFEMALE:I'm here for a victory celebration.
+SUPFEMALE:Congratulate me and pay me.
+SUPMALE:What are you babbling about? Well, remember that bet we made about six years ago that I would never get any grade higher than a "c" in school? Well, read this and weep.
+SUPMALE:This is a hygiene test.
+OTHERMALE:This doesn't count.
+SUPFEMALE:Look at these questions.
+SUPMALE:"When do you use soap?" How could you miss that? A test is a test, Alex! You owe me 50 bucks! I haven't got 50 bucks.
+LEADFEMALE:It's dinnertime For one of you.
+SUPFEMALE:Your mother said I could stay, Mallory.
+SUPFEMALE:She's had a high fever, skippy.
+LEADMALE:She hasn't been herself.
+LEADMALE:Skip.
+SUPFEMALE:If I can get Mallory to let you stay for dinner, will you knock 5 bucks off? I'll take off $10.
+OTHERMALE:You drive a hard bargain, skippy.
+LEADMALE:You know, I could be persuaded to, uh, forget the entire $50 if you could get Mallory to Go out with me.
+SUPFEMALE:I'd love to go along with you on that one, skip, but let's try and stay in the real world here.
+LEADMALE:Well, it's just a chance for us to help each other out, that's all.
+SUPFEMALE:Dinner is on the table! Mallory, uh, can I talk to you for a second? What is it? I was thinking, Mallory Yesterday, you came to me in your hour of need to ask of me a favor.
+LEADFEMALE:I think that my rejection might have been a little hasty.
+LEADMALE:You mean you'll go out with Sherry? Yeah, I-i think so.
+LEADFEMALE:Great! That is wonderful! Uh, there is, however, one small favor that I'd like to ask of you.
+LEADFEMALE:Name it.
+SUPFEMALE:Anything.
+LEADFEMALE:I'd like you to go out on a date with, uh Young irwin, here.
+LEADMALE:I'd rather enter a convent.
+LEADMALE:I'm flattered by the competition.
+SUPFEMALE:Come on, Mallory, we can make this palatable.
+SUPFEMALE:It doesn't have to be a long date.
+SUPFEMALE:You don't even have to be civil.
+SUPMALE:Do I have to talk to him? Skip? Well, a couple of words would be nice.
+SUPFEMALE:Of course you'll have to talk to him.
+OTHERMALE:Then it's off.
+SUPMALE:Conversation's overrated, skippy.
+LEADMALE:The important thing is you'll be together.
+OTHERFEMALE:Okay, forget the talking.
+LEADFEMALE:I'm flexible on that one.
+LEADMALE:Do I have to go out in public with him? That's up to Alex.
+SUPFEMALE:Yeah, I'm afraid so.
+LEADFEMALE:See, we'll double-date.
+LEADFEMALE:We'll go together to the pi nu dance.
+LEADMALE:I'm not dancing with him.
+LEADMALE:There's not gonna be any dancing, skippy.
+SUPFEMALE:There's got to be dancing.
+LEADMALE:This point is non-negotiable.
+LEADFEMALE:I don't think he's bluffing, Mallory.
+SUPMALE:All right, one dance.
+SUPFEMALE:Two dances one slow.
+LEADFEMALE:Mallory? I'd almost rather die than do this.
+OTHERMALE:Sounds like a "yes" to me, skip.
+SUPMALE:Now, don't lay it on too thick, okay? I mean, tell Sherry how wonderful I am and all that, but don't get too gushy about it.
+SUPFEMALE:I'll try and control myself.
+LEADMALE:Hey, you two guys look great.
+LEADMALE:Oh, you really think so? I'm so nervous.
+SUPFEMALE:What's the big deal? The big deal is that my life, my reputation, my entire social status is in Alex's hands.
+SUPFEMALE:Then you shouldn't be nervous.
+LEADMALE:Oh? You should panic.
+LEADFEMALE:Well, everybody all ready to go? 
+LEADMALE:Yeah.
+SUPFEMALE:I guess.
+OTHERFEMALE:You look terrific, Mallory.
+LEADFEMALE:Thanks, mom.
+LEADFEMALE:Mallory, uh, this is for you from mom and me.
+LEADMALE:Oh, thank you! Now, I was under the impression that you two weren't too crazy about the idea of my joining.
+SUPFEMALE:Well, we're not happy about the way you're getting in, but we know it's important to you.
+LEADMALE:Alex, what made you change your mind about going out with Sherry? Well, I, uh, I thought it over, and I realized that if it meant that much to Mallory, it means that much to me.
+LEADMALE:Okay, you don't have to tell us if you don't want to.
+LEADMALE: Skip! Skippy, what are you doing here? I told you I'd meet you there.
+OTHERMALE:I know, but you didn't tell me where it was.
+SUPFEMALE:Uh, m-Mallory, I don't mean to pry, but I'm kind of surprised that, uh, you and skip Well, I mean, that the two of you That we're going out on a "date"? Yeah.
+SUPFEMALE:I had to do it.
+SUPFEMALE:It's the only way I could get Alex to go out with Sherry.
+OTHERMALE:Yeah, you see, uh, I'm going out with Sherry so Mallory will go out with skippy so I don't have to pay skippy the money I owe him on a stupid bet.
+LEADMALE:Ah, to be young and in love.
+LEADFEMALE:So, this is a great sorority.
+LEADFEMALE:All girls, right? Right.
+LEADMALE:Well, I think you're making a great move asking my sister to join.
+SUPFEMALE:I mean, she is a girl and everything.
+LEADFEMALE:Alex Did anyone ever tell you that you have a really cute nose? This one? Yeah.
+SUPFEMALE:Yeah, I like the way it just sits right there, just right in the middle of your face.
+LEADMALE:Well, I've tried other locations, but I've always found that this one works best.
+SUPFEMALE:You're funny, Alex.
+LEADFEMALE:You know I find a sense of humor in a man to be incredibly Sexually exciting.
+SUPFEMALE:A priest and a rabbi are in a rowboat Hi, you two.
+LEADFEMALE:Having fun? We were.
+LEADFEMALE:Now, don't believe everything Alex tells you.
+LEADFEMALE:I do have some flaws.
+LEADMALE:Here's one now.
+LEADMALE:So, Alex, how you doing with your woman? Come on, skippy, I'm gonna have to dance with you sooner or later.
+SUPFEMALE:Let's get it over with.
+LEADFEMALE:They make a cute couple, don't you think? Now, where were we? Oh, I can't remember exactly.
+OTHERMALE:Something about you finding me incredibly exciting.
+SUPFEMALE:You know, Alex, I've admired you from afar for a long time.
+LEADFEMALE:Well, now you can admire me from a-close.
+SUPFEMALE:Okay, everyone.
+SUPFEMALE:Okay.
+SUPMALE:This is the moment we've all been waiting for.
+SUPFEMALE:It's time to announce the lucky new members of pi nu! Congratulations, Karen Sheldon donna Baldwin annette marilla and Katie Brewster! Welcome to our little family.
+LEADFEMALE:Excuse me.
+SUPFEMALE:Are you sure you didn't miss any names on that list? No, that's all.
+LEADMALE:Um, my name's Mallory Keaton.
+LEADMALE:Can you check one more time? I don't see your name on here anywhere.
+LEADFEMALE:I don't think it was submitted.
+LEADFEMALE:I don't understand.
+LEADMALE:Come on, Alex.
+LEADFEMALE:Let's go home.
+OTHERMALE:Alex, let's go.
+LEADFEMALE:Mallory, do you mind? Alex, my name was not on the list to pledge the sorority.
+LEADMALE:Oh, what are you talking about? Sherry, wasn't Mallory's name on the list? I don't know.
+SUPFEMALE:I'm not on the membership committee.
+LEADMALE:W-well, I thought you said you were gonna Well, mal, these things happen.
+SUPMALE:I mean, obviously, Sherry did all she could.
+LEADFEMALE:Alex, I want to go home now.
+OTHERFEMALE:Sorry.
+SUPFEMALE:I-i know how you feel.
+SUPMALE:I'll see you there.
+SUPFEMALE:You're not coming with me? I have responsibilities, Mallory.
+LEADFEMALE:I'm needed here.
+LEADMALE:Mallory I'll take you home.
+LEADMALE:Mallory! Hi, dad.
+LEADMALE:Why are you sitting here in the dark? I was just thinking.
+SUPFEMALE:What's that? Oh, this is your, uh, science project.
+LEADFEMALE:I couldn't sleep, so I thought I'd work on it a little.
+SUPMALE:How am I doing on it? I'll be honest, mal You're having trouble.
+LEADFEMALE:At this point, it's a "b" or a b-plus, at best.
+LEADMALE:Well, dad, what's important is not the grade but what you learn from it.
+LEADMALE:How was the dance? It's terrible.
+LEADFEMALE:I wasn't even invited into the sorority.
+LEADFEMALE:Honey, w-w-what happened? Do you want to talk about it? What happened is that Sherry never even put my name on the list.
+SUPFEMALE:I mean, she got what she wanted, then forgot all about me.
+SUPMALE:Oh, mal, I'm sorry.
+SUPFEMALE:How could I be so stupid? Sherry was just using me.
+SUPMALE:Look, this may be hard to face, but, uh, weren't you using her, too? That's different.
+LEADFEMALE:How? It worked for her.
+SUPFEMALE:Thought I heard voices.
+LEADMALE:How was the party? Jennifer, your brother is a jerk.
+OTHERFEMALE:I know that.
+LEADMALE:How was the party? You didn't get in, did you? Nope.
+SUPFEMALE:I'm sorry, honey.
+SUPMALE:Forget them, Mallory.
+LEADFEMALE:We don't need those stinky p.
+LEADMALE:U.
+LEADFEMALE:S, anyway.
+LEADFEMALE:Pi nus.
+SUPMALE:Same thing.
+LEADMALE:How could Sherry use me like that? And Alex knew she used me, and he still stayed there with her.
+SUPMALE:Well, we haven't heard Alex's side of the story.
+LEADFEMALE:Well, what could he say? "I'm sorry Sherry ruined your life, but I think she's cute"? Yeah, he could say that.
+LEADFEMALE:I can definitely picture Alex saying that.
+SUPMALE:I never got my slow dance! The party's over, skippy! Aren't you afraid you're spoiling him? It's just skippy.
+OTHERFEMALE:You know, Mallory, for someone who was treated rudely tonight, you haven't learned any lessons from it.
+LEADFEMALE:What do you mean? It's a little difficult for us to have any sympathy for the way Sherry treated you with skippy out there in the shrubbery.
+LEADFEMALE:Alex! Thought I saw a light on.
+OTHERFEMALE:Alex, you have a lot of nerve coming back home.
+SUPMALE:Mallory, just hear me out.
+LEADMALE:Yeah, I'll bet Alex told that Sherry off.
+SUPMALE:You probably just didn't want to walk out on her.
+OTHERFEMALE:You were just being polite, right, Alex? Right, Alex? Talk to me, Alex! Can I speak to Mallory alone, please? Well, you guys do have some things to work out.
+OTHERMALE:Let's go on up to bed.
+LEADMALE:Skippy, why don't you go into the kitchen and make yourself a few dozen sandwiches? Okay, but don't go to bed without telling me.
+LEADFEMALE:I hope you're proud of yourself, Alex.
+LEADFEMALE:What kind of brother are you?! Wait a minute, Mallory.
+LEADFEMALE:Let's go back a few steps here.
+LEADFEMALE:You're the one who started this whole thing.
+LEADFEMALE:You wanted me to go out with Sherry.
+LEADMALE:You wanted me to like her.
+LEADMALE:Yeah, but you were supposed to stop liking her once I didn't get into pi nu.
+SUPMALE:I'm sorry I should have read my rule book on trickery and manipulation in teenage dating.
+LEADMALE:Ohh.
+LEADFEMALE:No.
+SUPFEMALE:Don't play martyr with me, Alex.
+LEADMALE:You used me to get out of your bet with skippy.
+LEADMALE:I used you? You used me first to go out with Sherry to get you into pi nu.
+LEADMALE:That's only because Sherry was using me to get to you.
+SUPMALE:Exactly.
+LEADFEMALE:Sherry used me.
+LEADFEMALE:You used me.
+SUPFEMALE:I'm the only one who got used twice.
+OTHERMALE:And I wasn't even trying to get into anything! Well you know what I mean.
+LEADMALE:Listen to us.
+LEADMALE:We're arguing over which one of us was more sleazy.
+LEADMALE:I think you won.
+LEADFEMALE:Let's face it.
+LEADMALE:This has been quite an unsavory chapter in our young lives.
+SUPMALE:I guess.
+SUPMALE:You know, when you think of it, the only one of us who was pure of motive and noble of heart is that young man in there.
+OTHERMALE: I'm sorry! I-I'll clean that up! I don't know, Alex.
+LEADMALE:It's like I had temporary insanity or something.
+SUPMALE:I wanted to get into that sorority so bad that nothing else mattered.
+SUPFEMALE:Everybody goes through a moment or two like that in their lives, Mallory.
+LEADMALE:Where was my pride, my self-respect? They didn't want me.
+LEADFEMALE:Why did I want them? They do have great sweaters.
+LEADFEMALE:I'm sorry, Alex.
+LEADMALE:I really owe you an apology.
+LEADFEMALE:Well, it's possible that my behavior has not exactly been above reproach.
+LEADFEMALE:I owe you an apology, too.
+LEADMALE:Accepted.
+SUPFEMALE:You know, if it makes you feel any better, I told Sherry that if you weren't good enough for her, she wasn't good enough for me.
+LEADFEMALE:I'm not gonna be seeing her anymore.
+OTHERFEMALE:That's for me.
+LEADMALE:But you just said Yeah, well, that's not Sherry.
+LEADFEMALE:That's Lisa.
+SUPMALE:She's the sergeant at arms.
+LEADFEMALE:She's not like those other girls.
+SUPMALE:You'd really like her.
+LEADMALE:I'll bet.
+SUPFEMALE:Why don't you go on up and go to bed? I will.
+SUPFEMALE:I got something to take care of first, though.
+OTHERFEMALE:What? I owe somebody something.
+OTHERFEMALE:Can you come in here, please? Irwin, they're playing our song.
+LEADFEMALE:

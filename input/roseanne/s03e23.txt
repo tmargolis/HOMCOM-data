@@ -1,0 +1,340 @@
+SUPFEMALE:So this one's ok.
+LEADFEMALE:No, you don't want to get a used washer and dryer.
+LEADMALE:I can't afford a new one.
+SUPFEMALE:You're going to put clothes that touch your body into somebody's filthy machine? I do it here all the time.
+LEADMALE:Yeah, but our filth is family.
+SUPMALE:What's your problem? If you get a washer and dryer, you won't come here no more.
+OTHERMALE:I'm still going to come over.
+LEADFEMALE:No, you won't.
+SUPMALE:Nobody comes here unless they have to.
+SUPFEMALE:I got to eat, don't I? Yeah, and you'll probably learn how to cook, then you'll start going to the supermarket with your fancy new washer and dryer.
+LEADFEMALE:I'm putting the paper away.
+LEADMALE:You're in no condition to discuss this now.
+SUPFEMALE:Can I have the car on Saturday night? Yeah, only if you promise to bring it back really dirty and totally out of gas.
+SUPFEMALE:Mark's truck is in the shop, so I'm driving us to the spring dance.
+SUPMALE:Spring dance.
+LEADFEMALE:Boy, does that bring back memories.
+LEADMALE:Yeah.
+LEADFEMALE:Waiting around for weeks for some cool guy to ask you and then ending up going with some loser like Glenn Dickerson.
+LEADMALE:Why, was he a geek or something? Ask Jackie.
+LEADFEMALE:It's her memory.
+LEADFEMALE:No, he was not a geek.
+LEADMALE:He was the only kid in 10th grade that carried a lunch box.
+LEADFEMALE:Let's ice down that pitching arm.
+SUPMALE:How was the game? Oh, it was ok.
+LEADMALE:Ok? She was throwing BB's out there.
+LEADFEMALE:I'll get it! Hello? 11 strike-outs, no walks.
+OTHERFEMALE:She made their best hitter cry.
+SUPFEMALE:Yeah, I beaned her right in the neck.
+OTHERFEMALE:That was an accident, right? Grow up.
+LEADMALE:It's for you, Darlene.
+LEADFEMALE:It's Barry.
+OTHERFEMALE:Yeah? Hey, Barry, how you doing? Did Crystal drop anything off for me today? There's an envelope over there.
+OTHERMALE:Yes! Thanks to my well-connected father, I now possess two tickets to the Bulls play-off game this Saturday night.
+LEADMALE:Don't expect me to go to any stupid baseball game with you.
+LEADMALE:Basketball, Roseanne.
+SUPFEMALE:Get off my back.
+OTHERFEMALE:The answer's still no.
+LEADMALE:I guess I'll have to find somebody else then.
+LEADFEMALE:Hey! I like basketball.
+SUPFEMALE:Really? How fascinating.
+LEADFEMALE:But you know I think I'm going to surprise Darlene with these.
+LEADFEMALE:How bizarre.
+SUPMALE:That was Barry.
+SUPFEMALE:He just invited me to the spring dance.
+LEADMALE:Whoo! All right, butch! When is this thing, Darlene? It's this Saturday night.
+LEADMALE:Saturday, huh? Yeah.
+LEADMALE:Can you drive us? No problem.
+LEADMALE:Oh, Darlene! Congratulations.
+LEADFEMALE:It's your first formal dance.
+LEADFEMALE:You'll remember this for the rest of your life.
+OTHERFEMALE:What are you going to wear? I was thinking I'd go Shh! I'm not talking to you.
+SUPMALE:So whatever I decide that Darlene likes best, we'll keep.
+LEADFEMALE:And what do you think of these shoes with that blue dress? Uh, clash.
+LEADMALE:What about something with an open toe? No, nobody wants to see her feet.
+OTHERFEMALE:Uh, Roseanne.
+SUPMALE:Bonnie.
+LEADMALE:Hi, Leon.
+LEADMALE:This is Linda Wagner from Rodbell's company headquarters.
+LEADMALE:She's here to see how hard we're always working.
+SUPFEMALE:Oh, cool.
+LEADFEMALE:Hey, Linda, what do you think of these shoes with this dress? I think they work.
+LEADMALE:Roseanne is sort of our restaurant cutup.
+LEADMALE:Let's try this again, shall we? Ms.
+OTHERFEMALE:Wagner is here to look over our store and evaluate our employees.
+OTHERFEMALE:That doesn't mean I have to take a lie detector test, does it? Every time I take one, I get fired.
+SUPMALE:Oh, God.
+LEADMALE:What I'd like to do is conduct a short interview with each of you.
+LEADMALE:Fantastic.
+SUPFEMALE:Who'd like to start? Roseanne, I think I see your hand up there.
+LEADFEMALE:Perfect.
+LEADFEMALE:Bonnie, why don't we leave these two alone while we tidy up and serve our happy customers? I promise this won't take long.
+LEADFEMALE:This ain't one of those "if I could be any animal on earth, what animal would I be" kind of deals, is it? No.
+LEADMALE:Let me start by asking you about your boss.
+LEADFEMALE:Oh, so it is an animal question, then.
+SUPMALE:I was wondering, is he single? Leon? Of course he's single.
+LEADMALE:Well, I find him very attractive.
+LEADFEMALE:Don't you? Well, ok.
+LEADMALE:I suppose that, uh, in kind of an offbeat Aw, what the hell.
+LEADMALE:Put me down for no.
+SUPFEMALE:There's just something about him.
+LEADMALE:He's got this mysterious charisma.
+SUPFEMALE:Uh-huh.
+LEADMALE:It's strange.
+SUPMALE:The second I looked at him, this voice in my head said, "I want that man.
+LEADMALE:" How long you been on the road, Linda? Almost six weeks.
+LEADMALE:Why? Time to go home.
+SUPMALE:Darlene, would you come down here? Geez, where is she? I want to see some action.
+OTHERFEMALE:This is so exciting.
+LEADMALE:Sometimes I wish my Lonnie was a girl so I could get him dolled up in a pretty dress.
+SUPFEMALE:I don't do that, of course.
+OTHERFEMALE:Oh, well, take my breath away.
+LEADFEMALE:Isn't she exquisite? Obviously a woman of taste.
+LEADMALE:You look weird.
+OTHERFEMALE:You smell weird.
+SUPMALE:What? Mmm Try on the blue one.
+SUPMALE:Why? Because I don't know how I feel about this dress until I see you in the blue one.
+LEADMALE:Oh, God.
+SUPFEMALE:Oh! Becky.
+SUPMALE:Go with her.
+SUPFEMALE:Don't leave her alone with that dress.
+LEADFEMALE:This is a joke, right? No, it's not bad.
+SUPFEMALE:You've been to these things before.
+LEADMALE:Is this going to work? Well, that depends on what you're going as.
+OTHERMALE:Yeah? Well, what are you wearing? I decided not to go.
+LEADFEMALE:These things are so immature.
+OTHERMALE:Mark bailed, huh? It was awkward for him.
+LEADFEMALE:The Spanish teacher he was dating in 11th grade is going to be chaperon.
+SUPFEMALE:Ok, you want to look in the mirror? Sure.
+SUPFEMALE:Ohh, why did I do that? Ok, she wants to see the blue dress, let's show her the blue dress.
+LEADMALE:"It's too blue.
+LEADMALE:" "Looked better on the hanger.
+OTHERMALE:" "Rhubarb with hair.
+LEADFEMALE:" "Makes too much noise when I walk.
+SUPMALE:" "It makes me look lopsided.
+SUPMALE:" Well, you do look like Judy Jetson.
+SUPFEMALE:Oh, yeah, yeah, yes.
+LEADMALE:This is definitely it.
+LEADMALE:Mm-hmm.
+LEADFEMALE:This is the first one that I had on.
+LEADMALE:I know that, but these shoes totally make the difference.
+LEADMALE:They make the outfit, right? Oh, yeah.
+LEADFEMALE:Nice shoes.
+SUPFEMALE:Gotcha.
+SUPFEMALE:Now you'll have to start shaving your legs below the sock line.
+SUPFEMALE:Those aren't socks.
+LEADMALE:Oh, Dan! Come in here and meet your beautiful young daughter! Wow, you look incredible.
+LEADMALE:Thanks.
+LEADFEMALE:Maybe you ought to see her in the yellow one.
+OTHERMALE:No, this one's perfect.
+LEADFEMALE:Besides, I have the next dance.
+LEADFEMALE:May I? Oh, just shoot me now.
+SUPFEMALE:As time goes on I realize just what you mean to me and now now that you're near promise you're Hmm da da da da share and Oh, geez.
+LEADFEMALE:How's the pitching arm, kid? It's ok.
+SUPMALE:You really do look nice, you know.
+LEADFEMALE:Thanks.
+OTHERFEMALE:And you dance divinely.
+OTHERMALE:I'm stepping all over your feet.
+LEADMALE:I happen to enjoy that.
+LEADMALE:I hate slow dancing.
+SUPMALE:If this Barry tries to hold you too close, tell him you got to throw up.
+SUPMALE:Oh, I thought I was going to save that for when he wanted to have sex.
+LEADFEMALE:I I got to go.
+LEADFEMALE:Mom, I'm going to change into human clothes.
+OTHERMALE:No, we've got to decide what we're going to do about your hair.
+LEADMALE:Stop it.
+LEADFEMALE:I like my hair the way it is.
+LEADFEMALE:We'll go and get a make-over.
+OTHERMALE:We'll go Saturday before the dance.
+LEADFEMALE:No! Forget it.
+LEADMALE:This is something I always wanted to do with you.
+LEADFEMALE:It'd be like a girl thing.
+SUPMALE:Mom, I have practice on Saturday.
+LEADFEMALE:You could miss it.
+SUPMALE:If I do, I might not start in the next game.
+OTHERMALE:Your first formal dance is way more important.
+OTHERFEMALE:Yeah? Then why don't you go? Because I have nothing to wear.
+LEADMALE:Boy, you better go to practice.
+LEADMALE:You missed me by a mile.
+SUPFEMALE:That's not paid for yet.
+LEADFEMALE:Take it back.
+LEADMALE:Take them all back.
+LEADFEMALE:I'll get my own dress.
+LEADMALE:You pick it up.
+SUPMALE:No.
+OTHERFEMALE:Pick it up, Darlene.
+LEADMALE:Why, so you can play Barbie doll some more? What are you talking about? I bought you a beautiful dress for the dance! Why don't you give me this kind of attention when I do real stuff, like striking out 11 guys without walking anybody? Oh, ok.
+OTHERFEMALE:Way to go.
+LEADMALE:You ever brag about that to Jackie and Crystal? No.
+LEADMALE:But some guy asks me to some lame dance, and I'm a big deal.
+OTHERFEMALE:That's so sick.
+LEADMALE:How come you never said anything about this before? Oh, why bother? I want to talk about this some more.
+LEADFEMALE:Fine.
+SUPMALE:Go ahead.
+OTHERFEMALE:Man, you are such a spoiled brat, and I am sick of it.
+SUPFEMALE:I told you I wanted every customer to have a flower.
+LEADMALE:Oh, not now, Leon, I ain't in the mood.
+LEADMALE:Roseanne, this customer does not have a flower, so find a vase and give him one.
+LEADFEMALE:There.
+LEADFEMALE:Well, someone forgot to take her polite pill this morning, huh? Why don't you lay off? She's having a bad day.
+OTHERFEMALE:Good afternoon, everybody.
+SUPFEMALE:Ms.
+LEADFEMALE:Wagner.
+SUPMALE:For you.
+LEADFEMALE:A freshly cut spring flower.
+LEADMALE:How sweet.
+LEADMALE:I got to leave early for my kid's baseball game.
+LEADFEMALE:No, no, no, no.
+SUPFEMALE:This is our evaluation day, remember? Now, please have a seat.
+LEADFEMALE:And observe your well-oiled Rodbell's machine in action.
+OTHERMALE:I have a better idea.
+LEADMALE:Shoot.
+LEADFEMALE:Why don't the two of us find a nice little Italian restaurant, order a bottle of Chianti, and get to know each other? Whoa.
+SUPMALE:Whoa, whoa, whoa.
+LEADFEMALE:Way too much information in that sentence.
+LEADMALE:These evaluations are just so dull.
+LEADMALE:I thought we could find something more Exciting to do.
+LEADMALE:You're coming on to me here, right? I'm trying.
+LEADFEMALE:Well, I would like a cup of coffee.
+LEADFEMALE:Would you like some coffee? Sure.
+SUPMALE:Ok.
+SUPMALE:Go for it, stud.
+LEADFEMALE:No way.
+LEADFEMALE:Where else are you going to find a woman that good-looking and that desperate? No.
+LEADFEMALE:Not interested.
+LEADFEMALE:Go on over there.
+SUPFEMALE:If you take her out, I can leave.
+LEADFEMALE:So stop acting like you got integrity and do it.
+LEADMALE:No, I'm not looking for this kind of relationship.
+LEADMALE:She don't want no relationship.
+LEADFEMALE:She just wants a little slap and tickle.
+LEADMALE:Think of it as a career move, Leon.
+LEADFEMALE:Yeah, maybe you'll get promoted to some restaurant where, like, the employees respect you.
+OTHERMALE:I'm not sleeping with her just so you can leave early.
+SUPFEMALE:Geez, I ask you for one little favor.
+OTHERFEMALE:Linda.
+SUPMALE:Ahem.
+SUPFEMALE:I, uh, really appreciate your offer.
+LEADMALE:It's very flattering.
+SUPMALE:But, uh, I'm already seeing somebody else.
+SUPMALE:You are not.
+LEADMALE:Am, too! Leon, don't worry, it's ok.
+OTHERMALE:But it could have been fun.
+LEADMALE:Ok, let's talk about this restaurant.
+LEADMALE:Thank you.
+LEADMALE:Am I missing something here? What does she see in him? I don't know.
+LEADFEMALE:If you were single, would you No.
+OTHERFEMALE:What if he was rich? No.
+SUPMALE:Or a movie star or royalty? Uh-uh.
+LEADFEMALE:If he were the last man on earth? I'd demand a re-count.
+LEADMALE:I gave the tickets to a friend.
+OTHERMALE:Yeah, dad, I know how hard it was for you to get the tickets.
+LEADFEMALE:Now Darlene's not going to the dance, so Ok, how many coffee filters would you have to sell for me to get two more tickets? Ok, put me down for 25,000.
+LEADFEMALE:Yeah, dad, see what you can do.
+LEADMALE:Thanks.
+LEADMALE:The kids are going to have to start drinking coffee.
+LEADFEMALE:What's this about Darlene's not going to the dance? She called Barry and backed out.
+LEADMALE:I knew that was going to happen! Now I have to go talk to her.
+OTHERFEMALE:The thing is, Dan, this is all my fault.
+LEADFEMALE:Imagine that.
+LEADFEMALE:You spend all your life trying to teach your kids that they're always wrong, and then something like this has to go and happen.
+LEADMALE:Darlene? Hi.
+LEADMALE:Hey.
+LEADMALE:Can I come in? I guess so.
+OTHERMALE:I tried to get off early from work today so I could go to your practice.
+SUPFEMALE:Yeah, well, we don't practice on Fridays.
+LEADFEMALE:Good.
+LEADMALE:Then I didn't miss anything.
+LEADMALE:When's the next game? It's all right.
+SUPMALE:You don't have to come.
+OTHERMALE:No, next time you bean somebody in the neck, I want to be there cheering you on.
+SUPFEMALE:Fine.
+LEADMALE:You just better know that when I pitch, I spit.
+LEADFEMALE:So? When I dust, I spit.
+LEADFEMALE:I've got a great idea.
+LEADMALE:I just thought of this.
+OTHERMALE:You ought to call up Barry and tell him you will go to the dance and wear whatever you want and have you hair however you want it.
+LEADFEMALE:No.
+LEADMALE:Don't miss out on this just to get back at me.
+LEADMALE:There's better ways to get back at me.
+LEADFEMALE:Maybe Becky's boyfriend has a little brother.
+SUPMALE:I didn't blow the dance because of you.
+SUPMALE:It was a lot of things.
+LEADMALE:Every time I would put on those dresses, everybody would treat me weird.
+LEADMALE:I didn't feel like the same person anymore.
+LEADMALE:Well, no, you kind of Are not like the same person anymore, you know? So Sorry.
+SUPFEMALE:I guess I shouldn't do that.
+OTHERFEMALE:Oh, that's ok.
+LEADFEMALE:Look, I just may never get into proms and stuff.
+SUPMALE:I like dating and boys and everything.
+SUPFEMALE:I just don't think you have to go through the crap to get to the good stuff.
+LEADMALE:You've been hanging out with aunt Jackie too much.
+SUPMALE:I'm sorry that I threw that dress on the floor.
+LEADMALE:It's ok.
+LEADFEMALE:They took it back.
+LEADMALE:I did buy you these shoes that I think you'll like.
+LEADMALE:I can't wear those high heels.
+LEADMALE:Just open the box.
+LEADFEMALE:Oh, man.
+SUPFEMALE:Golf shoes? Mom, you got me golf shoes? Oh, you mean they're not baseball shoes? I should have listened to the sales guy.
+LEADMALE:I just thought these were way cuter.
+SUPFEMALE:It's almost time for tip-off.
+SUPFEMALE:I had to change into my lucky sweats.
+OTHERMALE:This is going to be way better than some stupid dance.
+LEADFEMALE:I'll bet you 5 bucks Jordan pulls a triple double.
+LEADMALE:You'd have to be crazy to take that bet.
+LEADMALE:I'll give you the odds.
+LEADFEMALE:No way.
+LEADFEMALE:So where did mom run off to hide this time? Jackie's.
+LEADFEMALE:She's coming to your game Monday.
+SUPMALE:I know.
+LEADMALE:You don't think if it's cold she'll run to the pitcher's mound to give me my sweater? I think you can count on it.
+LEADMALE:She's probably sewing your baseball mitt onto your uniform sleeve right now.
+OTHERMALE:Oh, here they come.
+OTHERMALE:Bulls, bulls, bulls, bulls, bulls, bulls, bulls, ow! Oh, man.
+LEADMALE:Let it ring.
+SUPMALE:I'll get it.
+OTHERFEMALE:Put it up! Foul! Get in the game! Jerk.
+LEADMALE:Speak.
+LEADFEMALE:Barry, hey.
+SUPFEMALE:No, I'm not mad at you.
+SUPFEMALE:No, I thought you were mad at me.
+LEADMALE:Pizza? Now? Well, I'm kind of watching the game with my dad.
+SUPFEMALE:Well, I don't know.
+SUPFEMALE:Sure I can ditch him.
+LEADFEMALE:Yeah, I'll see you in like 10.
+LEADFEMALE:Ok, bye.
+LEADFEMALE:Sorry, dad.
+SUPMALE:Try to be back by dawn.
+LEADMALE:Yeah, we'll play it by ear.
+LEADFEMALE:What are you up to, Philbert? Nothing.
+OTHERMALE:Hey, Deej.
+LEADMALE:Who do you like in the play-offs? What's a play-off? Ho ho ho.
+OTHERFEMALE:Park it right here, bud.
+OTHERMALE:I'll tell you all about it.
+LEADMALE:You got any money? Another day, another dollar, huh, ladies? I haven't exactly counted my tips yet, but that sounds about right.
+LEADFEMALE:Leon, how did we do on that evaluation? Well, somehow, we did very well.
+LEADFEMALE:It was a good thing you didn't sleep with her.
+LEADFEMALE:We might have all got fired.
+SUPMALE:Hello, Leon.
+OTHERMALE:You ready? Yeah, almost.
+OTHERMALE:Oh, there's my blue shirt.
+LEADMALE:I was looking all over for that this morning.
+LEADMALE:Oh, I'm sorry.
+LEADFEMALE:Roseanne, Bonnie, this is my friend Jerry Gimble.
+SUPFEMALE:It's nice to meet you.
+SUPFEMALE:Leon has told me so much about both of you.
+LEADFEMALE:So, Leon, we do have 7:00 dinner reservations, and I'm sure that Phil and Tom are already there, so Ok, ok.
+OTHERFEMALE:Uh, do it all again tomorrow, shall we? Definitely.
+LEADFEMALE:All righty.
+SUPMALE:Nice to meet you.
+LEADMALE:Nice to meet you, too.
+SUPMALE:Bye.
+LEADFEMALE:Ohh.
+OTHERFEMALE:Ohh.
+OTHERFEMALE:Captioning performed by the National Captioning Institute, Inc.
+LEADFEMALE:"Oh, it looked better on the hanger.
+OTHERFEMALE:" "Lambada.
+LEADMALE:" "It's too much noise when I walk.
+LEADFEMALE:" Clear.
+LEADFEMALE:Now, that was my best performance of the day.

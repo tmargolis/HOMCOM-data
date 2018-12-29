@@ -1,0 +1,333 @@
+LEADFEMALE:Hey, hey, hey, hey, hey, hey.
+SUPFEMALE:You mind? I can't find any of my new school supplies, Alex.
+LEADMALE:Did you take my scissors? Your scissors? Jennifer, as of today I am a freshman in college.
+LEADMALE:In college, we deal in the realm of ideas, of theories.
+SUPMALE:Of Of Of abstract concepts.
+LEADMALE:We work not with our hands but with our minds.
+LEADMALE:Jennifer, I can assure 
+SUPFEMALE:I have absolutely no use for your scissors.
+SUPFEMALE:Okay, then give me back my paste.
+LEADMALE:I need that.
+SUPMALE:Mallory, please! I've got to be at work in a half an hour.
+SUPMALE:It's enough.
+LEADMALE:Come on, Mom.
+LEADMALE:This is very important.
+LEADMALE:It's my first day of school.
+OTHERFEMALE:I wanna get it off to a good start.
+LEADFEMALE:I'm in my junior year now.
+LEADMALE:A lot more is expected of me.
+SUPFEMALE:The one I have on now, okay? Or one of the first six I tried on? Do not change clothes.
+LEADFEMALE:The outfit you have on right now is clearly the best one.
+LEADMALE:Are you sure, Mom? I promise you.
+LEADMALE:Morning, kids.
+SUPFEMALE:Hi.
+OTHERMALE:Hey, Dad.
+LEADFEMALE:Say, Mallory, what happened to that red outfit you had on before? That looked great.
+SUPFEMALE:Mom! Steven, what a terrible thing to say! I Tell Mallory you didn't mean it.
+LEADMALE:Uh, Mallory, I didn't mean it.
+OTHERFEMALE:I must have lost my head.
+LEADMALE:Isn't that sweet? All three of our children getting ready for another first day at school.
+LEADMALE:Uh, Mom, I wish you would respect the fact that I am in college now.
+SUPMALE:I mean, I-I'd appreciate it if you wouldn't lump me together with these two bambinos.
+LEADMALE:You think you're so hot just because you're in college.
+LEADMALE:Jennifer, Jennifer.
+OTHERFEMALE:I am not just "in college.
+LEADFEMALE:" I am at Leland University.
+SUPMALE:One of the finest institutions of higher learning in this country.
+LEADMALE:And I'm not just "at Leland," either.
+LEADMALE:I am the winner of the McKinley Scholarship at Leland.
+SUPMALE:And I'm not just Alex, will you? Whoa, whoa.
+LEADMALE:That's Doug.
+LEADFEMALE:That's my ride.
+OTHERFEMALE:Well, I'm off to college.
+LEADFEMALE:Dad.
+SUPFEMALE:Yeah, good luck, son.
+OTHERMALE:Thank you.
+LEADMALE:Bye-bye.
+LEADFEMALE:Mom.
+LEADMALE:I'm so proud of you, honey.
+LEADFEMALE:Thank you, Mom.
+LEADMALE:Bye-bye.
+LEADFEMALE:Listen, you take care of yourselves while I'm gone.
+LEADMALE:We'll, uh, try to manage without you till supper.
+SUPMALE:You know, while it's true that Leland is only a mere 30 miles away, as I leave here today I feel as though I'm pulling up anchor.
+LEADMALE:You know, casting off.
+LEADFEMALE:Setting sail into a vast sea of knowledge and wisdom.
+LEADFEMALE:One man.
+LEADFEMALE:The captain of his own ship.
+OTHERMALE:Don't forget your lunch.
+LEADMALE:Extra cookies? Aye-aye, captain.
+SUPFEMALE:Welcome to Leland College.
+OTHERFEMALE:I am Efrem Bronski.
+LEADFEMALE:This is a freshman seminar in American government.
+SUPMALE:If you are not enrolled in this course, and here by mistake, well, then, I suggest you leave now before you become too engrossed.
+SUPFEMALE:I'm going to begin our studies with an examination of the Free Speech Clause of the First Amendment.
+LEADMALE:It reads, and I 
+LEADMALE:"Congress shall make no law abridging the freedom of speech.
+LEADFEMALE:" No law.
+LEADFEMALE:Did you hear that, Doug? No law.
+OTHERFEMALE:Don't look at me.
+LEADMALE:I'm not gonna make one.
+SUPFEMALE:The wording is quite unambiguous.
+SUPFEMALE:And yet Congress has passed many laws over the years which restrict the individual's right to express himself.
+LEADMALE:Is there an inconsistency here? Yes? Uh, yes, sir.
+LEADFEMALE:It would, uh It would appear that there is an inconsistency here, sir.
+SUPMALE:What is your name, young man? Uh, Alex P.
+LEADMALE:Keaton, sir.
+LEADFEMALE:Uh, Mr.
+SUPFEMALE:Keaton, I was merely posing a rhetorical question.
+LEADMALE:I did not expect a response.
+LEADMALE:Nor did I want one.
+LEADFEMALE:Oh, I'm Uh, I didn't mean to respond.
+SUPMALE:I w I was just up.
+SUPFEMALE:And as long as I'm up, can I get you something? Uh, no.
+OTHERFEMALE:I'm fine, But let's pursue this.
+SUPMALE:You said you felt there was an inconsistency between what's written in the Constitution and the fact that Congress has passed laws limiting free speech.
+OTHERFEMALE:Now, why do you feel that way? Is this a rhetorical question? No, this is a regular question.
+SUPMALE:Well, uh, if If If the constitution states that That freedom of speech is an absolute right, then, uh Then congress shouldn't be allowed to To restrict it at all.
+LEADFEMALE:It's as simple as that.
+SUPFEMALE:You would, uh, legalize libel, slander? Well, no.
+LEADFEMALE:No, certainly not.
+SUPFEMALE:But you just said that you felt that free speech was an absolute right.
+OTHERMALE:Is it or isn't it? Uh, well, y Uh, yeah, it is.
+SUPFEMALE:Uh, except for those things.
+LEADMALE:What about incitement to riot? Uh, that too.
+LEADFEMALE:What about censorship of newspapers, book banning, treason? Uh, those are good.
+OTHERFEMALE:So there is no free speech, is there, Mr.
+OTHERMALE:Keaton? No, sir.
+OTHERFEMALE:Not as far as I can tell.
+LEADMALE:Do you feel you've wasted enough of the class's time yet? Yep, I think so.
+OTHERFEMALE:I hope you were all paying, uh, close attention to the comments of Mr.
+LEADFEMALE:Keaton because they represent exactly the kind of narrow-minded, unsophisticated and simplistic approach to American government that, with any luck, this class will help you to overcome.
+LEADFEMALE:Nice work.
+LEADMALE:Uh, Mom? Mom? Oh.
+SUPMALE:I'm sorry, honey.
+SUPMALE:Knitting a sweater for the baby.
+LEADMALE:I know it's a little clichÃ©, but not as much as knitting booties.
+LEADMALE:Uh, Mom.
+LEADFEMALE:I'm I'm sorry, honey.
+LEADMALE:Go ahead.
+OTHERFEMALE:Get your work done.
+LEADMALE:No, I'm sorry, Mom.
+OTHERFEMALE:I didn't mean to cut you off like that.
+OTHERMALE:It's just that, uh, I really got a lot of work to do, you know? Your first day? Yeah, well I'm a little overanxious.
+SUPFEMALE:Gee, I really got off on the wrong foot with Professor Bronski today.
+LEADFEMALE:I ju I spoke too quickly, you know? Without thinking.
+SUPFEMALE:I came on too strong.
+LEADMALE:I seemed too pushy.
+LEADMALE:You? Anyway, that's why I wanna do a great job on this paper he assigned.
+LEADMALE:You know, really show him what I can do.
+LEADFEMALE:No, after this he'll know that I am not the babbling idiot he saw in his class today.
+LEADFEMALE:I think, uh, he's gonna wanna take me under his wing.
+LEADMALE:You know, become my mentor.
+SUPFEMALE:Maybe ask me to collaborate on a book with him.
+SUPMALE:Maybe ask me to the prom.
+LEADMALE:Alex, get back to work.
+LEADMALE:Right, right, right.
+SUPFEMALE:Can I help you? No, I'm just bored.
+SUPMALE:What are you working on? A paper.
+SUPFEMALE:You happy? What's it about? Eugene V.
+SUPFEMALE:Debs.
+LEADFEMALE:You happy now? Who's Eugene V.
+SUPMALE:Debs? Well, Jennifer, if you must know, Eugene V.
+LEADFEMALE:Debs was a socialist who was arrested in 1917 for making a speech opposing American involvement in World War I.
+LEADFEMALE:See, he claimed he was just exercising his right to free speech.
+SUPMALE:But the Supreme Court, in a decision by Oliver Wendell Holmes, disagreed.
+SUPFEMALE:They said that his speech was a clear and present danger to the country.
+LEADMALE:Are you happy now? Now I'm happy.
+SUPMALE:I was generally pleased with the quality of these first essays.
+LEADMALE:Most of them were quite satisfactory.
+OTHERFEMALE:I don't give As very often but, uh But there was one very exceptional paper in the bunch.
+SUPMALE:To that individual, I say, "A job well done.
+LEADMALE:" Class dismissed.
+LEADFEMALE:Excellent paper, young man.
+LEADMALE:A splendid piece of work.
+LEADMALE:Well, thank you sir.
+LEADFEMALE:Ah.
+SUPMALE:It was an honor to write it for you.
+LEADFEMALE:I found the experience both educational and rewarding.
+LEADMALE:I was talking to him.
+LEADFEMALE:Uh, thank you, sir.
+SUPMALE:It was an honor to write it for you.
+LEADMALE:I found the experience both educational and rewarding.
+SUPMALE:I got an A, Alex.
+SUPMALE:What? W- What did you get, a A B? A C? A D? Well, there's only one grade I haven't mentioned yet.
+LEADMALE:That's the one.
+LEADMALE:Mallory, I am surprised at you.
+LEADFEMALE:After that big talk we had about how hard you were gonna work in school, you got two C minuses on your first three tests.
+LEADFEMALE:I'm sorry, Mom.
+LEADFEMALE:I've just had a lot of things on my mind lately.
+OTHERMALE:I mean, what, with the baby coming and everything.
+LEADMALE:How long do you plan on using that as an excuse? Just till it's through its teething stage.
+OTHERMALE:After the dishes, I want you both to go upstairs and get busy on your homework.
+LEADFEMALE:I don't have any homework, Mom.
+LEADFEMALE:We had a substitute today and we convinced her that Mrs.
+LEADFEMALE:Dovler doesn't give homework on Thursdays.
+LEADFEMALE:I'm not real happy with either of your attitudes here.
+OTHERMALE:Now, I'm I'm not trying to compare you to Alex, but I think you can both learn a lesson from him in attitude toward school.
+SUPMALE:I have an announcement to 
+LEADFEMALE:I'm dropping out of school.
+OTHERMALE:What are you talking about? What do you mean, you're dropping out of school? Dad, today was the worst day of my life.
+LEADMALE:Mom, Dad.
+LEADFEMALE:Alex seems pretty upset, so maybe Jen and I should leave so you can talk to him.
+LEADFEMALE:Thank you, honey.
+LEADFEMALE:That's very thoughtful.
+SUPMALE:But it's our turn to wash the dishes.
+SUPMALE:Shh! Right.
+LEADMALE:What happened? Well, uh, Professor Bronski handed back our papers today.
+LEADMALE:And, uh, I got an An An F.
+LEADFEMALE:An F? An F? How is that possible? I mean, you worked so hard on this paper.
+LEADMALE:"While abundant " "In data and facts, this essay is long-winded and totally lacking in any meaningful insight.
+LEADFEMALE:" I was a star in high school, but I just don't have what it takes to make it in college.
+LEADFEMALE:I'm a failure.
+LEADFEMALE:I'm I'm like Orlando Del Rio.
+OTHERFEMALE:You are nothing like Orlando Del Rio.
+SUPMALE:Uh, who's, uh, Orlando Del Rio? Come on, Dad.
+LEADFEMALE:Orlando Del Rio.
+LEADFEMALE:He led the minor leagues in hitting for three years.
+LEADFEMALE:Then when he joins the Cincinnati Reds, he goes 0 for 167.
+LEADMALE:I think he runs a shoe store in Dayton.
+LEADMALE:Maybe I could call him for a job.
+LEADFEMALE:Honey, you got one F.
+LEADFEMALE:Look, you said so yourself.
+LEADFEMALE:You're not in high school anymore, you're in college.
+LEADFEMALE:And it's a very difficult college.
+LEADFEMALE:Mom, Mom, Just forget it, okay? Forget it.
+SUPMALE:It's over.
+LEADMALE:It is not over.
+SUPFEMALE:You're still learning what's expected of you.
+SUPMALE:You're bound to do better next time.
+LEADMALE:Take Willie Mays.
+SUPMALE:He He started out badly in the majors, and look what happened to him.
+SUPFEMALE:What does this have to do with baseball, Dad? Honey, you suffered a setback.
+LEADFEMALE:I mean, I know how badly you feel.
+LEADFEMALE:But try and keep it in perspective.
+OTHERFEMALE:All right.
+LEADFEMALE:All right.
+LEADFEMALE:You're right, Mom.
+OTHERMALE:You're right.
+LEADMALE:I'm gonna keep it in perspective.
+LEADMALE:I'm, uh I'm not gonna drop out of college.
+LEADMALE:But I am gonna drop that course.
+LEADFEMALE:Well, Efrem Bronski is a genius and he deserves better than to have his class cluttered up by By a dolt like me.
+LEADMALE:Alex, this one grade has really changed you.
+SUPFEMALE:What happened to that That grandiose, self-important, pompous kid we knew and loved? That happy-go-lucky guy is gone, Dad.
+SUPMALE:Uh, uh, I'm studying! But, uh, you can come on in.
+OTHERFEMALE:I t I thought it was Mom or Dad.
+LEADMALE:No.
+LEADFEMALE:No.
+LEADMALE:It's just me.
+OTHERMALE:You can go back to doing whatever you were doing.
+SUPFEMALE:Ah, it's just as well.
+LEADFEMALE:I guess I should be studying.
+OTHERMALE:What are you doing here? What do you mean, what am I doing here? Mallory, I'm, uh I'm your brother.
+LEADMALE:You're my sister.
+OTHERMALE:I just came up to see how you're doing.
+LEADMALE:Well, I spent all my allowance money and you're not pawning any of my jewelry.
+LEADMALE:No, really, I just came up here to, uh To visit you.
+LEADFEMALE:What, uh What do you got there? Uh, chemistry.
+LEADFEMALE:Chemistry.
+LEADFEMALE:I remember chemistry.
+LEADFEMALE:Got an A in it.
+LEADMALE:I remember As.
+OTHERMALE:You don't look so good, Alex.
+LEADMALE:I don't feel so good, Mallory.
+OTHERMALE:You know, I got my, uh, first college paper back today.
+SUPMALE:The, uh The professor said it was long-winded and totally lacking in any meaningful insight.
+LEADMALE:He, uh, gave me an, uh An An An F.
+SUPFEMALE:Really? An F? That's right.
+LEADMALE:An F! That's great, Alex! Mallory, take it easy, will you? This is supposed to be bad news, not good news.
+LEADFEMALE:Oh, it is bad news, Alex.
+SUPFEMALE:I'm I'm really sorry about it.
+SUPMALE:Do you mind if I make a few phone calls? You know, uh, I've never gotten an F.
+LEADFEMALE:F before.
+OTHERMALE:You know, for that matter, I've never even gotten a C or Or a D.
+LEADMALE:I got a B once in health.
+SUPMALE:Because I, uh, boycotted the sex-education films.
+OTHERFEMALE:You missed some great stuff.
+LEADFEMALE:You know, Mallory, my days as an academic star are, uh Are over.
+SUPFEMALE:From now on at school, I'm just gonna be one of the pack.
+LEADMALE:A nobody.
+LEADMALE:Just another slug fighting to keep my head above water.
+LEADFEMALE:How do you handle it? Thanks a lot, Alex.
+SUPMALE:No, no, Mallory.
+OTHERMALE:Come on, I I didn't mean it like that.
+OTHERFEMALE:It's just Well, you've got You've got to admit, you have a little more experience in this area than I do.
+LEADMALE:I gotta know, h- how does it feel to? To not do well in school? Well, it's kind of hard to describe.
+LEADMALE:Well, for instance, when, uh When you're taking a test, do you, uh? Do you just not know the answer, or? Or is it that you knew the answer once and just have difficulty in retrieving it? Or do you just not understand the questions? No, see, when I'm taking the test, I really do try to understand the question.
+LEADMALE:But then I get this strange feeling.
+LEADFEMALE:What, like a headache? No, no, no.
+LEADFEMALE:Not a headache exactly.
+SUPFEMALE:Everything just goes kind of gray, you know? And then my mind starts wandering.
+SUPFEMALE:Well, uh, what do you think about? Boys.
+SUPFEMALE:Well, let's hope it's different for me.
+LEADMALE:Hey, you're really gonna drop the course, huh? Yeah.
+LEADFEMALE:Yeah.
+SUPMALE:You want me to wait in the car? No, uh, go home, Doug.
+SUPFEMALE:Uh Uh, Mr.
+LEADFEMALE:Bronski? Yes, Mr.
+SUPFEMALE:Keaton.
+LEADMALE:Uh, I just wanted to say how much I've enjoyed your course.
+LEADMALE:Uh, but I'm dropping it.
+SUPMALE:Scheduling conflict? No.
+LEADFEMALE:No, I, uh I just don't think I'm capable of handling it.
+SUPFEMALE:I mean, I got an F on my paper and all.
+OTHERFEMALE:I just think that I should stick to subjects where I'm on surer ground, you know? Where I know what I'm I'm doing.
+OTHERFEMALE:Anyway, it It, uh It has been an honor to meet you, sir.
+SUPMALE:Goodbye.
+LEADFEMALE:Mr.
+LEADMALE:Keaton.
+LEADFEMALE:Yes, sir? I'm just curious, um, do you think he should have gone to prison? Who? Eugene Debs, for making that anti-war speech in 1917.
+OTHERMALE:Uh, well, Oliver Wendell Holmes thought so.
+LEADMALE:He said that, uh, Debs' speech posed a clear and present danger to the country.
+SUPMALE:Um, goodbye.
+OTHERFEMALE:But do you think so? Me? Yes, you.
+LEADFEMALE:Well, I don't know.
+LEADFEMALE:I mean, uh, it's just my opinion.
+LEADFEMALE:But from what I read, it didn't seem that one anti-war speech could have hurt the country.
+LEADFEMALE:Uh, goodbye.
+SUPFEMALE:Mr.
+LEADMALE:Keaton.
+LEADFEMALE:This is not an easy room to leave.
+SUPMALE:What if word of that speech had spread and, uh, draftees by the millions, swayed by Debs' words had decided to resist the draft? What if Debs had aroused the entire nation against the war? Yeah, but that didn't happen.
+LEADMALE:I'm asking you to suppose it had.
+LEADFEMALE:All right.
+OTHERFEMALE:Okay.
+OTHERMALE:Uh, suppose it had.
+LEADMALE:If the majority of the people hold a certain opinion, then Then the government has an obligation to listen to them, right? Am I to believe that you feel Debs had a right to make that anti-war speech? Yeah.
+SUPMALE:Yeah, I do.
+LEADMALE:I mean, the guy was not blowing up factories.
+LEADFEMALE:He He made a speech.
+LEADFEMALE:You know, he He was presenting ideas.
+LEADMALE:Ideas incite people.
+LEADFEMALE:Of course ideas incite people.
+LEADMALE:Ideas are supposed to incite people.
+LEADFEMALE:Isn't that the whole reason we have the First Amendment? So that people can be exposed to different ideas and then act on the ones they agree with? In other words, you feel that Debs' case was decided wrongly.
+OTHERMALE:You disagree with Oliver Wendell Holmes, one of the most brilliant legal minds in history.
+LEADFEMALE:No.
+LEADMALE:Yes, you do! You just said so! You disagree with him! All right! I disagree with him.
+LEADFEMALE:What do you want from me? What I want from you, Mr.
+LEADFEMALE:Keaton, is for you to put some of that kind of analysis, some of that kind of meaningful insight into your essays.
+LEADFEMALE:I want you to stand up for what you believe to be true, even if it conflicts with Oliver Wendell Holmes or with the Framers of the Constitution, or even with me.
+LEADMALE:You have every right to drop this class, Mr.
+SUPMALE:Keaton, stick to those subjects where you're more comfortable and on surer ground.
+SUPFEMALE:Although, I must say, that's a rather dull way for such an intelligent young man to live his life.
+SUPMALE:He called me an intelligent young man.
+LEADFEMALE:Of course, he also called me dull.
+LEADFEMALE:But he did call me intelligent.
+LEADFEMALE:Efrem Bronski called me an intelligent young man.
+OTHERFEMALE:Hey, uh, professor.
+SUPFEMALE:Professor Bronski.
+OTHERMALE:Yeah, it's, uh It's It's me, uh, Alex Keaton.
+SUPFEMALE:The intelligent young man.
+LEADMALE:Listen, professor Uh, prof Professor, could you stop for a minute, please? Uh Uh, profes Listen, I- I-I never got an F before and And And it kind of threw me.
+SUPMALE:But I am not a quitter and And I think I understand now what you want from me.
+SUPFEMALE:Uh Uh, ma'am? Uh, ma'am, could you go around the corner there and And tell that guy that I am staying in his class? No, no.
+SUPMALE:Not him.
+OTHERFEMALE:Not him, the other guy.
+OTHERFEMALE:The other guy.
+SUPMALE:Forget it.
+SUPFEMALE:Forget it.
+LEADFEMALE:I think he heard me.
+LEADFEMALE:I love college.
+LEADMALE:

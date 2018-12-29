@@ -1,0 +1,295 @@
+OTHERMALE:Kinda nice being here before the store opens.
+SUPMALE:Very peaceful.
+LEADMALE:Very still.
+LEADFEMALE:Shh, there's a deer over there by the brillo pads.
+LEADMALE:Good morning, ladies.
+LEADMALE:Parkin, manager.
+SUPFEMALE:Nice to see you're right on time.
+LEADFEMALE:Yeah well, that's 'cause I have to leave early.
+LEADFEMALE:Now where can we go to sit and drink coffee? Apparently in your car.
+LEADMALE:All right.
+LEADMALE:Here, let me show you the demonstration area you'll be working right down here.
+LEADMALE:We're expecting a huge crowd this weekend, And if you saw the circular in today's paper, You probably know why.
+LEADMALE:Oh, they got a newspaper on the weekdays? Yes, they do.
+LEADMALE:Here are two new products we're rather excited about That you'll be giving out samples of today.
+LEADMALE:"soyasausage" right here, And cheese in a can.
+LEADFEMALE:"'soyasausage,' America's first meatless all-vegetable Sausage-like product.
+LEADMALE:" Cheese in a can.
+LEADMALE:"cheese" "in a can.
+LEADFEMALE:" All right, i've got a lot to do so i'll make this brief: Offer one sample to the customer.
+LEADMALE:Just one.
+LEADFEMALE:Let them try it, then suggest that they buy some To take home, you see? Sound good? Sounds very good.
+SUPFEMALE:Mr.
+OTHERFEMALE:Parkin, Is there a particular type of customer that we should be looking for? I like your pluck.
+LEADMALE:All right, let's talk demographics.
+LEADFEMALE:Each shopper, we find, is looking for something different.
+SUPMALE:Women in their 40s are looking for quality, for example.
+SUPMALE:Women in their 20s and 30s are looking for affordability.
+LEADFEMALE:On the other hand, men in their 40s are-Are looking for women in their 20s.
+SUPFEMALE:Hey, how much are we getting paid? $4.
+OTHERMALE:25 an hour, Plus-and here comes the big money-unit you move.
+SUPFEMALE:Wow, I couldn't be more excited If I knew how to multiply.
+LEADFEMALE:So if I have a really good day, I could pay for all those christmas presents I just bought.
+SUPMALE:Right, 'cause they were what? Well, good luck, And just remember the three rules of product sampling.
+LEADFEMALE:Chase, tackle, threaten? Smile, sample Sell.
+LEADMALE:Whatever.
+SUPFEMALE:Okay, so Which one do you want, Roseanne? The soyasausages? Oh yeah, you would like that, wouldn't you? 'cause nobody's gonna buy that crap.
+LEADMALE:Besides, if I go home smelling like sausage, Dan will never let me get any rest.
+LEADMALE:Smile, sample, sell.
+OTHERFEMALE:Smile, sample, sell.
+LEADFEMALE:Well, hello there, Mrs.
+LEADFEMALE:John q.
+OTHERMALE:Shopper.
+LEADMALE:Smile.
+LEADFEMALE:Would you like to try some of our soyasausage? Sample.
+LEADFEMALE:Why don't you take some home for your family? They're bound to enjoy it.
+LEADFEMALE:Sell.
+OTHERMALE:Sweet damn it, it works.
+SUPMALE:Oh, relax, Jackie.
+LEADFEMALE:You don't have to do anything.
+LEADMALE:People will eat cotton in a supermarket As long as there's a toothpick in it.
+LEADMALE:Hey, did you know you could cure cancer With three cups of hot water and a pepper? Yeah, I know we just took these jobs To bring in a little extra cash, But that doesn't mean we don't have to take it seriously.
+SUPMALE:All right.
+SUPFEMALE:I am ready.
+LEADMALE:Skillet's nice and hot.
+SUPFEMALE:I got the toothpicks.
+LEADFEMALE:I got the napkins.
+LEADMALE:Everything is handy within reach.
+LEADMALE:I got my backup here.
+LEADFEMALE:People are gonna start flooding through that door any second.
+LEADMALE:Don't you think you ought to get your area ready? Come and get it before it hardens.
+LEADMALE:You know, Dan, since i'm helping you with this linoleum and all-Yeah yeah, i'll help you put new linoleum in your trailer.
+LEADMALE:Who cares about that, man? I wanna be the first person to slide across this in my socks.
+SUPFEMALE:You'll be wearing pants too, young man.
+SUPFEMALE:Hey, Deej, I thought this might help you draw that cat for your art class.
+LEADFEMALE:Now you can use these pictures to study bone structure, Musculature, coloring.
+LEADMALE:It's a cat calendar.
+LEADFEMALE:I know.
+LEADFEMALE:Look at March.
+SUPFEMALE:This is from 1987.
+LEADMALE:I can't use this.
+SUPFEMALE:All these cats are dead by now! That is not true.
+LEADFEMALE:They're on a big farm with a nice cat lady.
+SUPFEMALE:besides, i'm done.
+LEADMALE:well, wait a minute.
+SUPFEMALE:Let me see.
+SUPMALE:d.j. , you were supposed to draw a cat.
+LEADFEMALE:read the bubble over his head.
+LEADMALE:"meow.
+LEADMALE:" Sounds like a cat to me.
+LEADMALE:Dan: David, d.j. , get in here a minute.
+LEADMALE:d.j. , I think you can do a lot better If you'd just apply yourself.
+OTHERMALE:you wanna be proud of this, don't you? I am proud of this.
+LEADMALE:You try holding a cat down with one hand And tracing it with the other.
+SUPMALE:Now I've got a very important job for you guys.
+LEADMALE:You stand in the corners So it doesn't roll up.
+LEADFEMALE:And if it does roll up, Don't worry, we'll get you out of there, man.
+LEADFEMALE:hey, Mark, what time's the movie? 5:00.
+OTHERMALE:We gotta get going.
+OTHERMALE:d.j. , you're just gonna ditch your art project to go to some movie? Yeah, he is.
+LEADMALE:Van damme is so cool.
+LEADMALE:You know why? His last name's a cuss word.
+LEADMALE:Mr.
+OTHERMALE:Conner, I don't think d.j. Should go to a movie.
+SUPFEMALE:Look, he's hardly put any effort into this art project.
+SUPFEMALE:Is that so? d.j. Is this the absolute best you can do? yes, sir.
+OTHERFEMALE:cool.
+LEADFEMALE:here's some popcorn money.
+SUPFEMALE:thanks, dad! Mr.
+SUPFEMALE:Connor, you just let d.j. Blow off his homework To go watch some horribly violent movie.
+OTHERFEMALE:d.j. Doesn't have a problem with violence.
+LEADFEMALE:You've met his mother.
+OTHERFEMALE:Now run and get me some more of these encyclopedias.
+LEADMALE:Oh, and try to keep them in alphabetical order.
+SUPFEMALE:I don't wanna spend all day putting them back.
+LEADFEMALE:Mmm, smell, everybody.
+SUPFEMALE:Smell.
+OTHERMALE:That full-bodied aroma is created by our thoughtful blend of spices.
+SUPMALE:You know I don't mind getting up a little early each morning To cook soyasausages for my big guy.
+LEADFEMALE:Yeah.
+LEADMALE:My husband thanks me in a thousand different ways.
+LEADFEMALE:A knowing glance, a gentle touch, It just makes it all worthwhile.
+LEADMALE:Mmm, soyasausages.
+SUPMALE:There we go.
+LEADFEMALE:Another sucker, another 15¢.
+OTHERFEMALE:Okay, now the trick is to aim it right down the center aisle there.
+SUPFEMALE:You gotta give it some arm too, 'cause them are two-liter bottles right there.
+LEADMALE:And i've been doing this for a while.
+OTHERFEMALE:You guys should start small, Like with a cornish game hen or something.
+LEADMALE:Now Okay.
+LEADFEMALE:Strike! Here's a silly question.
+OTHERMALE:Could you stop doing that? I suggest you try Taking your job a little more seriously.
+LEADMALE:Try to be more like Jackie here.
+LEADFEMALE:Well well well.
+LEADMALE:You know, Roseanne, You stand in back of that skillet, And you feel all that heat and all that pressure, and you wonder why.
+LEADMALE:And then one day, the clouds part, And the manager throws a little bit of sunshine into your life.
+LEADMALE:And then you realize that he's only a grocery-store manager, And all the clouds come back.
+LEADMALE:This isn't bad.
+LEADFEMALE:Oops, got a fish on the line.
+LEADMALE:Not bad? Why, soy is god's gift to arteries.
+LEADFEMALE:That's a lovely blazer you're wearing.
+LEADFEMALE:That really brings out the color in your eyes.
+LEADMALE:Oh well, i'll take three boxes.
+LEADMALE:Oh, three? Okay.
+OTHERMALE:Hey, that's really a great-looking sweatsuit you got on there.
+LEADFEMALE:It kind of matches the rug in my husband's pickup truck.
+OTHERFEMALE:What's on the crackers? Oh, well, today we're sampling some delightful aerosol cheese.
+SUPFEMALE:It's great, I love it.
+LEADFEMALE:I've been eating it all day.
+SUPMALE:Just the one day? You're so witty.
+LEADFEMALE:How many would you like? This cheese stuff sucks.
+SUPFEMALE:I wanna do them.
+SUPFEMALE:You picked the cheese.
+SUPMALE:That was your choice.
+LEADFEMALE:You must be going crazy from the soy fumes.
+SUPMALE:You picked the cheese.
+OTHERFEMALE:Okay fine, switch.
+SUPFEMALE:No biggie.
+SUPMALE:I finally found something i'm good at.
+LEADMALE:I can sell anything.
+SUPFEMALE:I'm crazy Jackie! I must be insane! You know what my advice to you is: Just do the best you can.
+LEADMALE:It's not a competition.
+SUPMALE:It is now.
+LEADMALE:Hey! Hey, kid, get over here and eat some of this.
+LEADMALE:It's soy-tastic.
+LEADFEMALE:Hey, these are good.
+OTHERFEMALE:Why don't you go and tell your mom To come over here and buy a few boxes from me? Oh, my mom's not here.
+SUPMALE:well, do you got any money? no.
+LEADFEMALE:Well, get out of here.
+OTHERFEMALE:I'm sorry, but this is not a cat.
+LEADFEMALE:This is an amorphous smear Of existential nothingness.
+LEADFEMALE:Oui oui! now let us retire to henri's And speak of revolution! Well come on, Mr.
+LEADFEMALE:Conner, does this look like a cat to you? d.j. Says it's a cat, it's a cat Recovering from a stroke.
+SUPMALE:Made all the more tragic by his having no neck or legs.
+OTHERMALE:This is not a cat.
+OTHERFEMALE:you're boring me.
+SUPMALE:He put zero effort into that.
+LEADMALE:He should be home right now redoing it.
+LEADMALE:I already told him he could go to the movies.
+OTHERMALE:That way when I rent it, he can point out where all the good nudity is.
+LEADFEMALE:And then you let him go with Mark, of all people.
+SUPMALE:so? so Mark-mark's Mark.
+SUPFEMALE:Maybe one of the reasons d.j. 's so lazy about his schoolwork Is that he hangs around with a guy like Mark.
+LEADFEMALE:What's wrong with Mark? I'm just saying that mark's probably not the best role model in the world.
+LEADFEMALE:You certainly don't want d.j. Taking after him.
+LEADFEMALE:Why not? Mr.
+SUPMALE:Conner, i'm trying-No, why wouldn't I want d.j. To be a standup guy Who busts his ass to support himself and his wife? Mr.
+SUPMALE:Conner, all i'm saying is that-No, I know what you're saying, David, and I think it stinks.
+OTHERFEMALE:Mark may not be einstein, but you know what? He makes the most of what he's got.
+LEADMALE:He tries.
+SUPMALE:That's more than I can say for some people around here.
+LEADFEMALE:Who, me? Wow, smart guys like you catch on real quick.
+LEADMALE:Hey, I try.
+SUPMALE:No, David.
+LEADMALE:You don't try.
+LEADFEMALE:You work part-time at a pizza parlor, And you spend the rest of your life sitting on the couch Making ironic comments about everybody else.
+LEADMALE:Irony's for people who don't do anything.
+SUPFEMALE:You get my drift? Mr.
+LEADFEMALE:Conner, we're talking about d.j. Yeah, and you know what? The truth is I'd rather have him hang around with Mark than with you.
+LEADMALE:Excuse me, i've got work to do.
+SUPMALE:Look at me! Look at me! I can barely keep ahead of the demand! Well, try to stay ahead of this demand-Shut up.
+SUPFEMALE:It just kills you That I might be better than you at something.
+OTHERMALE:Actually, Jackie, there's a lot of things you're better than me at: Finding unavailable men, Setting unreachable goals, And ass-kissing.
+LEADFEMALE:What have you got there? Soyasausages-They're not only good tasting, but good for you.
+OTHERFEMALE:I haven't eaten any and I feel like crap.
+OTHERFEMALE:Cheese in a can, It's really good.
+LEADMALE:And because these are made without pork, You'll be tops with your jewish pals.
+SUPFEMALE:Ooh.
+LEADMALE:Yes, cheese in a can.
+SUPFEMALE:It's really really good.
+OTHERFEMALE:Now that's what's known as marketing, Roseanne, And, man oh man, am I good at it.
+LEADFEMALE:You want marketing? I'll show you marketing.
+SUPMALE:Attention, shoppers! Try soyasausages.
+OTHERMALE:Almost as good as the cheese, But without the spider eggs and hair.
+SUPFEMALE:That is not true! Truth has no place in marketing, Jackie.
+LEADMALE:And they cure cancer.
+OTHERFEMALE:Soyasausages-the food of demons.
+OTHERFEMALE:Eat it and go to hell! Yeah, where you'll meet the inventor of cheese in a can! Yeah, nice try, Roseanne.
+SUPMALE:Nice try.
+OTHERFEMALE:In fact That was just "grrreat.
+SUPMALE:" Oh, Jackie.
+LEADMALE:You and your silly tricks.
+OTHERMALE:But as everyone knows Trix Are for kids! M&m chocolate candies-They melt in your mouth Not in your hand.
+LEADMALE:You know, the best part of waking up, Jackie, Is folgers in your cup! Dishwashing liquid.
+LEADFEMALE:You're soaking in it! Say it! Say it! Okay, all right! Fine! You're better than me.
+LEADMALE:There, madge.
+LEADFEMALE:Five years ago-Five years, at uncle wong's, I was handed a fortune that said "someday your hidden talent will be revealed.
+LEADFEMALE:" Today that fortune has come true.
+SUPFEMALE:Congratulations, Jackie.
+LEADMALE:You know how to sell cheese.
+LEADFEMALE:Ha-ha-ha.
+SUPFEMALE:Ha-ha! oh Jackie? what? Got milk? Hello, ladies.
+LEADFEMALE:How's your day? I see you're really throwing yourself into your work here.
+SUPMALE:Very impressive.
+LEADFEMALE:Get out.
+LEADFEMALE:You mean we don't work here anymore? I don't even think I work here anymore.
+LEADFEMALE:That's fine then.
+LEADFEMALE:So who do we go see about getting paid? can I give you a hand with that? no, I got it.
+LEADFEMALE:Mr.
+LEADMALE:Conner, i've been thinking about what you said.
+LEADMALE:It really made a lot of sense.
+SUPMALE:So i've decided I need a change.
+LEADFEMALE:I need a big change, So i'm gonna move out.
+LEADFEMALE:Look, I didn't mean to be that hard on you earlier.
+OTHERFEMALE:Hey, i'm not asking you for an apology.
+SUPMALE:I just don't know why the hell you got so upset.
+LEADFEMALE:you don't? no.
+SUPMALE:You mean in that deep sensitive soul of yours, You can't understand why I might be upset When you rip apart Mark-A guy that doesn't read much-he's not book smart-But who works real hard every day at the Lanford city garage To support his wife and his family? You can't understand why that might not upset me? I think I can.
+LEADFEMALE:I'm a little scared to say it now.
+LEADMALE:Mr.
+LEADMALE:Conner, i'm sorry.
+LEADFEMALE:I should not have put Mark down like that, And I certainly didn't mean to put down anyone else.
+SUPMALE:Yeah.
+LEADFEMALE:Forget it.
+SUPMALE:And you're right, I should get off the couch and apply myself more.
+SUPFEMALE:Yeah, that's good.
+SUPMALE:So are we okay now? Yeah, we're cool.
+LEADMALE:You know, Mrs.
+LEADFEMALE:Conner is gonna love this new linoleum.
+SUPFEMALE:No no no no.
+LEADFEMALE:Don't tell her it's new.
+SUPFEMALE:See, every couple of years or so She asks me to clean behind the stove, And i've always found that doing this is much easier.
+LEADMALE:So, David, what's your time frame? for what? for moving out.
+LEADFEMALE:But we just sort of made up and everything.
+LEADFEMALE:Well yeah, I know, but you're the one that said you should move out.
+OTHERFEMALE:Yeah well, I just said that So that you could talk me out of it.
+LEADMALE:I think we're just holding you back by letting you live here.
+LEADFEMALE:oh, no you're not.
+SUPMALE:yeah, we are.
+LEADFEMALE:I mean, it was great when you were in high school, But now you're a man.
+LEADFEMALE:No i'm not.
+LEADMALE:I know it's hard for you to hear, but you are a man.
+OTHERFEMALE:Stop saying that.
+OTHERFEMALE:I said I was sorry.
+LEADMALE:David.
+OTHERMALE:David, you didn't think we were gonna let you live here forever, did you? I don't know.
+LEADFEMALE:Not "forever.
+OTHERFEMALE:" Come on, David.
+LEADFEMALE:It may take me awhile to find a place.
+LEADFEMALE:That's okay.
+SUPFEMALE:I'm not kicking you out.
+SUPMALE:Yes, you are.
+LEADFEMALE:Yeah, I guess I am.
+LEADFEMALE:I've never had to do this before.
+LEADMALE:All the other kids couldn't wait to get out of here.
+LEADMALE:So then shouldn't my loyalty buy me An extra month or two? Done.
+LEADMALE:You're gonna be okay, David.
+LEADFEMALE:Yeah.
+OTHERMALE:Okay, Dan.
+LEADFEMALE:Yeah, you'll see.
+SUPFEMALE:It'll be fun.
+OTHERFEMALE:A couple, three months from now, you'll be out on your own.
+SUPMALE:You'll have a job.
+LEADMALE:Before you know it, You'll start feeling more grown up, Just like your brother Mark.
+SUPMALE:Wee! Good evening, everybody.
+OTHERMALE:I'm verne lundquist, And welcome to beautiful Lanford, Illinois, Where fans are going wild over what they hope will become a new olympic sport.
+OTHERMALE:And here comes our first competitor onto the floor now.
+LEADFEMALE:Scott hamilton-An olympic champion and a gutty little competitor, Has left the ice behind For the exciting new sport of linoleum sock skating.
+LEADFEMALE:Now watch-he's going for the triple wally with the split twist! Well, he backed off.
+OTHERFEMALE:Might have been worried about that kitchen cabinet.
+OTHERMALE:Wonderful! And now here comes the hometown favorite-Mark healy For the pas de deux portion of the routine.
+SUPFEMALE:A beautiful maneuver.
+SUPMALE:This is an important day for Mark healy.
+LEADMALE:He missed the nationals last year Because he got on the wrong bus.
+SUPFEMALE:And here comes the finale Lovely.
+LEADMALE:Well-deserved bows For national treasure scott hamilton, And for Mark healy, hard-working dumb guy.

@@ -1,0 +1,346 @@
+LEADFEMALE:Stacy, uh can't wear that.
+OTHERMALE:Have to think of the customers.
+LEADMALE:Yeah, she's right.
+SUPFEMALE:Stacy.
+LEADFEMALE:I mean, these are truckers.
+LEADMALE:What's with the bra? This isn't for work.
+LEADMALE:I have a blind date.
+OTHERFEMALE:Oh, a blind date.
+LEADFEMALE:Oh, that's such a nice dress.
+LEADMALE:I can see you're an outie.
+LEADMALE:Can she be anymore annoying? Well, she can dye her hair black and gain 200 pounds.
+OTHERFEMALE:Do you find her at all attractive? Nope.
+OTHERMALE:Man, am I gay.
+SUPMALE:Excuse me, uh, I'm looking for Stacy.
+OTHERMALE:I'm Stacy.
+LEADFEMALE:Are you the only Stacy who works here? Yeah.
+LEADMALE:The one who's got a blind date with a guy named Pete? Yeah, that's me.
+OTHERMALE:Hey, do you guys sell lottery tickets here? Look, Pete, I still have to work for another half an hour.
+LEADFEMALE:Would it be okay if I just met you at the club? Oh, sure, sure.
+LEADFEMALE:This is the Lunchbox on Main, right? I'll see you there.
+SUPFEMALE:Excuse me, ma'am, can I help you? Oh, I'm sorry, you work here.
+OTHERFEMALE:Oh, I'm sorry.
+SUPMALE:I just get so confused 'cause I just see you sitting around everywhere.
+LEADFEMALE:I can't go out with that guy.
+LEADFEMALE:He's wearing a tie.
+LEADMALE:Well, Stacy, be optimistic.
+OTHERMALE:Maybe he's on trial for something.
+SUPMALE:Jackie, will you come dancing with me? I'd feel much better if I had a girlfriend with me.
+LEADFEMALE:Well, then perhaps you should find one, Ms.
+LEADFEMALE:Flagler.
+SUPMALE:I am running a business here, and the boss-employee relationship is the lynch-pin of that aforementioned enterprise.
+SUPMALE:Does Lee Iacocca go gallivanting around with his mechanics? I don't think so! Jackie, have you seen Roseanne? Yes, she is at Auntie Barbara's, Mother.
+LEADMALE:Well, why didn't she tell me? I'd have gone with her.
+SUPFEMALE:Well, I guess she never thought of that.
+SUPMALE:Is this your mother? Hi! I'm Stacy, the new bus person.
+SUPMALE:My, well aren't you a pretty thing, and it's so nice you're not afraid to show everybody.
+LEADMALE:Mother, I will tell my employees how they can dress.
+LEADMALE:I should have known you'd approve of this.
+OTHERFEMALE:It looks like something you might have worn in your wilder days, if you had a bosom.
+LEADMALE:Mother, I don't need you harassing the help.
+LEADFEMALE:I would never dream of being critical.
+LEADMALE:I mean, I hardly know the girl.
+LEADFEMALE:Perhaps she'll get pregnant on a first date and settle down like you did.
+LEADMALE:For heaven's sake, Mother! I know why you're saying these things.
+SUPMALE:Excuse me? I used to think that people that insulted me were just mean, stupid or horrible, but now I think it's just because they've never had really good sex.
+OTHERMALE:What are you talking about? Well, here's a really good test.
+SUPMALE:Have you ever done it and when you were through, your hands were just filled with his hair, but you don't remember pulling it out? Jackie, are you going to let her talk to me like this? Well, I'd kinda like to hear the answer to that, Mom.
+LEADMALE:Well, uhI'm leaving.
+LEADFEMALE:I'm going to have a respectable conversation with a couple of longshoremen.
+LEADMALE:Stacy! I'm sorry! I was just trying to help.
+OTHERMALE:Are you mad at me? No, no! Come on! The way you just treated my mom, I feel like dancing.
+LEADMALE:** Hey, this is the life, ain't it? Ah? No women around, boobs on a tube and a cold bottle beside ya.
+SUPFEMALE:Great job.
+SUPFEMALE:You know, a good thing about these blowouts is they show more of the cheerleaders.
+LEADMALE:'Course, there's no milk in those, but they're fun to look at just the same.
+SUPMALE:Are you doing what I think you're doing? Oh, yes, you are! Here's a little something to read.
+LEADMALE:d.j. , I don't know if I can go through with this.
+OTHERMALE:Look, you don't have a lot of friends so don't cross me.
+LEADMALE:Hey, Dad! Is it alright if George sleeps over tonight? No! You got school tomorrow.
+LEADFEMALE:Well, no we don't.
+LEADMALE:It's Washington's birthday.
+OTHERMALE:Well, wait a minute.
+LEADMALE:Didn't you just have yesterday off for, whatever they call it, President's Day? Yeah, but that was to celebrate all Presidents.
+LEADMALE:I mean, this is just to celebrate George Washington all by himself, right? Uh, yeah, right.
+LEADMALE:Oh, well, ain't that swell.
+LEADMALE:So you boys have tomorrow off, too.
+LEADFEMALE:Yeah, it's great.
+SUPMALE:Uh, we gotta go now.
+SUPMALE:No, no.
+LEADMALE:I want to talk to George now.
+LEADFEMALE:Oh, God.
+OTHERMALE:Hello, George.
+LEADFEMALE:Hey, you probably studied a lot about Washington in school, huh? What was it he said the time he chopped down that cherry tree? I cannot tell a lie? Yeah, that's it.
+OTHERMALE:And here he is on the quarter.
+LEADFEMALE:And right next to his head, the motto of our proud nation, "In God We Trust" Do you believe in God, George? Okay, we were lying.
+LEADFEMALE:I'm sorry.
+OTHERMALE:School's open.
+SUPMALE:I'm sorry.
+LEADFEMALE:Just don't tell my mom.
+SUPMALE:I hate you.
+SUPFEMALE:Hi.
+LEADMALE:Well, come on, Dad, I mean, you have to admit that was a pretty good one.
+SUPMALE:We really had you going there.
+LEADMALE:Yeah, you sure did have me going.
+OTHERFEMALE:And I'll tell you what? No punishment.
+LEADMALE:Really? No, but I had you going, didn't I? Hey, Dan, can I get your opinion on something? Do you think it's alright for one spouse to go out for a night of fun without the other spouse? Yes.
+OTHERFEMALE:Jackie, if Fred wants to play poker on Thursday night, you should let him.
+LEADFEMALE:It's Jackie that wants to go out.
+LEADFEMALE:I wasn't listening.
+LEADFEMALE:What were we talking about? She wants to go out again with Stacy like she did last night, and I just don't think doing separate stuff can be healthy for the marriage.
+SUPMALE:Dan and Roseanne do separate stuff all the time.
+LEADFEMALE:That doesn't mean that he likes it.
+SUPFEMALE:You hate it when Roseanne's away from you, don't you, Dan? Yes.
+LEADMALE:Good effort, Dan.
+LEADFEMALE:Oh, Fred, look, a couple spending time apart is critical for a marriage.
+LEADFEMALE:If Roseanne didn't go on these periodic trips, I'd only have death to look forward to.
+SUPFEMALE:Fine, go dancing with Stacy.
+LEADFEMALE:I'll be in the car.
+LEADMALE:Thanks a lot, Dan.
+SUPMALE:Ohhe just hates it when we fight before dinner.
+LEADFEMALE:Around here, we call that grace.
+SUPFEMALE:Hey, Jackson! Oh, Dan! Hi! What are you doing here? Well, Roseanne's out of town.
+LEADFEMALE:d.j. needed help with his homework.
+LEADMALE:Voilá! Where's Fred? Fred didn't come.
+SUPMALE:Oh, I get it.
+OTHERFEMALE:This is your girl's night out.
+LEADMALE:Yeah, so the hens are going to start with the clucking the girl talk.
+SUPMALE:I'll see ya later, Dan.
+LEADFEMALE:Hey, if you's a-gonna trash men, I got a complaint for ya.
+LEADFEMALE:I'm always complimenting that Brad at work, but does he ever give me a hug? N-O.
+SUPFEMALE:Hey! Hey! Dan, this is Pete.
+SUPMALE:Pete, Dan.
+LEADMALE:Hey.
+SUPMALE:Pete goes out with Stacy.
+LEADMALE:Ah.
+SUPMALE:Where is Stacey? Well, he goes out without Stacy too.
+OTHERFEMALE:Where is Stacy, anyway? Um, my guess is she's at home.
+LEADMALE:She's at home? Oh, drag Aw, darn it.
+LEADFEMALE:Huge drag Jackie, how about a game of pool? No, I don't wanna Pete, stay here and guard the stools.
+OTHERMALE:Jackie, pool.
+LEADFEMALE:Okay, girl talk.
+SUPMALE:I broke a nail last week.
+SUPFEMALE:Now, you! I know.
+LEADMALE:I know what it looks like.
+LEADMALE:Yeah, it looks like you're out in a bar with a man.
+LEADFEMALE:Well, you're just reading that into it, Dan.
+LEADMALE:Pete is a person who happens to be male and we are in an establishment that happens to serve beverages so, pardon me for being in a building with a human being.
+LEADFEMALE:Oh, you are definitely in a bar with a man.
+OTHERFEMALE:For all I know, he's a good-looking man.
+OTHERFEMALE:We are friends who like to go out dancing.
+SUPFEMALE:Nothing is going to happen.
+LEADMALE:Nothing happened last night.
+LEADFEMALE:It's not going to happen tonight.
+SUPMALE:Last night? I--You hadn't put that together yet, had you? You gotta to tell Fred about this or he'll pick it up on the streets.
+OTHERFEMALE:How's that going to happen? I will stand in the street and yell it at your house.
+LEADMALE:Dan You're not going to do that.
+SUPFEMALE:And why upset Fred over nothing? You swear to me that there's nothing going on between you and this guy? Cross my legs and hope to die.
+OTHERFEMALE:All right, I believe you.
+LEADFEMALE:Hey, can I have the winner? Sure, Pete.
+SUPMALE:Unless I win.
+LEADFEMALE:Can't have me! Hi, Dan.
+LEADMALE:Killing yourself? Hey, Fred.
+LEADMALE:Didn't expect to see you here.
+OTHERFEMALE:of burnt fat and gristle.
+LEADMALE:Turns out it's a lot bigger inside than what we thought.
+LEADMALE:I just came by to apologize for the other day.
+LEADMALE:You don't have to do that.
+SUPFEMALE:No, you were right about Jackie going out.
+SUPMALE:I have never seen her happier.
+LEADMALE:Fred, I really, really don't want to take any credit for that.
+SUPFEMALE:Hey, this is cool.
+OTHERFEMALE:You got all your screws and your washers separated into these little baby jars.
+OTHERFEMALE:Maybe I should do this, huh? Well, Fred, that's up to you.
+SUPMALE:I'm not giving out any more advice.
+LEADFEMALE:I was just asking.
+LEADFEMALE:No, Fred, no more.
+OTHERFEMALE:I'm not handing out any more free advice, willy-nilly.
+OTHERMALE:You figure out the baby jar thing for yourself.
+SUPMALE:Ok, Dan.
+SUPFEMALE:See ya later.
+LEADFEMALE:Oh, listen.
+LEADMALE:I might be late for your poker game tonight.
+SUPMALE:I gotta find a sitter 'cause Jackie is having another night out.
+SUPFEMALE:Okay, see ya.
+LEADFEMALE:Hello, Aunt Barbara? It's Dan.
+OTHERFEMALE:Is Roseanne there? Roseanne! Roseanne! The big lady on the couch! The couch! The couch! The long chair! Okay, I'll wait.
+SUPMALE:You know, I don't get why the weatherman always puts up a sun with a big smiley face on it.
+LEADMALE:I mean, just 'cause it's sunny doesn't mean you gotta be happy.
+LEADMALE:That is the stupidest thing I have ever heard.
+SUPMALE:Hey, you're the one who's always so philosophical.
+LEADMALE:Why didn't you tell me she wasn't there? What's wrong, man? You're pacing back and forth like a cagedguy.
+LEADFEMALE:Nothing, it's just stuff.
+LEADMALE:Can we help? No, you must be this big to ride this problem.
+OTHERMALE:Mr.
+OTHERFEMALE:Connor, you help us out with problems all the time.
+LEADFEMALE:Can't we help you once? Okay.
+SUPFEMALE:There's this friend of mine and all signs seem to point to the fact that his wife is maybe, sort of cheating on him.
+OTHERFEMALE:Wow.
+SUPMALE:Yeah.
+LEADFEMALE:See, she claims she was out with this other woman, but it seems as though she was actually with a man and the husband is sitting home all by himself.
+OTHERFEMALE:I'm sorry, man, Mrs.
+OTHERFEMALE:Connor sucks.
+SUPMALE:Mark, no, it's not Mrs.
+LEADMALE:Connor.
+LEADMALE:Come on, Dan, away with another woman, husband home alone.
+LEADMALE:I'm not stupid.
+SUPMALE:Who's the guy? Let's get 'em! Mark! Mark, we're not gonna beat anybody up.
+LEADFEMALE:Wait, I got you.
+SUPFEMALE:You're glad to be rid of her.
+LEADMALE:Uh, me too.
+LEADFEMALE:She's a mean 'ole bat.
+OTHERMALE:You can do way better than her.
+LEADMALE:Again, Mark, it's not Mrs.
+LEADMALE:Connor, but I'll be sure to let her know how you feel about her.
+LEADMALE:Mr.
+LEADMALE:Connor, do you want to talk anymore about your friend's problem? No, thanks.
+LEADFEMALE:It's okay.
+OTHERMALE:Mark won't come in.
+OTHERMALE:He just heard a fire truck.
+SUPMALE:Come on.
+LEADFEMALE:It's just, I don't know what to do here.
+SUPMALE:I mean, the wife doesn't have the decency to try to hide it.
+LEADFEMALE:It's almost like she's flaunting it.
+LEADMALE:Well, if she's not trying to hide it, then my guess is, she wants to get caught.
+SUPMALE:What are you talking about? Maybe she wants attention.
+LEADMALE:It's like when d.j. does something wrong directly in front of you.
+SUPMALE:When you yell at him, he still knows you care about him.
+LEADFEMALE:Oh, no.
+LEADFEMALE:That's just what Mrs.
+LEADMALE:Connor said.
+OTHERFEMALE:More often than not, we don't care about the boy.
+LEADFEMALE:All I'm saying is is that maybe if your friend paid a little more attention to his wife, then she might just stop doing this stuff and the problems would go away.
+LEADFEMALE:Maybe.
+LEADFEMALE:Thanks, David.
+LEADMALE:You're all right.
+SUPFEMALE:Thanks.
+SUPFEMALE:Oh, God.
+LEADFEMALE:Mr.
+LEADFEMALE:Connor, don't break up.
+OTHERMALE:You guys are like my mom and dad.
+LEADMALE:Hey, buddy, glad you could make it.
+LEADMALE:Where is everybody? Poker is still on, isn't it? Yeah, I told everybody to show up a little late.
+SUPMALE:I kinda need to talk to you.
+OTHERMALE:Sounds serious.
+SUPMALE:Okay there's no easy way to say this, so, uh here.
+OTHERFEMALE:What's this? It's the letter I wrote ya.
+LEADFEMALE:UhI figure, you can read it while I'm in the kitchen, get through your emotional stuff and then, if you want to, come on in and play poker.
+LEADMALE:Whoa.
+LEADFEMALE:You caught Jackie with another man.
+LEADFEMALE:What is this? It's in the letter.
+OTHERFEMALE:I'll be in the kitchen.
+SUPFEMALE:Wait a second, Dan! Was she kissing him? Was he touching her? Dan, you gotta tell me what you saw.
+OTHERFEMALE:Okay, I'll try to make this quick.
+OTHERMALE:Hey, guys! Too late.
+LEADFEMALE:Dan, I gotta hear this.
+LEADFEMALE:Well, Bob, you weren't supposed to show up for another half an hour, buddy.
+SUPFEMALE:Not my fault, Dan.
+LEADFEMALE:I was getting on my wife's nerves.
+LEADMALE:Uh, look could you put this beer in the frig, and just give us a sec.
+SUPMALE:You got it.
+LEADMALE:Fred.
+LEADMALE:Okay, start at the beginning.
+SUPFEMALE:Where did you catch her? It was at the Lobo, and I really don't think anything's happened yet.
+LEADFEMALE:But, you don't know that.
+LEADFEMALE:Hey, anybody want a brewski? No, thanks.
+LEADFEMALE:What? You don't want a beer? Somebody call the paper.
+LEADFEMALE:Dan doesn't want a beer.
+LEADFEMALE:Okay, Bob.
+LEADMALE:I'll take a beer.
+OTHERMALE:You got it.
+LEADMALE:Look, I talked to her about this, and she swears they're just friends.
+LEADMALE:Then what the hell is she doing with him? Dan-O! Where's your bottle opener? They're twist-offs, Bob.
+SUPMALE:Yeah, I know, but I got this real delicate skin, and I'm not just saying that.
+SUPMALE:The doctor told me.
+LEADFEMALE:Look, Bob, Nobody wants a beer.
+SUPMALE:We don't want to hear about your skin.
+LEADFEMALE:We just need two minutes alone.
+SUPMALE:Can you do that? Please? Yeah.
+LEADFEMALE:Sure, Dan.
+SUPMALE:Just making conversation.
+LEADFEMALE:Look, Fred, I'm pretty sure it was just a cry for attention.
+LEADFEMALE:It was almost, like she wanted to be caught.
+LEADMALE:You think that's all it is? I'm pretty sure.
+LEADMALE:So, just spend more time with her.
+SUPFEMALE:Show her a good time.
+LEADFEMALE:Act like you're dating again.
+LEADFEMALE:No.
+SUPFEMALE:Well, why not? Because I married an adult, Dan.
+LEADMALE:If she's got a problem, she should tell me.
+OTHERMALE:I'm not going to play these stupid high school games.
+SUPFEMALE:Marriage is not a game, Fred! A game is something fun and you can win.
+OTHERMALE:Marriage is a blood sport.
+SUPFEMALE:Oh, I don't know.
+SUPMALE:Maybe you're right.
+OTHERFEMALE:Maybe I'll just have to do something.
+SUPFEMALE:Good.
+SUPMALE:I really think it'll help.
+SUPMALE:Thanks, Dan.
+LEADFEMALE:You're a good friend.
+SUPMALE:Dan! What? I'm lonely.
+LEADMALE:My, you are good.
+SUPFEMALE:You know don't dance like a guy.
+LEADMALE:I mean, obviously you are a guy, so you do dance like a guy.
+SUPMALE:But I mean, you dance like a guy who's like a really good dancer who just happens to be a guy.
+LEADMALE:Well, thanks.
+LEADFEMALE:I guess Where'd you learn to dance like that? Oh, out of nowhere.
+LEADMALE:I just picked it up.
+LEADFEMALE:Oh, come on, you don't pick up steps like that from anywhere.
+OTHERMALE:No, it's nothing.
+LEADFEMALE:It's just that I, uh I used to take ballet.
+LEADMALE:Used to what? I took ballet! Well, you know, lots of kid's moms make them take ballet.
+LEADMALE:Mom was against it.
+LEADMALE:Welllittle kids like to experiment.
+LEADMALE:I was 17.
+LEADFEMALE:Those rebel teens.
+LEADFEMALE:I still go Tuesday nights.
+LEADMALE:Well--[laughs]-Um I have hemorrhoids.
+LEADFEMALE:You do? No, I'm just trying to think of something to make you feel better.
+LEADFEMALE:You want a beer? Yeah.
+SUPMALE:What kind, honey? Uh, just a light.
+LEADMALE:What'd you just call me? Oh, I think I said "honey.
+LEADFEMALE:" I guess I was being presumptuous, huh? No.
+SUPMALE:No, it felt good.
+OTHERMALE:Good.
+SUPMALE:What the hell am I doing here? Jackie? You called me "honey," and I liked it.
+LEADMALE:It felt good.
+SUPMALE:I mean, it felt more than good.
+SUPMALE:It felt right.
+LEADFEMALE:Wellgood and right.
+LEADFEMALE:Those are good and right, right? I am a married woman.
+LEADMALE:I have a child.
+SUPMALE:She's not used to the beer.
+SUPMALE:I am cheating on my husband.
+SUPMALE:Jackie! We haven't even held hands! Don't touch me! You and your lively fun self luring me.
+LEADMALE:You should be ashamed of yourself.
+LEADMALE:We should both be ashamed.
+LEADFEMALE:I really have enjoyed your company.
+OTHERMALE:I'm sorry it couldn't work out.
+LEADMALE:All of you! All of you, go home to your husbands! Good, I'm really glad you're here.
+LEADMALE:We need to talk.
+LEADMALE:Do that You wanna talk? Fine.
+SUPFEMALE:Here's my phone number.
+LEADFEMALE:What is this? I'm leaving.
+LEADMALE:What? Did you go out with another man tonight? No, I know but I can explain.
+LEADFEMALE:That's explanation enough for me.
+OTHERFEMALE:Fred, wait Wait, now Nothing happened.
+LEADFEMALE:You broke the rules, Jackie.
+SUPFEMALE:What rules? The rules of marriage! We both agreed to them.
+LEADMALE:You broke them, and now I'm leaving.
+LEADMALE:We have to talk about it.
+LEADMALE:No! You may have noticed that I was not on tonight's episode.
+LEADFEMALE:That's because I'm pregnant, and the doctors ordered me to stay in bed.
+SUPMALE:But you needn't worry about me.
+OTHERFEMALE:I will be paid.
+SUPMALE:Now, we have many younger viewers, and they're probably wondering where babies come from.
+OTHERFEMALE:Since I always felt that TV should not only entertain but also educate, I'd like to tell you.
+LEADFEMALE:When a woman decides that she's ready to have a baby, she finds herself a man.
+OTHERMALE:It could be a limo driver or a bodyguard, it really doesn't matter, as long as he's younger and not in show business.
+SUPFEMALE:Now, the man and the woman go off together alone to a place where they can conceive a child.
+SUPFEMALE:This place is called a clinic.
+OTHERFEMALE:The man is sent to one room and the woman to another.
+OTHERMALE:The woman's egg and the man's sperm are put together and manipulated by a laser and 15 doctors.
+OTHERMALE:Then, they are placed back in the womb and monitored by ultrasound and hormone therapy until the many experts are sure that conception has occurred.
+LEADFEMALE:Now, I know it may be hard for many of your children to picture your own parents doing this, but someday you will understand.
+SUPMALE:It is the most beautiful and intimate experience that can be shared by a woman, a man and their fertility expert.
+OTHERMALE:I'll be back next week.

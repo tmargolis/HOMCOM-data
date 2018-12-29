@@ -1,0 +1,368 @@
+SUPMALE:Miss! In a minute.
+SUPMALE:In a minute! Can I at least get a menu here? No.
+LEADFEMALE:I wouldn't want to get your hopes up.
+SUPFEMALE:Just put it on a plate.
+LEADFEMALE:I'll pick the hairs out of it.
+OTHERFEMALE:Oh, god.
+SUPMALE:You looked swamped.
+LEADMALE:I'm sorry I'm late.
+LEADMALE:Don't apologize to me.
+LEADMALE:Apologize to the people I took it out on.
+LEADFEMALE:Let me get my coat off.
+SUPFEMALE:Walter, what's it going to be? It's unbelievable, Roseanne! I just saw the television set That lets you watch two channels at once.
+SUPFEMALE:You can watch what you're watching and what you're missing at the same time, But you're missing life, because-You're getting soup.
+LEADFEMALE:O.
+SUPFEMALE:k.
+LEADMALE:I hate it when his mommy don't pack his lunch.
+OTHERMALE:Oh! Damn it! What? I threw out my back again.
+OTHERMALE:Oh, man.
+LEADFEMALE:This is just getting ridiculous.
+LEADFEMALE:How am I supposed to work when this happens all the time? Let me just sit down.
+LEADMALE:Miss! You sit right here.
+LEADFEMALE:I'll get that.
+OTHERFEMALE:Miss, you got any steak sauce? Yeah.
+LEADFEMALE:It's on the other side of the counter there.
+LEADFEMALE:Do you mind getting it yourself? I can't bend over too good.
+SUPMALE:O.
+OTHERMALE:k.
+LEADFEMALE:Yeah, I've seen a couple of doctors.
+LEADMALE:They've described these pills, Yeah.
+LEADFEMALE:Do you mind getting it yourself, because I can't really reach up too good? Cut yourself a great big slab.
+OTHERMALE:Walter, your soup's up.
+LEADFEMALE:Got it.
+SUPFEMALE:Walter, honey, will you take those fries and drop them off to this guy in the red? Thanks a lot.
+LEADMALE:You want some more coffee? Do you mind, since you're up, pouring her another cup? Well, the pot's almost empty.
+SUPMALE:Oh, well, there's some filters right on the shelf there.
+LEADMALE:Roseanne, what are you doing? It's taken me a while, but I do believe I'm finally getting the hang of this job.
+LEADMALE:Have a seat, Mrs.
+SUPFEMALE:Conner, The doctor will be here in a minute.
+LEADMALE:So, what did he say? "Put your clothes on.
+LEADFEMALE:I'm done.
+LEADMALE:" You know, like any man.
+LEADFEMALE:Oh! No.
+LEADMALE:Dr.
+LEADMALE:Dixon will be able to help you.
+LEADMALE:Why? He's the best.
+LEADMALE:He helped me so much When I hurt my back on the force.
+LEADMALE:You have a crush on him.
+SUPFEMALE:I do not.
+LEADMALE:I hope he can do something.
+LEADFEMALE:I can't lay in bed when this happens anymore.
+SUPFEMALE:I thought the girls were taking care of you.
+LEADMALE:No.
+SUPFEMALE:They're sick of me.
+SUPMALE:The next time I ask for a pillow they're going to brick up my bedroom.
+SUPMALE:Sorry to keep you waiting, Mrs.
+OTHERMALE:.
+LEADFEMALE:Conner.
+SUPMALE:Jackie! Hi, Dr.
+LEADFEMALE:Dixon! How's the back? Oh, it's o.
+SUPFEMALE:k.
+SUPFEMALE:It acts up every once in a while.
+LEADFEMALE:Since when? Since Shut up.
+LEADMALE:Maybe you should make an appointment.
+OTHERMALE:Thanks.
+LEADFEMALE:That would be fun.
+OTHERFEMALE:Now, Mrs.
+LEADMALE:.
+OTHERFEMALE:Conner, your x-rays show No spinal damage or abnormality.
+LEADMALE:Which means it's a muscular problem.
+SUPMALE:I should try diet and exercise, maybe even hot baths.
+OTHERFEMALE:You'll prescribe these little blue pills that don't do anything.
+SUPFEMALE:Guess that just leaves the small matter of my fee.
+LEADMALE:So you can't do anything either? A surgical procedure would give you some relief.
+OTHERFEMALE:No, thanks.
+LEADFEMALE:You haven't heard what it is yet.
+SUPMALE:I'm talking about a breast reduction.
+LEADFEMALE:Oh, yikes.
+LEADMALE:Are you sure you're not reading The wrong side of the x-rays? You have bra strap pain.
+LEADFEMALE:Most of your problems are in the upper back and shoulders.
+OTHERMALE:Your back continually compensates for your front, which is Huge.
+LEADFEMALE:Sorry.
+SUPMALE:If you reduce the weight of your breasts, your posture will be better.
+OTHERFEMALE:That will lessen lower back pain.
+LEADMALE:Do people really do this? Yeah, it's fairly common.
+LEADFEMALE:The risk is minimal.
+SUPMALE:Well, what happens? I brought a brochure to show you.
+SUPFEMALE:See, the surgeon makes an incision underneath the breast, around the nipple, And in a vertical line between the two.
+LEADFEMALE:The excess breast tissue is then removed, and the nipple is then grafted back onto the breast in a higher position.
+LEADMALE:What sick nazi man came up with this idea? It sounds worse than it is.
+OTHERMALE:Maybe it's something that should think about.
+OTHERFEMALE:It's crazy! Well, you've tried everything else.
+SUPMALE:Well, how much do they take off? Just enough so you wouldn't need to see me anymore.
+SUPFEMALE:What am I going to look like? What if he goes crazy? I don't want to end up looking like, you know.
+LEADMALE:Hey, hey! I didn't mean that.
+SUPMALE:I just meant these have been a big part of what I am my whole life.
+LEADMALE:We're talking about changing that.
+OTHERMALE:Maybe you'll feel better.
+LEADMALE:I think it's just a moot point anyway.
+LEADMALE:It's not like I could ever afford it.
+LEADMALE:How much does that cost? Around $6,000.
+LEADMALE:Each? No.
+LEADMALE:No, no.
+LEADFEMALE:Since you've had chronic problems, insurance would probably cover about 80% of it.
+LEADMALE:Look, obviously you've got a lot of thinking to do, and, if you want, I can recommend a wonderful specialist.
+SUPMALE:Or you might want a second opinion.
+SUPMALE:Don't worry.
+LEADFEMALE:I'm sure I will when I get home.
+LEADMALE:Only one night in the hospital.
+LEADFEMALE:That's a pro.
+OTHERMALE:It's the hospital.
+OTHERMALE:Con.
+LEADMALE:An art linkletter bed, color TV, room service.
+LEADMALE:Pro.
+LEADMALE:But the food will suck.
+SUPMALE:Con.
+LEADFEMALE:It sucks here.
+LEADFEMALE:You'll be away from the kids.
+SUPMALE:Yeah, but they'll want to visit.
+LEADMALE:But you'll be drugged up, so call them names and fall back asleep.
+OTHERMALE:Yeah.
+LEADFEMALE:Huge pro.
+LEADMALE:What about Dan, though? Dan wants you to feel better.
+LEADMALE:I don't even know how to tell him about this.
+LEADMALE:Well, I'll think of some-Con, con, con.
+LEADMALE:Fine.
+LEADFEMALE:I'll pretend like nothing happened.
+LEADFEMALE:Nothing did happen.
+SUPMALE:I haven't made up my mind.
+SUPMALE:Mark, the car never made this noise before.
+LEADFEMALE:It's like a rattling noise.
+OTHERFEMALE:No, my father already fixed it.
+SUPFEMALE:That's why I can't get it out of the driveway.
+SUPMALE:Car doesn't have to run for you to live in it.
+LEADMALE:Hey.
+LEADFEMALE:How come you're just sitting there? Waiting for dinner.
+LEADFEMALE:Did it ever occur to you to get off your butt and heat something up? Oh, no.
+SUPFEMALE:It was way too early to panic.
+SUPMALE:Well, where's d.j. ? He got hungry and went over to Todd's.
+LEADMALE:God, if I didn't come home, you all would starve to death.
+LEADFEMALE:Will you hem my new jeans? Yes, but can I please make dinner for you first? Please? If you're making meatloaf, I'm just having salad.
+SUPMALE:Does anybody care this woman was at the doctor and has something important to discuss with you all? Thank you, Jackie.
+LEADFEMALE:It would've been stupid to wait for the right time.
+LEADMALE:What did he tell you? It's kind of funny, actually.
+SUPFEMALE:I went there to talk about my back.
+LEADFEMALE:All he just kept talking about was my boobs.
+SUPMALE:Do you want me to beat him up? No.
+SUPMALE:He said I should maybe think about getting a breast reduction.
+LEADMALE:What? He said it would maybe help my back if I got my boobs shortened up.
+LEADMALE:Are you going to do it? I haven't made up my mind yet.
+LEADMALE:The doctor says her back keeps going out because of all the weight up front.
+OTHERMALE:How long would you be in the hospital? She'd go in the night before.
+SUPFEMALE:It would take a couple of weeks to get better, so you'd have to help out with the cooking and housecleaning.
+SUPFEMALE:After that she'll go back to doing all the chores, and you'd be off the hook.
+LEADMALE:Make that the last thing you say.
+SUPFEMALE:O.
+LEADMALE:k.
+LEADMALE:, o.
+LEADFEMALE:k.
+LEADMALE:If it'll stop the back pain, you should have the operation.
+LEADMALE:You'll feel better.
+LEADFEMALE:You'll look great.
+SUPMALE:You can buy all new clothes.
+OTHERMALE:Is everything a trip to the mall for you, Becky? Shut up.
+LEADFEMALE:It'll be good for her.
+LEADFEMALE:I guess it's something she's always wanted.
+LEADMALE:What are you talking about? You know you always wanted perky ones.
+SUPFEMALE:You try walking around with your shoulders hunched over and your back up in knots.
+SUPFEMALE:Then we'll talk about why I'm really doing this.
+LEADFEMALE:So you are doing it? Well Come on, girls.
+OTHERMALE:Let's get a pizza.
+LEADMALE:Come on, Darlene.
+LEADFEMALE:Why are we leaving? This affects all of us.
+LEADFEMALE:Ever since you went on solid foods, they ceased to be any concern of yours.
+LEADFEMALE:Come on, Darlene.
+SUPMALE:Let's go.
+LEADMALE:I'm going to make a sandwich.
+LEADMALE:Want one? No, I want you to talk to me about this.
+LEADMALE:It's your decision, honey.
+SUPMALE:I know.
+LEADMALE:Tell me how you feel.
+LEADMALE:I don't know how I feel.
+LEADMALE:I'm sitting, waiting for dinner, and you say you're getting your breasts reduced.
+SUPFEMALE:How am I suppose to feel? I mean, is this the only way? Have you tried everything else? It's got to be surgery? What's bothering you about the surgery? You afraid of how I'll look? Oh, no, no.
+LEADFEMALE:You afraid of the money, 'cause insur-No, it's not the money.
+SUPFEMALE:Well, then what is it? What was the first one again? I was worried about I'd look, but then I saw these pictures of how you look after, I would just look normal.
+LEADMALE:I don't want you looking normal.
+LEADMALE:I like you the way you are.
+LEADMALE:I should've said it was the money.
+LEADMALE:No, I asked how you felt.
+LEADMALE:You told me.
+LEADMALE:Am I the big pig now 'cause that bothers me? No.
+LEADFEMALE:It bothered me, too.
+LEADFEMALE:You really think this will make you feel better? Yeah, I really think I do.
+OTHERFEMALE:I'll have to deal with it.
+SUPMALE:Yeah, you know, I'm not going to change or anything.
+LEADFEMALE:I'll still be the same woman you married.
+LEADFEMALE:I'll just be in less pain, so I won't be grumpy and whiny all the time.
+OTHERMALE:O.
+SUPMALE:k.
+OTHERMALE:, so I won't exactly be the same woman you married.
+LEADFEMALE:Come on in, Rose.
+SUPFEMALE:Is anybody in there hooked up to tubes or machines or hoses? No.
+LEADMALE:Oh, good, 'cause I don't care for that.
+LEADFEMALE:Hey, this ain't bad.
+SUPFEMALE:I don't know.
+LEADMALE:Hospital rooms give me the creeps.
+SUPMALE:Every time we check out of one we got a new kid.
+LEADFEMALE:Whoa, whoa, what's that smell? My nose is burning.
+LEADMALE:Oh, that's the clean, Dan.
+LEADMALE:No kidding.
+OTHERMALE:Yeah.
+SUPMALE:Don't go getting used to it now.
+LEADMALE:Well, for your dining pleasure this evening, We are serving "clear beef bouillon Or chicken bouillon," Which the chef informs me is also clear.
+SUPMALE:Is that it? If you still have room, Our dessert tray consists of A shimmering brick of green jell-o and the tray itself.
+LEADMALE:Do me a favor? Go down the hall and drag that snack machine in here.
+OTHERFEMALE:You're not supposed to eat before the surgery.
+LEADFEMALE:I'll only lick the salt off the fritos.
+LEADFEMALE:You can eat them.
+LEADMALE:How long are visiting hours? I don't know.
+LEADMALE:Stay and keep me company.
+LEADMALE:O.
+OTHERFEMALE:k.
+LEADMALE:Sports channel.
+LEADMALE:Dan, I've got a private room.
+OTHERMALE:Good deal.
+LEADFEMALE:Do you want to fool around? In the hospital? Look.
+SUPFEMALE:The bed goes up and down.
+LEADMALE:You wouldn't have to do nothing.
+LEADMALE:I don't think so.
+SUPMALE:Aw Are you o.
+LEADFEMALE:k.
+SUPMALE:with this? Why worry about me? Are you o.
+LEADMALE:k.
+SUPFEMALE:? Yeah.
+LEADFEMALE:Then me, too.
+OTHERMALE:You sure? I'm with you all the way-When they wheel you down, when it's over.
+LEADFEMALE:While it's happening I'll be far away liquored up.
+LEADMALE:Knock, knock.
+LEADMALE:Am I interrupting? No, it's o.
+LEADFEMALE:k.
+SUPFEMALE:Surprise! Surprise! For they were jolly good fellows For they were jolly good fellows For they were jolly good fellows Which nobody can deny Ooh--ooh! Whoo! Oh, look it! A boob cake! Where did you get that? I saw it in good housekeeping.
+LEADMALE:It was for a kitty-cat face.
+SUPFEMALE:I trimmed the ears and doubled the recipe.
+LEADFEMALE:Boy, am I leaving.
+OTHERFEMALE:I'll be here first thing in the morning.
+OTHERFEMALE:So will I.
+LEADFEMALE:No cake for her.
+LEADMALE:He seems to be doing better.
+SUPMALE:Well, it would be easier if he was a leg man.
+LEADMALE:You know Dan tells everybody the first thing he noticed about you was your eyes.
+LEADMALE:Men have to say that, Crystal.
+SUPMALE:It's the law.
+OTHERMALE:Mmm-hmm.
+LEADFEMALE:You know they're lying.
+SUPMALE:All they think about are our chests.
+LEADFEMALE:At least every guy I ever went out with.
+SUPMALE:One article said one reason men are so obsessed with breasts is that they represent security and nurturing And--and motherhood.
+LEADMALE:Ohh! That's why they call them hooters.
+LEADMALE:Or as my fellow truckers like to say, bumpers headlights and then the ever flattering airbags.
+SUPMALE:Then there's your fruits and vegetables, right? Coconuts, mangoes pineapples sweet potatoes the entire melon family.
+LEADFEMALE:and don't forget a nice pair.
+OTHERFEMALE:They have the nerve to say they love you for your brain.
+OTHERMALE:Which can't be true, because they've only got one word for brain.
+SUPFEMALE:If that was true, all those bars would be having wet hat contests.
+OTHERMALE:Well, we brought you a present, Roseanne.
+LEADMALE:Goody, goody.
+LEADMALE:Let me see.
+LEADFEMALE:Oh, gimme it.
+SUPMALE:Oh, boy.
+SUPMALE:Oh, boy.
+LEADMALE:Oh! Whoa! Yahoo! Look it.
+LEADMALE:No underwires! No underwire! Yeow! Now I can go through the metal detector at the airport without setting it off.
+OTHERMALE:All right, Mrs.
+LEADMALE:.
+SUPMALE:Conner, we're about ready.
+LEADFEMALE:Did everybody wash their hands? Yes, ma'am.
+OTHERMALE:Who are you? You're not my doctor.
+OTHERMALE:Dr.
+SUPFEMALE:Foster, your anesthesiologist.
+LEADFEMALE:Do you have any pull around here? I never did get my jell-o.
+LEADFEMALE:Now, just count backwards from 100.
+OTHERMALE:O.
+OTHERFEMALE:k.
+LEADMALE:, but if I wake up with a baby, I'm going to personally kick your as Rosie.
+OTHERFEMALE:Rosie.
+LEADFEMALE:Wake up, sleepyhead.
+LEADFEMALE:Dan? Hi, honey.
+LEADFEMALE:How do you feel? How did everything go? The operation went great.
+LEADFEMALE:The surgeon said it's his best work ever.
+LEADFEMALE:I want to see.
+LEADMALE:I want to see.
+LEADMALE:O.
+LEADMALE:k.
+LEADMALE:There's a mirror by the wall.
+LEADMALE:Let me help you up.
+LEADMALE:Aah! Great, huh? They were supposed to make them smaller! This is better.
+LEADMALE:Oh, my god! Oh, my god! Calm down, Mrs.
+LEADFEMALE:.
+SUPMALE:Conner.
+LEADFEMALE:Calm down.
+LEADFEMALE:I've got your jell-o right here.
+LEADMALE:What did you do to me? What happened? You had a breast enlargement.
+OTHERMALE:And a great one! I was supposed to have a reduction! You made a mistake! That's not true, Mrs.
+LEADMALE:.
+LEADFEMALE:Conner.
+SUPFEMALE:Here's your release form right there.
+OTHERFEMALE:Here's your signature.
+OTHERFEMALE:My doctor told me what he was going to do! I want to see my doctor! I want to see him now! Right away.
+LEADFEMALE:Doctor, we need you.
+SUPFEMALE:Yes? What's wrong? Not big enough? Rosie.
+LEADFEMALE:Rosie.
+SUPMALE:Dan? She's awake, Jacks.
+LEADMALE:Roseanne, hi.
+SUPMALE:How are you? Oh, way to go, Doogie.
+SUPFEMALE:Huh! Well Now I just got to work on this.
+SUPFEMALE:Stop it.
+SUPMALE:I'm not touching you.
+OTHERFEMALE:I'm warning you, d.j. Quit it.
+LEADMALE:I'm not touching you.
+SUPFEMALE:That's it.
+SUPFEMALE:Ow! Dad, I never touched her.
+LEADMALE:Well, it was hardly worth it then, was it, son? How come you're home so late? Drive your brother and sister to school.
+LEADMALE:Yeah, Deej, let's go for a little ride.
+LEADFEMALE:I'm taking the bus.
+SUPMALE:Smart.
+OTHERFEMALE:There's 70 kids waiting to beat him up on the bus.
+SUPFEMALE:So, mom, first day back to work? That's right.
+LEADMALE:Going to take the twins out for show and tell? Har har.
+LEADFEMALE:Go to school, Darlene.
+LEADMALE:All right.
+LEADMALE:All right.
+SUPFEMALE:Uh By the way You look nice.
+SUPFEMALE:How many times do I have to tell you? I did this so I would feel better, Not so I would look better? God, take a pill.
+LEADFEMALE:So? What? How do I look? I'm a sucker for a woman in uniform.
+SUPMALE:Did you check out the name tag? Yeah.
+LEADFEMALE:It looks bigger.
+OTHERMALE:Yeah, like, my whole uniform's really, really big, You know, like a tent.
+LEADFEMALE:Want to go camping, Dan? Now? Aren't you going to be late? Well, I got, like, an hour.
+LEADMALE:Well, you keep saying you're sore.
+LEADMALE:I just say that so the girls will keep doing all the crap work.
+LEADFEMALE:Come on, Dan.
+LEADFEMALE:It's been, like, a while.
+SUPFEMALE:I know.
+LEADMALE:What's the matter? I'm not sure this is the right time.
+LEADFEMALE:No, it's the perfect time.
+LEADMALE:I haven't even made the bed yet.
+SUPMALE:I don't know.
+LEADMALE:I feel kind of weird.
+LEADFEMALE:It's still me.
+SUPMALE:I'm nervous, honey.
+SUPFEMALE:Well, don't be.
+LEADFEMALE:They're higher now.
+LEADFEMALE:Ha ha ha! John! Hey, great show.
+LEADFEMALE:Hey, thanks.
+LEADFEMALE:How did that scene go In the kitchen-kind of romantic? You didn't see it? No.
+LEADMALE:I had a call in my dressing room.
+SUPMALE:It's weird.
+LEADMALE:There's no call and the door jammed.
+LEADFEMALE:I was stuck.
+SUPMALE:That is weird.
+LEADMALE:Did you do it like I suggested? Yeah! I played it nervous.
+LEADFEMALE:She breaks me down.
+LEADMALE:We shake hands.
+OTHERMALE:Everybody agrees with you.
+LEADMALE:A simple platonic gesture says it all.
+SUPFEMALE:Cool.
+LEADMALE:I love being a producer.
+OTHERFEMALE:

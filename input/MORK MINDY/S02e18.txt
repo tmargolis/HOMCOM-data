@@ -1,0 +1,383 @@
+LEADFEMALE:MORK: Nanu, nanu.
+SUPMALE:( upbeat theme playing ) ( mellow theme playing ) I suppose you're wondering why I called this lunch.
+SUPMALE:Well, let me guess.
+SUPMALE:Eh, you're hungry.
+LEADMALE:Mindy, lunches aren't for eating.
+LEADMALE:They're for deducting.
+OTHERMALE:We're here to discuss my campaign.
+SUPMALE:Nelson, do you really think you can get elected to city council? Heh, why ask me? Let's consult the vox populi.
+OTHERMALE:Uh, excuse me, sir.
+LEADMALE:Huh? Do you know who I am? No.
+SUPFEMALE:Who are you? See, there's a natural curiosity about me.
+LEADFEMALE:( cheerful music playing in the distance) MORK ( on bullhorn): Say it, win with Flavor.
+SUPMALE:Say it with me now.
+OTHERMALE:Win the Flavor.
+LEADMALE:Yes, we'll hear from the old man himself.
+LEADFEMALE:Win with Flavor.
+OTHERFEMALE:Say it with me now.
+LEADFEMALE:There's a parade for you? My gosh, it's starting, Flavormania.
+SUPFEMALE:Hey, hey, hey.
+SUPMALE:What's with all the noise? What noise? Will you cut the tape recorder off? People are trying to eat.
+LEADMALE:Okay.
+SUPMALE:( music stops ) ( loud feedback ) Excuse me, sir.
+SUPFEMALE:It will be okay as soon as I hose it off.
+SUPFEMALE:Uh I'll get you, Ill get you a new one.
+LEADFEMALE:Make it a cheeseburger.
+LEADFEMALE:Give me that.
+LEADFEMALE:( honking ) A one-man parade.
+LEADMALE:I think I have a goosebump.
+LEADFEMALE:Oh, it's a privilege campaigning for you, Flavorship.
+LEADMALE:You know, I've been knocking on doors, peeking in windows, kissing mothers, shaking babies.
+SUPFEMALE:It's wonderful.
+LEADMALE:I've been gathering the grass roots and distributing them, and the young people are going, "Wow, this flavor.
+LEADMALE:It's really nice.
+SUPMALE:" What did you do with my posters? Well, the whole posters didn't fit into my parade concept, They are little pieces, I just Yeheh, heh.
+LEADFEMALE:Eh, but don't worry, they're all numbered here and here's a part that only a mother could love.
+SUPFEMALE:( chuckles ) NELSON: Oh, what's the use.
+LEADFEMALE:No one knows who I am.
+LEADFEMALE:Well, look at the bright side, you can make a total fool out of yourself, and no one would care, heh, heh.
+LEADMALE:I mean, you could go on national television and go, "My fellow Americans, I'd like to show you the dancing weasle.
+LEADMALE:" ( chuckles ) What I need, are organized groups of people to support me.
+SUPMALE:Don't look at me.
+LEADFEMALE:What can I do? I knew I could get you to go there for me tonight.
+LEADMALE:Go where? Mindy, tonight I'm supposed speak at the gathering of the International Ladies Garment Workers.
+SUPMALE:Oh, are you gonna take a peak at their union label, huh? Argh.
+OTHERMALE:( chuckles ) I'd do anything to win those women over Even listen to them sing.
+LEADFEMALE:But at the same time, there's a meeting for the Committee to Clean Up Boulder.
+LEADMALE:I think it's some new conservation group.
+OTHERMALE:I want you to go there and let them know that I deeply care about whatever it is they stand for.
+OTHERMALE:Nelson, I'd love to help you out, but tonight I've got a student-teaching seminar, and it's real important to me, I've gotta go.
+SUPMALE:Shame, I can't find anyone to go tonight.
+SUPFEMALE:Whoo.
+SUPFEMALE:Whoo.
+LEADFEMALE:I think you found a volunteer.
+LEADMALE:All right.
+LEADMALE:I'll appoint you.
+LEADMALE:But remember, you're going as my representative.
+LEADMALE:So remember, don't do anything that I wouldn't do.
+SUPMALE:Would you do this? Nee-ee, ee, prrrr, whoo, whoo, na, na, prr.
+LEADFEMALE:Ha ha.
+SUPMALE:No.
+SUPFEMALE:Pity.
+LEADFEMALE:( mellow theme playing ) Hi, there, concerned voter.
+LEADFEMALE:Put her there.
+LEADMALE:I don't think I know you.
+LEADMALE:Oh, of course you do, I just said, Hi, there, concerned voter, put her there.
+OTHERFEMALE:I represent Nelson Flavor.
+SUPFEMALE:It's an honor I don't take lightly.
+LEADMALE:Eh Are you sure you're in the right place? Eh, indeed, I am, sir.
+SUPMALE:Keep Boulder Clean, that's our motto.
+SUPFEMALE:It's our noble aim, and Nelson's one of the cleanest.
+OTHERMALE:People come from miles around just to sniff him.
+OTHERFEMALE:He is so clean that he makes Debby Boone look like a sweat hog.
+LEADMALE:Stick with us.
+LEADFEMALE:Nice chatting with you.
+SUPFEMALE:Hi, there.
+LEADFEMALE:Oh, oh sorry.
+SUPFEMALE:( giggles ) You know, Nelson's for purity.
+SUPFEMALE:I think it's an idea whose time has come.
+SUPFEMALE:What do you think? I like where you're coming from.
+LEADFEMALE:I like where you've been.
+LEADMALE:Heh, aargh.
+LEADMALE:You're, uh, new here, aren't you? You know, that's an interesting concept.
+OTHERFEMALE:Let's talk about that.
+OTHERMALE:Let's rap.
+OTHERMALE:Let's share energy.
+LEADFEMALE:All right.
+LEADFEMALE:Welcome to our meeting.
+SUPFEMALE:I'm Jim Blake.
+OTHERFEMALE:I'm Mork Blank.
+OTHERFEMALE:I represent Nelson Flavor.
+SUPMALE:Nelson Fl Who's he? He's a concerned politician as you can see right here who thinks that Boulder should be cleaned up, whichever which way you want.
+LEADFEMALE:Uh, uh, Jim.
+LEADFEMALE:( clears throat ) Excuse me, fella.
+SUPFEMALE:How interesting Yeah, what is it? I don't now about this guy.
+LEADMALE:Leave him to me, Prescott.
+LEADFEMALE:This, eh Politician friend of yours he got a lot of influence? Well, he will when he has more groups like yours backing him.
+LEADMALE:Flavor.
+LEADMALE:Good American name.
+SUPFEMALE:Tell me, what does he think of the race problem? He believes that he should be ahead of everybody else.
+LEADFEMALE:Well, that's what we believe, right? Yes, yes.
+SUPMALE:You see, we're a white bread group, and we think there's too much rye and pumpernickel in the world.
+SUPMALE:Then you'll like Nelson.
+SUPFEMALE:He's well-bred, and he's no crumb.
+LEADMALE:Heh, a-argh.
+SUPMALE:Ha-hah.
+LEADFEMALE:Well, tell me.
+OTHERMALE:When can we meet this friend of yours? How soon can you spit? Say, tomorrow morning at my place? Sounds good.
+LEADFEMALE:I think our meeting's about to start now.
+LEADFEMALE:If you'd like to, eh, stick around.
+LEADMALE:Hey, quick.
+LEADFEMALE:You pick up quick.
+LEADFEMALE:If you'd like to stick around, we'll give you our beginning indoctrination.
+SUPMALE:We were sent to learn.
+LEADMALE:Oh, come with me.
+LEADFEMALE:All right.
+LEADFEMALE:Oh, thank you.
+SUPMALE:Oh.
+OTHERFEMALE:All right, try this on for size.
+LEADFEMALE:Oh, dress up.
+LEADFEMALE:Do you have a Frankenstein mask? There are no steins allowed in here.
+SUPFEMALE:It's nice to see young people dressing up again.
+LEADFEMALE:( chuckles ) ( mellow theme playing ) And to think they're all coming all the way over here just to meet me.
+LEADMALE:May I have a tissue? I haven't been this deeply touched since the Walton's Thanksgiving special.
+SUPMALE:You know, Mork, you really haven't told us much about what went on at that meeting last night.
+LEADMALE:What's there to say? They're a swell bunch of people who have some ideas about how to get the trash out of Boulder.
+OTHERMALE:Well, that's good.
+LEADMALE:I'm really glad that you met some new people.
+SUPMALE:I think I'm a better person having known them.
+SUPFEMALE:Good.
+LEADMALE:Color me giddy.
+SUPMALE:It's moments like these that make the struggle, the sacrifice, and the sucking up worthwhile.
+LEADFEMALE:( doorbell rings ) Oh, that's my friends.
+LEADFEMALE:Oh, quick.
+SUPMALE:Is my smile on straight? Pure power.
+OTHERFEMALE:That's our slogan.
+LEADFEMALE:Catchy.
+LEADFEMALE:Mindy, Nelson, I'd like you to meet my three friends.
+SUPMALE:Uh Mork, didn't you forget something? Oh, three friends I'd like you to meet Mindy, Nelson.
+OTHERMALE:Hi.
+LEADMALE:I'm Jim Blake.
+LEADFEMALE:These are my associates, Helen Anderson and Lloyd Prescott.
+SUPFEMALE:We're the officers of the Committee to Clean Up Boulder.
+LEADFEMALE:Proud to know you, sir.
+OTHERFEMALE:Uh, Miss Anderson, Prescott.
+LEADFEMALE:( chuckles ) Well, why don't you all come in and sit down and let me get you some coffee? Good idea.
+OTHERMALE:Heh heh, How do you take it, Any way but black.
+LEADMALE:( laughs ) Oh, ho, ho, ho, yes.
+LEADMALE:( chuckles ) He's a card.
+SUPFEMALE:Whole deck, asa matter of fact, heh, heh.
+LEADMALE:Well, Mork's been telling us a lot about you, Flavor.
+LEADFEMALE:He says you're a true American.
+SUPFEMALE:Mr.
+SUPMALE:Blake, I believe that the American people are crying out for leadership, and I want to give them something to cry about.
+LEADFEMALE:I like where he's coming from.
+LEADMALE:Ha, pure power to you, too, ma'am.
+LEADMALE:Back at you.
+LEADFEMALE:( Blake laughs ) PRESCOTT: Hey, talk is cheap.
+SUPMALE:How do we know you're different than any other politician? Well, if I don't know, how would you? Nelson's very concerned with protecting the environment.
+OTHERFEMALE:So what? Am I wrong, or did I just lose some brownie points? Don't worry about it.
+SUPMALE:It's time for the selling of Flavor.
+SUPMALE:Friends, are you looking for that special someone for your cause? Well, here he is, Nelson Flavor.
+OTHERFEMALE:Ne ne ne ne ne ne ( blows ) Ne ne ne ne ne ne ( makes explosion noises ) Yes, he's a true American leader.
+SUPMALE:Blond-haired, blue-eyed, a true media honey.
+LEADMALE:Yes, you've heard the phrase "Nixon's the one.
+LEADMALE:" Well, he's one, too.
+OTHERFEMALE:Talk about character? He sure is.
+LEADMALE:Look at that nose.
+LEADFEMALE:Yes, Nelson Flavor, no artificial ingredients added.
+LEADFEMALE:Come on, now.
+LEADFEMALE:Check him out today.
+SUPFEMALE:Paid for by the friends of Flavor.
+SUPMALE:( applause ) ( chukling ): Well, you've certainly got a staunch supporter there, Flavor.
+LEADMALE:Yes, and I think Nelson and your group would work real well together.
+OTHERFEMALE:Well, from what Mork says, we certainly are on the same wavelength.
+LEADMALE:I can't wait till you teach him what you taught me.
+SUPFEMALE:This town really needs some cleaning up.
+OTHERFEMALE:I'm your man.
+LEADMALE:He's okay with me, Jim.
+LEADMALE:Well, I like where he's coming from, heh.
+LEADMALE:Now exactly how would you like me to help you clean up Boulder? Well, first, I think we ought to start with the spics.
+SUPFEMALE:( blow out coffee ) The what? Heh.
+SUPMALE:The taco benders.
+LEADFEMALE:BLAKE: Now, we know, we know there aren't too many of them living here right now, but we want them out.
+LEADFEMALE:Boulder's for Americans.
+LEADFEMALE:Then I think we got to go after the nips, gooks, and bagel breath.
+LEADMALE:I don't believe this.
+SUPFEMALE:Then we can smear the krauts, Polacks, beaners, and jungle bunnies, heh.
+LEADMALE:Somehow, I was thinking more in terms of better water quality.
+OTHERFEMALE:I don't know what these so-called Americans taught you, Mork, but I think it's ugly and disgusting.
+LEADMALE:It just so happens that Nelson and I are both part Polish.
+SUPFEMALE:( blow out coffee ) Polish, Mind? That's right.
+LEADFEMALE:Our grandmother came all the way to this country from Warsaw.
+LEADFEMALE:Oh, come on.
+OTHERFEMALE:Har-de-har-harski.
+SUPFEMALE:( laughs ) Is this true, Flavor? Not necessarily.
+LEADFEMALE:Of course it's true.
+SUPFEMALE:Now, I think you all had better leave.
+LEADMALE:We'll be glad to leave.
+SUPFEMALE:Let's get out of this pigsty.
+LEADMALE:Oh.
+LEADFEMALE:( dramatic theme playing ) Come on, Mind.
+LEADMALE:Don't be so rough on my friends.
+LEADFEMALE:Well, if they're your friends, Mork, why don't you just leave with them? Mm, all right.
+LEADFEMALE:While I'm out, I'll pick you up a Polish six-pack four beers.
+LEADMALE:Aargh.
+LEADFEMALE:Mork's turned into a bigot.
+LEADFEMALE:( mellow theme playing ) And then before I knew it, I threw him out.
+LEADMALE:Tsk, doesn't sound like the Mork that I know.
+LEADMALE:Oh, Jeanie, Mork is so impressionable.
+LEADFEMALE:And these people really know how to poison your mind.
+OTHERFEMALE:I didn't know there were any hate groups in Boulder.
+LEADFEMALE:I didn't either.
+SUPFEMALE:Hard to see 'em, but they're there.
+SUPMALE:They hide behind the flag.
+LEADMALE:Mm.
+LEADMALE:Poor Nelson, I wish you could have seen him.
+LEADMALE:He was so humiliated when he found out he was about to support that group.
+SUPFEMALE:( chuckles ) So you're Polish, huh? Should have known with a last name like McConnell.
+SUPFEMALE:My grandmother was Polish, Remo.
+LEADFEMALE:Why do people make fun of the Polish? Probably for the same reason they make fun of other ethnic groups.
+LEADFEMALE:It's easier to put down someone who's different than to try to understand him.
+LEADFEMALE:Yeah, but it's sort of a shame.
+SUPFEMALE:You got to admit, some of those Polish jokes are funny.
+OTHERFEMALE:Like, I heard one about this priest, this minister, and this cabbage smuggler Remo.
+LEADMALE:Uh, come on, Remo.
+SUPMALE:I think we should make ourselves scarce.
+LEADFEMALE:Dobre, Mind.
+LEADFEMALE:I brought you a little gift.
+LEADFEMALE:Something special.
+LEADMALE:It's just for you.
+LEADFEMALE:Okay.
+LEADMALE:A light bulb? Yeah, I wanna see how many relatives it would take to screw it in, heh.
+OTHERMALE:( chuckles ) Or the one about the Polish man who locked his keys in his car, took him two weeks to get his family out.
+OTHERMALE:( chuckles ) Or or these two Polish duck hunters.
+LEADFEMALE:One says,"Stach, how come we're not getting any birds?" He said, "maybe we're not throwing the dog high enough.
+LEADMALE:" That's enough.
+LEADFEMALE:Oh, all right.
+LEADFEMALE:I'll change the subject, Mind.
+SUPFEMALE:Well, you know what's wrong with Ireland geographically? It's above sea level, heh.
+LEADFEMALE:Oh, you know why Greeks don't have freckles? 'Cause they keep sliding off.
+LEADFEMALE:That is enough.
+SUPFEMALE:What's wrong, Mind? I mean, these are funny.
+OTHERFEMALE:Mindy, are you okay? No.
+LEADMALE:Hey, hey, hey, hey, look.
+SUPMALE:What's goin' on here? Remo, you know what my friends say about Italians eating Chinese food? They use wop sticks.
+LEADMALE:REMO: Hey Here's one, Mind.
+OTHERFEMALE:You know how to save a darkie from drowning? No, Mork.
+LEADMALE:Good.
+SUPFEMALE:Mork, shut up.
+SUPFEMALE:What's wrong, Mind? I mean, my friends laugh at these.
+SUPMALE:Do you see anyone here laughing? I almost did at the one about the dog, because Sit down, Mork.
+SUPMALE:You and I have to talk, right now.
+LEADMALE:Mork, do you know what bigotry is? Sure.
+SUPFEMALE:Bigotry, that's what they have in Italian forests, "bigga tree.
+LEADMALE:" ( chuckles ) ( laughs ) No.
+LEADMALE:Bigotry is when people hate other people just because they're different.
+SUPFEMALE:I don't hate anybody, Mind.
+OTHERFEMALE:My, my friends just laugh at them because they say they're inferior.
+SUPMALE:Mork, I don't know about where you came from, but here on Earth, we're all supposed to be created equal.
+LEADFEMALE:The only people who are inferior are those who say that other people are.
+SUPFEMALE:Yeah, but my friends tell me that Your friend could fertilize Iowa with their mouths.
+LEADMALE:And they're, they're a bunch of sick, stupid creeps who could do a lot of harm.
+SUPFEMALE:Mind, they're just telling jokes, heh.
+LEADFEMALE:Mork, they use those jokes as weapons until they have enough guts to buy bullets.
+SUPFEMALE:I wouldn't be surprised if 40 years ago in Germany somedy said, "Did you hear the one about the two Jews?" Before long, that's almost all that we're left.
+LEADMALE:I guess you're right.
+LEADFEMALE:That's not funny.
+SUPFEMALE:No.
+OTHERFEMALE:Well there's one thing that confuses me, though, Mind.
+LEADMALE:Aren't there any people on Earth who are lazy, shiftless, pushy, dumb, and inscrutable? Well, of course there are, but, but in every race, creed, and color.
+SUPFEMALE:I mean, aren't there people like that on Ork? Not anymore.
+OTHERFEMALE:They sent me here.
+LEADFEMALE:You know what? I didn't mean to hurt anybody, Mind.
+LEADFEMALE:II just wanted to tell a few jokes.
+LEADMALE:I'm sorry.
+SUPFEMALE:Tsk, oh, I know you are, Mork.
+LEADFEMALE:Don't you think there are a few people around here you should apologize to? Yeah everybody, heh.
+LEADFEMALE:( mellow theme playing ) Thanks for taking me to the movie, Mind.
+LEADFEMALE:I mean, you Polish people sure are generous.
+OTHERFEMALE:( chuckles ) Oh, Mork, look.
+SUPMALE:Everything is ruined.
+OTHERMALE:Maybe we've been robbed, Mind.
+LEADFEMALE:No, I don't th There's the stereo and the TV.
+SUPMALE:Oh, look at my dishes.
+LEADFEMALE:And my plants.
+LEADFEMALE:Oh, no.
+SUPFEMALE:They've snuffed fern.
+LEADFEMALE:My dad bought me this when I moved in here.
+LEADMALE:( sobbing ): Oh, Mork.
+SUPFEMALE:It's all right, Mind.
+LEADFEMALE:You can sleep on your side for a while.
+LEADFEMALE:I wonder if they did anything to the attic.
+LEADFEMALE:Let me check.
+LEADFEMALE:Oh.
+LEADFEMALE:( ominous theme playing ) Oh, Mork.
+LEADFEMALE:I'm scared.
+SUPFEMALE:MORK: Okay It's all right, Mind, You just stay here.
+LEADFEMALE:You lock the door, and I'll be right back.
+SUPMALE:Where are you gonna go? Got a little score to settle with the friends.
+SUPMALE:( ominous theme playing ) You want pure power? I'll show you pure power.
+LEADFEMALE:Oooo.
+LEADFEMALE:Eeeeeee.
+LEADFEMALE:Eeeee.
+LEADFEMALE:Ooooo.
+OTHERFEMALE:Ooooo.
+OTHERMALE:( cheerful theme playing ) Mmmmmmmm.
+SUPMALE:Eeeeeee.
+SUPFEMALE:Ooo.
+LEADMALE:Eeeeeee.
+SUPFEMALE:Ooo.
+LEADFEMALE:Ooo.
+LEADFEMALE:Ooo.
+LEADFEMALE:Ooo.
+LEADMALE:Pfffffft.
+SUPFEMALE:Oooooo.
+LEADMALE:Oooooo.
+SUPMALE:Oooooo.
+OTHERFEMALE:Oooooo.
+LEADFEMALE:Oooooo.
+OTHERFEMALE:Ooooo.
+LEADFEMALE:Eeeeee.
+SUPMALE:That's what I think of your little group.
+LEADFEMALE:MINDY: Mork.
+OTHERMALE:Mork.
+LEADFEMALE:Ah, Mork, what have you done? Oh, Mork, violence just leads to more violence.
+LEADFEMALE:Yeah I think I've done the wrong thing.
+LEADFEMALE:I'm becoming like them.
+SUPFEMALE:This is how wars get started, Mind.
+SUPFEMALE:We can't fight hate with hate.
+LEADMALE:We're just not good at it.
+LEADFEMALE:What's the answer? Oh, I don't know.
+OTHERFEMALE:I wish I did.
+OTHERFEMALE:I was taught to fight hate with love and understanding.
+LEADFEMALE:That's good odds.
+LEADFEMALE:It's two against one.
+LEADMALE:( sighs ) ( gasps ) What the hell are you doing? Makin' a mess, heh, heh.
+SUPMALE:Well, we're gonna make a mess out of you and the Polack.
+LEADMALE:Oh, I guess this is a job for love, Mind.
+OTHERFEMALE:Oh, hon, would you look at this? This is so unkempt, ha, ha, ha.
+LEADFEMALE:I know, you, you must be tired after a hard day of hating various and sundry ethnic groups, so why don't you just sit down.
+LEADMALE:I'll get your pipe, slippers, and kerosene.
+SUPMALE:( chuckles ) All right, Prescott.
+SUPMALE:Let's get him.
+SUPFEMALE:Mind, I don't think love worked.
+SUPFEMALE:Maybe we better try a little understanding.
+LEADMALE:Ooooo.
+OTHERMALE:I feel strange.
+SUPFEMALE:Me too.
+LEADMALE:MINDY: Ah, look, Blake is black.
+SUPMALE:Oo-oo.
+OTHERFEMALE:What happened? Well, I just kind of reprogrammed their genes.
+LEADMALE:Mork, are they gonna stay this way? Oh, only until they learn about brotherhood without the hood.
+LEADFEMALE:Goodbye, everybody.
+LEADMALE:Welcome to America.
+LEADFEMALE:( mellow theme playing ) Mork calling Orson.
+SUPMALE:Come in, Orson.
+SUPMALE:Mork calling Orson.
+SUPFEMALE:Come in, Orson.
+LEADFEMALE:Mork calling Orson.
+LEADFEMALE:Come in, nicest person in the history of the universe.
+LEADFEMALE:ORSON: Mork? Sir? I'm surprised.
+SUPMALE:You usually greet me with some slur about my size.
+SUPMALE:Oh, not anymore, oh, wonderful being.
+LEADMALE:I've learned that slurs can be harmful.
+LEADMALE:Actually, I've sort of gotten used to your remarks.
+OTHERFEMALE:Oh, I'm glad to hear that, your porky pigness, heh.
+SUPMALE:I just want to say that f-f-f-f forget it.
+LEADMALE:Your report, Mork.
+OTHERFEMALE:Yes, sir.
+SUPFEMALE:This week, sir, a group of people taught me about a new emotion called hate.
+SUPFEMALE:Is hate anything like love? Well, sir, let's just say they use the sheets for different purposes.
+LEADMALE:Or as one poet says, "Love builds bridges between people.
+SUPFEMALE:Hate binds them up.
+SUPMALE:" Why does this group you mentioned teach hate? Well, sir, there are certain people here on Earth who can only feel up by putting other people down.
+LEADMALE:For example, when we call someone ambitious, they call them pushy.
+LEADFEMALE:When we call someone carefree, they call them lazy bum.
+LEADMALE:When we call someone different, they call them hippie freak.
+SUPFEMALE:When they call someone inscrutable, we say, "What's that?" It seems to me that hate affects vision and distorts what people see.
+SUPMALE:Oh, it does, sir.
+SUPMALE:I wish they could make a contact lens for the mind so that these people would see that when you mix all different varieties of earthlings together, you get this incredible human rainbow that stems from the same source, and each person has his own pot of gold.
+LEADFEMALE:Till next week, sir, nanu sayonara shalom dosvedanya ciao lon sauri, heh.
+LEADMALE:From all of us here on this wonderful little planet saying, heh, "catch you later.
+OTHERFEMALE:"

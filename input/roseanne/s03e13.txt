@@ -1,0 +1,376 @@
+OTHERFEMALE:1 That's egg salad.
+SUPFEMALE:You ordered a BLT.
+LEADMALE:I'm sorry.
+LEADFEMALE:I brought you the wrong lunch.
+LEADMALE:I'll give you a free piece of pie.
+OTHERMALE:Ok.
+OTHERMALE:Apple is my favorite.
+SUPFEMALE:Ok.
+SUPFEMALE:Cross your fingers, and we'll see what you get.
+LEADMALE:I make a mistake, and he apologizes.
+SUPFEMALE:I should introduce him to Dan.
+OTHERMALE:Maybe it'll rub off.
+LEADMALE:Hey, Roseanne.
+LEADMALE:Hey, Crystal.
+OTHERMALE:Want some coffee? Only if you got some made.
+LEADMALE:Well, this is a coffee shop, Crystal.
+LEADFEMALE:Oh, well, that would be fine.
+LEADMALE:You know, I love the mall after Christmas.
+LEADMALE:The stores will take back anything.
+LEADFEMALE:I just returned an electric wok that I've had in the closet since 1982.
+SUPFEMALE:How the hell did you do that? I kept the box.
+SUPMALE:And luckily I could exchange it for one of those machines that rips the hair out of your leg.
+LEADMALE:They're very effective.
+SUPMALE:Although they do tend to make you cry.
+LEADFEMALE:Excuse me.
+LEADFEMALE:She should cry.
+LEADMALE:I bought her that wok.
+LEADFEMALE:Here you go.
+LEADFEMALE:Eat this.
+SUPMALE:What's this for? It's a tip.
+SUPFEMALE:But it's, like, 40%.
+LEADFEMALE:When a waitress makes a mistake, you shouldn't over tip like this, Donald.
+LEADFEMALE:Remember that for next time.
+LEADMALE:Come on, dad.
+LEADFEMALE:I want to see the movie.
+LEADFEMALE:Hold on there, Babalouie.
+LEADFEMALE:I want to check out this here cute waitress.
+LEADFEMALE:Excuse me.
+LEADMALE:When you get a minute? Yeah, you'll be the first to know.
+OTHERFEMALE:Got a kiss for me, or do you want a hot poker in the eyeball? Poker, please.
+SUPFEMALE:Yecchh! So, what are you boys up to? Oh, just going upstairs to the Cineplex.
+LEADMALE:You going to see 101 Dalmatians? Nah.
+SUPFEMALE:He won't go for that unless 95 of them blow up.
+OTHERFEMALE:On your way home, pick up some mushroom soup and macaroni for your Dad's favorite tuna casserole.
+LEADFEMALE:Yecchh.
+LEADMALE:I know.
+LEADMALE:It's god-awful, isn't it? And especially the way I make it.
+LEADMALE:Another Christmas in January with old Ed Conner.
+SUPFEMALE:Same as when I was little.
+LEADMALE:Always traveling.
+OTHERMALE:That's how he kept ahead of other salesmen who stayed home for the holidays.
+LEADFEMALE:If you're going to gripe about your Dad, you got to order something.
+LEADFEMALE:Come on, Deej.
+OTHERFEMALE:Let's go.
+LEADMALE:See you, Crystal.
+LEADFEMALE:Bye, guys.
+LEADFEMALE:Remember--go up and ask for two children's tickets.
+SUPFEMALE:Why doesn't Dan get along with his father? I've always found Ed to be a wonderful man.
+SUPMALE:Well, me, too.
+OTHERMALE:I get along with him great.
+SUPMALE:'Course, I'm a people person.
+SUPMALE:There's the phone.
+LEADMALE:Excuse me.
+LEADFEMALE:Hello, Rodbell's coffee shop, home of the quick serve.
+LEADMALE:What? I can't hear you, Darlene.
+LEADMALE:Tell Becky to stop screaming.
+SUPMALE:Ok, now, what did d.j. do? How could he do that? He's not even home.
+OTHERFEMALE:All right.
+SUPFEMALE:So, now, where did you find it? Just put it in a bag, and I'll bury it when I get there.
+LEADFEMALE:Ok, bye.
+OTHERFEMALE:Problem? Oh, it's just d.j. He needs some little friends to play with.
+SUPMALE:Bring Lonnie around this weekend.
+OTHERFEMALE:He'd love to play with him.
+LEADFEMALE:Uh, Lonnie's at his grandma's for the weekend.
+LEADFEMALE:Well, then next weekend.
+SUPFEMALE:Roseanne, Lonnie is scared of d.j. Oh, ok.
+OTHERMALE:At least d.j. has a father.
+OTHERFEMALE:I feel bad about Lonnie growing up without a father.
+LEADFEMALE:Oh, Crystal.
+LEADMALE:Don't get upset.
+OTHERFEMALE:Somewhere out there, there is a guy who is perfect for you.
+LEADMALE:Excuse me a minute.
+LEADMALE:Hey, Donald.
+LEADMALE:Do you like tuna casserole? Not very much, Roseanne.
+LEADFEMALE:Oh, you'll eat it anyway.
+OTHERMALE:Crystal doesn't know this dinner's a fix up? She thinks she's just dropping off a fondue pot.
+SUPFEMALE:Well, what's the guy think? You know, he's a single guy, and we got hot food.
+SUPMALE:That's all he needs to know.
+LEADMALE:Hey, put more cheese in there.
+SUPMALE:The regular cheese or the stinky cheese? Stinky.
+OTHERFEMALE:Ecchh! It smells like Dad's feet.
+LEADMALE:Something sure smells good! Hey, Darlene, put another box of macaroni in there.
+OTHERMALE:Well, how much should I put? The box says, "serves 10.
+LEADMALE:" Well, there's eight of us, so two boxes ought to do it.
+LEADFEMALE:Eight? My Dad's coming.
+LEADFEMALE:That's six.
+SUPFEMALE:I run into Crystal at the mall today.
+LEADFEMALE:Seven.
+LEADFEMALE:She seemed lonely, so I-you're not playing matchmaker again, are you? Every time you do, it blows up in your face.
+SUPMALE:I fixed up your friend Pete and his wife.
+LEADMALE:Yeah, and they're divorced now.
+LEADMALE:Really? He would be perfect for Jackie.
+SUPFEMALE:It's grandpa! Oh, cool.
+SUPFEMALE:Presents! You coming? Plenty of time.
+LEADFEMALE:You got to make it tough, right, Conner? I want to finish this article.
+OTHERMALE:Oh, you're reading Cosmo? Yeah.
+LEADMALE:Yeeww! For Becky.
+LEADFEMALE:Thanks, grandpa.
+SUPFEMALE:For Darlene.
+LEADMALE:Thanks, grandpa.
+LEADFEMALE:For grandpa.
+LEADFEMALE:What did you bring me? It's right here.
+LEADFEMALE:I got you a set of books.
+SUPFEMALE:I'm kidding.
+SUPMALE:I'm just kidding.
+LEADMALE:It's a death ray.
+SUPMALE:Great! What did you bring me? Hey, rosebud! You look younger and more beautiful every time I see you.
+LEADMALE:You know, you're a lying sack of skin, Ed, but I love you.
+OTHERFEMALE:How are you doing? I couldn't be better, Rosie.
+SUPMALE:So where's that bum you married? He's out there in the kitchen.
+LEADFEMALE:I'm supposed to go to him, right? I think that's the plan.
+SUPFEMALE:Dad! Danny boy! Come here.
+LEADFEMALE:Get you, get you, get you! How's business, dad? Great.
+OTHERMALE:I'm having the best year of my life.
+OTHERFEMALE:I picked up one of these lines of fancy coffees.
+SUPFEMALE:Dutch mocha, amaretto creme Ah, here we go.
+LEADMALE:Chocolate parfait.
+OTHERFEMALE:We got this great advertising campaign-"for the quiet moments of your life.
+LEADMALE:" I haven't had a quiet moment in 17 years.
+SUPFEMALE:What else you bring me? Just so happens, I did bring you a little something.
+LEADFEMALE:You didn't have to.
+LEADMALE:What, Danny? It's a gift.
+LEADMALE:That's what you call it when you give somebody something you don't have to.
+LEADMALE:When you have to, it's called alimony.
+LEADMALE:Har har har har har.
+SUPMALE:Grandpa, you got us videotapes.
+LEADMALE:You don't like the movies I picked? We love them.
+SUPFEMALE:We don't have a VCR.
+LEADMALE:Oh.
+SUPMALE:We do now.
+LEADMALE:All right, grandpa! A VCR, Beck.
+SUPMALE:The Conner family leaps into the eighties.
+LEADMALE:Take it into the living room.
+SUPFEMALE:I'll come in a second and help you hook it up.
+LEADFEMALE:Thanks, grandpa.
+LEADMALE:Yeah, now we really love you.
+LEADFEMALE:Uh, listen, there's, um There's something I got to talk to you about.
+OTHERMALE:That's what the VCRâs for, to soften us up? The VCR was a second prize in a sales contest.
+LEADMALE:If I'd won first prize, I'd be in Hawaii.
+OTHERFEMALE:You wouldn't have to put up with me.
+LEADMALE:Geez, Dan.
+LEADFEMALE:What do you want to talk about? Let's wait till after supper.
+LEADMALE:Where are you going? Unload the truck.
+SUPFEMALE:Is this how it'll be the whole time he's visiting, you acting like a baby? You hear the crack about alimony? He never pays my mother a dime in alimony.
+LEADMALE:It's a joke.
+OTHERMALE:Johnny Carson does alimony jokes, and you're laying there-"not now, Roseanne, Johnny's on a roll.
+LEADMALE:" He's pulling the same stuff on my kids as he pulled on me.
+LEADMALE:He's never around, then he thinks he can buy them off with presents.
+OTHERFEMALE:They think he's Santa Claus.
+LEADFEMALE:So they love their grandfather.
+LEADMALE:That's great.
+LEADFEMALE:They hate everybody else, Dan.
+LEADMALE:Give him a break.
+OTHERFEMALE:He helped you with your homework, taught you how to ride a bike, and took you to the baseball games.
+LEADFEMALE:He never did any of that.
+LEADFEMALE:Well, so what? He got us a VCR.
+LEADFEMALE:Same thing.
+LEADFEMALE:Roseanne, I brought the fondue pot.
+LEADFEMALE:I hope I'm not too late.
+LEADFEMALE:You're right on time.
+LEADMALE:I want you to stay for dinner.
+SUPFEMALE:I couldn't impose.
+LEADFEMALE:Oh, no.
+LEADMALE:Nonsense.
+LEADFEMALE:Are you still wearing that? You look like hell.
+LEADMALE:God, she's smooth.
+OTHERMALE:Oh, oh, oh, oh, oh! You got me! I'm vaporized! Oh, hi, Cryssie.
+SUPMALE:Hey, Ed.
+LEADMALE:How are you? Come on, grandpa.
+LEADMALE:d.j. , give me just a minute to get my molecules reorganized.
+LEADFEMALE:All right? Ok.
+SUPFEMALE:I'll go kill Dad.
+OTHERMALE:Looks like we're getting close here, huh? I'll go wash up.
+SUPFEMALE:It's really good to see you again, Crystal.
+LEADMALE:Roseanne, maybe Ed would like it to be just him and the family.
+LEADFEMALE:Oh, nonsense.
+LEADFEMALE:Quit whining.
+OTHERFEMALE:Men hate that.
+LEADMALE:Go in my bedroom and borrow some earrings and a scarf.
+SUPFEMALE:Becky, go with her.
+LEADMALE:All right.
+LEADMALE:You know what the sad part is? She doesn't suspect a thing.
+LEADMALE:There's the groom.
+LEADFEMALE:Hey, everybody.
+LEADFEMALE:What are you doing here? I'm hungry.
+SUPMALE:Well, I didn't invite you for dinner.
+LEADFEMALE:When have I ever waited for an invitation? Get the door, Darlene, and let him in.
+OTHERMALE:Be nice to him.
+SUPFEMALE:He's skittish.
+LEADMALE:Who's skittish? Just this guy from the mall.
+LEADMALE:Nobody you know.
+OTHERFEMALE:Nobody you'd like.
+SUPMALE:How do you know I wouldn't like him? He ain't your type.
+LEADMALE:He's shy and really quiet.
+SUPFEMALE:I mean, he manages this camera shop, you know? Whose type is he? He's Crystal's type.
+SUPMALE:So back off.
+LEADMALE:Oh.
+LEADMALE:Oh, you wouldn't want to introduce me to some great guy with a job.
+OTHERMALE:Crystal looks hot, Mom.
+SUPFEMALE:We went with the purple scarf and the silver earrings.
+SUPFEMALE:I begged you for those earrings.
+LEADMALE:What is going on? First you're on my case about not dating and then you doll Crystal up so she can snag some great guy with a job.
+OTHERFEMALE:He's cute.
+SUPFEMALE:He's not your type.
+LEADFEMALE:What is my type, Roseanne, some unemployed rodeo clown? Uh-oh, bachelorette number two.
+SUPFEMALE:Shut up, shut up, shut up.
+SUPFEMALE:Hey, Mom.
+SUPFEMALE:Go shoot your sister.
+LEADMALE:Ok.
+LEADMALE:I promise the next guy is for you, but this one's for Crystal.
+LEADMALE:Pull up a chair and set yourself a place, but hands off the camera guy.
+SUPMALE:Donald I don't believe you've met my sister Jackie.
+LEADMALE:It's a pleasure to meet you.
+LEADFEMALE:You went to Lanford High? Yes, Donald.
+OTHERMALE:Have they always been the Fighting Tigers? I don't know.
+SUPMALE:Let me go find out.
+OTHERFEMALE:Roseanne That's 12 questions in a row, in case you're counting.
+SUPMALE:Oh, he's just nervous.
+LEADFEMALE:That's how he tries to make conversation.
+SUPFEMALE:Get him off my back.
+SUPMALE:You begged me to fix you up with him.
+LEADMALE:That was before I found out he was the question man-what kind of car do you drive? What's your favorite soup? Did you do it in here? I didn't design this kitchen, Donald.
+LEADMALE:Jackie, were you a cheerleader? No, Donald.
+LEADFEMALE:Did you try out and not make it? You know, Crystal was on the pompom squad.
+LEADMALE:Really? Oh, dear.
+LEADMALE:Are they your own pompons or does the school provide them? They gave them to me.
+OTHERMALE:You know, Jackie was on the field hockey team.
+SUPMALE:No kidding.
+SUPFEMALE:Do you use a ball or a puck? You know what's great after a big dinner is a nice drive.
+LEADMALE:Jackie, take Donald on a nice little drive.
+LEADFEMALE:Roseanne I know.
+OTHERMALE:You want to borrow my Isadora Duncan scarf.
+LEADMALE:I've got it right here in the bedroom.
+LEADFEMALE:Can I buy this at a store? Hey, I promised the kids I'd watch movie tapes with them.
+LEADMALE:Oh, I'll go with you.
+SUPFEMALE:You work in a camera shop.
+SUPMALE:Do you send your film to a lab? What kind of a lab? A big lab? I want that guy out of here.
+LEADMALE:Tell him to leave.
+SUPFEMALE:No, I can't.
+LEADFEMALE:I'll leave.
+LEADFEMALE:Take him with you.
+SUPMALE:Not on your life.
+LEADFEMALE:You're not going to believe this! I come in here, and what do I see on this very spot? Crystal and Ed kissing.
+OTHERFEMALE:Making out? Like trying to climb each other.
+LEADFEMALE:Oh, my god! I figure I can find out what's going on if you and the Quizmaster blow.
+LEADFEMALE:Ok, but I want details later.
+OTHERMALE:I'll call you for sure.
+SUPMALE:What if he tries something? Oh, Jackie, he's annoying.
+LEADMALE:He's not desperate.
+LEADFEMALE:What's wrong with d.j. ? Oh, his death ray broke.
+SUPMALE:How did that happen? Oh, that's not important.
+LEADFEMALE:Ok, Donald, I'm ready.
+LEADFEMALE:Great.
+OTHERFEMALE:So where do you want to go? Who's driving? Is it far? Oh, you'll find out when you get there.
+OTHERFEMALE:Thanks for coming.
+OTHERMALE:Yeah, bye.
+SUPMALE:Adult time.
+LEADMALE:Everybody upstairs.
+LEADFEMALE:Go on.
+SUPFEMALE:Run along.
+LEADFEMALE:Mom, that's not fair.
+SUPMALE:We're watching a videotape.
+LEADFEMALE:Oh, yeah.
+LEADFEMALE:You're right.
+OTHERMALE:There's logic for you.
+SUPMALE:I can't wait till I have kids.
+OTHERFEMALE:They'll have to do everything I say.
+SUPMALE:Funny how Donald and Jackie hit it right off.
+SUPMALE:I thought Donald was more, say, Crystal's type, but what do I know? Absolutely nothing, my pet.
+SUPFEMALE:So, Ed Crystal What's new? Danny, I wanted to tell you-before you say anything, I was way out of line before.
+SUPFEMALE:Your intentions are good.
+LEADFEMALE:I was a complete jerk.
+OTHERFEMALE:Maybe I should leave you alone.
+LEADFEMALE:This is a family moment.
+SUPMALE:Please stay.
+LEADMALE:I want you to.
+OTHERFEMALE:Dad-listen, Danny-this is really tough for me.
+LEADMALE:Let me get the whole thing out.
+LEADFEMALE:Whatever happened between you and Mom and between you and me is history.
+SUPMALE:Let's start over.
+LEADMALE:That's great, son.
+SUPFEMALE:I can't tell you how long I wanted to hear those words, and you're right.
+SUPMALE:We've got to start over because, uh, ahem Starting over is good.
+LEADFEMALE:It's a good thing.
+SUPFEMALE:As a matter of fact, I've been starting over myself, because, uh Crystal and I have been seeing each other.
+SUPFEMALE:What do you mean, "seeing"? Well, since last Thanksgiving, uh We started getting together whenever I had a break in my schedule.
+LEADFEMALE:Sorry I didn't tell you two, but we didn't know how you'd take it.
+LEADMALE:Well, are you happy? Yes, I am.
+OTHERFEMALE:Well Then I'm happy for you.
+LEADMALE:As to how Dan's going to take it, well Take it, Dan.
+LEADFEMALE:You're more than 20 years older than she is.
+SUPMALE:I've done the math.
+LEADMALE:You knew her as a kid.
+SUPMALE:She's grown.
+SUPMALE:With a kid.
+SUPFEMALE:We've met.
+LEADMALE:So what do you want? I wanted you to know.
+SUPFEMALE:I felt idiotic coming around here without stopping by.
+LEADFEMALE:We felt so sneaky.
+SUPMALE:Now we know.
+LEADFEMALE:Good.
+SUPMALE:Dan I'm going with it, Roseanne.
+LEADFEMALE:You're not upset? Well, to be honest, I feel a little bad for Donald.
+LEADFEMALE:Donald the question man? Oh, I'm glad you're good with this, because we're getting married.
+LEADFEMALE:That's it.
+SUPFEMALE:Where are you going? Somewhere else.
+LEADFEMALE:Dan.
+LEADMALE:I'm sorry.
+LEADMALE:Get inside, Crystal.
+LEADFEMALE:I'm not going.
+SUPMALE:It's freezing out here.
+LEADMALE:We want your blessing, Dan.
+LEADMALE:You don't know what you're getting yourself into.
+SUPMALE:You're expecting a husband, companion, a father for Lonnie.
+LEADMALE:Forget it.
+LEADMALE:He won't be there for you.
+LEADFEMALE:Dan, I love him.
+LEADFEMALE:Why? He's kind and he's generous and he's funny.
+SUPFEMALE:He reminds me a lot of you, Dan.
+LEADFEMALE:Congratulations, Crystal.
+LEADFEMALE:You figured out the exact wrong thing to say.
+OTHERFEMALE:Well, it's true, you know.
+LEADFEMALE:You just don't give the man any credit.
+OTHERMALE:I've known him all my life.
+LEADFEMALE:I know exactly what's going to happen.
+SUPFEMALE:A year from now you'll be lonelier than ever, and you'll be married.
+LEADFEMALE:You won't even have the clowns Roseanne sets you up with.
+LEADFEMALE:I'll take that chance.
+LEADFEMALE:Then I'm done talking.
+SUPFEMALE:Dan, it can't be like this.
+SUPMALE:Whether you like it or not, I'm marrying your father, and, well, I'll kind of be like your mother.
+LEADFEMALE:I want your blessing.
+SUPFEMALE:I'm sorry, Crystal.
+SUPMALE:Well, then, Dan Conner, you don't get your coat back.
+LEADFEMALE:Thanks, Mom.
+LEADFEMALE:More coffee? Whole pot.
+SUPMALE:Pour it on me.
+OTHERFEMALE:Anything you say, dearest.
+LEADFEMALE:You know, a lesser man would have come back in for his coat.
+LEADMALE:I didn't want to see my father.
+OTHERMALE:We got to figure out how to deal with this.
+LEADFEMALE:Deal with what? We buy a gift and show up at the wedding.
+LEADMALE:I think I'll buy her an electric wok.
+LEADMALE:I'm not going to the wedding.
+LEADFEMALE:Yes, you are.
+LEADMALE:You're the best man and I'm the matron of honor.
+OTHERFEMALE:We'll walk down that aisle just like old times, only this time we need a wider aisle.
+OTHERMALE:Oh, yeah? Who decided all this? My best friend Crystal asked me to help plan her wedding, and I said yes.
+LEADMALE:What are you, crazy? You know this thing's a mistake.
+SUPMALE:No, I don't, Dan.
+OTHERFEMALE:I see two people who obviously love each other.
+LEADMALE:They're just looking for some support from their family and friends.
+SUPFEMALE:You're not doing this, Roseanne.
+LEADFEMALE:You know, you're really sexy when you attempt to be assertive.
+SUPFEMALE:I'm serious.
+LEADMALE:You're not going, neither am I, and that's an end to it.
+OTHERMALE:No, it ain't.
+LEADFEMALE:Do you like the pie? It's apple, my favorite.
+LEADMALE:What's your favorite pie? Your coffee hot enough? I hate cold coffee.
+OTHERFEMALE:I come here every day.
+LEADFEMALE:I work here.
+OTHERFEMALE:What do you do? I'll bet you're good at it.
+LEADFEMALE:I sell cameras right here in the mall.
+SUPFEMALE:Oh, that must have hurt.
+SUPMALE:You need an aspirin? Anybody got an aspirin? You want regular or buffered?
+OTHERMALE:

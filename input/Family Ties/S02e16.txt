@@ -1,0 +1,332 @@
+SUPFEMALE: is it midnight yet? Eight more minutes.
+LEADFEMALE:Mallory's never violated her curfew before.
+OTHERFEMALE:She still has eight minutes, Elyse.
+LEADMALE:That's right.
+LEADFEMALE:Seven minutes.
+LEADFEMALE:Come on, Steven.
+LEADFEMALE:This is silly.
+LEADMALE:We should be happy that she's going out with someone as nice as Rick.
+LEADMALE:He's a terrific kid.
+SUPMALE:He's a terrific college man, Elyse.
+LEADFEMALE:He's 18.
+SUPFEMALE:She's 16.
+LEADFEMALE:That's only two years' difference in their age.
+SUPFEMALE:That is a very big difference at this age, Elyse.
+LEADFEMALE:Let him come back when he's 35 and she's 33.
+OTHERMALE:We know Rick.
+LEADMALE:We like Rick.
+OTHERMALE:He's never been anything but a perfect gentleman with me.
+LEADMALE:It's not you I'm worried about, Elyse.
+SUPMALE:Mallory's here.
+OTHERFEMALE:Let's get out of here.
+LEADFEMALE:Why? We don't want her to know we've been waiting up for her.
+LEADFEMALE:Oh, right.
+LEADMALE:Right.
+LEADFEMALE:Oh, the kitchen.
+LEADFEMALE:The bedroom.
+SUPMALE:Bedroom.
+LEADFEMALE:Oh! The kitchen.
+LEADFEMALE:The kitchen.
+LEADMALE:We made it.
+LEADMALE:With five minutes to spare.
+OTHERMALE:I had so much fun at that party, Rick.
+LEADMALE:I like your friends a lot.
+SUPMALE:They liked you, too.
+LEADMALE:Three different guys asked me if you had any sisters.
+LEADMALE:Really? Yeah.
+SUPMALE:Oh, by the way, tell Jennifer that Biff, rocky, and Howard will be calling her tomorrow.
+LEADFEMALE:Well, here we are again Our couch.
+SUPMALE:I'm beginning to feel like I should pay rent on it.
+LEADMALE:You don't need to.
+SUPMALE:The landlady likes you.
+LEADMALE:That was really nice.
+LEADFEMALE:Yeah, let's do it again sometime.
+LEADMALE:I'm free now.
+LEADFEMALE:Whoa.
+LEADMALE:I think you better go now, Rick.
+SUPFEMALE:I'm expected to walk to my car after this? Rick.
+SUPMALE:Sorry, but it's hard for me to get worked up like this every time I go out with you and then just drive home alone.
+OTHERFEMALE:It isn't easy for me, either.
+LEADMALE:Mallory We've been seeing each other for four months now, and they've been four of the best months of my life.
+LEADMALE:I feel the same way.
+SUPMALE:But for us to keep going together, I think we need to explore new territory expand the horizons of our relationship, and And discover the wonders of nature.
+LEADMALE:Are you trying to say we should go camping? This this is tough for me to to ask you this, 'cause I hear myself and I sound like a Like another guy coming on to a girl when When you know that's not what's going on here.
+SUPMALE:Don't you? I do.
+LEADMALE:But it's a big step for me, Rick.
+SUPMALE:I know.
+OTHERMALE:I know.
+LEADFEMALE:But look at it this way You won't have to go through it alone.
+OTHERFEMALE:I'll be with you.
+SUPFEMALE:Oh, is that how it works? Pretty much.
+LEADMALE:Think about it? I will.
+LEADMALE:So, Mallory, what are you gonna do about Rick? Are you gonna sleep with him? I don't know.
+SUPMALE:I haven't decided yet.
+SUPFEMALE:The way I see it, you got two choices You do it or you lose him.
+LEADFEMALE:That's not true.
+SUPFEMALE:Oh, come on, margo.
+LEADFEMALE:Rick's in college.
+LEADMALE:If Mallory won't sleep with him, he can find plenty of girls who will.
+SUPMALE:Sex is practically on the curriculum.
+LEADFEMALE:That's no reason to do it.
+SUPMALE:Are you in love with Rick, Mallory? I'm not sure.
+LEADFEMALE:I might be.
+SUPFEMALE:I know I've never felt this way about any other guy.
+LEADFEMALE:Bill and I have been going together for two years.
+SUPFEMALE:We're in love, and we haven't slept together.
+LEADMALE:What do you want, a medal? No.
+SUPFEMALE:I just want Mallory to know she doesn't have to rush into anything.
+LEADMALE:I'm not so sure about that.
+LEADFEMALE:Guys like Rick don't walk into your life every day.
+LEADMALE:At least your first time will be something worth remembering, not like mine and Danny frankl You and Danny Franklin? Kathy, you didn't tell us.
+LEADFEMALE:This is major information here.
+LEADMALE:It was a mistake.
+SUPMALE:I got carried away.
+OTHERMALE:I mean, he didn't love me.
+OTHERMALE:He just wanted to go to bed with me Like any man in his right mind.
+SUPMALE:Hi.
+SUPFEMALE:Just wanted to make myself a sandwich.
+LEADFEMALE:Well, do you have to do it in here? This is where we keep the food.
+SUPMALE:Dad.
+SUPMALE:Never mind.
+SUPMALE:I'll just go gnaw on the woodwork.
+OTHERFEMALE:Mallory if you decide to do this, be sure to get some birth control.
+LEADMALE:Well, Rick said he'd take care of that.
+LEADMALE:You can't rely on the guy, Mallory.
+LEADMALE:He's not the one who's gonna get pregnant.
+SUPFEMALE:I don't know.
+SUPMALE:Isn't it kind of unromantic to plan the whole thing? It's also unromantic to be 16 and pregnant.
+OTHERMALE:Okay, on that happy note um, we got to go.
+SUPFEMALE:I was supposed to pick up my mom a half-hour ago.
+LEADFEMALE:Call me if you want to talk about it, okay? Okay.
+LEADMALE:Thanks.
+LEADMALE:See you, mal.
+LEADMALE:Bye, mal.
+SUPMALE:Did I just hear your friends leave? Yeah.
+LEADMALE:Kathy had to pick her mom up.
+SUPMALE:Ah.
+LEADFEMALE:You need any help cleaning up? No, thanks.
+LEADFEMALE:Can we have a talk, Mallory? Sure.
+SUPFEMALE:Yeah, I-i don't know exactly how to put this, so I'll just I'll just come right out and say it.
+LEADFEMALE:Are you and Rick You know? You know? Not exactly how I meant to phrase it.
+SUPFEMALE:It shouldn't be so hard for me to talk to you about sex.
+LEADMALE:I'm your mother.
+LEADMALE:I knew you before you were born.
+OTHERMALE:Do we have to talk about this, mom? Well, yeah, we do.
+SUPFEMALE:See, Mallory, I-i know how you feel about Rick, and I-i thought maybe you'd be confused and you could use a talk.
+LEADFEMALE:I don't know what you mean, mom.
+SUPFEMALE:I'm not confused at all.
+LEADFEMALE:Oh, I've got a lot of homework to get done, so, um, I better get started.
+SUPMALE:Here.
+LEADFEMALE:Have a cookie.
+LEADFEMALE:I got to go.
+LEADMALE:I-I don't want a cookie.
+LEADMALE:I-i want to talk.
+LEADFEMALE:Jennifer, is this absolutely necessary? I told you I have a school assignment to record family conversations.
+LEADMALE:What are you studying to be, an FBI agent? Alex, this is Jennifer's school project.
+LEADFEMALE:We'll be glad to help.
+SUPMALE:Jennifer, if you don't mind.
+LEADFEMALE:Dad, why don't we take a break, get a snack? Funny how you always want to take a break when I'm winning, Alex.
+LEADFEMALE:Checkmate, dad.
+LEADFEMALE:You happy? How'd he do that? Louder, dad.
+OTHERFEMALE:How did he do oh.
+LEADMALE:Well, I guess this is good night.
+LEADMALE:It has the usual elements.
+SUPFEMALE:It's dark out, and you're shutting the door in my face.
+OTHERFEMALE:You know, I think there's a chance I might get to like you.
+LEADMALE:You think so, huh? Just a hunch.
+LEADFEMALE:And you? Uh, I'm not sure.
+SUPFEMALE:Maybe.
+SUPMALE:Um, Mallory have you given any thought to what we talked about the other night? It did cross my mind a few thousand times.
+SUPFEMALE:Well, look, I-i know that That you have some doubts about this, that it's a big step for you, but I've been thinking about it, too, and I have a few things to say on the subject Rick My answer is yes.
+LEADFEMALE:I-I got so nervous, I forgot the rest of my My my speech.
+LEADFEMALE:Thank you.
+SUPMALE:Oh, al Alex, you busy? Uh, yeah, kind of, dad.
+SUPMALE:Look, look, Jennifer's getting frustrated about this project of hers.
+OTHERMALE:She hasn't gotten a usable conversation on tape yet.
+SUPMALE:Well, I'm trying to figure out a calculus problem, dad.
+SUPFEMALE:Come on.
+LEADMALE:Come on.
+OTHERMALE:It'll just take a second.
+LEADFEMALE:Look, when I press "record," let's have a spontaneous conversation.
+LEADMALE:So Alex, my son I see you're doing some math homework.
+LEADMALE:Yes, dad.
+OTHERMALE:My father.
+LEADFEMALE:I sure am.
+LEADMALE:How goes it? All goes well, dad.
+OTHERMALE:Great thing about numbers You can always count on 'em.
+LEADFEMALE:Oh! Oh, my.
+OTHERFEMALE:That is very funny.
+SUPFEMALE:Dad? Yes? This is the most boring conversation I have ever had.
+LEADFEMALE:I know.
+SUPFEMALE:Me me too.
+SUPMALE:We're putting too much pressure on ourselves to be spontaneous.
+LEADFEMALE:See you later, son.
+LEADMALE:Alex, do you have a minute? I want to ask you a question.
+SUPMALE:I'm all ears.
+LEADMALE:Well, you're a guy.
+SUPFEMALE:Mallory, uh I'm not just a guy.
+LEADFEMALE:I like to think of myself as a guy and a half.
+LEADFEMALE:What's up? Okay, I was wondering How important is sex to a guy? Well, I'd say it has a certain importance.
+LEADFEMALE:Well, on a scale of 1 to 10.
+SUPMALE:That's what I thought.
+SUPMALE:Wait.
+LEADMALE:Why are you asking me this? I'm just making conversation.
+SUPMALE:No, no, no, no, no.
+OTHERFEMALE:This is not conversation.
+LEADFEMALE:Conversation is, uh, "how you doing?" Uh, "looks like rain.
+LEADMALE:" "Care for a waffle?" There's something going on here you're not telling me.
+LEADMALE:Wait a minute, Mallory.
+LEADFEMALE:Uh, has Rick Asked you to visit his tepee? You mean sleep with him? Yeah.
+LEADFEMALE:Yeah, has he? Well, yeah, he has.
+LEADMALE:Oh.
+LEADFEMALE:Well, when you said you wouldn't sleep with him I mean, you were nice to him.
+LEADMALE:I mean, you let him down easy, I hope.
+SUPMALE:I said yes.
+LEADFEMALE:I see.
+OTHERFEMALE:Uh, just a moment.
+SUPMALE:Are you crazy? Is this the way I brought you up? Cut it out, Alex.
+SUPFEMALE:Look, Mallory, you're making a big mistake here.
+LEADMALE:You are 16 years old.
+LEADFEMALE:That is too young.
+LEADFEMALE:Well, have you ever? Have I ever what? Had someone visit your tepee.
+LEADFEMALE:Me? Of course I have.
+LEADMALE:But I was much older than you.
+OTHERFEMALE:You're 16.
+SUPMALE:I was 17.
+SUPMALE:And a half.
+LEADFEMALE:I was 17, 8 months, and 3 days, and it was leap year.
+SUPFEMALE:You're babbling, Alex.
+LEADMALE:Look, Mallory, y-you just can't do this.
+OTHERMALE:It's wrong.
+OTHERMALE:You're not ready yet.
+LEADMALE:Why wasn't it wrong when you did it? Oh, come on.
+LEADFEMALE:That's different.
+SUPMALE:I'm a guy.
+SUPMALE:That is such a double standard, Alex.
+SUPMALE:If a guy loses his virginity, he's some kind of hero, but if a girl does, she's ruined her life? That's stupid.
+LEADFEMALE:Well, it may be stupid, but it's the law of nature.
+SUPFEMALE:You can't fight that.
+SUPFEMALE:Look, it's your duty as a woman to say no.
+LEADFEMALE:You know, if women shirk that responsibility, men, uh, men would never get any work done.
+OTHERFEMALE:Well, Alex, it's obvious that you can't be objective about this.
+SUPMALE:Why do you want to do this, Mallory? Well, I care very much about Rick.
+LEADFEMALE:And I'm attracted to him.
+OTHERFEMALE:I'm curious.
+SUPFEMALE:I'm curious about astronomy.
+SUPMALE:You don't see me riding the space shuttle.
+LEADFEMALE:Look, uh, Mallory Why don't you, uh Why don't you talk to mom about this? She lives for this stuff.
+LEADFEMALE:I can't do that, Alex.
+SUPMALE:You know how hard it is to talk to parents about this.
+LEADFEMALE:All right.
+SUPFEMALE:Okay.
+OTHERMALE:Well, whatever you decide to do, don't do it.
+OTHERMALE:Alex, I know, in your own warped way, you've tried to help.
+OTHERFEMALE:I appreciate it.
+SUPFEMALE:Why are these kids in such a hurry to grow up? Well, this is it.
+OTHERMALE:The folks from architectural digest will be here next week, so try not to mess up.
+LEADMALE:I'll do my best.
+LEADFEMALE:Allow me to take care of a few details.
+SUPMALE:First Mood lighting.
+LEADFEMALE:Second, soft music.
+OTHERFEMALE:Oh.
+LEADFEMALE:The stereo's broken.
+LEADFEMALE:I forgot.
+LEADMALE:Uh mm-mmm it's the best I can do.
+SUPMALE:And finally some flowers.
+LEADFEMALE:They have to be back by midnight.
+SUPMALE:So do I.
+SUPFEMALE:Mm, Rick, did you get what we talked about? Birth control? Oh.
+LEADFEMALE:Um I stopped by the drugstore on the way to pick you up.
+LEADFEMALE:Uh, I also got some, uh, dental floss and baseball cards, too.
+LEADMALE:Thanks.
+LEADMALE:Oh, no problem.
+LEADFEMALE:Uh, I got doubles of Reggie Jackson if you want one.
+SUPFEMALE:Rick, how do you feel right now? I mean, are you happy we're gonna do this? You can't begin to imagine how happy.
+LEADMALE:What's the problem? I don't know.
+SUPFEMALE:I'm just a little nervous about this, that's all.
+LEADFEMALE:That's only natural.
+SUPFEMALE:Could we talk for a little while first? Sure.
+LEADFEMALE:What do you wanna talk about? I don't know.
+LEADFEMALE:We never had trouble making conversation other times.
+LEADMALE:Yeah, well, other times haven't been right before we're about to make love.
+LEADFEMALE:That is just the point, Rick.
+SUPFEMALE:I mean, things shouldn't change because of sex.
+LEADMALE:If if we can make conversation other times, we should be able to make conversation now.
+SUPMALE:Let's talk.
+SUPFEMALE:Um Did you enjoy dinner tonight? Very much.
+OTHERMALE:Me too.
+SUPMALE:Okay, I'm ready.
+OTHERFEMALE:Mallory, look The last thing I want to do is to put any pressure on you.
+LEADMALE:If you don't want to do this, if you don't want to make love tonight, then just say so.
+LEADMALE:I don't want to make love tonight.
+LEADFEMALE:Why not?! We talked about it.
+LEADMALE:We we planned on it.
+SUPFEMALE:I got the flowers.
+LEADMALE:I thought I wanted to sleep with you, and now all of a sudden I'm scared.
+SUPFEMALE:I don't know if I'm ready for this.
+SUPFEMALE:Mallory, I care about you.
+LEADMALE:I really do.
+LEADMALE:But I'm not in high school anymore.
+LEADMALE:And if we're gonna have a relationship, it's got to keep moving forward.
+SUPFEMALE:And is sex the only way that's gonna happen? No, no, no.
+LEADFEMALE:It's not the only way.
+LEADMALE:But it's definitely my favorite.
+LEADFEMALE:Maybe I should go home now.
+SUPFEMALE:That's a good idea.
+LEADMALE:Why don't you? Are we gonna see each other again? I don't know.
+LEADFEMALE:Oh.
+OTHERMALE:Hi, Mallory.
+SUPFEMALE:You're home early.
+LEADFEMALE:How was your date with Rick? Fine.
+SUPMALE:What did you do? Oh, uh, gosh.
+SUPMALE:We saw a movie.
+LEADFEMALE:Ah.
+LEADMALE:What did you see? Uh I forget exactly.
+SUPMALE:Something part two.
+SUPFEMALE:Well, where's Rick? Why didn't he come in with you? He didn't bring me home.
+OTHERFEMALE:We had a fight.
+LEADFEMALE:Ah.
+LEADMALE:Uh, do you want to talk about it? Mom, if I ask you something, do you promise not to ask why I'm asking? All right.
+LEADMALE:Is there any way to know when is the right time in your life for sex? Oh, why do you ask? Don't worry.
+LEADMALE:Nothing's happened.
+SUPMALE:It's just sort of been on my mind lately, that's all.
+LEADMALE:I mean, whether you can ever be sure of the right time.
+SUPMALE:Can you? I-I don't think there is any positive way to know when is the right time.
+OTHERMALE:In fact, I'm not even sure there's such a thing as the absolute right time.
+LEADMALE:It's so hard for me to sort out my feelings from what my friends say or what the guy says or what I read in magazines.
+LEADMALE:Mom, I want to do what is best for me, but right now I'm too confused to know what that is.
+LEADMALE:Well, if you're confused then then I think you should wait.
+SUPMALE:You'll you'll be able to handle it much better when you're older.
+LEADMALE:I know I will.
+SUPFEMALE:And what if waiting means losing a boyfriend I like a lot? Any boyfriend worth keeping will understand.
+SUPFEMALE:He should know that sex should never be used as a test of love.
+SUPMALE:Thanks, mom.
+LEADFEMALE:I'm glad we had this talk.
+SUPFEMALE:So am I.
+LEADMALE:Mallory.
+SUPMALE:I won't stay long.
+SUPFEMALE:I just want to talk about what happened tonight.
+LEADFEMALE:Hi, there, Rick.
+OTHERFEMALE:Oh, Mrs.
+LEADMALE:Keaton, what a A pleasant surprise.
+OTHERFEMALE:Mm.
+SUPMALE:Mom, can I talk to Rick for a minute? Hmm? Oh, uh, sure.
+LEADFEMALE:I was just going up.
+SUPFEMALE:Good night, Rick.
+SUPFEMALE:What did you want to say? Mallory, I'm I'm disappointed at the way things went tonight.
+OTHERFEMALE:And I'd I'd be lying if I said otherwise.
+LEADMALE:But I took a shower, and I feel a little better now.
+LEADFEMALE:Is that what you came over to tell me? No.
+LEADMALE:No, that's not all.
+LEADFEMALE:I, uh i-i know that I'm I'm not the most sensitive guy in the world, especially when my hormones take over.
+SUPMALE:And if you don't want to go out with me anymore, I understand.
+LEADFEMALE:But I-i hope that's not how you feel, because I'd really like to keep seeing you, Mallory.
+OTHERMALE:How'd that sound? Fine.
+LEADMALE:Good.
+LEADFEMALE:I practiced it the whole ride over.
+LEADFEMALE:I do want to keep seeing you, Rick, but I'm not ready to sleep with you.
+OTHERFEMALE:Hey, that's okay.
+LEADMALE:If you're not comfortable with it, then neither am I.
+SUPMALE:Okay.
+LEADMALE:Maybe we could set Thanksgiving as the target date.
+SUPMALE:

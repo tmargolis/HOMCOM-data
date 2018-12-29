@@ -1,0 +1,353 @@
+LEADMALE:Nanu-nanu.
+SUPFEMALE:( loud clank ) Shazbot! Ow.
+LEADMALE:Ow.
+LEADFEMALE:Eer, ow, ooh.
+LEADMALE:Ah, hah, hah.
+LEADFEMALE:That's enough.
+OTHERMALE:I'll tell you what you want to know.
+LEADFEMALE:I don't believe you.
+LEADFEMALE:Don't you get haircuts on Ork? No, we try to avoid them because of the noggachomps.
+LEADFEMALE:"Noggachomps"? What's that? It's a small green creature about this big.
+LEADMALE:We put them on our heads and let them graze.
+SUPMALE:They're vicious little animals.
+SUPMALE:Kind of ( snarling ).
+LEADFEMALE:That sounds dangerous.
+SUPFEMALE:Oh, only if you fall asleep in the chair.
+LEADMALE:Occasionally a maverick will get loose from the herd and run down your neck.
+OTHERFEMALE:That's why we have to set traps in our shorts.
+SUPMALE:What a horrible system.
+LEADFEMALE:Mindy, you don't understand Orkan philosophy.
+LEADMALE:If something works, don't fix it.
+LEADFEMALE:Well, there, you look much better.
+LEADMALE:Ah.
+SUPMALE:You're all done.
+LEADFEMALE:Ooh, ah, I feels worse, though.
+LEADMALE:How much do I owe you? Where did you get the money? I baby-sat for Eugene.
+LEADMALE:Here, six big ones.
+LEADMALE:Well, you just keep the money.
+OTHERFEMALE:The haircut is on me.
+LEADMALE:No, it's on me.
+SUPMALE:( phone ringing ) Hello? Hello.
+LEADFEMALE:Brad.
+LEADMALE:( nasally ): Hi, there.
+SUPMALE:How are you? Well, it's so nice to hear from you again.
+SUPFEMALE:Nice to hear from you, too.
+OTHERMALE:I thought you were in law school somewhere.
+OTHERFEMALE:I'm out now Ow! Well, congratulations.
+SUPFEMALE:No big deal.
+OTHERFEMALE:Uh Here, go water yourself.
+SUPFEMALE:Oh.
+OTHERFEMALE:Well, sure, that would be fine.
+LEADFEMALE:I'd love to have dinner.
+OTHERFEMALE:Sure.
+OTHERMALE:All right, 7:30 it is.
+LEADFEMALE:Okay, great, I'll see you then.
+LEADMALE:Bye.
+LEADMALE:Mork, I have a date.
+SUPFEMALE:Don't tell me June 2, 1852.
+LEADFEMALE:No, I mean this guy that I really used to like is back in town and we're going to have dinner tonight.
+LEADFEMALE:Oh, good, where are we going? "Where are we going?" Oh, boy.
+SUPFEMALE:Mork, you know I've been thinking.
+SUPFEMALE:You and I have I think we've been seeing too much of each other lately.
+OTHERMALE:Well, then all you have to do is close one eye.
+LEADFEMALE:No, I mean, I think you should get out and meet more people.
+LEADFEMALE:You know, see more things.
+OTHERFEMALE:Oh, I get it.
+LEADMALE:Two's company, "we's" a crowd.
+LEADFEMALE:Oh, no.
+SUPMALE:No, not that, necessarily.
+LEADFEMALE:I mean, for your own development you really should get out and meet more people.
+LEADMALE:Like who? Are you ready to start the inventory, Cora? Certainly, Fredzo.
+SUPFEMALE:And don't call me Fredzo.
+SUPMALE:It sounds like a detergent.
+LEADMALE:Yes.
+SUPFEMALE:Now, let's see, there are one, two, three, four, five, six Meat Loaf albums.
+LEADFEMALE:Six Meat Loaf.
+SUPMALE:Mm-hmm.
+LEADMALE:One, two, three, four Nine Bread albums.
+OTHERMALE:Nine Bread.
+LEADMALE:This isn't an inventory.
+SUPFEMALE:It's a grocery list.
+LEADMALE:Hi, Grandma.
+LEADFEMALE:Oh.
+LEADMALE:Oh, hello, darling.
+OTHERMALE:Daddy.
+LEADFEMALE:How's the nicest, sweetest, most wonderful father in the world? Suspicious.
+SUPFEMALE:Now you think I want something from you? Is that how little you think of your own daughter? Well, as a matter of fact, I have something for you.
+LEADMALE:Two free tickets to tonight's basketball game.
+LEADFEMALE:You're taking Mork.
+SUPFEMALE:That's the nicest thing you've given me since the chicken pox.
+LEADMALE:Fredzo, it's only 11:00.
+SUPMALE:You're not usually a wiener before noon.
+LEADFEMALE:See, Dad, I need Mork out of the house tonight.
+LEADMALE:I have a date.
+OTHERFEMALE:With a human? That's wonderful.
+LEADFEMALE:Yeah, well, it won't be wonderful if he comes to pick me up at my place and finds Mork there.
+LEADFEMALE:That's why you just have got to take him to that game.
+OTHERMALE:But Mindy, I detest basketball.
+SUPFEMALE:Oh, but Dad, I haven't had a date since Mork moved in.
+LEADFEMALE:Every time the phone rings, I almost hope it's heavy breathing.
+LEADMALE:I didn't hear that.
+OTHERMALE:Basketball.
+SUPFEMALE:How can anybody sit through a game that has so much dribbling? Well, if I can't date other men I guess I'll just have to settle down with Mork and have cute little green babies that drink their formula with their finger.
+SUPMALE:Free throw! One-on-one! Jump shot! Dunk shot! I'll go! I'll go! MINDY: That was such a nice dinner, Brad.
+LEADFEMALE:Here's to the old times.
+SUPFEMALE:Here's to the new times.
+LEADFEMALE:All right.
+LEADMALE:Brad, can I ask you something kind of dumb? Sure.
+SUPMALE:How come you never asked me out when we were in high school? Because I was a jerk.
+LEADFEMALE:Yeah, you were.
+SUPFEMALE:I wish I'd kept in touch with you, Mindy.
+OTHERMALE:You're a wonderful girl.
+LEADFEMALE:Yeah, I am.
+LEADFEMALE:Greetings! Mork! ( humming ) What are you doing here? Dribbling.
+LEADFEMALE:Oh, is this the guy you used to like? Mork, this is Brad Jackson.
+SUPMALE:Brad, this is my friend Mork.
+LEADMALE:Hi.
+SUPFEMALE:I'm glad to meet you.
+LEADFEMALE:Nanu-nanu.
+LEADMALE:Certainly.
+LEADMALE:So is "Mork" your first or last name? Yes.
+LEADFEMALE:Did you enjoy having food with Mindy? Yes, I did.
+SUPFEMALE:So do I.
+SUPFEMALE:Everybody enjoys having food with Mindy.
+SUPFEMALE:So, did the basketball game end early? I guess so.
+LEADFEMALE:After about an hour, your father stopped it.
+LEADMALE:My father stopped it? Yeah, he said, "This has gone on long enough.
+SUPMALE:" Oh, Mork, what did you do? Oh, lots of things.
+LEADMALE:I had a great time.
+SUPFEMALE:Ever been to a basketball game? My favorite part was when I got to dance.
+LEADMALE:You danced? Oh, yeah, that part at the beginning, where they played the music, everyone stood up and Oh, say can you see? He's a great kidder.
+LEADMALE:Then some man asked me to pass him his coffee, so I did.
+LEADFEMALE:He didn't catch it, though.
+LEADMALE:That's too bad.
+SUPMALE:But your father caught it with his pants.
+LEADFEMALE:Then it was his turn to dance.
+OTHERFEMALE:Then we went to a place called the rest room.
+SUPFEMALE:I didn't get any rest there, though.
+LEADFEMALE:I had a terrible seat.
+LEADMALE:Couldn't even see the game.
+LEADFEMALE:We went back and some woman asked me to hold her seat, so I.
+LEADMALE:Never mind.
+SUPFEMALE:I know, that's when they made us leave.
+SUPFEMALE:Uh, are you a friend of the family? No, I live here.
+LEADFEMALE:Live here? Oh, Brad, see, it's not what you think.
+LEADMALE:Mindy, he lives here with you, and you go out with other men? Oh, yeah, but you see, uh Mork, Brad and I aren't quite finished yet.
+SUPMALE:Oh, I see, you're still hungry.
+LEADMALE:Mork I'll whip up my special dessert.
+LEADMALE:No, Mork.
+LEADMALE:Oh, for you, le monde, mama.
+LEADMALE:( barks ) Stay.
+LEADMALE:Maybe I should leave.
+SUPMALE:No, Brad.
+OTHERMALE:No, Brad, stay.
+SUPMALE:We'd like to get to know you better.
+LEADMALE:Mork.
+SUPMALE:( Mork whistling, humming ) You see, Mork and I live together, but I still go out with whoever I want.
+LEADMALE:I mean Mindy, I I don't know what your idea of a relationship is, but I-I'm not a swinger.
+LEADFEMALE:Well, neither am I.
+OTHERFEMALE:Oh, swinger.
+LEADMALE:Baseball.
+OTHERFEMALE:( swishing sound ) How about them Broncos? Brad, I'd really like to see you again.
+LEADFEMALE:Oh, we'll get together again.
+LEADMALE:Soon.
+LEADFEMALE:Hey, wait.
+LEADMALE:You missed the bologna sundae.
+SUPMALE:Your eyes are leaking.
+LEADFEMALE:Are they? That means something has hurt you, doesn't it? Yes.
+OTHERFEMALE:Brad did something, that slimemunger.
+LEADMALE:I'll follow him to the ends of the universe.
+OTHERMALE:I'll vaporize his entrails.
+LEADFEMALE:No, Mork.
+LEADMALE:It's not what Brad did.
+LEADFEMALE:It's that Brad misunderstood our relationship.
+SUPFEMALE:That's what made me sad.
+LEADFEMALE:Ever since you moved in, guys have stopped asking me out.
+OTHERFEMALE:And then when somebody does finally like me, like Brad, well He think that you and I are Lovelings.
+OTHERFEMALE:Yeah.
+SUPMALE:And then when I tell them we're not, they either don't understand or they don't believe the situation, so I end up not going anywhere, I never go out.
+LEADFEMALE:I guess I'm feeling kind of lonely.
+OTHERFEMALE:It's all because I'm staying here, isn't it? No, it's not your fault.
+LEADMALE:It was my idea in the first place to have you move in.
+LEADMALE:I just have to work this out.
+SUPFEMALE:Night.
+SUPFEMALE:( door closes ) Hm.
+LEADMALE:Leaking.
+LEADMALE:Come on, Mork, get up.
+LEADFEMALE:Breakfast.
+SUPMALE:What do you want, pancakes? Waffles? Gladiolas? Come on, you lazy Orkan.
+LEADMALE:MORK: "Mindy, I know you are sad "because people think you and I are lovelings.
+LEADFEMALE:"I don't want you to be sad anymore, "so I'm going away.
+OTHERFEMALE:"If people from Ork knew how to love, "I'm sure I would love you.
+OTHERFEMALE:"But I don't even understand what love is.
+SUPMALE:Love, Mork.
+LEADFEMALE:" You're doing that very well, Eugene.
+LEADMALE:Grandma Hudson, thank you for letting me work today.
+SUPFEMALE:I need the money so I can buy my mom a birthday present.
+SUPFEMALE:Oh, well, that's all right, Eugene.
+LEADMALE:What are you going to buy her? The best present in the whole world.
+OTHERFEMALE:A catcher's mitt.
+LEADMALE:Wow, that's great.
+SUPFEMALE:And it'll go so well with those shin guards you gave her last year.
+LEADFEMALE:Oh, say, Eugene, uh, call me if any customer comes in.
+LEADMALE:Okay.
+SUPMALE:Guess who? Uh Stevie Wonder? What's happening, Mork?! Hey, plasma, what it is? What you doing with the suitcase? You taking a vacation? That's what I came to talk to you about.
+SUPMALE:If you were taking a vacation, where would you go? I've always wanted to see France.
+LEADFEMALE:Kay-o; dosvedanya.
+LEADFEMALE:Or maybe the Swiss Alps.
+LEADFEMALE:Hey, make up my mind.
+SUPFEMALE:It depends on how much money you want to spend.
+LEADFEMALE:Uh, six smackers.
+LEADFEMALE:You can't go to the Alps with six dollars.
+LEADFEMALE:Then France it is.
+SUPFEMALE:Arrivederci.
+SUPMALE:Or France, either.
+OTHERMALE:Hey, bummer.
+SUPFEMALE:Are you running away? How can you tell? It's written all over your face.
+LEADFEMALE:Shazbot I've broken out in words.
+LEADMALE:Psst.
+LEADFEMALE:Can you keep a secret? I don't want you to tell Mindy where I'm going.
+SUPMALE:You see, I've, I've been a lot of trouble to her.
+LEADMALE:Man, you aren't going far on six dollars.
+LEADMALE:You can't even get a place to sleep unless you stay in a flophouse.
+LEADFEMALE:Oh.
+LEADFEMALE:Sounds perfect for a flop like me.
+SUPMALE:Well, there are some places on Mission Street.
+LEADFEMALE:But they're awful seedy.
+SUPMALE:"Seedy.
+SUPMALE:" Oh, I love horticulture.
+LEADMALE:Hello, Eugene.
+LEADFEMALE:Good morning, Mr.
+LEADFEMALE:McConnell.
+SUPMALE:What's this? Looks like a suitcase.
+LEADMALE:Yes.
+LEADFEMALE:Well, somebody must have left it here.
+SUPMALE:Maybe I better open it up and see if I can find the name of the owner.
+SUPFEMALE:( making soft ray-gun sounds ) Good heavens! How did that happen? I don't know.
+SUPMALE:( blowing ) I told you never to sit on my throne! I leave you two alone for five minutes, and the whole place goes to pot! You scoff? You don't believe? I tell you, the men from Venus are coming down to take us to their planet.
+SUPFEMALE:They arrive Labor Day.
+LEADFEMALE:Then they're going to blow up the whole world! And you sit there eating a sandwich? Where's the passenger list? There's only room on the escape ship for and so far we've lined up three.
+LEADMALE:Pressure.
+OTHERFEMALE:I've been walking the streets all day, trying to find recruits.
+LEADFEMALE:My feet are killing me.
+SUPFEMALE:Gad, those make my thighs sweat.
+LEADMALE:Good-bye.
+SUPFEMALE:I saw your signs outside the Friends of Venus? I thought I'd stop by to see if there's anyone here I know.
+LEADMALE:Do you know any of the Friends of Venus? I know some people from Venus.
+SUPFEMALE:I know one guy who's kind of cute if you're into short and fuzzy.
+SUPFEMALE:His name is ( violent sniff ).
+SUPFEMALE:Gesundheit.
+LEADFEMALE:No, no, that's his name.
+SUPMALE:See, he's got a wife and a litter, and their names are ( raspberry, squeak and cheeks flapping ) I'd hate to be the child stuck with a name like ( cheeks flapping ) A believer.
+LEADFEMALE:A true believer.
+LEADMALE:What's not to believe? You believe in people from outer space? Shazbot.
+LEADMALE:Nanu-nanu.
+LEADMALE:Precisely.
+LEADFEMALE:My name is Exidor.
+LEADFEMALE:I'd like you to join me.
+SUPFEMALE:Well, if you insist.
+SUPMALE:No.
+LEADMALE:I mean, join our group, be one of us.
+SUPFEMALE:Us? Oh Well, right now, you see, I'm looking for a fliphouse to flap in.
+SUPMALE:That's flophouse.
+LEADMALE:Oh, flip, flop whatever.
+OTHERMALE:You can stay here with us.
+SUPMALE:We'll all work together.
+LEADFEMALE:Oh, work.
+SUPFEMALE:I finally got a job and a place to flip out all at once.
+SUPFEMALE:Oh, Mindy will be proud of me.
+LEADFEMALE:Mindy.
+LEADMALE:Heavy sigh.
+OTHERFEMALE:Oh, Daddy, Mork ran away.
+SUPFEMALE:You've just got to help me find him.
+LEADFEMALE:Oh.
+LEADMALE:well, look, honey, I don't know why he left, but maybe it's the best thing.
+SUPFEMALE:No, it's not, Dad! Mork is like a child here.
+SUPFEMALE:He shouldn't be out in the world alone.
+LEADFEMALE:He has no concept of trouble or danger.
+LEADMALE:Oh, Dad, if anything happened to him, ( sobbing ): I don't know what I'd do.
+LEADFEMALE:I don't want him to go.
+LEADMALE:All right honey, okay, take it easy, take it easy.
+LEADMALE:Now, I'll help you find him.
+LEADMALE:But where would he go? Oh, I don't know.
+LEADFEMALE:I've been looking all morning.
+OTHERFEMALE:Oh, wait a minute, wait a minute, I just remembered something.
+LEADMALE:This morning when I came in, there was a shiny metal suitcase right in the middle of the store.
+SUPFEMALE:Mork has a shiny suitcase.
+LEADFEMALE:And then the albums fell, and, and Eugene I don't know nothing.
+LEADFEMALE:I think we've uncovered a clue.
+LEADMALE:Mork, this is my philosophy for the Friends of Venus.
+LEADMALE:I want you to study it and memorize it so that you can go out with me and convert the non-believer.
+LEADMALE:I'll study hard and let you know when I'm ready.
+SUPFEMALE:( high-pitched hiccup ) I'm ready.
+LEADFEMALE:Very well, on your feet.
+OTHERMALE:Uh let's pretend that, uh, I am a non-believer, and you try and convert me.
+OTHERMALE:Hey, you, non-believer.
+SUPFEMALE:Good start.
+LEADMALE:But we need more power in your voice, and more conviction.
+LEADMALE:Oh, I see.
+OTHERFEMALE:Frey-und! I have need of your attention.
+LEADMALE:Friend, do you realize that the Venusians are coming down to Earth? But they're not coming here on Veterans Day, not on April Fool-es Day, but on Labor Day, Labor Day, Labor Day.
+OTHERMALE:Can you hear me, friend? I hear you! Are you ready now? Can I get a nanu-nanu? Nanu-nanu.
+LEADMALE:Thank you, friend.
+LEADFEMALE:Do you realize, friends, what they're coming here to do? Because they've come down here to blow the Earth to smithereens! But it's not that bad, friend.
+SUPFEMALE:Because they're sending a ship down here to save 1,000 of us, and they're making a list, and they're checking it twice.
+SUPMALE:Now, friend, now, you can either stay down here, in your disco, drug-infested inferno, or come up to Venus, and have your very own Venusian condominimum, with hot and cold running champagne and underwater dancing.
+LEADMALE:You must apply now! Mork! Mork that was beautiful! Why can't you be more like him?! But there's something's missing.
+LEADMALE:What we need is more of your experiences with the Venusians here on Earth.
+SUPMALE:I didn't meet them on Earth; I met them on Venus.
+LEADMALE:You've been there? Oh, yes, I've been to all the planets in your solar system.
+LEADFEMALE:Mars, Mercury, Pluto?! Oh, don't ever go to Pluto; it's a Mickey Mouse planet.
+SUPMALE:You see, Exidor, I have something to explain to you.
+SUPFEMALE:The Venusians aren't coming to blow up the Earth.
+OTHERMALE:They're not? No, you see, their technology isn't prepared for space travel.
+SUPMALE:It isn't? No, their highest invention so far has been the garbage can.
+SUPMALE:It is? And the only reason they invented that was to have something to tip over.
+LEADFEMALE:Blasphemy! I had high hopes for you, Mork.
+LEADFEMALE:You're crazy.
+LEADMALE:Mork! Oh, what a relief.
+LEADMALE:Mindy, I didn't want you to find me here.
+SUPMALE:You know, I knew as soon as I saw that Friends of Venus sign, I knew you'd be here.
+SUPFEMALE:I want you to come home with me now.
+OTHERMALE:No, you don't.
+LEADFEMALE:You just say that 'cause you feel sorry for me.
+LEADMALE:Mork, I don't feel sorry for you.
+SUPMALE:I feel sorry for me.
+LEADFEMALE:I don't understand.
+LEADFEMALE:When I'm not there, you're free to do as you wish.
+OTHERFEMALE:You have a home of your own.
+LEADFEMALE:No, what I have is an apartment.
+SUPMALE:It was only a home when there was somebody in it that I cared about.
+LEADMALE:Me? But I get in your way; you told me so.
+OTHERMALE:Oh, I know, and I'm sorry.
+LEADMALE:I was blaming you because guys stopped asking me out.
+LEADFEMALE:And then when one did ask me out I know.
+LEADFEMALE:I made a real crimluck of myself.
+LEADFEMALE:It was my fault.
+LEADFEMALE:Mork, I'm a woman, and, and a woman just sometimes needs to be held.
+SUPMALE:Mmm, that man Brad, you wanted him to hold you.
+SUPMALE:Well, not him, necessarily.
+LEADFEMALE:I really didn't get a chance to find out.
+SUPFEMALE:But yeah, every once in a while a little hug really does help get me through the day.
+SUPFEMALE:What's a hug? Oh, you know, like Like like this? Yeah.
+LEADMALE:Oh.
+LEADMALE:Soft.
+LEADFEMALE:I can understand how this keeps you going.
+LEADMALE:It's got me going, and I don't even know what it is.
+SUPMALE:Mork calling Orson.
+LEADFEMALE:Come in, Orson.
+SUPMALE:( humming ) Mork calling Orson.
+LEADMALE:Orson I am calling you-oo-oo ORSON: What a terrible connection.
+SUPMALE:Sounds like someone stepped on a frenkle's tail.
+OTHERMALE:Just me reporting from Earth.
+LEADFEMALE:And what words of wisdom are you transmitting across the universe today? I learned how to make a human happy.
+LEADFEMALE:I learned how to give a hug.
+LEADFEMALE:And a hug is? It's when you wrap your arms around a human's body and squeeze.
+OTHERMALE:I thought that's what Earthlings call wrestling.
+SUPFEMALE:No, in wrestling, you squeeze a lot harder until they sweat and go "Arrgh!" They don't sweat and go ( grunting ) when you hug them? No, they just cuddle and go "Ah!" Oh, hugging.
+LEADMALE:Amazing what pleases the primitive tribes.
+LEADMALE:I'll never understand them.
+OTHERMALE:But Orson? Yes? It was good for me, too.
+OTHERMALE:Mork! Yes, Your Immenseness.
+SUPFEMALE:This is Mork, signing off from Boulder, Colorado, until next week.
+LEADFEMALE:Nanu-nanu.

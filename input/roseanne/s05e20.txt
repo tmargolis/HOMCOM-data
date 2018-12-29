@@ -1,0 +1,330 @@
+LEADMALE:Morning, Mrs.
+LEADMALE:Conner.
+SUPMALE:Hi, David.
+LEADFEMALE:Just get up? Uh-huh.
+OTHERFEMALE:Well, I guess sometimes when you wake up, You still think you're in your old house, huh? Must be hard to break out of your old routine.
+LEADMALE:Yeah, I guess.
+LEADMALE:Mrs.
+SUPMALE:Conner, these are my underwear.
+SUPFEMALE:You really don't have to wash these.
+LEADMALE:Hey, hey! It's just laundry to me.
+LEADFEMALE:I don't mind.
+LEADMALE:I'm a professional.
+SUPFEMALE:I never want to embarrass you, David.
+LEADFEMALE:Thank you.
+OTHERMALE:Hey, Roseanne.
+OTHERMALE:Jackie, what are you doing here? You're supposed to be out buying me an anniversary present.
+LEADMALE:I'm still looking.
+LEADMALE:I want to be sure I get you something you've always wanted.
+SUPFEMALE:Can you get me into the witness relocation program? Trust me.
+LEADFEMALE:I will get you something nice.
+SUPFEMALE:I mean, 20 years, that's a biggie.
+LEADMALE:David, did you know-No, Jackie, he doesn't know what we want for our anniversary.
+LEADFEMALE:Oh, okay.
+SUPMALE:Oh.
+LEADFEMALE:'cause I thought maybe something might just pop out of his head.
+SUPMALE:What? Nothing.
+SUPMALE:What do you got planned for the big event? Oh, it's gonna be so great.
+LEADFEMALE:We're gonna go all out this time, you know? We're starting with a really romantic prime rib dinner and everything, Because, you know, the 20th anniversary Is the red meat and liquor anniversary.
+LEADFEMALE:Do you know what you're getting him yet? Well, it's kind of hard to surprise him with a gift When I give him a gift every single day.
+LEADMALE:You know, the magic that is me.
+LEADFEMALE:Oh, yeah.
+LEADFEMALE:We keep waiting for you to run out of that.
+LEADMALE:Anyway, I did have this one idea for a gift.
+LEADFEMALE:I don't know.
+LEADFEMALE:It's kind of embarrassing.
+LEADFEMALE:Oh, come on! Embarrassing is good.
+LEADFEMALE:Okay.
+SUPMALE:Well You know how, like, this year i'm kind of thinner, You know, on account of when I lost my appetite Working around food all the time And you and mom? And so I thought I'd get one of those boudoir photos, you know? Is that completely nuts? No, that's great.
+LEADFEMALE:I just thought they cost too much.
+LEADFEMALE:No.
+LEADFEMALE:I've been doing real good at saving my money, And i've been stealing your tips.
+SUPFEMALE:His own private centerfold.
+SUPMALE:Dan must have been a very good boy this year.
+LEADFEMALE:Well, you know, he's been with the company for 20 years now.
+SUPFEMALE:And this is kind of like his gold watch, you know.
+LEADMALE:Plus, it'll get him all hot and everything.
+LEADMALE:Ha ha ha ha! Ha ha ha ha! Excuse me.
+LEADFEMALE:Do you guys know i'm here? Jeez, David, I didn't know You were such a sensitive kid.
+OTHERMALE:Well, he sure is, Jackie, And you've embarrassed him.
+SUPFEMALE:Just look at his face.
+LEADMALE:Nice camouflage, zit boy.
+LEADMALE:Oh, god.
+LEADFEMALE:Ha ha ha ha ha! Hey, what you doing? I'm wrapping your present from d.j. Awesome.
+SUPFEMALE:What'd he get us? Well, if I tell you that, Then you might tell d.j. , And then he wouldn't be surprised.
+LEADFEMALE:This is something that you can open now.
+SUPFEMALE:Hey! A gift certificate To Maury's Big and Tall.
+LEADMALE:So you can get a new sportcoat For your anniversary dinner.
+SUPMALE:Heh! A man with 2 jackets.
+LEADFEMALE:I'll be the talk of the town.
+OTHERMALE:I don't know how to thank you Except to ask you to wrap Rosie's present for me.
+LEADMALE:Oh, let me see.
+OTHERMALE:Oh, Dan! A shoe rack! What do you think? She is not gonna be expecting this.
+LEADMALE:It is a good present, Dan.
+LEADFEMALE:Good, good, good.
+LEADFEMALE:Really good.
+LEADFEMALE:It's bad, Dan.
+LEADMALE:A bad present.
+OTHERFEMALE:It's really bad.
+LEADMALE:What's wrong with it? Dan, I shouldn't even Be telling you this.
+SUPFEMALE:She is spending so much money on you this year.
+LEADFEMALE:Oh, man! She's just doing it 'cause she loves you, Dan.
+SUPFEMALE:Oh, sure, she says that, But she knows I don't have any money To buy her anything nice.
+LEADMALE:If she really loved me, she'd buy me crap.
+LEADFEMALE:This is love! Oh, Dan, she knows you're broke, But you could at least get her something thoughtful.
+OTHERMALE:Don't you think I wanted to? This was always second on my list.
+OTHERMALE:Anything but a shoe rack.
+LEADFEMALE:Shoe rack.
+OTHERFEMALE:Don't think practical, Dan.
+SUPMALE:Think romantic.
+SUPMALE:I know you're no good at it, But it's not your fault.
+LEADMALE:You're a man.
+LEADFEMALE:Probably why my shoes don't match my bag.
+LEADMALE:We've been shopping all day.
+OTHERFEMALE:Why don't you just get mom that big Crystal thing? 'cause it costs too much, Deej.
+LEADMALE:Everything costs too much.
+LEADMALE:There's a valuable lesson to be learned here, son, And I think you can profit from it.
+SUPFEMALE:Daddy's in big trouble.
+LEADFEMALE:Big, big trouble.
+LEADFEMALE:Come on, let's give it up for a while.
+LEADFEMALE:I want to go use aunt jackie's gift certificate.
+SUPFEMALE:Do we have to go in the big and fat store? Big and tall, Deej.
+LEADMALE:Hey, what do you think? I like it.
+LEADMALE:Let's go.
+LEADFEMALE:No.
+SUPFEMALE:Not the right size.
+OTHERFEMALE:I like it.
+LEADMALE:Let's go.
+LEADFEMALE:Nice try, Deej.
+OTHERFEMALE:Why don't you go join those other kids over there Playing in that pant leg.
+OTHERMALE:Okay.
+SUPFEMALE:That jacket looks just great on you, sir.
+OTHERMALE:You know, black is very slimming.
+OTHERFEMALE:I'm not here 'cause i'm big.
+LEADFEMALE:I'm here 'cause i'm tall.
+LEADMALE:Oh, I see.
+SUPMALE:Then that jacket makes you look very short.
+LEADFEMALE:So, what do you think? Under 100 bucks? Sold.
+LEADMALE:I'll just take a minute and pin these up, And you'll be out of here in a sec.
+SUPFEMALE:Man, you guys do a great business here.
+LEADFEMALE:Oh, yeah.
+OTHERMALE:Well, the recession's still on, But I think that fitness craze is finally starting to pass.
+OTHERFEMALE:I'm actually shorthanded.
+OTHERMALE:Oh, yeah? You hiring? Why? Are you interested? Well, I gotta tell you, It's always been kind of a dream of mine To work in a place like this.
+LEADFEMALE:I mean, i'm big, so I know how hard it is to buy big clothes, And i've always wanted to help the large be better dressed.
+SUPFEMALE:Well, then this probably isn't for you, Because i'm only looking for someone till June.
+OTHERMALE:Perfect.
+LEADFEMALE:Because i'd shoot myself If I had to work here longer than 3 months.
+SUPMALE:I just need some bucks to buy my wife an anniversary present.
+SUPFEMALE:Can you do it on minimum wage plus 15% commission? Sold.
+LEADMALE:Terrific! Jim Ackerman.
+SUPMALE:Dan conner.
+SUPFEMALE:Thanks.
+LEADMALE:This is great, jim.
+LEADMALE:Hey, dad, look! I can get this belt around me three times! You know, that's not very sensitive, Deej.
+LEADFEMALE:The person who has to wear that belt wouldn't appreciate it.
+SUPMALE:Go run and put it back.
+LEADMALE:That's just great! That's just the attitude you need To work around here, Dan! Thanks.
+SUPFEMALE:So, jim, about our customers, Who's like the biggest, fattest guy you've ever seen? So, are you sure it's not in there? I'm positive.
+SUPMALE:There is no wedding ring in here.
+LEADFEMALE:Now stop and think.
+OTHERFEMALE:Have you retraced your steps for the last two days? Well, let's see.
+LEADMALE:I went from home to work, Work to home, home to work, The opera Work to home, home to work.
+LEADFEMALE:All right.
+LEADMALE:We just gotta keep looking for it.
+LEADFEMALE:But we gotta get out of here soon If we want to get to that Boudoir Photo place by 3:00.
+LEADFEMALE:Jackie, I can't take a slutty-looking picture Without my wedding ring.
+LEADFEMALE:I'll look cheap.
+LEADMALE:Rosie, I searched all through the closet and I couldn't find it.
+SUPMALE:Well, it's a wonder you can find anything in that closet, With all them shoes cluttering everything up.
+SUPMALE:Don't worry about it, honey.
+OTHERFEMALE:You know when you find stuff? When you stop looking for it.
+OTHERMALE:I'm gonna sit here, read this newspaper, And you watch how fast it shows up.
+LEADFEMALE:Don't you care that I lost my wedding ring? Come on, Roseanne.
+SUPFEMALE:I pulled double shift all week.
+SUPMALE:I'm exhausted.
+LEADFEMALE:Well, fine.
+LEADFEMALE:I'm gonna go look in the living room again, And if I don't find it in there, I'm getting d.j. x-rayed.
+SUPFEMALE:Did you try the vacuum bag? The vacuum bag? How the hell would it get into the vacuum bag? Psst! Psst, psst! I got the ring.
+SUPMALE:What? What are you, out of your mind? You're driving her crazy, running around like that.
+SUPFEMALE:What do you think you're do--Oh, Dan, that is gorgeous! Shh! I stole it from her when she was doing the dishes And took it to her jeweler.
+LEADMALE:See? I had them put on that extra band with a diamond, And those three little garnets represent each one of the kids.
+LEADFEMALE:Dan.
+LEADMALE:hey, I don't hear you guys looking in there.
+LEADFEMALE:Get off my back, woman! Oh, it's beautiful.
+OTHERMALE:How'd you swing that? Oh, i'm paying for it in installments, So by our She'll own it outright.
+LEADFEMALE:She is gonna be blown away by that, But you can't let her keep looking for it.
+SUPMALE:She's going nuts.
+SUPFEMALE:I know, but this is the biggest surprise I ever tried to pull off in my life.
+SUPFEMALE:I can't give it to her till Saturday.
+LEADMALE:Well, I guess I have to start looking in here again.
+LEADFEMALE:Oh! Rosie! Jackie! Come here, quick! What? Did you find it? Yeah.
+LEADFEMALE:I think I see it down here in the drain.
+LEADFEMALE:I can see it! I can see it! Well, maybe I could see it If you'd move your big head.
+OTHERFEMALE:Oh, there it is.
+LEADMALE:You're right.
+LEADMALE:That is my ring.
+SUPFEMALE:Are you sure? Dan, I think I would know if I saw my own wedding ring, okay? Take that drain out! Roseanne, that's a big job.
+SUPFEMALE:I don't have the right kind of tools right now.
+LEADMALE:Roseanne, I need you to come with me right away And talk about something personal, And I need to talk about it somewhere else Before3:00.
+LEADMALE:Oh, yeah, okay.
+LEADMALE:Well, you want to talk to me, so okay.
+LEADMALE:I'll go get my coat.
+LEADMALE:Hello.
+LEADMALE:Yeah.
+OTHERFEMALE:Hey, jim.
+LEADFEMALE:How's it going? Oh, man, no.
+LEADFEMALE:I can't work Saturday night.
+LEADFEMALE:It's my anniversary.
+LEADMALE:Well, sure, I want to keep it, but-No, i'll be there.
+SUPMALE:No.
+LEADMALE:Don't worry.
+SUPFEMALE:My wife will understand.
+LEADMALE:Just one thing.
+LEADFEMALE:Could you swing by in a ski mask And drag me off at gunpoint? No! Next! Hold on.
+LEADFEMALE:I got it.
+SUPFEMALE:This-Dan would love this.
+SUPFEMALE:A maid's uniform? This is supposed to be fantasy, not reality.
+LEADMALE:Don't worry.
+SUPFEMALE:I'll find something.
+SUPFEMALE:Do you suppose those things are like bowling shoes? You think they spray them after every time? Here.
+OTHERFEMALE:Try this.
+LEADMALE:Ooh, that's really pretty.
+SUPMALE:Ooh! Hey, how do I sneak these out under my clothes? You don't have to.
+SUPMALE:They're yours.
+LEADMALE:Happy anniversary! Oh, thank you! God, it's so beautiful.
+LEADMALE:Now i'll look like the kind of hooker you gotta save up for.
+SUPFEMALE:Okay.
+LEADFEMALE:Are we about ready? Yeah.
+LEADFEMALE:She's just getting all trashed up.
+LEADFEMALE:Good, good.
+SUPMALE:So, Mrs.
+LEADFEMALE:Conner, are we gonna be using anyProps today? Well, i've got a couple midgets out in my car.
+OTHERFEMALE:What do you mean by props? All right.
+LEADFEMALE:Standard bedroom set.
+LEADFEMALE:Ho hum.
+LEADFEMALE:Hey, Jackie, what about you? I bet you your husband would love to see you in something like, uh This.
+SUPFEMALE:Well, don't have a husband, bob, But thanks for asking.
+LEADFEMALE:Oh.
+SUPFEMALE:What about your boyfriend? No.
+OTHERFEMALE:No boyfriend, either.
+SUPMALE:Cool.
+LEADFEMALE:Roseanne, come on out of there.
+LEADMALE:Come on.
+OTHERMALE:I want to see what you look like.
+LEADMALE:I don't want to.
+LEADMALE:What do you mean you don't want to? This might not be a good idea.
+SUPMALE:What if the negatives get out? I'll never be president.
+LEADMALE:Roseanne, come out here! Oh, I just don't think this is a good idea.
+OTHERFEMALE:I should just take this home and put it on And then Dan can see me in it for real.
+SUPMALE:But this way, he gets to see it whenever he wants.
+LEADMALE:Trust me, Jackie.
+LEADMALE:He gets to see it whenever he wants.
+LEADFEMALE:Roseanne, just do it.
+OTHERFEMALE:Okay.
+LEADFEMALE:Good.
+OTHERMALE:There.
+LEADFEMALE:See? Oh, i'm really proud of you.
+LEADMALE:You're overcoming your fears, And this is something you'll always be glad you did.
+OTHERMALE:Oh, yeah? I bet that old broad in the cat suit Had second thoughts.
+LEADMALE:Okay, Mrs.
+SUPFEMALE:Conner, whenever you're ready.
+SUPFEMALE:I can't do it, Jackie.
+OTHERMALE:I can't! You can do it! How important is this anniversary to you? Very.
+LEADFEMALE:And who is the man you love more than anybody else in the world? Tom Jones.
+LEADMALE:Second? Dan.
+LEADFEMALE:All right.
+SUPMALE:Let's do it.
+SUPMALE:Okay.
+LEADFEMALE:Here's what I want you to do.
+OTHERMALE:I want you to kneel on the bed, Lean toward me a little bit, Kick your back leg behind you, Arch your back, stick out your chest, And smack your lips.
+SUPFEMALE:Perfect.
+LEADMALE:Dan? I'm in here.
+LEADMALE:Did you get my wedding ring out of there? Rosie, honey, I need to talk to you for a minute.
+SUPMALE:Oh, so it wasn't in there, right? No.
+LEADMALE:Listen, I got some bad news.
+LEADMALE:We're gonna have to celebrate our anniversary on another night.
+SUPMALE:I have to work tomorrow.
+SUPFEMALE:You gotta work tomorrow? Oh, I get what you're doing.
+LEADFEMALE:You're saying that you have to work tomorrow So i'll get all mad and hate you and everything, And then, right at the last minute, You'll do something really great Like throw me a surprise party or something So i'll love you again, right? Yes, that's exactly right.
+SUPMALE:Except without the great thing and the really nice "I love you" part.
+SUPMALE:What? So, you're really gonna work? I tried everything I could to get out of it.
+LEADFEMALE:I got no choice.
+OTHERFEMALE:Well, yeah, you do.
+SUPFEMALE:Quit! I can't.
+LEADMALE:I promised i'd be there.
+LEADMALE:What? You're keeping a promise To some guy that you knew less than two weeks And breaking a promise to your wife of 20 years? This is a very special anniversary, Dan! It's a temporary job, for god's sake! Look, you don't want to say any more.
+SUPFEMALE:Yeah, I want to say plenty more! I can't believe that you're doing this! I mean, you're the most selfish man in the entire world! You don't care about me! You don't care about I mean, all you care about is you! You think i'm so selfish? You think I only care about myself? You want to know why I can't quit my stupid little job? It's 'cause I had to pay for this! It's my wedding ring.
+SUPMALE:Yes! Your wedding ring! Oh, baby, are you in deep now! Come on.
+LEADMALE:You got something else to say? Who the hell asked you to do this? What? Well, you wrecked it! Did I ever once ask you to change anything about this ring? Did I? Huh? No! Well, I hope you're happy now, Because you ruined my ring just like you ruined my anniversary! Oh! Oh! Man, you are something else! I took a job where I gotta spend all day Asking fat men whether they dress left or dress right To pay for that ring, And it means nothing to you! Oh, you only took that job So that you could go buy that ring Because you knew you were gonna be working on my anniversary And you needed to get that ring so I wouldn't be mad at you! You are insane.
+LEADFEMALE:I'll tell you what.
+SUPMALE:I'm gonna go out tonight and do exactly what I did The night before our wedding I'll be with my friends getting drunk.
+LEADFEMALE:You weren't with your friends.
+OTHERFEMALE:You were with your mom.
+SUPMALE:My mom can drink my friends under the table any day! Hey, coach.
+SUPMALE:Sorry I broke curfew, But if I get a little sleep, i'm sure I can play tomorrow.
+LEADFEMALE:Dan, I wouldn't go in there.
+LEADFEMALE:Okay.
+LEADFEMALE:Ever? Not until I give you a little advice.
+SUPMALE:But Jackie, I already took your advice.
+LEADFEMALE:You told me not to get her the shoe rack or she'd be mad at me.
+LEADMALE:What a relief that didn't happen! Let her cool down, Dan.
+LEADMALE:She's really upset.
+LEADMALE:Did you talk to her? She asked me if I knew about the ring.
+LEADFEMALE:And you said? Yeah.
+LEADFEMALE:And then? And then she and I decided That I should spend the rest of the night on the porch.
+LEADMALE:So you're locked out? Yeah.
+SUPMALE:Good news-you don't live here! I was waiting for you, Dan.
+LEADFEMALE:I'm trying to help you out.
+LEADFEMALE:Oh, please, help me out some more.
+LEADMALE:I'm still breathing! I didn't ask to get dragged into this! No, Jackie, you never ask.
+LEADMALE:You just dive right in.
+LEADMALE:And the best part is, she hates the ring.
+OTHERFEMALE:I know it.
+LEADFEMALE:Well, give it to me.
+LEADFEMALE:I'm gonna take it back.
+LEADMALE:Maybe they can put the ring back like it was And then all you have to do is pay for the labor.
+SUPFEMALE:Good.
+LEADMALE:Do it.
+SUPMALE:You gotta look on the bright side.
+LEADFEMALE:If you hadn't given me bad advice And I hadn't taken it And the anniversary wasn't wrecked And Roseanne wasn't mad at me, I wouldn't get to spend the night on the porch.
+LEADMALE:So, what do you think? I think the shirt looks great on you.
+SUPFEMALE:I came in with the shirt.
+SUPFEMALE:I tried on the pants.
+LEADMALE:I think the pants really bring out the shirt.
+LEADMALE:Hey.
+OTHERFEMALE:Oh.
+LEADFEMALE:What are you doing here? Well, I wasn't done yelling at you yet.
+LEADMALE:You know, I thought of a few more mean things to say, So I wanted to rush down here before I forget.
+LEADMALE:Roseanne, I don't need this kind of insanity During the midnight madness sale.
+SUPMALE:Well, I think maybe then we should take it outside.
+LEADFEMALE:I can't.
+SUPFEMALE:I'm working.
+SUPMALE:Okay.
+SUPFEMALE:Well, then, i'll just start screaming here.
+LEADFEMALE:Right behind you.
+OTHERMALE:I'm gonna kick your butt all the way to yogurt city.
+SUPFEMALE:What's this? Happy anniversary.
+OTHERFEMALE:I don't believe this.
+SUPFEMALE:You got everything here.
+LEADFEMALE:Corn dogs.
+LEADMALE:You remembered our wedding dinner.
+OTHERFEMALE:And Well, you know, i'm not very good at saying i'm sorry, 'cause you know I never am, But I just think I went too far this time And I just figure, you know, After 20 years, Every man deserves to hear this.
+LEADMALE:I was wrong.
+LEADMALE:And I think after 20 years, Every woman deserves to hear this-I agree with you.
+LEADFEMALE:Well, so, don't you have something to give me? Uh Come on.
+LEADFEMALE:I'll say yes.
+SUPFEMALE:Really? Promise.
+LEADMALE:All right.
+SUPMALE:Roseanne, will you not be mad at me For giving the ring to Jackie to have it put back the way it was before? What'd you do that for? I loved that ring! Damn it, Roseanne! First you tell me you hate it, Then you tell me you love it.
+LEADFEMALE:And then, and only then, I produce it from my pocket And show you that I got it back from jackie Before she took it back to the guy to have it put back.
+SUPMALE:You may now eat the corn dog.
+LEADMALE:Now I gotta give you your present.
+LEADFEMALE:But you gotta promise that you won't laugh.
+LEADMALE:Gadzooks! Why, Miss Conner, I can't marry you.
+SUPMALE:I've fallen in love with another.
+LEADMALE:You don't think it's stupid? You're beautiful, honey.
+SUPMALE:Well, hell, I always thought you were beautiful.
+LEADFEMALE:You really like it? Yeah.
+LEADMALE:Well, good, 'cause I made you an appointment over there next week, So you might as well start shaving now.
+SUPMALE:

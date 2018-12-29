@@ -1,0 +1,276 @@
+LEADFEMALE:MORK: Nanu, nanu! ( upbeat theme playing ) I don't think you need any more than that.
+SUPMALE:Mindy, I can't thank you enough for helping me with all the wedding plans.
+SUPMALE:I couldn't have done it alone.
+LEADFEMALE:Oh, that's all right, Ambrosia.
+SUPMALE:I mean, I like you, and besides, anyone who's marrying Exidor deserves all the help she can get.
+SUPMALE:I'm telling you, Freelander, no matter how fast you paddle that kayak, you're never going to get Steinmatz up on those skis! He's so forceful.
+OTHERMALE:That's one of the reasons I love him.
+SUPFEMALE:What are you doing up there? Skinny-dipping in Mork's lake.
+LEADFEMALE:My last swim as a single man.
+SUPMALE:From now on, it's the buddy system.
+SUPMALE:I did it, I did it, I did it.
+LEADFEMALE:Oh, no.
+SUPMALE:You did what? This time I did something right.
+SUPMALE:I got you a wedding present that makes me so proud of myself I could squash a toad.
+LEADFEMALE:Ooh, I mean, you'll never guess, so I'll give you a hint.
+SUPMALE:What weighs a hundred pounds and has feathers? You bought 'em an ostrich.
+OTHERFEMALE:Oh, no, you see, I didn't buy them an ostrich.
+LEADMALE:Besides, where would it stick its head? Something you haven't seen since you grew up in that orphanage.
+OTHERMALE:Exidor, remember this voice? ( woman whooping ) This is your life, Exidor! Yes, that's right, it's Princess Lusitania, your mother! Exidor! My son! Excuse me.
+SUPFEMALE:I I'm not Exidor.
+OTHERFEMALE:It's been a long time.
+LEADMALE:Natural mistake.
+OTHERMALE:Mom! Is that you? Cuspidor! Exidor.
+OTHERMALE:Of course! I'd know you anywhere.
+LEADMALE:You have my gums.
+LEADMALE:Mork, this is the most wonderful present.
+LEADMALE:No one ever gave me a mother-in-law before.
+LEADFEMALE:This time, you really did do good.
+LEADFEMALE:Well, beat me with praise.
+LEADMALE:I can take it.
+LEADMALE:Mom, I thought you were dead.
+LEADMALE:I don't think so.
+OTHERMALE:Well, if she is, she leads a very active afterlife.
+SUPMALE:But if she's alive, that means you deserted me.
+OTHERFEMALE:No, no.
+SUPFEMALE:You were taken from me.
+SUPFEMALE:I sent you out to play.
+LEADMALE:A half-hour later, I went to look for you.
+SUPFEMALE:Just as my foot hit the blacktop, I remembered.
+SUPFEMALE:We were traveling on our way to Denver.
+LEADMALE:I woke up two weeks later, being nursed back to health by Indians.
+OTHERMALE:Been with them ever since.
+SUPFEMALE:Oh, that's terrible.
+SUPFEMALE:But the important thing is That's my mom.
+LEADFEMALE:She never finished a bedtime story either.
+SUPFEMALE:Earth to Lusitania.
+LEADMALE:Oh, you're back.
+LEADMALE:We're engaged, Mom.
+LEADMALE:We're going to be married tomorrow.
+OTHERFEMALE:Oh, I told her about that.
+SUPMALE:When she heard about it, she said, "Mork" I suppose you two are really in love.
+SUPMALE:Very much so.
+LEADMALE:Your son lit up my life.
+OTHERMALE:That's what I was afraid of.
+LEADMALE:That's a lovely belt.
+LEADMALE:I didn't know Houdini had a fall line.
+LEADFEMALE:Thank you, Mork.
+OTHERMALE:Would you help me with my suitcase? Fortunately, I came prepared.
+LEADMALE:MINDY: What are you going to do with the chain? What are you doing? It's just a mother's way of saying, "He's mine.
+SUPFEMALE:" I'm not leaving this house until you agree to call off the marriage.
+LEADMALE:I'm just going into the other room so you can talk it over.
+SUPMALE:But Mom, this isn't fair.
+LEADFEMALE:After 35 years, you show up, say, "Hello.
+SUPMALE:How are ya?" and chain yourself to a post.
+LEADFEMALE:Mom! Mom! I think it's important in times like these we don't forget the old saying, "It's not the gift, it's the thought that counts.
+OTHERMALE:" Ambrosia, are you sure you know what you're getting involved in? Oh, I know most people don't understand my relationship with Exidor, but it's very simple.
+LEADFEMALE:Before I met him, all the men I went out with were quiet and conservative like me.
+SUPMALE:My world was a succession of brown suits and wingtip shoes, and I said to myself, "Is that all there is?" And then I met Exidor.
+LEADMALE:The last of the swashbucklers.
+LEADFEMALE:Now every day is tubing the bonsai pipeline.
+LEADFEMALE:That's understandable.
+LEADFEMALE:I know Mindy feels the same way about me.
+LEADFEMALE:He said modestly.
+LEADMALE:Exidor adds so much color to my life, with his invisible friends and lakes in the attic.
+SUPMALE:Sometimes I wish I had those things too.
+LEADMALE:You're not mad at me for bringing home his mother.
+LEADMALE:She can't be all bad.
+LEADFEMALE:She had Exidor.
+SUPMALE:Well, that's very generous of you.
+SUPMALE:But I still don't want a woman chained up in my house.
+LEADMALE:I know how to get her out.
+SUPFEMALE:We'll do what the government always does.
+SUPMALE:We'll smoke a peace pipe, sign a treaty, then break it.
+OTHERMALE:Don't worry.
+LEADMALE:Exidor's in there and he's one silver-tongued fiancÃ©e.
+OTHERFEMALE:He'll have her eating out of the palm of his hand.
+SUPFEMALE:Okay, Mom.
+LEADFEMALE:I'll see if I can find you something to eat.
+LEADMALE:Mork, look what Mom's been saving for me all these years.
+LEADMALE:Oh, look, little bronze baby hip booties.
+LEADFEMALE:Is she leaving? She's staying?! Exactly.
+OTHERMALE:Mindy, I know it can be inconvenient having houseguests but after we're married tomorrow, there'll be no reason for her to stay.
+LEADMALE:She'll leave on her own.
+SUPMALE:Oh, she'd leave right away if we'd promise to postpone the wedding.
+LEADFEMALE:Exidor, you wouldn't.
+LEADMALE:She just wants a chance to be the mother she's never been.
+SUPMALE:She wants to take me for little rides on the tricycle, and teach me to play catch.
+OTHERFEMALE:She'll give that up the first time she has to change your diapers.
+LEADFEMALE:MINDY: Let me tell you something.
+SUPFEMALE:If you call it off this time, she's going to make you call it off again the next time.
+LEADFEMALE:Oh, please.
+LEADMALE:I don't need any girlish babble! What I need is a voice of reason! Mork Let me tell you something, if you call it off this time, she's just gonna make you call it off the next time.
+SUPMALE:Now, that makes sense! If you just go ahead with everything planned she'll see that you're calling her bluff and she'll give in.
+SUPFEMALE:Thank you, Mork.
+LEADMALE:That's exactly what I'm going to do.
+LEADMALE:He's so decisive.
+LEADMALE:But tonight is my bachelor party here.
+LEADFEMALE:What are we going to do with Mom? We could hang her out the window and let her dangle.
+SUPFEMALE:( knock on door ) Grab it and twist it! Oh, glad you could make it.
+LEADFEMALE:Hey, look, let's get one thing straight.
+SUPMALE:I'm only doing this for you.
+LEADMALE:I don't even like that guy in the dress that much.
+SUPMALE:I do know this though, somebody deep-fried that man's brain.
+SUPFEMALE:Bachelor parties in New York are fun.
+LEADMALE:In Boulder, a bachelor party is a Rocky Mountain low.
+LEADMALE:What's the projector for? Exidor's out getting some stag movies.
+LEADFEMALE:Hey, hey! Now, there's a touch of class.
+SUPMALE:I don't understand what the big deal is.
+LEADMALE:Who wants to see a movie, Bambi does Yosemite? I brought some beer and, uh, salami over there.
+LEADMALE:By the way, um, why is that chain going into the bedroom? Oh, Lucy's at the other end.
+LEADFEMALE:Lucy? A woman? Of course it's a woman.
+LEADMALE:We wouldn't chain a man, would we? A woman on the end of a 30-foot chain? You got it.
+OTHERFEMALE:What's she look like? She's got feathers.
+OTHERMALE:That's wonderful! This is gonna be a great party! Ding-dong! Nelson, come in.
+LEADFEMALE:Join the festivities.
+OTHERFEMALE:Hello, fellow Boulderites! I suppose you've been wondering how my campaign for city councilman has been going.
+LEADMALE:No.
+LEADFEMALE:No.
+SUPMALE:Well, I'm here to tell you that I am hot as a pistol.
+SUPMALE:I've joined the Moose Lodge and the Elk's Club.
+OTHERMALE:Then you'll really like our stag film.
+LEADMALE:Where's, uh, Mr.
+LEADFEMALE:Exidor? I should meet the man, since I'm officiating at his wedding.
+OTHERFEMALE:Showtime! Would you get out.
+LEADMALE:I told you you're not crashing my party.
+SUPMALE:We're packed in here as it is.
+LEADMALE:Scram! Who is that? The groom.
+LEADMALE:Oh, my gosh.
+LEADMALE:I thought the bride was supposed to wear the white gown.
+LEADFEMALE:Oh, Exidor, I'd like you to meet Nelson Flavor, Mindy's cousin.
+LEADFEMALE:How do you do? Nice to meet you.
+LEADFEMALE:( chain rattling ) What a baby! She's rarin' to go! Ha-hah! She? Please, tell me it's a dog.
+SUPFEMALE:No, it's a chick! And she's wearin' feathers! You guys are sick.
+SUPFEMALE:Hey, don't look at us.
+SUPFEMALE:It's her chain.
+SUPMALE:Mork, hit the lights.
+LEADMALE:The rest of you just find a place wherever you can.
+LEADMALE:Down in front! How do you like that for an opening shot? Leaves a lot to the imagination.
+LEADMALE:Are my eyes getting worse? Hold it down, please, and let the girl act.
+SUPMALE:What do you think of the movie, Mork? Well, it leaves you wanting more.
+LEADFEMALE:If I saw this baby twice, my boots would be full of sweat.
+LEADMALE:( chain rattling ) REMO: There's nothing on the screen! Mork, Mork, can I talk to you a second? Is that Lucy? Uh-huh.
+LEADFEMALE:Yeah.
+OTHERFEMALE:Oh, yeah.
+SUPMALE:Yep, yep, yep.
+LEADFEMALE:Mom! Mom! You can't watch this trash! Mork, wait till you see the blond girl play volleyball.
+SUPMALE:Mork, I can't take any more of this! Down in front! Even if she does have a bag on her head, this is a little too rough for me, okay? Hey, you know, you guys from Boulder showed me a couple of new twists.
+LEADMALE:Thanks for coming.
+LEADFEMALE:Uh, I enjoy a good laugh just as much as the next guy, but chaining and bagging somebody's mom isn't my idea of hijinks.
+LEADFEMALE:MORK: Down in back! If you guys weren't registered voters, I'd turn the lot of you in.
+SUPFEMALE:Drive safely.
+LEADMALE:Spike it, honey! Spike it! How was the party? Well, things really livened up after we took the bag off of Lusitania's head.
+SUPFEMALE:Sorry I asked.
+LEADMALE:I enjoyed myself.
+SUPMALE:I got to know Labrador better.
+LEADFEMALE:Exidor, mom.
+SUPMALE:Exidor.
+LEADFEMALE:We could have a bachelor party every night, if he wasn't getting married tomorrow.
+LEADFEMALE:But he is getting married tomorrow.
+LEADMALE:Not necessarily! The old princess has an extra card up her sleeve.
+OTHERMALE:Oh, I wondered why she wasn't playing with a full deck.
+LEADMALE:I'm going to put myself into a trance, and I'm going to stay there until the marriage is called off or until I die.
+LEADMALE:Well, let's look on the bright side.
+LEADMALE:I could've found his father too.
+LEADMALE:JEAN: Her pupil dilation is normal, her pulse is normal, and her posture's pretty good.
+LEADMALE:So, what does that mean? When a person is in a real trance, their heartbeat slows way down.
+LEADMALE:I knew it.
+LEADMALE:Did you hear that, Ambrosia? Jeanie agrees that the princess is faking it.
+LEADMALE:AMBROSIA: ( monotone ) Yahoo.
+LEADMALE:What are you gonna do with ( chuckles ) during the ceremony? Well, fortunately, it isn't here, it's Oh, you haven't heard this one.
+SUPFEMALE:Okay, are you ready for this one? Exidor wanted to have it in the woods by a lake, so we're having it in the attic.
+LEADFEMALE:Ah, it must be a lovely world he lives in.
+LEADMALE:He and Mork are up there right now clearing out the underbrush.
+LEADMALE:When Remo and I come back for the wedding, we'll bring the rest of the food.
+OTHERFEMALE:Okay.
+SUPFEMALE:I think I'll also bring my snakebite kit.
+LEADMALE:If you have any trouble finding us, make a left at the waterfall.
+LEADFEMALE:( chuckles ) Okay.
+SUPFEMALE:This is an attic.
+LEADFEMALE:A man wouldn't get married in an attic.
+SUPMALE:But then, most men wouldn't chain and bag their mothers, either.
+OTHERMALE:What's happening to our society? I don't think you understand.
+LEADFEMALE:Exidor's a little eccentric.
+SUPMALE:He even wrote up his own nuptials.
+LEADMALE:I hope it doesn't start, "There once was a bridegroom named Exie" Smells like tuna fish.
+SUPMALE:Mork.
+LEADMALE:I've been pleading with Mom, but I don't think she's going to make it to the wedding.
+LEADMALE:She just sits there, staring into space, sucking the filling out of a Twinkie.
+SUPFEMALE:Don't you worry about that.
+SUPFEMALE:This is your day.
+OTHERFEMALE:Thank you very much, dear.
+SUPFEMALE:That's deeply appreciated.
+LEADMALE:Who is that woman? How come she gets invited to my wedding, and burro is sitting out there cooling his hooves.
+LEADFEMALE:MINDY: Mork, start the music.
+SUPMALE:She's ready.
+SUPFEMALE:( "Wedding March" plays ) ( clears throat ) "Dearly beloved, "we are gathered here today "in this beautiful forest on the shore of this silvery lake" Is anybody buying this? ( chains rattling ) Stop! ( gasping ) I can't go on! That's my mother down there! I Oh! Ambrosia could we just postpone the wedding for a month? Please, doe eyes? Oh, Exidor, I don't want to tell you what to do.
+LEADMALE:I just want to know where I stand.
+LEADFEMALE:I love you, and you said you loved me.
+SUPFEMALE:That was nice.
+LEADMALE:Now, I know you also love your mother, but there comes a time when a son has to cut the cord, even if he needs a hacksaw to do it.
+OTHERFEMALE:But it's your decision.
+SUPMALE:I just wish you'd make it soon because I think I'm going to cry.
+OTHERMALE:Oh, her little doe eyes are leaking.
+SUPMALE:( chains rattling ) I've had enough of this! A wedding should be a happy occasion.
+SUPFEMALE:Listen, she's my gift, I take responsibility for this.
+LEADFEMALE:Mork, what are you going to do? We've talked until we're blue in the face.
+OTHERMALE:Including you.
+LEADFEMALE:I mean, her mind is made up.
+LEADFEMALE:She's not gonna change it.
+SUPMALE:Mindy, you don't understand, I have a superior mind and PHD in gestalt car wash.
+LEADMALE:Now, I know what she needs.
+LEADMALE:She needs a good old-fashioned dose of honest cruelty.
+OTHERMALE:Princess Lusitania, there's some things we have to get straight.
+LEADFEMALE:( imitating Native American ): Time now for a powwow, huh? ( normal voice ): Uh, you say you love Exidor.
+LEADMALE:Well, he's upstairs about to have one of the happiest moments of his life, and you're down here making him miserable.
+OTHERFEMALE:Now, why don't you go upstairs and join the wedding? Listen, they're gonna get married with or without you.
+LEADMALE:Now, Princess Lusitania, now "Princess Lusitania," that's not even your real name.
+LEADMALE:I found out your maiden name was.
+LEADMALE:"Bloomasnitzpistle.
+LEADMALE:" Now, come on! Drop the act! Oh, no, you don't have to drop it that much.
+SUPFEMALE:Hey, hey, you're molting.
+SUPFEMALE:Oh, hey, come on, now.
+LEADFEMALE:I don't want to see you cry.
+SUPFEMALE:( as Al Jolson ): Mammy Oh, I'm sorry.
+LEADFEMALE:That's the wrong song to use right now.
+LEADMALE:It's not fair, Mork.
+LEADMALE:I'm 60 years old, and I never really had a son.
+SUPMALE:I don't even have any memories.
+LEADMALE:Well, I know it's not fair, but you're gonna lose a very special memory right now.
+LEADMALE:I mean, I know I know life can be real cruel sometimes because you can't relive the past, but, hey, you're real lucky.
+LEADMALE:Lucky? Yeah, I mean, you have a chance here to get two memories for the price of one.
+LEADFEMALE:You're gonna have the memories of a son and a daughter.
+LEADFEMALE:Mork, you don't understand.
+SUPFEMALE:and then he rejects me.
+SUPFEMALE:I guess mothers always lose, don't they? ALL: Well? Well, I blew it.
+LEADFEMALE:ALL: Oh.
+LEADFEMALE:She's packing her chains and heading back to the wigwam.
+LEADMALE:Would you like to say goodbye? Yes, I would but right now, marrying you is the most important thing to me.
+SUPFEMALE:Hit the music, Mork! ( "Wedding March" plays ) ( clears throat ) "Dearly beloved, "we are gathered here LUSITANIA: Exidor Oh.
+LEADMALE:I was thinking about what Mork had to say.
+OTHERMALE:He was right, and I was wrong.
+LEADFEMALE:I want very much to see your wedding, Exidor.
+SUPFEMALE:But I'll do it and stay on one condition.
+OTHERMALE:That you'll forgive me and be my daughter.
+LEADFEMALE:Hi, Mom.
+LEADMALE:Welcome to the family.
+OTHERMALE:"Dearly beloved, "we are gathered here today "in this beautiful forest, on the shore of this silvery lake" Mork calling Orson.
+LEADMALE:Come in, Orson.
+LEADFEMALE:Mork calling Orson.
+SUPMALE:Come in, Orson.
+SUPFEMALE:Mork calling Orson.
+OTHERMALE:Come in, Orson.
+LEADMALE:Yo, hippo hips! ( imitating an elephant ) ORSON: Animal jokes, Mork? Been to the zoo again? Well, not exactly, sir.
+LEADFEMALE:I got Exidor to the attic on time.
+LEADMALE:Nothing worse than a man who's late to his own attic.
+LEADMALE:Well, he and Ambrosia finally tied the knot.
+SUPMALE:Now, it's double or nothing.
+SUPMALE:Oh, yes.
+OTHERMALE:Exidor's wedding.
+SUPMALE:How does an earthling go about getting married? Well, sir, you give a little blood, you get a license, and then you're in business.
+LEADMALE:Humans need a license for marriage? Is that like getting a driver's license, Mork? Well, not really, sir.
+LEADFEMALE:You see, they make you take a test to learn to drive, but the only test of marriage is the test of time.
+LEADMALE:In that case, is it worth the risk? Well, sir, I think marriage is an emotional investment, and in these inflated times, it's a special bond between two people that still yields the highest dividends.
+LEADMALE:Till next week, sir.
+LEADMALE:Nanu, nanu.
+SUPFEMALE:

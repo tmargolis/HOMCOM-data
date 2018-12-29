@@ -1,0 +1,323 @@
+OTHERMALE:d.j. ! Get down here! Your grandma's gonna be here To pick you up any second! [A.
+LEADFEMALE:J.
+LEADFEMALE:] I have homework! You can do it in the car! I'm sick! You can do that in the car, too! I don't wanna go to the ballet! Ballets are for girls.
+SUPFEMALE:d.j. ! Ballets aren't just for girls.
+SUPFEMALE:They're fun.
+SUPFEMALE:And you know, you just might learn somethin'.
+OTHERMALE:please Yeah, he's gonna learn how to mince around in public, wearing tights.
+LEADFEMALE:Why the ballet? 'cause we get rid of him for two days, you know? And if he comes back with certain awakenings, Well, we had the weekend.
+LEADMALE:Morning.
+SUPMALE:Where'd you hide becky's present? In the cereal.
+SUPFEMALE:What if she eats it? Dan, other people look at their food first.
+LEADMALE:What you doin', Becky? Lookin' for a job.
+LEADMALE:Oh.
+SUPMALE:Well, in that case, you'll need some cereal.
+OTHERFEMALE:I'll get it.
+OTHERMALE:Thanks.
+LEADMALE:I'm not that hungry.
+LEADMALE:You're gonna need your strength, you're gonna be out there lookin' for work.
+LEADFEMALE:Right.
+SUPFEMALE:I guess i'll have some toast or somethin'.
+LEADFEMALE:What's the matter? You too good for cereal, all of a sudden? Fine! I'll have cereal.
+SUPMALE:Oh my god.
+SUPFEMALE:What's this check for? That's enough for a full semester at the community college.
+LEADFEMALE:Assuming none of your classes require books.
+OTHERFEMALE:Can you guys afford this? Well, funniest thing happened, the other day.
+OTHERMALE:I was out shootin' at some food, When up through the ground come a-bubblin' crude.
+SUPMALE:And I circled some of the courses that you might be interested in, Particularly this "classics of your world literature," there, So you can understand what me and your daddy's talkin' about Around the dinner table.
+SUPMALE:Man, you guys, this is so great! I gotta go tell Mark.
+SUPFEMALE:Hm.
+LEADFEMALE:Well, Dan We got two -count em', too -daughters in college.
+SUPMALE:Yeah, we're gonna have a lot of explainin' to do At the next white trash luncheon.
+LEADFEMALE:chicago, chicago the gay grandma's town Mom, she's singing! Hello, everybody! I was thinking.
+SUPFEMALE:Since d.j. Are I are gonna spend a weekend in chicago, Wouldn't it be wonderful if we dropped in on Darlene? mom! Aw, Darlene and the ballet! Christmas has come early For a certain little boy I know! Ha ha! No.
+LEADMALE:Tomorrow night, don't wait up! We won't be back until after 10! Oh, bev.
+OTHERFEMALE:You'll be back before that.
+SUPMALE:It's only a two-four drive.
+LEADMALE:55 is the speed limit, Dan.
+OTHERFEMALE:The limit! It doesn't mean you have to go that fast.
+LEADFEMALE:Okay.
+OTHERFEMALE:Meanest mom alive! Hey, mom! Just last week, d.j. was askin' me about big band leaders.
+LEADFEMALE:Well, that is lucky! I have the whole K-tel fabulous 40's collection in the car! Get ready to swing! You gonna tell Darlene they're comin'? No.
+LEADFEMALE:I want her to be there.
+OTHERFEMALE:Oh, what have we here? What's that? Yuletide greetings, Delaware st.
+SUPFEMALE:dwellers! From the neighborhood association.
+SUPFEMALE:Oh, them "mow your lawn" people? This holiday season, we're asking everyone To restrict their decorations to simple White lights, in order to avoid eyesores Such as last year's faded plastic santas And 3-legged reindeer.
+OTHERMALE:Well, what are we supposed to do with him? Shoot him? They've singled us out, honey.
+LEADFEMALE:We're the tackiest house in the whole neighborhood.
+LEADFEMALE:Well This year, I say We go for the national title.
+SUPFEMALE:this really sucks, Darlene.
+OTHERFEMALE:I'll stay here alone, on christmas, In this room, with no one to talk to.
+LEADMALE:Well, why don't you just come home with me? Right.
+LEADMALE:Like your mom's gonna believe I left my mom for christmas.
+SUPFEMALE:I left mine for thanksgiving.
+LEADFEMALE:Yeah, but you're a bad daughter.
+LEADMALE:I'm a good son.
+LEADMALE:Well, fine.
+SUPMALE:Then stay.
+SUPMALE:Well, i'm gonna have to eat.
+LEADFEMALE:Which means i'll have to spend that money we've been saving.
+LEADFEMALE:My mom never spent that much money on food, my whole life! Never mind.
+SUPFEMALE:Who is it? d.j. 's in town to see The Nutcracker, And he brought you a singing granda-gram! Move! Move! Oh my god! your grandmother and d.j. are at your door your grandmother and d.j. are at your dAh, surprise! We're here for the weekend.
+LEADFEMALE:Ha ha ha And you're stayinghere? Oh, don't be silly! We're staying at Aunt Shirley's! Oh, it's so great to see you.
+LEADFEMALE:This place smells like feet.
+SUPFEMALE:So! This is how the artsy kids are living today.
+LEADFEMALE:My You know, i'm taking a ceramics class.
+LEADFEMALE:We have a lot in common.
+OTHERMALE:I gotta go to the bathroom.
+LEADMALE:No.
+LEADFEMALE:Well, now, Darlene.
+SUPFEMALE:Just let the boy go.
+SUPFEMALE:Holding it too long could harm his ability to have children.
+LEADFEMALE:Ah, look at this place.
+OTHERFEMALE:It'sso charming.
+LEADFEMALE:And, uhhow binding is your lease? Uh, grandma.
+LEADFEMALE:I really like it here.
+LEADFEMALE:Of course you do, dear.
+OTHERMALE:Filth is fun when you're young.
+LEADMALE:Come on, d.j. ! Darlene, we'll pick you up at noon tomorrow.
+LEADMALE:I've bought you a ticket to The Nutcracker.
+LEADFEMALE:They have dancing mice.
+LEADMALE:Oh, well, gee, grandma.
+LEADMALE:I have those here.
+LEADMALE:Hi, d.j. Hi, Darlene.
+OTHERFEMALE:Grandma, can we go shopping? I thought you didn't want to shop! I changed my mind.
+LEADMALE:I wanna spend my money.
+LEADFEMALE:All 112 dollars of it.
+LEADMALE:Where did you get that? I earned it.
+LEADMALE:And i've got not 3, not 4, But 8 wise men.
+OTHERMALE:That ain't a wise man.
+LEADFEMALE:That's gumby.
+LEADFEMALE:Well, we'll just use some myrrh to level out his head, And no one will know the difference.
+LEADMALE:Great idea.
+SUPMALE:And then we can have the blessed virgin Ride into Bethlehem on pokey.
+SUPFEMALE:Two mangers! Well! Dueling saviors! Hah-hoo! And that's not all.
+LEADMALE:Ta-daa! Liberace.
+OTHERMALE:Because there was no room at the desert inn.
+OTHERFEMALE:Thank you.
+SUPMALE:Thank you very much.
+LEADMALE:Thank you.
+OTHERMALE:Well, you did pretty good, Dan.
+SUPFEMALE:But, uh, i'm afraid all of your stuff Pales, in comparison to my find.
+LEADFEMALE:You see, pancho's went out of business.
+LEADMALE:Behold! The goddess of tacky.
+OTHERMALE:Hey, i'll see you after I pick up the application, okay? Oh, by the way, thanks for the money.
+LEADMALE:That was uhreally cool of you guys.
+OTHERFEMALE:Where's he goin'? Welp, Mark and I talked things over, And we decided the best way to use the money Would be to send Mark to school.
+OTHERMALE:Hey, youwait a minute! That's supposed to be Becky money, not Mark money.
+SUPFEMALE:Well, there's this new course at the tech school, on how to run a garage.
+LEADFEMALE:In 6 months, he'll be able to get a good job, and pay for my college.
+LEADMALE:Wake up, Becky! In 6 months, you couldn't teach him To pull his hand off a hot burner.
+OTHERFEMALE:Dad? Wouldn't you rather pay for 6 months of his college Than 4 years of mine? You know, that doesDan! We worked hard for that money! That coulda been our dream vacation.
+LEADMALE:Dollywood and twitty city.
+LEADMALE:Dad! Dan Daddy! Danny Boy, do I have no opinion about this.
+SUPFEMALE:Well, dapper Dan, you have to pick a side.
+LEADFEMALE:A side, Roseanne? Well, my side! Mom! You can't do that! Well, what if, uhwhen he gets out, Mark doesn't get a job? Okay? What if they are only hiring women and minorities, Or people that aren't distracted by shiny objects? This is what's right for us.
+LEADMALE:No.
+LEADFEMALE:I don't think it is.
+LEADFEMALE:I think it's a mistake, and i'm not gonna let you do it with my money.
+LEADMALE:okay.
+LEADMALE:Fine, then! We don't need you or your stupid money.
+LEADMALE:From now on, we're gonna do everything all by ourselves.
+SUPMALE:We're gonna pay for our own food, rent Everything! oh, well, that really hurts.
+LEADFEMALE:Hey! If you really wanna kill us, Why don't you just go out and buy us a car? Say somethin', Dan! I'm pretty sure that Mrs.
+OTHERMALE:Puente is the head Of the neighborhood association that sent us this nice letter.
+OTHERMALE:I think we'll plug in over at her house this year.
+LEADMALE:What a lovely afternoon! You know, I never feel like It's christmas till I see The Nutcracker.
+SUPFEMALE:Oh.
+LEADMALE:That was the longest I never thought i'd long for the ice capades.
+LEADFEMALE:Well, d.j. we should really be getting back to Lanford.
+SUPFEMALE:You say goodbye to your sister while I powder my nose.
+LEADMALE:Well, this should be an experience.
+LEADMALE:d.j. , I bought you your video games yesterday.
+LEADFEMALE:Now we're even.
+OTHERMALE:You keep your mouth shut about David, or you die.
+LEADMALE:Okay.
+SUPMALE:Why's David here, anyway? Because he couldn't stand your smell, either.
+LEADFEMALE:No.
+LEADMALE:Really.
+LEADMALE:Why is he here? Because we wanted to be together.
+SUPMALE:Why? Because we do.
+LEADMALE:When you have a girlfriend someday, Or a really good blow-up doll, you'll understand.
+LEADMALE:Do you guys have sex? that is not for you to know.
+OTHERFEMALE:I'll tell mom about David.
+OTHERFEMALE:Oh, all right, d.j. I'm gonna level with you, and talk to you like you're an adult.
+LEADFEMALE:No.
+LEADFEMALE:David and I are not having sex.
+SUPFEMALE:They told us at school.
+LEADMALE:If you don't want a baby, you'd better use birth control.
+LEADFEMALE:No.
+SUPFEMALE:No.
+SUPFEMALE:This conversation is not happening.
+OTHERFEMALE:So do you use birth control? Yes, d.j. we keep a picture of you right next to the bed.
+LEADMALE:You're not ever coming home again, are you? You should be so lucky.
+LEADMALE:It's all different now.
+LEADMALE:What is? Everything.
+LEADMALE:Becky just cares about Mark.
+SUPMALE:You're gone.
+SUPFEMALE:Well, gee, Deej.
+LEADMALE:I never thought you'd actually miss me.
+LEADMALE:You want me to, like, sit on your head or somethin'? Mm, no.
+LEADMALE:Maybe later.
+LEADFEMALE:Got a girl job, here.
+LEADFEMALE:I need someone to untangle These christmas lights.
+LEADFEMALE:Lookit, they marked all their stuff.
+OTHERMALE:Healy cheese.
+SUPMALE:Healy jelly.
+LEADFEMALE:And healy pudding treats.
+LEADMALE:Can you believe that? No.
+SUPMALE:When did they start makin' chocolate mint? And then she did their laundry this morning.
+OTHERFEMALE:Look what I found on top of the washing machine.
+LEADFEMALE:What do you say to that? great.
+SUPFEMALE:I'm gonna buy me a puddin'.
+OTHERMALE:Dan, you have got to talk Mark out of goin' to that school.
+LEADMALE:I can't do that.
+LEADMALE:Yes, you can.
+LEADFEMALE:You just talk real slow.
+LEADMALE:No.
+LEADFEMALE:I'm busy untangli'' these lights.
+SUPFEMALE:there.
+LEADFEMALE:They're untangled.
+LEADMALE:Hi, dad.
+SUPFEMALE:Oh, quit suckin' up.
+LEADMALE:He's not gonna take a side.
+SUPMALE:So where have you been? I got a job at a restaurant.
+LEADMALE:Startin' training today.
+OTHERFEMALE:What? Buns? It's my waitress uniform! You're workin' at that buns place? Hmm.
+SUPFEMALE:Well, I don't know about you, Dan.
+LEADFEMALE:But I have absolutely no opinion on this at all.
+SUPFEMALE:Does you husband know what you're doin'? Yes.
+SUPFEMALE:Unbelievable.
+SUPMALE:This isn't gonna happen, Becky.
+SUPFEMALE:I am old enough to do what I want.
+OTHERMALE:And I want to send my husband to school.
+LEADMALE:As long as you are living under my roof, You are not workin' there.
+LEADMALE:Yeah.
+LEADMALE:Your dad is right.
+LEADMALE:And we're gonna give her back the check, so Mark can go to school.
+LEADMALE:Your dad's an idiot.
+SUPFEMALE:Roseanne, you wanted me to take a side? My little girl is not going to work dressed like that.
+LEADMALE:I am not a little girl! Why can't either of you take me seriously? Because you've got words on your butt.
+LEADFEMALE:Now go change your clothes.
+LEADMALE:So what? Now you just wanna give Mark the money? No, Roseanne.
+LEADMALE:Believe it or not, i'm not too thrilled with the guy right now.
+LEADMALE:But i've seen what goes on in that place, And I don't want my daughter to have anything to do with it.
+SUPMALE:You've been inside that place? Ugh.
+LEADFEMALE:yeah.
+LEADMALE:I heard the food was good, and You know, brand new, and they CouponHey! Mark's the bad guy here! I got work to do! Hey, can you staple this down there? Sure, sure.
+LEADFEMALE:Thanks.
+LEADMALE:watch it! Oh, is that your foot? Yeah! Sorry.
+LEADMALE:What are ya doin' that for? I did that 'cause get a damn job.
+SUPMALE:Hey, i'm tryin', here.
+OTHERMALE:Yeah.
+SUPFEMALE:Sure, you are.
+LEADFEMALE:Why should you, when you can have your wife go out there And shake her money-maker? I can't believe you let her work there.
+LEADMALE:What do you mean, let her? I don't make my wife's decisions.
+SUPFEMALE:She's got some rights in this marraige.
+SUPMALE:Oh, that is just beautiful.
+LEADMALE:Yeah, well.
+LEADMALE:I didn't really buy it, either.
+SUPMALE:It sounded better when Becky said it.
+LEADMALE:And of course, she was screaming.
+LEADMALE:So you're against her having this job? Yeah, I was against it! Forbid her.
+SUPFEMALE:You forbid her? Oh, man.
+LEADMALE:That can't have been good! Yeah.
+LEADMALE:Then she started yelling, you know.
+LEADMALE:"just because you married me, doesn't mean you own me.
+SUPMALE:"i'm an adult, and" And she'll do what she damn well pleases.
+LEADMALE:How'd you know? I remember everything about my wedding night.
+OTHERFEMALE:Man, is it always gonna be like this? Nah.
+LEADMALE:No, because eventually, Like water to a man crossing the desert, Comes sweet, sweet death.
+SUPFEMALE:Huh? Never mind.
+LEADMALE:You see, Mark, In a marraige, there's First, there's your win/lose situation.
+LEADMALE:That's where you get what you want, And she has to sacrifice.
+SUPFEMALE:Okay.
+LEADFEMALE:That one's mostly theoretical.
+OTHERMALE:The second one, there's the lose/win situation.
+LEADMALE:That's where she gets what she wants, And you lose it.
+SUPFEMALE:Much more common.
+OTHERFEMALE:Then finally, and as long as you'll be livin' under this roof, There's the win/win situation.
+SUPMALE:That's where Becky gets what she wants, And Roseanne gets what she wants.
+LEADMALE:Where do you want this? Mark? Uh, where does mrs.
+LEADFEMALE:Conner want this? Now you're talkin' like a man.
+LEADFEMALE:So, like you've been dealin' with this stuff for 20 years? I mean, how do you do it? Well, Mark After a while, husbands go to places they can call their own.
+SUPMALE:You know, guy places like the garage.
+LEADFEMALE:The basement.
+LEADFEMALE:The roof.
+LEADFEMALE:Bingo.
+LEADFEMALE:Yeah, I come up here all the time and fix these damn loose shingles.
+LEADFEMALE:Yah! See, now? This baby will keep me all of next week.
+LEADFEMALE:And the beauty part is, The women send us up here without knowin' we life it.
+SUPFEMALE:You know, Dan, i'm real, uh, glad we got to talk like this.
+LEADMALE:You know? I'm really feelin' better about things, andThink i'm learni'' something.
+SUPFEMALE:See? Now I bet you thought I was payin' attention.
+LEADFEMALE:tomorrow, i'll show you how to do that.
+LEADFEMALE:You're gonna give her the check, Roseanne.
+LEADFEMALE:You might as well admit she beat ya.
+OTHERMALE:She did not beat me.
+SUPMALE:None of my kids has ever beat me, Ever since I became a mother.
+LEADFEMALE:I am undefeated.
+OTHERMALE:And that is in 10 different weight classes.
+LEADMALE:How about when Becky was 6, and she gave you the silent treatment Till you got her the barbie collection? I didn't get her that barbie collection.
+LEADFEMALE:That was santa claus.
+LEADMALE:So what's it taste like? What? The beer.
+SUPMALE:I been pregnant for so long.
+LEADFEMALE:Describe it to me.
+OTHERMALE:Mmm You aren't missing nothing.
+LEADMALE:Hoo! That hits the spot.
+LEADFEMALE:Becky? here ya go.
+LEADMALE:mm-hm.
+SUPFEMALE:Told you so, Roseanne.
+LEADFEMALE:Not from me.
+SUPMALE:It's from santy claus.
+LEADFEMALE:Even if we're gonna use it to send Mark to school? Doesn't matter, as long as you quit that horrible job of yours.
+SUPMALE:I am not quitting the job! Oh, Becky.
+LEADFEMALE:Come on.
+LEADFEMALE:You won.
+LEADFEMALE:Don't kick your mom while she's down.
+LEADFEMALE:I didn't take the job to bother mom.
+LEADFEMALE:Ha! What, that's just one of the perks? Including tips, I get Wow, maybe I should sashay down there And pull one of them outfits up over my fat ass.
+LEADMALE:Come on, mom.
+OTHERFEMALE:No! Hey! If you dignity's for sale, Why shouldn't mine be? Oh, please.
+SUPFEMALE:If this family had any dignity, there wouldn't be a row of elves On the front lawn, mooning the angel gabriel.
+SUPFEMALE:Hey.
+LEADFEMALE:We are not degrading ourselves for tips.
+SUPFEMALE:We are degrading ourselves for the sheer holiday joy of it.
+SUPFEMALE:But you know, Roseanne.
+LEADFEMALE:This money could help Her and Mark get out of here.
+LEADMALE:Start a life of their own.
+LEADFEMALE:Jackie, she hasn't even thought this through all the way.
+SUPFEMALE:I mean, you might be feelin' real good about makin' big money.
+LEADFEMALE:But when you come home at night, you're gonna feel like trash.
+LEADMALE:I'll feel like i'm helping my family get back on its feet.
+LEADMALE:well, what if it doesn't work out that way? I mean, you don't really know what's gonna happen between you and Mark.
+SUPFEMALE:you still don't get it.
+LEADFEMALE:Mark is not my boyfriend.
+SUPMALE:He's my husband! That means forever! she's a married woman, Roseanne! Becky, come back here.
+LEADFEMALE:Now you're doin' the right thing.
+SUPMALE:What? Here.
+OTHERFEMALE:C'mon.
+LEADFEMALE:Do you mean it? Yes.
+LEADFEMALE:I do mean it.
+SUPMALE:I will, uhTry to accept your marriage, And your new career as a prostitute.
+LEADMALE:Thanks.
+OTHERFEMALE:Every damn year.
+SUPMALE:Mom, they're actually workin' pretty hard up there.
+SUPFEMALE:Workin'? Heh heh heh.
+LEADMALE:Don't kid yourself.
+OTHERFEMALE:They like it up there.
+SUPMALE:Dan finally found himself a little playmate That knows all about, uhDouble-socket wrench, uh, thingers.
+SUPFEMALE:The two of them really have a lot in common.
+SUPFEMALE:You know, it's like It's like the two of you married the same guy.
+LEADMALE:Where are you goin'? Get the hard liquor.
+LEADMALE:Roseanne.
+SUPMALE:Your christmas decorations outside are appalling.
+LEADFEMALE:The wise men are supposed to be adoring the baby Jesus, Not leering at Mrs.
+LEADFEMALE:Claus.
+SUPFEMALE:Well, of course they're leerin' at her.
+LEADFEMALE:She's wearin' one of those buns outfits.
+LEADMALE:And what on earth are those shepherds doing to the flock? Praising them.
+SUPFEMALE:Well, it's time to turn on our simple white lights.
+SUPMALE:Mother harris, won't you join us? what is santa claus doing? well, he's just tellin' the whole neighborhood That christmas is number one.
+LEADMALE:Hit that music, Dan!
+LEADMALE:

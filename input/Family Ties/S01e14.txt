@@ -1,0 +1,349 @@
+OTHERFEMALE:chips.
+OTHERFEMALE:" Isn't there anything more interesting on? A test pattern, maybe? It happens to be a quality show, Alex.
+SUPMALE:Erik's really cute.
+SUPMALE:Hey, mal, do you mind giving me a hand here? I'm trying to work out this hitch in my swing.
+SUPFEMALE:I hate baseball.
+LEADMALE:It's noisy, it's crowded, and everybody wears those tacky double knits.
+SUPMALE:Oh, Jennifer, you should know better than to practice baseball in the house.
+LEADMALE:Sorry, dad.
+LEADMALE:Mallory, turn off the TV.
+LEADFEMALE:Alex, help me clean up here.
+OTHERMALE:Your uncle ned's gonna be here any minute.
+LEADFEMALE:Maybe he'll practice with me.
+SUPFEMALE:Knowing uncle ned, I'm sure he will, but I'm counting on you to keep him under control this time.
+LEADFEMALE:Don't you like it when uncle ned comes? I love it, but I just wish one time when your brother comes to town he'd give us more than two hours' notice.
+LEADMALE:Uncle ned may be impulsive, but you got to remember one thing.
+SUPMALE:He's the junior vice president of the syntram corporation, which happens to be the 12th largest multinational corporation in the world.
+SUPFEMALE:In the fast-paced world of big business, decisions have to be made like that.
+SUPFEMALE:There's no time to think.
+LEADFEMALE:You'll fit right in someday, Alex.
+SUPMALE:Ned! Hey! Oh-ho! Oh! 
+SUPFEMALE:You're looking great.
+LEADMALE:Oh, my.
+LEADFEMALE:Who's the little monkey face? Hey, Alex.
+OTHERMALE:she's a woman now hey, how you doing? Welcome.
+SUPFEMALE:Good, good, good.
+LEADMALE:It's so good to see you! Come on and sit down! Oh, it's good to see all of you guys! Oh, the bag! Here you go, ned.
+SUPFEMALE:I have presents for each and every one of you.
+LEADMALE:Oh, you shouldn't have.
+LEADFEMALE:Starting with Jennifer.
+SUPFEMALE:It's a little New York City skyline inside a dome.
+LEADFEMALE:Shake it up, snow's inside.
+LEADMALE:Careful with that.
+LEADFEMALE:It's one of a kind.
+SUPFEMALE:I also have one for each of the rest of you! Oh! Oh! Oh! Oh! Oh! Alex! Mallory! Elyse! Steven! Ohh, Steven, I'm sorry.
+LEADFEMALE:You know, one day I'm gonna work inside of one of those buildings.
+LEADMALE:Should be a perfect fit.
+OTHERFEMALE:I'll get it.
+LEADMALE:Hello.
+LEADMALE:Hi, mom! Yeah, I'm fine.
+SUPMALE:Hey, have I got a surprise for you.
+SUPMALE:You will never guess who just came for a visit.
+LEADFEMALE:Uh, who is it? Uh The gas man.
+LEADMALE:He just came to read the meter.
+LEADFEMALE:Well, he prefers reading at night.
+SUPMALE:He sleeps better if he reads first.
+LEADMALE:Can I call you back later, mom? Good, okay, thanks.
+SUPMALE:Bye.
+SUPFEMALE:Why did you do that? No reason.
+SUPFEMALE:Look, Elyse, I-I'm on vacation.
+SUPMALE:I just want to relax.
+SUPFEMALE:If it's all the same, I'd like to take a couple of days, get settled before I talk to mom and dad.
+LEADMALE:Uh, parents can be tough to deal with sometimes.
+LEADFEMALE:Hey, I know what you mean.
+LEADFEMALE:Ah, ned, it's great that you could get this time off, considering that you took a vacation a couple of months ago.
+OTHERMALE:Uh Yeah.
+LEADFEMALE:Y-yeah, well, uh, this isn't a vacation, per se.
+LEADMALE:It's more of a-a leave of absence.
+LEADFEMALE:I was feeling a little burned out.
+SUPMALE:I needed some time off, you know? You're not sick, now, are you? No.
+LEADMALE:No, no, no.
+LEADFEMALE:Nothing like that.
+LEADMALE:Just a little tired.
+SUPFEMALE:I was hoping I could stay here for a while, if it's okay? Sure.
+SUPFEMALE:Oh, that'd be terrific.
+LEADMALE:Sure, make yourself at home.
+LEADFEMALE:We won't bother you.
+LEADMALE:You can even go take a nap if you want.
+LEADFEMALE:Ohh, great.
+OTHERFEMALE:Hey! What do you say we blow this couch out of here and play a couple of innings, guys? Uh Oh, you don't know how I appreciate a home-cooked meal, Elyse.
+LEADFEMALE:I don't cook much in my apartment anymore, not since the fire.
+SUPMALE:It's a mystery to me how you live in that apartment.
+LEADFEMALE:It was such a mess last time we visited.
+SUPMALE:Come on, Elyse, you just caught me at a bad time.
+LEADFEMALE:I didn't have time to tidy up before you arrived.
+SUPFEMALE:It looked like strip mining had been going on.
+LEADMALE:No.
+LEADMALE:No strip mining.
+OTHERMALE:The geological surveys we did were inconclusive.
+SUPMALE:Don't make fun of me, ned.
+LEADFEMALE:I-i worry about you.
+LEADMALE:I know.
+LEADFEMALE:And it's so cute.
+SUPMALE:You're such a big sister.
+LEADFEMALE:So, ned, uh, how's work? What's going on at syntram? Come on, dad.
+LEADMALE:I showed you that clipping.
+LEADFEMALE:They've moved up seven notches on the fortune 500.
+OTHERFEMALE:You've got a copy of the fortune 500 in your wallet? No, I wish.
+LEADFEMALE:I only have the top 25 in my wallet.
+SUPFEMALE:I keep the complete list under my pillow.
+SUPMALE:I also have The clipping from two years ago when you were promoted to junior vice president And your speech before the world bank And your award for best young executive of 1981.
+SUPMALE:You got any pictures of me in a swimsuit in there? Come on, uncle ned, there's no need for false modesty.
+LEADFEMALE:We all know you're a genius.
+LEADFEMALE:Your command of computer technology, your business acumen, your math abilities are well-documented.
+LEADMALE:That's right.
+SUPMALE:You're looking at a man who's memorized every number between one and 100.
+SUPMALE:Oh, yeah? What comes after 63? Oh, come on, Jennifer.
+LEADFEMALE:Not when everybody's watching.
+OTHERMALE:Hello? Allied international airlines? Wha No, I-I'm sorry.
+LEADFEMALE:You must have the wrong number.
+LEADFEMALE:There's no one named stanislaw demkowski here.
+LEADMALE:This is stanislaw.
+LEADMALE:Nyet, nyet.
+LEADFEMALE:No.
+LEADMALE:I-I do not know when I will be leaving yet.
+LEADFEMALE:Can I keep my return ticket open? Oh, danke, danke.
+SUPMALE:Bei mir bist du schoen.
+LEADFEMALE:Uh, since I'm up, anybody need anything from the fridge? Some butter, some baking soda, some chopped chives? Ned, that call was for someone named stanislaw.
+LEADMALE:Yeah, that struck me as strange, also.
+LEADMALE:Ned.
+LEADFEMALE:Oh, well, there's a very simple explanation.
+SUPMALE:I booked my airline ticket through the company's computers, and I used an assumed name so they wouldn't know I was here.
+SUPFEMALE:Otherwise, they'd be calling every five minutes with some problem at work.
+LEADMALE:May I use your phone for a second? Quick business call? Certainly, stanislaw.
+OTHERMALE:After all, you are a guest in our country.
+SUPFEMALE:The falcon has landed.
+OTHERFEMALE:The fat man walks alone.
+LEADMALE:I repeat The falcon has landed, and the fat man walks alone.
+OTHERFEMALE:So, you're sure about those chopped chives? Good morning.
+LEADMALE:Good morning, uncle ned.
+LEADMALE:You sleep well? Like a baby.
+LEADMALE:Didn't you hear me crying? What you working on? Algebra.
+OTHERMALE:Mm, what's the problem? Algebra.
+OTHERMALE:Need some help? Well, I did this problem with that formula you showed me last night, and I got "x" equals 7.
+SUPMALE:But the book says "x" equals 9.
+LEADMALE:Compromise.
+SUPMALE:Make "x" equal 8.
+OTHERFEMALE:Okay.
+SUPFEMALE:Now, I want all the dirt.
+OTHERMALE:Tell me everything.
+LEADFEMALE:The inner workings of the corporate world.
+SUPFEMALE:Bold, daring decisions made in the face of an ever-changing and uncertain world economy.
+LEADFEMALE:Uh, survival of the fittest elevated to the highest levels of corporate technology.
+LEADMALE:Come on, uncle ned, tell me, is that what it's like? Kind of.
+LEADMALE:Really.
+OTHERFEMALE:God, I love getting the inside story! Don't encourage him, uncle ned.
+SUPFEMALE:Uncle ned, what is really the most exciting part of it all? I have two secretaries.
+SUPMALE:You've just destroyed all his fantasies.
+LEADFEMALE:Hopefully, I've created new ones.
+SUPFEMALE:Okay, kids.
+LEADMALE:Get a move on! Your car pool's gonna be here any minute.
+LEADMALE:Uncle ned, can you give me a few pointers? We have a big game after school today, and I've been in a batting slump lately.
+LEADFEMALE:Well, that's because you swing at too many bad pitches, Jennifer, and I told you that last time I was here.
+LEADFEMALE:All right.
+LEADFEMALE:Come on, come on.
+OTHERMALE:Let's go outside, and I'll toss you a couple.
+LEADFEMALE:Uh-oh, our car pool is here.
+LEADMALE:See you later! That's okay, that's okay.
+LEADMALE:We can get in a couple swings on the way to the car.
+SUPFEMALE:Hey Alex, Mallory, shag some flies for us, would you? Okay, bye.
+LEADMALE:Oh, Steve, come on out! We need a catcher! Don't say it, Steven.
+LEADFEMALE:You don't even know what I was going to say.
+LEADFEMALE:You were going to say that ned is childish and irresponsible.
+OTHERMALE:I wasn't going to say that.
+LEADFEMALE:That's a given.
+LEADFEMALE:What I was going to say is, uh, I think something's going on that ned's not telling us.
+SUPFEMALE:He's been so evasive about why he's in town now.
+LEADMALE:I know what you mean, but that's ned.
+SUPFEMALE:I mean, he told us last night he's feeling burned out, and he just wants to take a leave of absence.
+LEADMALE:Well, then, what's all this stuff, uh The fat man has landed and Actually, it was the the falcon that landed.
+SUPMALE:The fat man walked alone.
+LEADMALE: Aw, give the kid a break, Mrs.
+LEADFEMALE:Anderson! She's got a big game today! Well, what's a couple of minutes?! That woman should not be driving a car pool.
+LEADFEMALE:She's far too irritable.
+LEADMALE:Oop, I'll get that.
+LEADMALE:Hello? Just a minute.
+LEADMALE:I'll see.
+LEADMALE:Elyse, do you have any friends named bernice? Uh, bernice Wilkins.
+OTHERFEMALE:Bernice, what's your last name? Okay, she's got that right.
+LEADFEMALE:How tall is she? She's about ned! What Bernice.
+SUPMALE:Hi.
+LEADMALE:Who answered the phone? The gas man.
+LEADMALE:Yeah, can I call you back? Thanks.
+LEADFEMALE:Don't ever call here again.
+LEADMALE:Ned, what is going on? I just don't want the people from work to know I'm here.
+LEADFEMALE:Why not? Because I've been having some problems at work lately.
+LEADFEMALE:Some big problems.
+LEADFEMALE:Well, the truth of the matter is, I quit.
+SUPFEMALE:Or if you want to get all technical about it, I was fired.
+LEADMALE:Oh, ned.
+LEADMALE:I'm sorry.
+LEADFEMALE:Yeah, well, the thing is, I didn't leave on exactly the best of terms with the company brass.
+LEADMALE:Uh, there may be some things they might want to say to me that I don't really want to hear, and some things they might want to do to me that I don't want to have done.
+LEADMALE:What are you saying? Are you in some physical danger? Only if they catch me.
+LEADMALE:Now, I-i don't understand.
+OTHERFEMALE:Why are they after you? Well, I had a little disagreement with the president of the company.
+OTHERFEMALE:All of this is over a little disagreement? Well, at first it was a little disagreement.
+LEADFEMALE:Then I poured a cup of coffee on his head.
+LEADMALE:On your boss? He said he wanted a second cup.
+LEADFEMALE:Uh, look, um, why don't I just explain this from the very beginning? About two years ago, the syntram corporation bought a small company called hemsdale machine parts, and, as it turns out, syntram bought that company for only one reason.
+SUPFEMALE:To make money.
+LEADFEMALE:To lose money.
+SUPMALE:Uh-huh.
+LEADMALE:I was never very good at business.
+OTHERMALE:You see, once the merger went through, syntram could claim that hemsdale was an unprofitable business and shut it down, and they would use the loss as a huge tax write-off, and the whole transaction would actually make millions of dollars for the company.
+LEADMALE:And I was the man in charge of making all of that happen.
+SUPFEMALE:That was your big promotion, right? I remember that.
+LEADFEMALE:Yeah.
+LEADMALE:Alex took the day off from school.
+LEADMALE:Yeah, well, uh, a couple of months ago, I visited hemsdale for the first time and saw the people we were about to put out of work All 1,800 of them And it just really got to me.
+LEADFEMALE:But you must have known that they existed before that.
+SUPFEMALE:Until then, they were just numbers on a computer printout, Steve.
+LEADFEMALE:But when I saw them, they were real people.
+SUPFEMALE:They had overalls and lunch buckets and hats, umbrellas.
+SUPFEMALE:The forecast called for rain.
+LEADFEMALE:Well, what happened? A light shower.
+SUPMALE:Sun came out about What did you do? Oh, well I went to the president of our company, and I explained how I felt.
+SUPMALE:I suggested that he call the merger off and keep hemsdale open.
+LEADFEMALE:And he said to me "Ned, let's keep this in perspective.
+LEADFEMALE:"Those 1,800 people have their financial concerns, and we have ours.
+LEADFEMALE:" Moments later, the man had coffee in his hair.
+LEADFEMALE:Pouring coffee on his head was pretty dumb, but it Do you really think they'll send someone after you? Big business can be dangerous.
+LEADFEMALE:I've heard of people who have disappeared after mixing up a lunch order.
+LEADFEMALE:Must be very difficult for you.
+SUPMALE:I mean, after all you've worked for for the past 10 years.
+OTHERMALE:Yeah, I guess I had no other choice.
+LEADMALE:But, um, what was all this business about the, uh, falcon and the fat man? Yeah.
+LEADMALE:Oh, that was nothing.
+SUPFEMALE:I was canceling a racquetball date I had with Billy whitsett.
+LEADMALE:We call him "the fat man.
+LEADFEMALE:" I'm glad you told us, ned.
+OTHERMALE:At least it'll This'll put an end to all this cloak-and-dagger business.
+SUPFEMALE:Of course.
+OTHERMALE:Hello.
+LEADMALE:"Pussycat, pussycat, w-where have you been"? Just tell 'em I've been to London to visit the Forget it.
+LEADMALE: Oh, you quitter.
+LEADMALE:What's the big deal? I-I mean, we had time for one more inning.
+SUPMALE:It was getting dark, uncle ned.
+OTHERFEMALE:So what? It was a tie game! I was getting tired.
+SUPMALE:Hey.
+OTHERFEMALE:You play tired.
+SUPFEMALE:That's part of the game.
+OTHERMALE:Their pitcher was even losing her good stuff.
+SUPFEMALE:All the kids had to go home for dinner.
+LEADFEMALE:What a gyp.
+LEADFEMALE:Hey, champ.
+SUPFEMALE:Hi, uncle ned.
+SUPFEMALE:Listen, uh, my dad told me the whole thing.
+LEADFEMALE:I think what you did was great.
+SUPFEMALE:You do? Yeah.
+SUPFEMALE:Yeah, y-you did what you had to do.
+SUPMALE:Now they know you're not just another yes man.
+SUPFEMALE:You're a freethinker, a-a rebel.
+OTHERMALE:The president will probably come running back to you and offer you a big raise and a promotion.
+LEADFEMALE:Alex, I'm not going back to syntram.
+LEADFEMALE:You know, you're right.
+SUPFEMALE:To hell with 'em.
+LEADFEMALE:The other big multinationals will probably be banging down your door pretty soon.
+OTHERMALE:You could just take your pick, right? No.
+OTHERMALE:I'm through with the business world.
+SUPMALE:Finished.
+LEADFEMALE:Never again.
+LEADFEMALE:The ballgame's over.
+SUPMALE:You can't do that, uncle ned! You've got one of the best young business minds since Henry Ford.
+LEADMALE:Since Since Howard Hughes! Since Since a lot of guys! You're part of a new breed.
+LEADMALE:You're brass.
+LEADFEMALE:You're sassy.
+LEADFEMALE:You're now! Let's face it, you owe it to humanity to make money.
+LEADMALE:Alex, there's a lot of information about this that has yet to surface.
+SUPMALE:And when it does, you may not be that thrilled with me.
+SUPMALE:What do you mean? Alex, I'm about to tell you something that I couldn't tell your parents.
+OTHERFEMALE:No, I'm not.
+SUPFEMALE:Oh, hi, ned.
+LEADMALE:How did Jennifer's softball game go? Well, it was a tie game, and Jennifer wanted to come home 'cause it was getting dark, and she was getting hungry and tired, and I really think you ought to have a talk with that kid, Steve.
+SUPFEMALE:Hey, mom and dad, a car just pulled up in the driveway.
+SUPMALE:Yeah, it's got U.
+LEADFEMALE:S.
+SUPFEMALE:government license plates.
+LEADMALE:Are you sure? Positive.
+LEADFEMALE:Oh, son of a gun, Mallory, you're right! Government plates.
+SUPFEMALE:Ned, do you know anything about this? Me? No, nothing.
+LEADFEMALE:Never seen the guy before.
+LEADFEMALE:But whoever he is, he's about to ring your front doorbell.
+SUPFEMALE:Well, I got to go get some ice cream.
+SUPFEMALE:Ned! Yes? Is this the Keaton residence? Yes.
+LEADFEMALE:Great! That would make you Steven Keaton, right? Uh, right.
+SUPFEMALE:Whoa! Two out of two! Uh, what can I do for you? May may I come in? Yeah.
+LEADFEMALE:My name's Bert Carlyle.
+LEADFEMALE:I'm with your local office of the federal bureau of investigation.
+LEADMALE:What's going on? Don't tell me! Don't tell me! You you you You must be Elyse, right? That's right.
+LEADMALE:I'm pretty good at this, aren't I? And, uh, you must be Alex and, uh, Mallory.
+LEADFEMALE:Uh, who's the little girl? Friend of the family? She's our daughter Jennifer.
+SUPMALE:Are you sure? I'm quite certain.
+LEADMALE:Okay.
+SUPMALE:First mistake.
+SUPFEMALE:Heads will roll! "Jennifer Daughter.
+LEADFEMALE:" Got it.
+OTHERFEMALE:How do you know so much about us? Well, I pulled your file from the computer this afternoon.
+LEADFEMALE:Say, you know, you folks have been the talk of the office all day long.
+SUPFEMALE:Uh, excuse me, dear.
+LEADMALE:Excuse me, dear.
+LEADMALE:Ah, here we are.
+SUPFEMALE:"Steven and Elyse Keaton.
+SUPMALE:Married may 1964.
+SUPFEMALE:"Participated in no fewer than 15 "subversive political demonstrations "between 1966 and 1973.
+SUPFEMALE:Arrested three times.
+LEADMALE:" See here, Mr.
+LEADFEMALE:Carlyle, I don't know what you want with us, but I do know my rights.
+SUPMALE:According to the privacy act of 1974, I have the right to examine the FBI's file on us.
+LEADFEMALE:Okay, here.
+LEADMALE:Can I have that back before I go? It's my only copy.
+LEADFEMALE:Mr.
+SUPFEMALE:Carlyle, will you please tell us why you're here? Oh, right.
+LEADMALE:Listen, I'm sorry to bother you folks.
+LEADFEMALE:We got a call from the New York office this morning.
+LEADFEMALE:Now, it seems they're looking for a A ned Donnelly.
+LEADFEMALE:He's my brother.
+LEADFEMALE:Wait a minute.
+LEADFEMALE:Wait a minute.
+OTHERMALE:He's, uh, your brother.
+LEADFEMALE:That's correct.
+LEADMALE:Anyway, we're just making a routine check of his relatives to see if they know where he is.
+LEADFEMALE:Uh, has ned done something illegal? Ma'am, the FBI doesn't go looking for people unless they've done something illegal.
+LEADFEMALE:It's a new policy.
+LEADMALE:Well, just what did uncle ned do? Let's see, what did uncle ned do? What did uncle ned do? Uncle ned stole $4.
+SUPFEMALE:5 million.
+SUPFEMALE:Whoa! The syntram corporation has filed charges against him for, and I quote, "embezzlement" "and tampering with corporate records and corporate funds involving interstate transactions.
+LEADFEMALE:" Is that good or bad? It's bad, Jennifer.
+LEADMALE:So, um, do you folks know where we might find him? Uh No, we don't.
+LEADMALE:She's right.
+SUPFEMALE:We haven't heard from him.
+SUPFEMALE:Not in months.
+SUPMALE:And we definitely didn't play baseball together today.
+LEADFEMALE:Mr.
+LEADFEMALE:Carlyle, do do you really believe my brother stole that money? I mean he's not the type.
+LEADMALE:I'll mention that to the guys in New York, but to be honest with you, I think they'll want to push ahead with the case, anyway.
+SUPFEMALE:Can I have my file back? I got to go.
+LEADFEMALE:M-Mr.
+LEADMALE:Carlyle It says here that we participated in left-wing conspiracies to overthrow the government.
+SUPMALE:We we never did that.
+LEADMALE:Well, don't take it so literally.
+LEADFEMALE:It's just a bookkeeping thing.
+LEADMALE:L-let's just say, entirely for the sake of argument, that we know where ned is.
+LEADMALE:We we don't, of course.
+SUPFEMALE:No.
+LEADMALE:No.
+LEADMALE:No.
+OTHERMALE:No.
+LEADFEMALE:No.
+SUPFEMALE:But But let's say we do.
+LEADFEMALE:I'm just curious what would happen to us if, uh, we didn't tell you Hypothetically speaking, of course.
+LEADMALE:Hmm.
+LEADFEMALE:Interesting.
+SUPFEMALE:I guess Uh, hypothetically speaking, that you would be hypothetically arrested for harboring a known criminal and hypothetically be sent to a very real jail.
+SUPFEMALE:I see.
+SUPFEMALE:Fascinating stuff, isn't it, eh? Well, listen I have to go.
+SUPFEMALE:If, uh, you hear from your brother, ma'am, please, uh Give me a call.
+SUPFEMALE:Keep in mind, withholding information is a federal offense.
+OTHERFEMALE:Have a nice night.
+LEADFEMALE:

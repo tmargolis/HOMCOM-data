@@ -1,0 +1,382 @@
+LEADFEMALE:Okay, Barb, we've got the pants outfit, the skirt, two sweaters, a sarong, silk blouse, and a dozen scarves.
+OTHERMALE:Will that be all? I'm not sure, Mallory.
+LEADMALE:What do you think? Should get you through the weekend.
+SUPFEMALE:Sure, unless I leave the house.
+LEADFEMALE:I still wish I hadn't talked myself out of that sequins set.
+LEADFEMALE:I'll think I'll go take another look.
+OTHERFEMALE:Okay.
+LEADFEMALE:Okay, Mallory, Alex, I'm still waiting on a customer.
+SUPFEMALE:I'll be done in a few minutes.
+OTHERFEMALE:Hey, Mallory, I don't run a cab company, you know? You can keep me waiting, Mallory.
+LEADMALE:I don't mind.
+LEADFEMALE:I love observing you in your work environment.
+LEADFEMALE:Skippy, I thought you promised to stop coming to the store to bother me.
+LEADFEMALE:I didn't come here to bother you.
+LEADMALE:I came here to, uh, buy something for my mother.
+OTHERMALE:That's for your mother? Yeah, well, I thought I'd get a hat to go with it.
+OTHERFEMALE:It's for my mother.
+LEADMALE:Yeah, keep sticking to that story, Skip.
+OTHERFEMALE:Mallory, Barbara Alexander just told me that you are her favorite salesperson.
+LEADMALE:Oh, that's great.
+SUPMALE:I am very pleased with the work you've been doing.
+LEADMALE:I have very big plans for you.
+LEADMALE:Hey, Mrs.
+LEADMALE:Willis, how about sending her on the road? Maybe opening a second store in Alaska.
+LEADMALE:Alex.
+OTHERFEMALE:Yeah, I could go with you.
+LEADMALE:Better pack a sweater, Skip.
+SUPMALE:Oh, Mallory, come on.
+SUPMALE:Let's get out of here.
+LEADMALE:I gotta study tonight.
+LEADFEMALE:So do you.
+LEADMALE:Stop bugging me about studying.
+OTHERMALE:I've got other things on my mind.
+OTHERMALE:All right, Mallory, I realize you're a little cramped for space up there, but try and fit this thought in, okay? Mom and Dad are not gonna let you keep this job if you let your grades slide.
+LEADMALE:Alex, her grades are fine.
+LEADMALE:She got a 62 on today's geometry test.
+SUPMALE:Skippy.
+LEADFEMALE:What's wrong with that? It's 27 better than I got.
+LEADFEMALE:"Even before birth, "your baby is sensitive to sound vibrations and will respond to some voices by moving and kicking.
+SUPMALE:" That's neat.
+OTHERFEMALE:Hi, I'm your sister Jennifer.
+SUPMALE:As soon as you're born, look me up, okay? Kicking.
+LEADMALE:I feel kicking.
+SUPFEMALE:It's responding to your voice.
+LEADFEMALE:I like her already.
+LEADFEMALE:Let me take a shot at this.
+OTHERMALE:A man walks into a psychiatrist's office with With a chicken.
+LEADFEMALE:Nothing.
+LEADFEMALE:Hey-ho, how's it going, everybody? Hi, Dad.
+SUPMALE:Hiya, Mom.
+LEADMALE:How you feeling? Fine.
+LEADMALE:Well, actually That's terrific.
+LEADFEMALE:That's terrific.
+SUPMALE:tired.
+SUPMALE:How was your day, honey? Great.
+OTHERFEMALE:I sold $300 worth of clothes, and Mrs.
+OTHERFEMALE:Willis says if I keep it up, I may get a promotion.
+LEADFEMALE:Well, that's terrific.
+OTHERMALE:Congratulations.
+LEADFEMALE:How'd you do on your geometry test? Uh, you say you may get a promotion, hm? Sixty-two, a D.
+LEADFEMALE:Honey, you got a D in geometry? I think this is going to turn into something I'd rather not witness.
+LEADFEMALE:Psst.
+SUPMALE:Cover your ears.
+SUPFEMALE:Well, I gotta go.
+LEADFEMALE:You know how it pains me to see Mallory in trouble.
+LEADMALE:I wish I could film this.
+LEADFEMALE:I have to say, we're disappointed, Mallory.
+LEADFEMALE:Yeah, me too, but I'll make it up in the final, you'll see.
+OTHERFEMALE:Can I go now? Mallory, please.
+LEADMALE:The, uh The three of us agreed that if you couldn't keep your grades up, you'd have to quit the job.
+OTHERMALE:I know, but this job's really important to me.
+SUPMALE:It It's just a job, Mallory.
+LEADMALE:It's not as important as school.
+SUPMALE:Maybe not to you, but to me it is.
+LEADMALE:Honey, school is the most School, school, school.
+SUPMALE:You know, I'm tired of hearing about school.
+LEADFEMALE:It's not the only worthwhile thing in life.
+LEADFEMALE:W I'm I'm sorry, but you're gonna have to quit the job.
+LEADMALE:I can't believe they're making me quit.
+LEADFEMALE:That job is the best thing in my life.
+LEADFEMALE:When I'm working I feel good about myself, you know? I feel needed there.
+LEADMALE:I feel respected.
+SUPFEMALE:I know.
+SUPMALE:You know, you're actually competent there.
+LEADFEMALE:You're like a different person.
+LEADFEMALE:Alex, could you talk to them for me? See if you can convince them to let me keep the job? Uh, you mean, do you a favor? Well, yeah, but I'd be doing you a favor too.
+SUPFEMALE:I won't be home as much.
+SUPFEMALE:That's good, but I need more.
+LEADFEMALE:Come on, Alex, you owe me a favor.
+LEADMALE:Oh, how do you figure? Didn't I fix you up last month with the Fergus twins? The Fergus twins? Mallory, one of them was a guy.
+SUPFEMALE:I didn't know that.
+OTHERFEMALE:And he was the cute one.
+LEADFEMALE:Alex, why don't you just help her? You could talk Mom and Dad into anything.
+LEADFEMALE:Well, that's true.
+LEADFEMALE:Yeah, Alex, Jen's right.
+OTHERFEMALE:You can be really cunning, devious, and manipulative when you want to be.
+SUPFEMALE:Stop trying to butter me up.
+OTHERFEMALE:Well, ahem, it has been a while since I've had to talk them into anything.
+LEADFEMALE:I could probably use the practice.
+LEADMALE:Please, Alex.
+OTHERFEMALE:This job is really important to me.
+LEADMALE:It's my whole life.
+SUPFEMALE:Please help me.
+OTHERFEMALE:And so I I I said to the waitress, "No, not mustard.
+LEADFEMALE:I said custard.
+SUPMALE:" I'm sorry, honey, it's just not responding to your voice.
+LEADMALE:Uh, Mom, Dad, uh, listen.
+LEADFEMALE:Uh, Mallory told me about what happened, and, uh, well, I just wanted to say that I think you handled that situation impeccably.
+LEADFEMALE:I fully agree with your decision and with your execution thereof.
+LEADMALE:I can't tell you how happy we are to have your blessing.
+LEADFEMALE:But, uh, I I have a little proposal that I'd like to present.
+SUPMALE:Hold on to your wallet, Steven.
+LEADMALE:Mallory has three midterms left.
+LEADFEMALE:Now, if she really applies herself and And gets Bs or above on all of the tests, she keeps her job.
+LEADMALE:Alex, it's already been settled.
+SUPFEMALE:Mallory's done poorly on her last few tests.
+LEADMALE:and she's gotta quit.
+LEADMALE:Yeah, but those tests are history.
+LEADMALE:They're over with.
+OTHERMALE:Let's face it, Dad.
+OTHERMALE:Nothing we do can bring back those tests.
+LEADFEMALE:Oh, brother.
+SUPMALE:The thing to do is to look forward to the future.
+OTHERFEMALE:Start off with a clean slate.
+LEADMALE:Let's learn from our mistakes.
+SUPMALE:If we learned from our mistakes, we wouldn't be here listening to you.
+OTHERMALE:You see, Dad, your agreement before was too vague for Mallory.
+SUPMALE:You see, the child needs more specific guidelines.
+SUPFEMALE:All you said was "to do well.
+LEADMALE:" What is "doing well"? Mallory, had you any idea that you were expected to get Bs? I had no such knowledge.
+SUPMALE:There you have it.
+SUPFEMALE:Let us start anew, shall we? Three Bs.
+OTHERMALE:Three Bs and she keeps the job.
+LEADFEMALE:That is the most reasonable thing I've ever heard in my life.
+LEADMALE:Uh, listen, Alex, uh, just out of curiosity, why are you doing this for Mallory? Can't you just accept the fact that a guy like me would, uh, help his sister in her time of need? Absolutely not.
+SUPFEMALE:Alex's motive aside, uh, it does sound pretty fair to me.
+SUPMALE:Steven? It's all right with me.
+LEADMALE:Well, there you have it.
+SUPMALE:Well, okay.
+LEADFEMALE:I I have to admit, I felt bad about you having to quit the job.
+SUPFEMALE:Well, so did I.
+SUPFEMALE:This gives you another chance, honey.
+SUPFEMALE:Good luck.
+LEADFEMALE:Thank you, Mom.
+LEADMALE:Well, uh, we'll be back from our walk about half an hour.
+LEADMALE:Okay, bye.
+LEADMALE:Bye-bye.
+SUPFEMALE:Whoo! Well, did I come through? Boy, was I great.
+SUPMALE:I haven't lost the old touch, you know.
+LEADMALE:They were putty in my hands.
+LEADFEMALE:Alex.
+SUPMALE:Alex, three Bs? I'm never gonna get three Bs.
+SUPFEMALE:I'm not smart enough.
+LEADMALE:Not smart enough? Mallory, could someone who's not smart handle that store? Well, it's true you You may not have book smarts, but you got something else.
+LEADFEMALE:You got something that might even be more important.
+LEADFEMALE:What? You've got fabric smarts.
+LEADMALE:Fabric smarts? Yeah, yeah, you You know which stripes go with which checks.
+SUPFEMALE:You know whether the socks are supposed to match the shoes or the pants.
+LEADFEMALE:You know when to machine-wash, and when to tumble-dry.
+SUPMALE:Alex, washing and drying are separate events.
+LEADMALE:Separate events.
+LEADMALE:Whoa! I wouldn't have known that in a million years.
+SUPFEMALE:I don't know, though.
+SUPMALE:Three Bs? Do you really think I can do it? Oh, Mallory, I know you can do it, because I am going to help you do it.
+SUPMALE:I'm gonna be with you every step of the way, Mal, tutoring you, coaching you, guiding you.
+LEADMALE:But why? Why, Mal? Because I am the architect of this deal.
+LEADFEMALE:I mean, how would it look if you were to lose the job I fought so hard for you to keep? I'd be a laughingstock.
+LEADMALE:I'm gonna see you through this, because my credibility is on the line.
+LEADMALE:Three Bs? You can do it.
+SUPMALE:You're sure you're not just saying this to cheer me up? Mallory, think about it.
+LEADMALE:Have I ever said anything just to cheer you up? And so, my child to be, it is with great eagerness and anticipation that I await your birth.
+SUPMALE:Many, um Oh.
+LEADFEMALE:Just Uh, many years of blissful father/child interaction await us.
+LEADFEMALE:I hope you are as enthusiastic as I am.
+OTHERMALE:Not a nudge, honey.
+OTHERFEMALE:I don't understand it.
+SUPFEMALE:I don't know.
+LEADFEMALE:Maybe it doesn't feel like kicking.
+OTHERMALE:Hi, everybody.
+LEADFEMALE:Hi.
+LEADFEMALE:Hi, kid.
+LEADMALE:It kicked! It kicked! Sorry, Dad, I guess you just don't have the right touch.
+SUPMALE:Ladies and gentlemen, may I present to you the recipient of her second B in three days, fighting out of Tenafly, New Jersey, at 5'4", 180 pounds Ow.
+SUPFEMALE:Mallory Keaton.
+SUPFEMALE:Whoo, whoo.
+SUPFEMALE:STEVEN That a girl.
+LEADFEMALE:Way to go, Mal.
+LEADFEMALE:Way to go.
+OTHERMALE:Oh, that's terrific, Mal.
+SUPFEMALE:English Literature, Mallory Keaton, B.
+SUPMALE:Couldn't have done it without Alex.
+LEADMALE:No kidding.
+OTHERFEMALE:I gotta hand it to you, honey.
+LEADFEMALE:You've really done well.
+LEADMALE:I knew you had it in you.
+LEADMALE:Who would have thought that she would be getting Bs? Admit it, Mal, it feels good getting mediocre grades, doesn't it? Well, yeah.
+LEADMALE:It's kinda nice to take a test and actually know what the questions mean.
+SUPMALE:That's right.
+SUPFEMALE:Only one more midterm to go.
+LEADFEMALE:American History, tomorrow.
+SUPMALE:Yep, D-day.
+LEADFEMALE:Jennifer, don't say D-day, okay? It can be any other kind of day.
+LEADFEMALE:A- day, B-day, Doris Day.
+SUPFEMALE:How much time do we have before dinner? I want to get some studying done.
+LEADMALE:Can you believe this? Studying without threats.
+OTHERMALE:It's a miracle.
+LEADFEMALE:Why don't you take a little break, Mal.
+OTHERFEMALE:I'm afraid you're working too hard.
+OTHERMALE:You can, uh You can study after dinner.
+SUPMALE:Well, I can't study tonight.
+LEADMALE:We're having a big sale down at the store.
+LEADMALE:I promised Mrs.
+LEADFEMALE:Willis I'd work.
+SUPFEMALE:Wait Wait a minute.
+LEADMALE:What do you mean? What do you mean, Mallory, we can't study tonight? I got big plans for you tonight.
+LEADMALE:I got practice tests, I got maps, I got charts.
+LEADMALE:We were gonna reenact the Revolutionary War.
+OTHERMALE:I can't, Alex.
+LEADMALE:Mrs.
+OTHERFEMALE:Willis really needs me.
+SUPMALE:All right, okay, okay, no problem.
+LEADFEMALE:We'll just study down at the store.
+LEADMALE:You won't be able to get any work done there.
+SUPFEMALE:It's too chaotic.
+SUPFEMALE:Dad, Dad it won't be the first time somebody's had to study under adverse conditions.
+LEADFEMALE:Abe Linc Abe Lincoln had to study in a cold, dark log cabin by candlelight.
+OTHERFEMALE:Gregor Mendel had to study in a monastery.
+LEADMALE:Louis Pasteur, had to study in French.
+OTHERFEMALE:How hard can it be for Mallory Keaton to study in a boutique? Coming through.
+SUPMALE:Watch out, watch out, watch out, watch out.
+LEADMALE:Okay, Mallory.
+LEADMALE:Next question.
+LEADFEMALE:The date December 21st, 1620, is important in American history.
+SUPFEMALE:Okay, December 21st, 1620, the Pilgrims landed in Plymouth, Massachusetts.
+LEADMALE:I gotta hang this up.
+LEADMALE:Oh, and they signed the Mayflower Compact there.
+LEADFEMALE:Mallory, I just don't know if this bathrobe would fit my daughter.
+SUPFEMALE:Would you like me to try it on for you? Oh, no.
+LEADMALE:My Mindy's very petite.
+SUPMALE:Small-boned, like me.
+OTHERMALE:She's more his size.
+SUPMALE:Ah.
+SUPMALE:What do you think, Mallory? Well, turn around, Alex.
+SUPMALE:Yeah, walk away a little bit.
+OTHERFEMALE:Wait a minute.
+SUPMALE:What is this? Whoa, whoa, whoa.
+LEADMALE:No, that looks good.
+OTHERFEMALE:What other colors does it come in? Okay, I'll take it and I'd like to try on this dress for myself.
+LEADFEMALE:Great, great.
+OTHERMALE:Right in here.
+SUPFEMALE:Oh, thank you.
+SUPFEMALE:All right, Mallory.
+SUPMALE:Back to American History.
+LEADFEMALE:Wait, take the robe off first, Alex.
+LEADFEMALE:I can't concentrate with you in feathers.
+LEADMALE:Oh, Mallory.
+OTHERMALE:I need you.
+SUPFEMALE:Uh, okay, Mallory, this one is definitely gonna be on the test.
+OTHERMALE:I think I'm in love.
+LEADFEMALE:You guys are gonna get me in a lot of trouble.
+SUPFEMALE:Come on, Mallory.
+LEADMALE:We have got to study.
+LEADMALE:Now, at the Constitutional Convention, how many states were needed to ratify? Okay, Mallory.
+LEADFEMALE:I'll take it.
+LEADFEMALE:I'm in a hurry.
+LEADFEMALE:I have to pick up Mindy at the dermatologist.
+OTHERFEMALE:Excuse me.
+SUPFEMALE:Would you please get out of my way.
+LEADFEMALE:Lady, listen.
+OTHERMALE:We got laws in this country.
+OTHERFEMALE:Okay, who's next, now? I am! Where is she? The test was supposed to be over an hour ago.
+SUPMALE:Alex, you're worrying too much about your sister.
+LEADMALE:I never thought I'd hear myself say that.
+LEADMALE:I just think it would be a shame if she had to give up that job, that's all.
+SUPMALE:She She was really something at that sale last night.
+OTHERMALE:You know, I have never seen Mallory handle so many things so well.
+LEADFEMALE:She was in total control.
+SUPFEMALE:A human dynamo.
+LEADFEMALE:Reminded me of me when I was her age.
+OTHERMALE:Don't say it, Steven.
+OTHERMALE:Don't say what? You don't know what I was going to say.
+LEADMALE:I've been married to you for 20 years.
+SUPFEMALE:I know exactly what you were gonna say.
+SUPFEMALE:All I was going to say was Mallory's been working very hard and I think we ought to let her keep the job no matter how she does on the test.
+LEADMALE:Come on, Steven.
+OTHERMALE:We've been through this so many times.
+SUPFEMALE:Whenever we try to lay down the law, set some limits, instill some discipline, you You just can't stick with it.
+LEADFEMALE:You fold like a house of cards.
+SUPMALE:I'm flexible, Elyse.
+SUPFEMALE:I happen to be very proud of that.
+SUPMALE:Well, this is not the time for your fabled flexibility.
+LEADMALE:It's important that we stick together on this.
+SUPFEMALE:You know, join forces, present a united front.
+LEADMALE:Elyse, we're parents.
+OTHERFEMALE:We're not NATO.
+SUPMALE:Whoa, Mallory.
+OTHERMALE:How did we do? How did we do? How did we do? C- minus.
+SUPMALE:C- minus? That's lower than a C.
+LEADMALE:I'm sorry.
+LEADMALE:I tried my hardest, but that's the best I could do.
+LEADFEMALE:Sorry, Mal.
+LEADMALE:I'm sorry too.
+LEADFEMALE:I let you down, Alex.
+LEADMALE:No, no, no.
+LEADMALE:I'm the one who should be apologizing to you.
+SUPFEMALE:I tried to help you, and I failed.
+LEADMALE:I feel terrible.
+LEADFEMALE:I have a Social Studies test coming up.
+LEADMALE:You could help me.
+SUPFEMALE:No.
+LEADMALE:No.
+SUPMALE:No.
+LEADFEMALE:No.
+SUPFEMALE:I am never helping anybody again.
+LEADFEMALE:What's the point? You just get burned.
+LEADFEMALE:Thanks anyway, Jen.
+SUPMALE:Mallory, wait.
+SUPMALE:Let's talk about this.
+SUPFEMALE:Look, even though this didn't turn out the way you wanted, I'm proud of how hard you worked at school and at the store.
+LEADMALE:Well, that's all real nice, but we had a deal.
+SUPMALE:I didn't get the grades, and now I have to quit.
+LEADMALE:You really liked the job, didn't you? I loved it.
+LEADFEMALE:You know, when I'm working there, I feel like a real person, you know? I practically run the store.
+LEADMALE:And people come to me for advice, and I give it to them.
+SUPMALE:Me.
+LEADMALE:Dumb little Mallory.
+SUPMALE:They don't think of me as dumb little Mallory at the store.
+SUPFEMALE:They think of me as an intelligent, creative young woman.
+LEADFEMALE:I like being thought of that way.
+SUPFEMALE:Well, I might as well get it over with.
+LEADFEMALE:I'll call Mrs.
+LEADMALE:Willis.
+LEADFEMALE:Mallory, wait.
+LEADFEMALE:Uh Why do you want me to wait? Well, uh, maybe you should call her later, when the rates go down.
+LEADMALE:Mom, the store's a half a mile away.
+LEADMALE:So wait 10 minutes.
+LEADFEMALE:This is hard enough as it is.
+LEADFEMALE:Let me get this over with.
+SUPMALE:Let me quit.
+LEADFEMALE:Look, see, I I think maybe you're being a little hasty.
+SUPMALE:We should talk about this some more.
+LEADFEMALE:Maybe quitting isn't the right thing to do.
+LEADFEMALE:I have to quit.
+LEADFEMALE:We made a deal.
+LEADFEMALE:Look, the job is too important for you.
+SUPMALE:Not as important as your respect.
+LEADMALE:Hey You're not quitting the job.
+LEADFEMALE:Yes, I am.
+LEADMALE:You're not quitting the job.
+LEADFEMALE:Yes, I am.
+SUPMALE:You're not quitting, and that's final.
+OTHERFEMALE:Maybe you can stop me from calling now, but I'll just stop by the store on my way home from school tomorrow.
+LEADMALE:Well, then maybe you won't go to school tomorrow.
+SUPFEMALE:Dad, what's going on? What's happening to Mom? I I think she's having some, uh Some second thoughts about that deal we made.
+LEADFEMALE:I don't get it.
+SUPMALE:Well, your father and I have been talking, and maybe we have been overemphasizing school.
+LEADMALE:Maybe having a C average and doing real well at a job is the same as having a B average and no job.
+LEADMALE:You mean you want me to keep the job? And break the deal we made? Well, if it were up to me, yes.
+SUPFEMALE:I mean, you know how flexible I am.
+SUPFEMALE:Uh, but I don't know about your dad.
+SUPFEMALE:I mean, you know how set in his ways he is.
+LEADMALE:Dad? Well, your mother's convinced me.
+LEADFEMALE:You're right, Elyse.
+LEADFEMALE:We have to be flexible.
+LEADFEMALE:What a fool I've been.
+LEADMALE:All right.
+LEADFEMALE:If you want me to keep the job.
+LEADFEMALE:We do.
+LEADFEMALE:Hm? You know, kid, your parents aren't so bad after all.
+LEADFEMALE:It kicked.
+LEADFEMALE:It heard you.
+LEADFEMALE:It kicked.
+LEADFEMALE:Oh.
+LEADMALE:A A rabbi, a priest, and a nun got on the bus.
+SUPFEMALE:It's kicking.
+LEADFEMALE:It's kicking.
+LEADFEMALE:Oh, no.
+OTHERFEMALE:Not yet, not yet.
+LEADMALE:Okay, I've got it.
+LEADMALE:One test, winner take all.
+SUPFEMALE:Mallory gets 100 or she moves out of the house.
+OTHERMALE:

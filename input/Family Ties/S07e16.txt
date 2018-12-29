@@ -1,0 +1,322 @@
+LEADFEMALE:Mom, quick, hide me.
+SUPFEMALE:Are you all right? No, Mom, I'm scared.
+LEADMALE:What's the matter, Alex? Did you see a rerun of The Wizard of Oz? Are the flying monkeys after you, Alex? Ooh, the flying monkeys are after Alex.
+OTHERMALE:Ooh.
+OTHERMALE:Come on, come on, Mal.
+LEADMALE:Knock it off.
+LEADMALE:Ooh.
+SUPMALE:Ooh, the flying monkeys, Dad.
+LEADMALE:Ooh.
+SUPFEMALE:Elyse! Honey, stop scaring your father.
+LEADFEMALE:He'll be up all night.
+LEADMALE:Ooh, the flying monkeys, my pretty.
+LEADMALE:Ah, leave him alone.
+LEADFEMALE:He's starting to cry.
+LEADMALE:Alex, if this is scarier than the flying monkeys, I don't want to hear about it.
+LEADFEMALE:It's the paper girl.
+SUPFEMALE:She sees me walking down the street.
+LEADFEMALE:She pedals her bike towards me, fast as she can.
+LEADFEMALE:When she gets real close, she throws the paper right at my head.
+LEADMALE:Thank God she doesn't deliver pianos.
+OTHERFEMALE:Oh, Alex, it just means she likes you.
+SUPMALE:When I was little, that's how I showed if I liked a boy.
+SUPFEMALE:If-if I thought he was cute, I'd just punch him in the arm, and if I wanted him to go out with me, I'd pull his hair like that, but if I wanted to go steady with him, I'd I'd knock him unconscious.
+LEADFEMALE:I married her, and I'm thankful to be alive to talk about it.
+SUPFEMALE:Oh, God, that's her.
+LEADFEMALE:I'm out of here.
+LEADMALE:This is like the Little Archies version of Fatal Attraction.
+LEADFEMALE:Hey, Alex, if you don't want her, I'll take her.
+LEADFEMALE:Hi, Marla! What can I do for you? Um, you owe me two bucks for the paper and I'm in love with your son.
+LEADMALE:Don't hurt him, Marla! Well, not till we get there.
+SUPMALE:Hi, Mal.
+LEADFEMALE:Hi.
+OTHERFEMALE:Hi.
+LEADMALE:Jen, this is the happiest day of my life.
+SUPFEMALE:Being picked to be your social studies partner is a natural high unlike any other, my little Ohio Buckeye beauty.
+OTHERFEMALE:Simon, listen, I like you, and it's gonna be fun to be your project partner, but you have to stop calling me those names.
+LEADMALE:What names are those, my flaxen-haired dove? Hi, Simon.
+LEADMALE:Hello, lovely lady.
+LEADMALE:Your radiance glows like moonbeams.
+OTHERFEMALE:Why are you talking like Omar Sharif? Life is too short not to.
+OTHERMALE:Tell your sister the wonderful news.
+LEADFEMALE:Simon and I were paired together for a project at school.
+LEADFEMALE:Paired together by fate, by the gods.
+LEADFEMALE:Well, what's the project? We're supposed to do a paper on entering the workforce, so Simon and I got after-school jobs.
+LEADMALE:Jennifer, that's great.
+LEADMALE:Oh, for the first time in your life, you'll be earning your own money.
+LEADMALE:You'll be able to go where you want to, buy whatever clothes you want to.
+LEADMALE:I mean, you won't have to rely on Mom and Dad's measly little allowance.
+SUPFEMALE:Hi, Mom and Dad.
+SUPMALE:The k ah, the kettle's ready.
+SUPMALE:Kettle's in here.
+LEADMALE:Oh.
+LEADFEMALE:The sofa the sofa's ready.
+LEADFEMALE:Hmm.
+SUPFEMALE:Um, what's this about getting a job? Oh, it's for school.
+SUPFEMALE:Simon and I are gonna be working at a fast food restaurant.
+LEADMALE:Chicken Heaven.
+LEADFEMALE:Heaven for chickens and heaven for me.
+SUPFEMALE:I'm gonna be working side by side with the alluring Jennifer Keaton.
+LEADMALE:Not to mention those alluring chickens.
+LEADFEMALE:Have you noticed how popular our children are these days? Alex, I is your woman now! Hi, Mr.
+LEADMALE:Keaton.
+LEADFEMALE:Hi, Marla.
+SUPFEMALE:You're wearing a skirt.
+SUPMALE:You're also wearing pants.
+OTHERMALE:Is Alex here? - Uh - Oh, hi, Marla.
+SUPFEMALE:You look pretty today.
+LEADMALE:Thank you, Mrs.
+LEADMALE:Keaton.
+LEADFEMALE:Even wearing a little blush on your cheeks? Oh, it's not blush.
+LEADFEMALE:It's newsprint from the Sunday supplement.
+LEADFEMALE:Ah, very becoming.
+SUPFEMALE:Oh, my God.
+LEADMALE:Oh, Alex, Alex, be nice to her.
+OTHERMALE:I've never seen a girl so much in love.
+SUPMALE:So, Mrs.
+LEADMALE:Keaton, you gave birth to Alex, huh? Mm-hmm.
+LEADMALE:Well, someone had to.
+LEADFEMALE:Must have been the most exciting day of your life.
+LEADMALE:How was it for you, Mr.
+SUPFEMALE:Keaton? Well, Marla, I didn't give birth to Alex.
+SUPMALE:I wanted to, but, uh, I lost the coin toss.
+LEADFEMALE:You're pretty.
+LEADFEMALE:Scram, kid, I don't go for tots.
+LEADMALE:Not as pretty as I thought.
+LEADFEMALE:I got a present for you, Alex.
+LEADFEMALE:Uh, Marla, you-you don't have to give me presents.
+SUPMALE:Yeah, I do.
+OTHERFEMALE:I wanted to give you something personal.
+SUPMALE:I got you this because I couldn't find the jar that my tonsils were in.
+LEADFEMALE:Well-well that's a shame.
+SUPMALE:I saved up my pennies, my nickels, and my dimes, and I bought you a $20 bill.
+LEADMALE:I hope you like it.
+LEADFEMALE:Well, Alex, she sure knows the way to your heart.
+SUPMALE:It is a beauty.
+SUPMALE:Hate to have to give it back.
+SUPFEMALE:Yeah.
+LEADFEMALE:Well, she should learn a lesson from this.
+LEADFEMALE:Okay, Jen, what's the price of a heavenly chicken combo deluxe? $4.
+SUPMALE:95 plus tax.
+SUPMALE:Jennifer, you're amazing.
+LEADFEMALE:You've got the mind of a chicken.
+LEADFEMALE:Thank you, Simon.
+LEADMALE:You've got the body of a chicken.
+OTHERMALE:Mallory, mystical woman of the Midwest, would test us on giblets? Okay, how many giblets in a quart? You know, Jen, I'm-I'm really proud of you.
+LEADFEMALE:This sounds like a wonderful place to work.
+LEADMALE:Well, Dad, it's not exactly the most prestigious place in the world.
+LEADFEMALE:What are you talking about, Jennifer? Chicken Heaven is a completely highbrow establishment.
+LEADMALE:Simon, highbrow establishments don't usually have a drive-through lane where your customers scream their orders directly into a chicken beak.
+LEADMALE:And then what happens? The chicken tells the cook? Uh And 12 cents is your change.
+SUPMALE:Thank you.
+LEADMALE:Jennifer you're beautiful when you're making change.
+LEADFEMALE:Simon, will you stop it and get to work? Excuse me, sir.
+OTHERMALE:Sir? - Simon, I think he wants you.
+LEADMALE:Oh.
+LEADMALE:Look, you completely screwed up our order, and we had to wait 20 minutes while you made it in the first place.
+LEADMALE:I am sorry; I'll fix that right up for you.
+OTHERMALE:Great, and what are we supposed to do in the meantime? Would you care for a lozenge? I'd like to see the manager.
+OTHERMALE:Uh, here she is.
+LEADFEMALE:She's the manager? Oh, she's more than just the manager.
+LEADMALE:She's the woman I love.
+SUPFEMALE:Simon, stop it.
+LEADMALE:Go put some fries on.
+SUPFEMALE:I'm sorry, sir, I'll take care of it.
+LEADMALE:You better.
+LEADMALE:Hey! That's no way to talk to her.
+SUPFEMALE:Would you like to step outside? Sure.
+OTHERFEMALE:Would you? No, I just thought you would.
+OTHERMALE:Simon, you really got to get it together.
+SUPFEMALE:You're really screwing up here.
+LEADMALE:Now go put some more fries on.
+SUPMALE:I'm sorry, sir, here you go.
+LEADMALE:I really don't know why I keep coming back here.
+LEADMALE:The service is bad, the atmosphere is worse, and the food is inedible.
+LEADFEMALE:How about a coupon for a free meal? Hey, thank you very much.
+LEADMALE:See you tomorrow.
+SUPFEMALE:Did you put the fries on? Mission accomplished, my poultry goddess.
+LEADFEMALE:Hi.
+SUPMALE:Welcome to Chicken Heaven, where you get more cluck for your buck.
+LEADMALE:Give me three heavenly drumsticks Ordering three heavenly drumsticks.
+LEADFEMALE:French fries Ordering French fries.
+LEADFEMALE:coleslaw Ordering coleslaw.
+LEADFEMALE:The kitchen's on fire.
+LEADMALE:Ordering the kitchen's on fire.
+OTHERMALE:Is that one of our specials? No! The kitchen's on fire, you idiot! Make that ordering the kitchen's on fire, you idiot.
+LEADMALE:Would you like a drink with that? Simon, the kitchen's on fire! That's a really popular dish.
+LEADFEMALE:Oh, the fries! Simon! Quick.
+LEADMALE:Simon, Jennifer, who's responsible for this? Can we ever say, in the philosophical sense, that anyone is responsible for anything? Yeah, watch me.
+SUPFEMALE:Look, Mr.
+LEADFEMALE:Parker, we were really jammed up with customers, and I-I think it's possible that the fries were left on a little too long.
+SUPFEMALE:I will tell you what happened.
+LEADMALE:This chicken-flicking nitwit screwed up my order and ignored my repeated warnings that the fire was starting.
+OTHERFEMALE:Will there be anything else for you today, madam? This young lady saved the day.
+LEADMALE:You should be proud of having her as an employee.
+LEADFEMALE:I am.
+LEADFEMALE:And you should be ashamed of having him.
+OTHERMALE:I am.
+LEADFEMALE:Simon, you're on probation here.
+SUPMALE:Thank you, sir, I'm honored.
+SUPMALE:Jennifer, you're real Chicken Heaven material.
+LEADMALE:I think you have what it takes to rise to the top of the coop.
+SUPFEMALE:No one's ever said that to me before.
+LEADFEMALE:How would you like to be assistant manager? Yeah.
+SUPMALE:So, when did you first realize that Alex was the most wonderful human being in the whole world? When you told us.
+LEADFEMALE:Uh, and before that, uh, when he told us.
+SUPMALE:Let's move on.
+OTHERFEMALE:Now, what's his favorite chair? Well, probably the one you're sitting in.
+OTHERMALE:Mar Marla! Give it back! Let's not tell her where his bed is.
+LEADFEMALE:Mom? Can you tell Alex to stop leaving his plates all over the house? I found this outside his door, like room service.
+LEADMALE:She gone? Alex, you have to do something.
+LEADFEMALE:You have to talk to her.
+LEADFEMALE:Yeah, not yet, Mom.
+SUPFEMALE:I think she's about to give me some more money.
+OTHERFEMALE:Hey, what's with the paper girl? She's standing on the corner, staring at a fork.
+LEADFEMALE:She's in love with your brother.
+LEADMALE:No, seriously.
+LEADFEMALE:My sister, ladies and gentlemen.
+LEADFEMALE:How was work, honey? - God, Mom, it was worse than ever.
+LEADMALE:I mean, since they made me assistant manager, Simon has become even more of a problem.
+LEADMALE:We took the job together, but now I'm his boss.
+LEADMALE:I don't know what I'm gonna do.
+LEADFEMALE:He's completely incompetent.
+LEADMALE:If it were anyone else, I think I'd fire him.
+LEADMALE:Yeah, so what's the problem? Alex, he's my friend.
+LEADFEMALE:So what's the problem? I don't know what I'm gonna do.
+SUPMALE:Maybe I should just quit, and get a job at Jiffy Burger.
+SUPMALE:No, no, no.
+SUPFEMALE:I've seen their hats.
+OTHERFEMALE:Oh.
+LEADMALE:Hi, Simon.
+OTHERFEMALE:Hi.
+LEADFEMALE:Simon, this isn't the army.
+LEADFEMALE:You don't have to wear your uniform off duty.
+OTHERMALE:Oh, I know.
+LEADFEMALE:But I like it.
+LEADMALE:So I've incorporated it into my wardrobe.
+OTHERFEMALE:Sometimes I wear just the hat and ski boots.
+OTHERFEMALE:I'm sorry we had to hear that.
+LEADMALE:Simon, we have to talk.
+LEADFEMALE:Yes? Simon, we were paired together to do a job, and I don't feel that you're living up to your end of the bargain.
+SUPMALE:What do you mean, pretty lady? Simon I've got a job to do, and I take that kind of responsibility seriously.
+SUPFEMALE:Now, stop concentrating on me, and start concentrating on your job.
+OTHERFEMALE:What job is that? Why am I both drawn to you and repelled by you? I don't know.
+OTHERFEMALE:My mother asked the same thing.
+LEADMALE:Sorry I'm late, but I'm ready to go.
+SUPMALE:Whoa! - Simon Simon, when you're late, I get in trouble with Mr.
+LEADMALE:Parker.
+SUPMALE:Now stop fooling around and get to work.
+LEADMALE:I love it when you're bossy.
+LEADFEMALE:Simon, I don't want to hear it.
+LEADFEMALE:Get to your post.
+SUPFEMALE:You again, Simon? - No, sir, it was me.
+LEADFEMALE:I accidentally bumped into Simon, and he knocked the cups over, and then I asked him to clean them up for me.
+LEADMALE:And I'm happy to do that for her, sir, because I'm her knight in shining armor.
+SUPMALE:Okay, I never had armor, but I had braces for a while.
+LEADMALE:You should've had a muzzle.
+SUPMALE:All right, get back to work, both of you.
+LEADMALE:I like that idea.
+LEADMALE:Jen, I really appreciate you-you covering for me.
+LEADMALE:I don't know how to thank you.
+LEADMALE:Maybe I do! Thank you very much.
+LEADFEMALE:Where you from? Simon Thank you.
+LEADMALE:The next show is at 3:15.
+LEADMALE:Hi, honey.
+LEADMALE:What are you guys doing here? Uh, just came by to get a little free food.
+SUPFEMALE:Alex, I can't do that.
+LEADFEMALE:We're out of here, then.
+OTHERMALE:Excuse me, miss? Miss, hey you! Miss! Hey, you mister.
+LEADFEMALE:That's no "miss," that's my sister.
+LEADFEMALE:Yeah.
+LEADFEMALE:She's my sister, too.
+OTHERMALE:And you better listen to him, he's my brother.
+OTHERMALE:Want to meet my parents? We're them.
+LEADMALE:And she's right.
+LEADFEMALE:You have a problem with her, you go through us.
+LEADMALE:You see, if one of us gets a job, we all get the job.
+LEADFEMALE:You got that? I just wanted some ketchup.
+LEADFEMALE:Jen? It's over there.
+LEADFEMALE:It's over there.
+LEADMALE:Nice meeting you.
+LEADMALE:So how's it going, Jen? See for yourself.
+SUPFEMALE:In the true sense of the word, he is a soda jerk.
+SUPMALE:Honey, you've got to do something about Simon.
+OTHERMALE:Oh, just ignore him.
+LEADFEMALE:It happens every two or three hours.
+SUPMALE:What do you guys want? Uh, well, Jen, uh what do you recommend? Eating somewhere else.
+LEADMALE:Look, why don't we try four of the Wing-a-ling Delights? No, no, no, I don't want a Wing-a-ling Delight.
+LEADMALE:I want a Gizzard Blizzard.
+LEADFEMALE:Uh, I'll have the Tub O'Necks.
+SUPFEMALE:Ordering three Wing-a-lings, one Gizzard Blizzard, and one Tub O'Necks.
+LEADMALE:You know what I'd really like? A mesquite-grilled, free-range, boneless breast of chicken on a bed of radicchio with a mustard vinaigrette.
+SUPMALE:Ordering one Heavenly Slop Pile.
+SUPMALE:Simon! - Oh! Whoa, whoa, whoa Hey! Whoa! That's enough! I've got it under control! Well obviously, I'm not needed here.
+LEADMALE:Jen, uh why don't you, uh, lock up when you leave, all right? Mr.
+OTHERMALE:Parker, can I fire him? Uh, no.
+SUPMALE:But I can.
+LEADMALE:Simon! You're fired! Where's my Tub O'Necks? You have a milk mustache.
+OTHERFEMALE:I like that in a man.
+SUPFEMALE:Marla Marla I'm very flattered that you have a crush on me.
+LEADFEMALE:Alex, are you gonna tell me it's not gonna work between us? Yeah.
+LEADFEMALE:Well, fine, if that's the way you feel about it.
+SUPFEMALE:I can handle this very maturely.
+SUPFEMALE:Why not? Shh Marla, look I already have a girlfriend.
+LEADMALE:And-and I go to graduate school.
+OTHERFEMALE:I mean, I'm twice your age.
+LEADFEMALE:Where do you want to go for the honeymoon? I like the Poconos.
+LEADMALE:Marla, it's not gonna work, okay? I mean, it's-it's-it's it's completely nuts.
+OTHERFEMALE:I mean, i-it's impossible.
+SUPFEMALE:I can't believe I'm wearing a stupid bow in my hair.
+SUPFEMALE:The bow is beautiful.
+LEADMALE:It is not! I look like Rose Marie! That's not true.
+LEADMALE:Alex you've broken my heart.
+SUPFEMALE:Look, I don't want to do that.
+OTHERMALE:In a very little while, you're gonna forget all about me.
+LEADFEMALE:In that case, I want my 20 bucks back.
+OTHERFEMALE:There's no reason to break this off entirely.
+SUPFEMALE:A gift is a gift.
+LEADMALE:Come on, cough it up.
+LEADMALE:Look, Marla any guy your age would be crazy not to fall for you.
+OTHERFEMALE:Get out of here.
+LEADMALE:I mean it, I mean it, you know, who knows? Maybe ten or 20 years, you're breaking hearts left and right Maybe, uh maybe our paths will cross again.
+SUPMALE:Bye, Marla.
+LEADFEMALE:Wow.
+LEADMALE:I'll never wash my forehead again.
+LEADMALE:Not that I ever did much before.
+LEADMALE:Hey.
+LEADMALE:Oh! How'd it go with Marla? Kind of rough.
+LEADMALE:It's okay; she's young.
+LEADMALE:She'll get over it.
+SUPMALE:I'm talking about me.
+LEADMALE:I had to give the 20 bucks back.
+SUPFEMALE:Hi.
+LEADFEMALE:Hi.
+LEADMALE:Is Jennifer here? I'll get her.
+LEADMALE:Ooh Well, the secret's out.
+OTHERMALE:I'm a real goofball.
+LEADMALE:I'll be honest with you, Simon.
+SUPMALE:That hat's not working for you.
+LEADMALE:Hi, Jen.
+LEADMALE:I'm sorry about how things went today.
+LEADFEMALE:I'm here to turn in my uniform.
+OTHERFEMALE:I'm gonna miss this.
+LEADMALE:Got a lot of compliments on it from my therapist.
+LEADMALE:I'm sorry, Jen.
+LEADMALE:I I guess I just got carried away.
+LEADFEMALE:See, when I'm around you, I can't even function.
+LEADFEMALE:Simon, you've got to grow up.
+LEADFEMALE:I mean, don't you realize what happened back there? You could have gotten me fired.
+OTHERFEMALE:You weren't even trying to do a good job.
+LEADFEMALE:That's not true, Jen.
+LEADFEMALE:I wanted to do a good job.
+SUPFEMALE:I'm sorry I embarrassed you, I guess I do have to be a little more responsible.
+SUPFEMALE:I just wanted to impress you, so that you'd like me.
+LEADMALE:Simon, I do like you If you say "as a friend," I'm gonna spontaneously combust.
+SUPMALE:Well, then, I guess I'd better take a few steps back.
+LEADMALE:As a friend, huh? Yeah.
+OTHERMALE:I hope you can deal with that, Simon.
+LEADMALE:Actually, it's like driving a stake through my heart.
+LEADMALE:But I can live with that.
+LEADMALE:Tell me something, Jen would you really have fired me from Chicken Heaven? Absolutely.
+LEADFEMALE:Would you ever fire me as your friend? Never.
+LEADFEMALE:

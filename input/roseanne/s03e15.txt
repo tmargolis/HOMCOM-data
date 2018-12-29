@@ -1,0 +1,314 @@
+LEADMALE:Becky, is that the shirt you wore to school today? Yes.
+SUPMALE:Ok.
+SUPMALE:Would you like another beer, dearest? Thank you, my pet.
+SUPMALE:Can I have a beer? No.
+SUPMALE:So, Becky, is something wrong with your food? You mean you hid some food under all this slop? Hey! I stuck that in the microwave, pressed power, pressed time, pressed start, and this is the thanks I get.
+SUPFEMALE:God, nobody could eat this crud.
+LEADFEMALE:If you don't finish your crud, you won't get any crap for dessert.
+LEADMALE:Hey, whoa.
+LEADMALE:It's your turn to clear.
+SUPFEMALE:Isn't it always my turn to clear? Is there something you'd like to share with us? Like what? Like why you've been acting like a snot lately.
+OTHERMALE:Why don't you kiss my butt? Well, haul it on over here, jumbo.
+SUPFEMALE:Hey, hey! Hey, hey! No butt-kissing at the dinner table.
+LEADFEMALE:I'm just sick of Mom treating me like a baby.
+LEADMALE:Hello.
+OTHERFEMALE:What were you doing in my room today? Cleaning.
+SUPFEMALE:Isn't that what you hired me for? I hate that room.
+SUPMALE:It's a baby room.
+LEADMALE:Don't you hate it, Darlene? Who cares? When I turn 18, I'm out of here.
+LEADMALE:Why can't you back me up for once? Well, I don't like you, Becky.
+LEADFEMALE:Becky, if you don't like your room, change it.
+SUPMALE:We got a garage full of paint out there.
+SUPFEMALE:Your dad will help you.
+LEADFEMALE:She means your real dad.
+SUPFEMALE:You can get started tomorrow, ok? Fine.
+OTHERFEMALE:Whatever.
+LEADMALE:Oh, no.
+LEADFEMALE:Just seeing your smiling face is thanks enough.
+OTHERFEMALE:I asked that guy out like you told me to.
+SUPFEMALE:We got a date for tomorrow.
+LEADFEMALE:Way to go.
+LEADFEMALE:Only now I have to pay.
+SUPMALE:No way.
+LEADFEMALE:The guy pays.
+LEADFEMALE:Yeah, but I asked him out.
+LEADMALE:So? The rule is, the guy still pays.
+LEADFEMALE:Who made up that rule? Some cheap hungry woman.
+LEADMALE:What do I look like, Becky, your slave? So I was late.
+SUPMALE:Two hours! And it's your room! You think I'll spend my day off painting it by myself? So what are you going to wear? You ought to wear that burgundy pullover.
+SUPFEMALE:This marriage-family thing's been a lot of fun, but I got to go.
+SUPFEMALE:Damn.
+OTHERFEMALE:I lose more husbands that way.
+LEADFEMALE:Just don't start with me, mother, ok? I've had it.
+LEADFEMALE:Whoa.
+LEADMALE:Cover me.
+SUPFEMALE:God, it's his problem he's having this stupid hemorrhage.
+SUPFEMALE:I was going to get something eat, then go paint my stupid room.
+LEADMALE:No, stay down here and fill our lives with joy and mirth.
+LEADFEMALE:I know what you ought to wear on that date Your red blouse with your black skirt.
+LEADMALE:That skirt is so short.
+OTHERFEMALE:But you have great legs.
+SUPMALE:Wear your hair down, too, 'cause it'll hide your neck.
+LEADMALE:What's the matter with my neck? Make sure you order dessert.
+OTHERFEMALE:I was reading in Cosmo where it says a healthy appetite is considered to be sexy nowadays.
+OTHERMALE:I was so far ahead of my time.
+OTHERFEMALE:Mom! What? My head's stuck in the drawer! Not again.
+LEADMALE:God, doesn't she drive you crazy? Well, she wants me to be happy, and she cares about me, and yeah, she drives me crazy.
+LEADFEMALE:Well, I'm sick of it.
+SUPMALE:She hates my friends, the clothes I wear, the guys I date.
+SUPMALE:Me, too.
+SUPFEMALE:At least you get a break.
+OTHERFEMALE:You come here, do your laundry, then go home.
+LEADFEMALE:Well, you'll survive, Beck.
+LEADFEMALE:She's been doing the same thing to me for 20 years, and I'm basically a happy person.
+OTHERFEMALE:I'm not saying I don't wake up screaming every now and again.
+LEADMALE:Now, don't do that again.
+SUPMALE:Go wash that salad oil off your head.
+SUPFEMALE:How does he get his head stuck in a drawer? He's gifted, Jackie.
+LEADMALE:Look, Becky, it's your old Menudo album.
+LEADMALE:That's not mine.
+SUPMALE:Yeah, it is.
+OTHERFEMALE:I never liked Menudo.
+LEADFEMALE:Oh, get out of here.
+LEADFEMALE:I didn't! Like I was the one who drew the heart around Fernando's head.
+SUPMALE:Heavy Menudo denial, Beck.
+OTHERFEMALE:All right, just toss it, ok? So What color is this room going to be? Let's paint big, black bars on the walls.
+LEADMALE:It feels like a jail cell, it might as well look like one.
+SUPMALE:Come on, Becky.
+LEADFEMALE:I don't care, Darlene.
+LEADFEMALE:Then why do this? You don't have to! One minute you want to paint the room, then you don't care.
+LEADFEMALE:What is going on with you, Becky? Do you remember Mark? From down the street? No, that guy I went out with.
+LEADMALE:Oh, yeah, the stupid one? He's not stupid, he's gorgeous.
+OTHERMALE:You just wish you could meet a guy like that.
+SUPMALE:If I wait a couple years, he'll be in my grade.
+LEADFEMALE:Well, I'm going out with him tonight.
+LEADFEMALE:Don't you remember what Mom and Dad said? They don't want me to see him.
+LEADMALE:So what? I'm 16! I don't have to listen to her.
+SUPFEMALE:If they find out, they'll ground you forever.
+SUPFEMALE:Well, they're not going to find out 'cause officially I'll be at the basketball game With you.
+SUPMALE:Why should I lie for you? 'Cause you're good at it.
+LEADMALE:I don't know.
+SUPMALE:Come on, Darlene.
+LEADMALE:Sisters do this for each other.
+LEADFEMALE:I can't believe this guy's so important to you.
+LEADMALE:Please? I'll owe you.
+LEADMALE:I'll owe you big.
+LEADMALE:I guess.
+LEADMALE:Thank you so much.
+LEADMALE:Yeah.
+SUPFEMALE:Come on, Becky.
+SUPFEMALE:Where are you? What are you doing out there? Uh, I dropped my key.
+OTHERMALE:Well, come inside.
+SUPFEMALE:Hey, Darlene.
+LEADMALE:Hey.
+LEADFEMALE:Great game.
+OTHERMALE:They beat us by, like, 20 points, but we went and tipped their bus over and set it on fire.
+SUPMALE:Where's Becky? She went to get pizza with her friends after the game.
+LEADFEMALE:She'll be home in an hour or so.
+LEADMALE:Hey, genius, how long were you at the pizza place before you remembered I had all your money? Uh, not long.
+SUPMALE:How was the game, Beck? It was ok.
+LEADFEMALE:Who won? I-i just told you.
+LEADMALE:I just want to hear it from her.
+LEADFEMALE:She doesn't know.
+OTHERFEMALE:She was in the bathroom the whole time, bleaching her upper lip.
+SUPFEMALE:So, Becky, who'd you come home with? I hitched a ride with a serial killer, ok? Who'd you come home with? What's the difference? We want to know.
+LEADMALE:God, you're beginning to sound like Mom.
+LEADFEMALE:If I found that really insulting, would it bother you? Come on, Becky.
+LEADFEMALE:We asked you a question.
+LEADMALE:Where were you? Pizza.
+LEADMALE:Quiet.
+LEADFEMALE:I'm not talking to you.
+OTHERFEMALE:Well? Want to know? Fine.
+LEADFEMALE:I was with Mark.
+SUPMALE:Becky, you lied to me! This better not be the Mark I think it is.
+LEADMALE:Yes, Mark with the fake ID, who you don't want me to go out with.
+SUPFEMALE:The one you're not allowed to go out with, Becky.
+SUPFEMALE:Oh, is that so, Roseanne? Hey! Her name is "Mother".
+LEADMALE:You're grounded till the end of school.
+SUPMALE:How's that? That's lame.
+LEADFEMALE:What will you do tie me up? I've had enough of this.
+SUPMALE:You're way over the line.
+OTHERFEMALE:Get upstairs.
+LEADMALE:No! What do you mean, no? You're right.
+LEADMALE:I don't mean no.
+LEADFEMALE:I mean goodbye.
+SUPMALE:You don't have, like, a jealous wife or anything, do you? No.
+OTHERMALE:None of my wives are jealous.
+OTHERMALE:I'll be right back.
+SUPFEMALE:Who is it? It's me.
+LEADFEMALE:Becky? I can't take it anymore.
+OTHERMALE:Yes, you can.
+LEADMALE:Bye.
+LEADMALE:I can't deal with her.
+SUPMALE:She'll just never understand me.
+LEADFEMALE:I'll come over tomorrow.
+SUPMALE:We'll talk.
+SUPMALE:I got to move in with you.
+LEADFEMALE:Becky, this is not a good time.
+LEADFEMALE:Oh, my god! You guys were just about to, like, do it! I'm really sorry.
+OTHERFEMALE:I'll just be out in the hall.
+LEADFEMALE:Holler when you're done! Maybe I should go.
+LEADMALE:No, you sit right there.
+OTHERFEMALE:Becky, come in.
+LEADFEMALE:Go home.
+LEADMALE:I can't.
+LEADFEMALE:She doesn't care what I want or if I'm happy.
+LEADMALE:All she wants to do is run my life! Becky, please go home.
+LEADFEMALE:Please, please, please, please.
+LEADFEMALE:That's it, Becky.
+LEADMALE:Roseanne Please, please, please, please, go home, please, please, please.
+LEADMALE:She followed me.
+LEADMALE:Now you know what I mean? Do you think I'd let you walk out? Please, please, please, please, please.
+SUPMALE:I'll tell you what, I'll just go home.
+LEADMALE:No! Stay.
+LEADFEMALE:Can't you see Jackie's busy? You're being very rude.
+LEADMALE:I don't care if she's busy! See? It's just like you said! She just drives you crazy! Like you said? Well, we were talking about dating, and And what? Like you're some expert on dating, after all the losers you go out with? Bye-bye.
+LEADFEMALE:I'll call you.
+LEADFEMALE:I'm so sorry.
+LEADFEMALE:Well, I hope you're both happy.
+SUPFEMALE:That loser had potential.
+LEADMALE:Becky, you're coming home.
+OTHERMALE:No! I'm staying with someone who understands me.
+LEADFEMALE:I have nothing more to say to you.
+SUPMALE:I'll be in the other room.
+LEADFEMALE:There is no other room, Becky.
+OTHERMALE:Then I'll be in the bathroom.
+SUPFEMALE:Becky! She's all yours.
+LEADMALE:She can't stay here.
+SUPMALE:You should have thought about that before you opened your big mouth.
+LEADFEMALE:But I always open my big mouth.
+LEADMALE:This never happened.
+LEADFEMALE:Goodbye, Jackie.
+SUPFEMALE:Bye, Becky.
+LEADFEMALE:You can't be serious! Congratulations.
+SUPFEMALE:It's a girl! Look at all this stuff.
+LEADMALE:I thought our kids were supposed to be deprived.
+OTHERFEMALE:Well, we tried.
+OTHERMALE:Where were you? Getting a drink.
+LEADFEMALE:God! Here.
+OTHERFEMALE:Take this trash out.
+SUPMALE:No.
+LEADFEMALE:No? Yeah, no.
+LEADFEMALE:I mean, this is my room, and this is the way I want it now! Wrong.
+LEADFEMALE:This is my room, 'cause it's in my house on my lot.
+LEADFEMALE:Those are my chairs, those are my desks, that's my hello kitty, my e-z bake oven, so you take my trash downstairs to my garbage cans and throw it out now! Jeez Right attitude, wrong daughter.
+LEADFEMALE:What's wrong? It's Becky's stuff.
+LEADFEMALE:You getting all weepy on me now? No, I'm not.
+OTHERMALE:Let's get it over with.
+OTHERFEMALE:It's ac/dc, highway to hell.
+SUPMALE:I miss her, Dan.
+SUPMALE:I miss her, too.
+LEADMALE:We can always tell her we want her to come home.
+OTHERFEMALE:She's got to come home 'cause she wants to.
+OTHERMALE:When's that going to happen? I don't know.
+SUPMALE:If we wait a couple more days, she'll figure it out, trust me.
+SUPMALE:I've lived with Jackie.
+LEADFEMALE:We're better.
+OTHERFEMALE:Hey, what are you doing? Becky's laundry.
+SUPFEMALE:How are things going over there? Good.
+SUPMALE:You and Becky getting along? Yeah.
+LEADMALE:I'm enjoying having her there.
+LEADFEMALE:We gave each other a facial and went down to the mall to scam guys.
+LEADFEMALE:Last night, we made prank phone calls.
+SUPMALE:Crystal's still wondering how Nancy Reagan got her number.
+LEADFEMALE:Is she going to school? Is she doing her homework? Is she getting in on time? She's fine, Dan.
+LEADMALE:She's really been a big help, too.
+SUPMALE:She's been making her bed, doing the dishes.
+LEADMALE:Oh, well, that is just great, Jackie.
+LEADFEMALE:Well, Roseanne, come on.
+SUPFEMALE:Not that big of help, nothing that a maid couldn't do.
+SUPFEMALE:No, I'm glad she's happy.
+SUPMALE:Then she'll never come home.
+SUPMALE:If I kicked her out, she might not come back here! You're encouraging her to stay.
+SUPFEMALE:I am not.
+LEADMALE:Then how come she's acting so perfect? Because I'm not her mother.
+LEADMALE:No, you're making it like some damn slumber party.
+LEADMALE:Roseanne I want her home.
+LEADMALE:Well, come get her.
+LEADFEMALE:No.
+LEADMALE:Then quit yelling at me! No! I'm leaving! Steal my daughter, then leave me her laundry, like I'm really going to do it.
+LEADMALE:Oh, sure.
+LEADFEMALE:Take her side.
+LEADMALE:Jacks, this stuff in the refrigerator, is it lettuce or pumpernickel? Throw it out.
+LEADFEMALE:What do you think? I won't wait up.
+LEADMALE:What are you going to do? Just hang out, I guess.
+LEADMALE:No Mark tonight? I just wanted to be able to see him.
+LEADFEMALE:I don't have to see him every night.
+LEADMALE:It'll be lonely around here.
+LEADMALE:Can I drop you off somewhere? I'm not going home, Jackie.
+SUPMALE:You can't stay here forever.
+OTHERMALE:I know.
+LEADMALE:All right.
+SUPMALE:I left the number where I'll be here by the phone.
+SUPMALE:Oh, and Becky, don't call.
+LEADMALE:Hello It's Jacqueline.
+SUPMALE:I'm all torn up inside about missing your call.
+LEADFEMALE:Ow.
+LEADFEMALE:Please leave a message, and I'll call you.
+LEADFEMALE:Bye-bye.
+SUPFEMALE:Becky? Becky, come on.
+LEADMALE:Pick up.
+LEADFEMALE:Becky, are you there? Becky, pick up the phone.
+LEADMALE:Becky, come on Who is it? It's me.
+SUPFEMALE:Oh, come on in, Darlene.
+LEADFEMALE:Oh, my god.
+SUPFEMALE:You're doing homework? So? You don't even know how to run away right.
+LEADMALE:You're pathetic.
+SUPFEMALE:What are you doing here, Darlene? I came by to tell you you're a major butt-head.
+LEADMALE:This just proves me right.
+SUPFEMALE:Goodbye, Darlene.
+SUPFEMALE:All right, all right, all right.
+LEADMALE:Let me just ask you something.
+OTHERFEMALE:What did Mom do that was so horrible? Everything! She wouldn't let me see Mark.
+LEADFEMALE:You saw him anyway! I had to lie about it! I lied! I covered for you! I got grounded, and you don't even care! I am sorry, Darlene, all right? No.
+LEADFEMALE:You're getting off way too easy, Becky.
+LEADFEMALE:Go home, Darlene.
+SUPMALE:Look, Jackie's putting up with you, Mom and Dad are impossible, Mom and Jackie are fighting, everybody's yelling at everybody else, and nobody's saying what they should be saying Becky, you're a selfish, inconsiderate, spoiled little brat! Becky? Becky, come on.
+LEADFEMALE:Pick up.
+SUPFEMALE:Becky, are you there? Becky, pick up the phone.
+LEADFEMALE:Ok, listen, um Your Dad wanted you to know he misses you and he wants you to come home.
+SUPMALE:He thinks you guys can work out your problems if you'd come back.
+SUPMALE:Ok, well, that's all.
+LEADFEMALE:It's me again.
+LEADFEMALE:Your Dad also wanted me to tell you that, like, he loves you.
+LEADMALE:Ok, and, um Me, too.
+LEADMALE:No more push-up pops? Well, have a fudgie bar.
+LEADMALE:It's not the same.
+LEADFEMALE:I stayed awake in history class today.
+OTHERMALE:That a girl.
+OTHERMALE:Whose turn is it to do the dishes? Becky's.
+OTHERMALE:Thanks, Darlene.
+LEADFEMALE:Hey.
+OTHERFEMALE:Yo, Jack! Ok if I use the washer? Sure.
+LEADMALE:Go ahead.
+SUPMALE:This war, this vendetta, this Sicilian thing must end.
+LEADMALE:All right.
+LEADMALE:Hey.
+LEADMALE:Hi.
+SUPFEMALE:I just a couple loads, then I'll get out.
+OTHERFEMALE:No rush.
+SUPMALE:So have you seen that guy again? Jonathan? Yeah, I saw him last night.
+SUPMALE:Hmm.
+SUPMALE:What did you wear? Jeans and my red blouse.
+SUPFEMALE:Hmm.
+SUPMALE:We went bowling.
+LEADFEMALE:Oh.
+LEADFEMALE:It's a good choice.
+OTHERMALE:How are things back here? Well, she's grounded for two weeks, we upped the curfew a half hour, her allowance stays the same.
+LEADMALE:What about Mark? Absolutely not.
+SUPFEMALE:We would not budge on that.
+SUPFEMALE:We forbade her to ever see him again, so you should wear your blue dress to the wedding.
+LEADFEMALE:Mother, are we the last people in the free world to get a dishwasher? Jeez! Oh, and I forgot.
+LEADFEMALE:She's calling me mother.
+OTHERMALE:Just let it ring.
+SUPMALE:Hi.
+LEADMALE:This is Jackie.
+OTHERMALE:Leave a message.
+LEADFEMALE:Bye.
+LEADFEMALE:Jackie.
+LEADMALE:Jackie, pick up.
+LEADFEMALE:Jackie? I was just reading in Cosmo there's these great new exercises.
+LEADFEMALE:You look up at the ceiling and chew about 5 minutes every day, and it will fix up that scary deal you got in the back of your neck.
+OTHERFEMALE:There's this other one Twist your head from side to side.
+LEADMALE:It made me nauseous, but it's worth it for you.
+LEADMALE:There is nothing wrong with my neck!

@@ -1,0 +1,359 @@
+LEADFEMALE:Uhh.
+LEADFEMALE:Ow.
+LEADFEMALE:Uhh, not now, Dan.
+LEADFEMALE:Ok, but hurry up.
+LEADMALE:This mattress is killing me.
+LEADMALE:I've got a spring right in my back.
+LEADMALE:So move.
+LEADFEMALE:I tried that.
+LEADFEMALE:Try again.
+SUPMALE:Switch sides with me, Roseanne.
+LEADFEMALE:No.
+SUPFEMALE:Come on.
+LEADFEMALE:I got to get some sleep.
+LEADFEMALE:I can't sleep with your hot nostril air blowing all over me.
+SUPMALE:Well, turn over.
+LEADFEMALE:No.
+LEADMALE:You.
+SUPFEMALE:Fine.
+OTHERMALE:Ohh.
+LEADFEMALE:What? I'm still not happy.
+LEADFEMALE:Come on.
+SUPMALE:Help me flip the mattress over.
+LEADMALE:Ok.
+LEADFEMALE:Come on, Roseanne.
+LEADMALE:You got to get up.
+LEADMALE:You didn't tell me that was part of it.
+LEADMALE:Ohh.
+LEADFEMALE:Oh, good, good, good, good, good, good, good, good.
+LEADFEMALE:Ow! We need to get a new bed.
+LEADFEMALE:You mean a brand new bed? No.
+LEADFEMALE:One some old person died in.
+LEADFEMALE:We'll talk about it tomorrow.
+OTHERMALE:Ohh.
+LEADMALE:Dan Now you're all comfy 'cause I got the spring on my side now.
+LEADFEMALE:All right, but hurry up.
+LEADFEMALE:Ahem.
+LEADFEMALE:Ahem.
+SUPMALE:Stop it.
+SUPFEMALE:Stop it.
+LEADMALE:I mean it.
+SUPFEMALE:I mean it.
+LEADFEMALE:Cut it out.
+LEADFEMALE:Cut it out.
+OTHERMALE:Dad.
+SUPFEMALE:Dad.
+LEADFEMALE:Huh? It's d.j. It's d.j. I'll kill him.
+LEADMALE:I'll kill him.
+SUPFEMALE:What's he doing? Mom.
+SUPMALE:Mom.
+OTHERMALE:Darlene's saying everything d.j. says a second before he says it.
+SUPMALE:God, that's so immature.
+LEADFEMALE:He's driving me crazy.
+SUPFEMALE:Crazy.
+SUPFEMALE:Something might happen to him.
+LEADFEMALE:Happen to him.
+SUPMALE:Darlene, ever try banging your head hard against the table? Maybe he'll knock himself out.
+LEADFEMALE:Thank you.
+LEADFEMALE:Thank you.
+OTHERMALE:You're dead.
+LEADMALE:You're dead.
+LEADMALE:Whoo.
+LEADMALE:How's it going? Whoo.
+SUPFEMALE:How's it going? Funny you should ask.
+SUPFEMALE:You know what, Rodbell's is having a sale on beds.
+LEADFEMALE:40employee discount, I think somebody's trying to tell us something.
+OTHERMALE:Roseanne I been thinking.
+LEADFEMALE:What if my manly abilities aren't really mine? What if it's the mattress? I thought it was the mattress.
+SUPFEMALE:What if I can't wow you in a new bed? You didn't have no trouble when we brought home that new kitchen table.
+SUPMALE:True.
+SUPFEMALE:If anybody cares, d.j. 's head fits really well in the toilet.
+LEADFEMALE:See, Dan? d.j. Is small for his age.
+LEADMALE:See ya.
+SUPMALE:Whoa.
+LEADFEMALE:Where you going? I told you, mom.
+LEADMALE:Mark Healy and I are going to a party.
+OTHERFEMALE:Healy? Healy? Healy? Healy? Do we know any Healys? Hmm.
+LEADMALE:Does his father bowl? Oh, god.
+LEADMALE:Not a league man, eh? Perhaps we've run into them while dining at Spaghetti Bucket.
+SUPMALE:I don't recall, lovey.
+LEADMALE:Maybe they're not the all-you-can-eat type.
+LEADMALE:Oh, god, Dan.
+LEADMALE:You don't think they're nouveau poor.
+LEADMALE:Please let me go.
+SUPFEMALE:It's your first date.
+LEADFEMALE:We got to meet him.
+LEADMALE:Can't you meet him later? We're in a hurry.
+LEADMALE:You know the rules.
+OTHERFEMALE:He's waiting.
+SUPMALE:He'll think I'm ditching him.
+LEADMALE:Let him come up and find out.
+LEADMALE:Got it.
+LEADFEMALE:No, Darlene, no.
+SUPMALE:We'll embarrass your sister in an orderly fashion.
+LEADMALE:God, I hate this family.
+OTHERMALE:What's going on? I've been honking for an hour.
+SUPFEMALE:Sorry.
+LEADMALE:My parents want to meet you.
+LEADMALE:Oh, man.
+OTHERMALE:Mom, dad, this is Mark.
+SUPFEMALE:Mark, these are my parents.
+SUPFEMALE:Hi, Dan Conner, my wife Roseanne, and the lovely Darlene.
+LEADFEMALE:Ok.
+LEADFEMALE:Let's go.
+LEADMALE:Mark, that's not the way we do things.
+SUPMALE:So let's sit down on the Davenport and get to know each other better.
+LEADMALE:Huh, honey? So, uh Mark Uh What grade you in? 12th.
+LEADFEMALE:Ah, great.
+SUPMALE:Um You play football? Nope.
+LEADMALE:Oh, too bad.
+SUPMALE:They really got a great team this year.
+SUPMALE:I guess, yeah.
+LEADFEMALE:I heard your horn out there, uh What kind of car do you drive? It's not a car, Dan.
+SUPFEMALE:It's a truck.
+SUPFEMALE:Aha.
+LEADFEMALE:Rosie? Well, Mark, uh Got anything you want to ask us? Look, mom, we really got to go.
+LEADFEMALE:Well, it's been fun.
+LEADFEMALE:Don't be too late.
+LEADFEMALE:Mark, 2 plus 2? What? I thought so.
+LEADMALE:Night, Beck.
+SUPFEMALE:Have a good time.
+SUPMALE:Oh, I hate him.
+LEADMALE:This feels real good.
+OTHERFEMALE:How much is it? 400 Too firm.
+OTHERMALE:Way too firm.
+SUPMALE:Hey, look, Dan.
+SUPFEMALE:A water bed.
+OTHERMALE:Oh, how seventies.
+OTHERFEMALE:This is as close to a pool as we'll ever get.
+LEADFEMALE:Belly flop! Wah! Excuse me.
+LEADMALE:Excuse me.
+LEADFEMALE:Excuse me.
+LEADMALE:Can I help you with something? Yeah.
+LEADFEMALE:How about a couple of margaritas? No salt.
+LEADMALE:We're just looking.
+LEADMALE:I'll be over there.
+LEADMALE:Honey, get me up.
+LEADFEMALE:Oopsy-daisy.
+SUPMALE:Ahh.
+OTHERFEMALE:Look.
+OTHERMALE:A bed like my mom wanted us to get.
+LEADMALE:Oh, look at this.
+OTHERFEMALE:That's twice as big as the one we got.
+LEADMALE:Let's pretend we're rich, and we actually have a room big enough for this bed to fit in.
+SUPFEMALE:And we're waking up to the smell of fresh coffee and croissants that our sexy French maid Ho ho ho ho.
+LEADFEMALE:Pierre has made for us.
+LEADMALE:Hey, Dan.
+SUPMALE:You remember the first time you said you loved me on our old bed? No.
+LEADFEMALE:Neither do I.
+SUPFEMALE:But I know I did.
+LEADMALE:And I still do.
+LEADMALE:Boy, are you whipped.
+LEADFEMALE:Should I get the hose? No, but you can dim the lights.
+SUPFEMALE:We're reminiscing.
+OTHERMALE:What a nice word for it.
+SUPMALE:I see you've decided on a king-size.
+LEADFEMALE:No.
+SUPFEMALE:We'll take that double.
+OTHERFEMALE:And for the lady? I'll just, uh, go write it up then.
+LEADMALE:Way to defend my honor there, Dan.
+SUPFEMALE:It was a shot at me, dear.
+OTHERMALE:Oh.
+SUPMALE:Good one.
+LEADMALE:Thank you, Timmy.
+SUPMALE:A toast.
+LEADFEMALE:A toast.
+SUPMALE:To our old bed.
+LEADMALE:Ok.
+LEADMALE:Well What was once the cradle of our love is now landfill.
+LEADMALE:That was beautiful.
+SUPFEMALE:Who snaked my beer? Give me that.
+OTHERFEMALE:Hey.
+LEADMALE:Hey.
+LEADFEMALE:Isn't that Becky's boyfriend? What the hell's he doing in here? He's drinking.
+OTHERMALE:Where are you going? To say hello.
+SUPMALE:No.
+LEADFEMALE:You'll get mad and try to punch him.
+LEADMALE:Wait.
+OTHERFEMALE:Just hold on.
+LEADFEMALE:Uh, hey.
+LEADMALE:Remember us? Oh, yeah.
+LEADMALE:Fine.
+SUPFEMALE:And you? I'm cool.
+SUPFEMALE:Why are you in here? We're going to have another one of your little chats? Chat this! Honey.
+SUPFEMALE:Honey, honey, honey, honey, honey.
+OTHERMALE:Uh, we were, uh, just wondering how did you get in here? Through the door.
+SUPFEMALE:No.
+LEADMALE:I mean, uh, you're only 18, right? I got a piece of paper that says I'm 21.
+SUPFEMALE:How old are you when you're dating Becky? Depends on where we're going.
+SUPMALE:I'll ask you again, and remember you're talking to the girl's father.
+LEADMALE:You're not going to touch me.
+SUPMALE:Touch him, Dan.
+LEADMALE:Touch him.
+SUPMALE:Rosey.
+LEADMALE:All right, Mark.
+LEADFEMALE:Here's the deal.
+LEADMALE:I don't want you hanging around my daughter anymore.
+LEADMALE:You think you can stop me from seeing Becky? I can stop you from seeing tomorrow.
+LEADFEMALE:Me, too.
+LEADFEMALE:Fine.
+OTHERFEMALE:If Becky wants to see me, she'll see me.
+SUPMALE:I want to go over to his house and beat the hell out of his mother.
+LEADFEMALE:Come on, Darlene! Come on, Darlene.
+LEADMALE:Let me out! Let me out.
+OTHERMALE:I won't do it anymore! I won't do it anymore.
+SUPMALE:Please! Please.
+OTHERFEMALE:Mom? Is that you? Darlene, what is that little boy still doing up? Mom! We were having so much fun, I lost track of time.
+LEADFEMALE:Nice to see you two kids getting along.
+LEADMALE:Dad! Is that you? d.j. , go to bed now.
+LEADMALE:But, mom! Now.
+OTHERMALE:All right.
+LEADFEMALE:Let's go, squirt.
+LEADMALE:Do it again, and it's the dryer.
+LEADMALE:Becky.
+LEADFEMALE:Becky.
+LEADFEMALE:Good night, mom.
+SUPMALE:Good night, mom.
+LEADFEMALE:I wasn't doing it.
+LEADMALE:So, what I do this time? Nothing.
+SUPMALE:Amazing, isn't it? We saw Mark tonight.
+LEADFEMALE:Where? Over at the Lobo drinking.
+LEADFEMALE:This may come as a shock, but he's got a fake ID.
+LEADFEMALE:We want you two to stay away from each other.
+LEADMALE:Now, come kiss mommy good night.
+LEADMALE:I just can't believe this.
+LEADMALE:Believe it.
+OTHERMALE:Why? I don't go out drinking with him.
+SUPFEMALE:You never will.
+SUPFEMALE:It's so typical of you to butt in where it's none of your business.
+LEADMALE:Well, at least we didn't let you down.
+OTHERFEMALE:You are our business.
+LEADFEMALE:Mark is the greatest guy I've ever dated! You don't like him, and you're just taking it out on me! I remember a time when she was so sweet and innocent and loving.
+SUPMALE:I remember that, too.
+OTHERMALE:I believe it was a Thursday.
+SUPFEMALE:Listen to this one.
+SUPMALE:"I sometimes get tiny red pimples on my buttocks "in the summer.
+OTHERFEMALE:What can I do about them?" That's gross.
+SUPMALE:I hope you didn't sign your name this time.
+LEADMALE:No.
+OTHERFEMALE:I signed your name.
+OTHERMALE:What did it say to do? Use a healing facial mask.
+SUPMALE:Ok, I'm going to pick up that bed before the store closes.
+OTHERMALE:Hey, honey.
+LEADMALE:On your way back, pick us up two healing facial masks For our butts.
+LEADMALE:For our butts.
+SUPMALE:Ok.
+SUPFEMALE:Mom, I won't be in for dinner.
+LEADMALE:I'm going over Judy's.
+LEADMALE:Get a ride from your dad.
+SUPFEMALE:That's ok.
+LEADFEMALE:I can walk.
+SUPMALE:Ok.
+LEADFEMALE:What are you guys going to do? Probably just going to the movies.
+LEADMALE:There's a great idea.
+LEADFEMALE:Maybe me and Jackie will go see something.
+LEADFEMALE:Well, we don't really know if we're going to the movies.
+LEADMALE:Call me when you're at Judy's and let us know either way.
+LEADFEMALE:Fine.
+LEADMALE:Oh.
+LEADMALE:You know what? I forgot my wallet.
+SUPFEMALE:Well, there it is.
+LEADFEMALE:She's going to see Mark.
+SUPFEMALE:The old "going over to my girlfriend's house" routine.
+LEADMALE:She's probably up there right now working on plan B.
+LEADFEMALE:Maybe it's a really dumb story, like "Judy's parents are Amish and don't have a phone.
+SUPMALE:" I was only 11.
+LEADMALE:Mom, me and Judy are just going to a party, ok? Ok.
+LEADMALE:Hey.
+LEADMALE:Uh Is Mark going to be at this party? Mom, you told me never to see him again.
+LEADFEMALE:Is that yes or no? No.
+OTHERMALE:Where's the party? I'm not sure.
+SUPFEMALE:I'll call you later and give you the number.
+SUPFEMALE:We could drive you over there.
+LEADMALE:We're bored.
+SUPMALE:We may not go to this party.
+LEADFEMALE:We'll probably just invite some girls over to Judy's.
+LEADFEMALE:And she goes for the save.
+LEADMALE:Oh.
+LEADFEMALE:Ok.
+LEADMALE:Oh, Becky.
+LEADMALE:Yeah? Um Judy's phone number's up there on the bulletin board, right? Yeah.
+LEADMALE:Ok.
+OTHERMALE:Ok.
+OTHERMALE:Have fun.
+LEADMALE:Bye.
+LEADMALE:Bye.
+OTHERFEMALE:Well There she goes.
+SUPFEMALE:Are you worried? Of course I'm worried.
+LEADMALE:You want to talk about it? What's to talk about? She's out with someone we hate, going god knows where and doing god knows what.
+LEADFEMALE:Now I feel like mom felt when she had to watch you completely destroy your life.
+OTHERFEMALE:You having fun there, Dan? Just breaking her in.
+LEADFEMALE:Oh, it's time to call Judy again.
+SUPMALE:Well, it's been 15 minutes.
+SUPFEMALE:Hi, Judy.
+OTHERMALE:It's Mrs.
+SUPMALE:Conner.
+LEADFEMALE:Last time I called, I forgot to ask Becky something.
+LEADMALE:She's in the bathroom again? Well, is she sick? Maybe we should pick her up.
+SUPMALE:Ok, I'll call back later then.
+LEADMALE:Becky's sick? No.
+LEADMALE:She's with Mark.
+LEADFEMALE:What? We told her she couldn't see him again.
+OTHERFEMALE:That's why she lied about being at Judy's.
+OTHERMALE:You let her go? I had to so I could catch her.
+LEADMALE:I won't sit here while she's out with that punk.
+OTHERMALE:I call Judy every 15 minutes.
+SUPFEMALE:Judy calls Becky wherever she is.
+LEADMALE:Then Becky calls me.
+LEADFEMALE:And the point of that is? To completely ruin Becky's evening.
+OTHERMALE:See? And to make sure that she's all right.
+SUPFEMALE:Hiya, Becky.
+LEADMALE:You like pork chops, don't you? Ok then.
+LEADFEMALE:Fine.
+LEADFEMALE:She's fine.
+LEADMALE:Judy, when you finally do hear from her, tell her to get her butt home.
+SUPMALE:Fine.
+LEADFEMALE:Let her live with him.
+SUPFEMALE:Forget it, Judy.
+LEADMALE:You're never leaving this house again.
+LEADMALE:What are you talking about? So How was your evening? Ok, you know I wasn't at Judy's.
+LEADMALE:Oh? I was at Monica's.
+LEADFEMALE:I know you hate her, so I asked Judy to cover.
+LEADMALE:That's one.
+LEADMALE:Where were you? I told you I was at Monica's.
+LEADMALE:Ok.
+LEADMALE:Her parents weren't home.
+OTHERMALE:I knew you guys would be mad.
+LEADMALE:That's two.
+LEADMALE:Two what? Two weeks grounded.
+LEADMALE:You want three, or do we hear "Mark"? You lied, and that won't happen ever again.
+SUPFEMALE:You're never seeing Mark again.
+SUPFEMALE:I mean it, Becky! I know.
+SUPFEMALE:Don't worry.
+LEADMALE:Thanks to my mother, who made me call her every 15 minutes, he'll probably never want to see me again anyway.
+SUPFEMALE:Probably? And what if he probably does? I'm never going to see him again.
+LEADFEMALE:Ok? Ever.
+LEADFEMALE:You put us through a lot of crap tonight.
+LEADFEMALE:I'm sorry.
+LEADFEMALE:Can I go now? Yeah.
+LEADMALE:Get upstairs.
+OTHERFEMALE:You did good.
+OTHERMALE:I did.
+LEADFEMALE:I did.
+LEADMALE:You knew exactly where she was going to be.
+LEADMALE:And you stayed one step ahead of her.
+SUPFEMALE:Was there ever any doubt, Dan? I'm the best.
+LEADFEMALE:Unfortunately, next time, I'm going to have to be even better.
+LEADMALE:Ooh.
+SUPMALE:Ahh.
+OTHERMALE:Not too hard? Not too soft? Just right.
+LEADMALE:Well, you know, Dan.
+SUPMALE:Just because Becky's not going to see Mark anymore doesn't mean that she's ever going to date somebody that we approve of.
+LEADFEMALE:The next guy could be, like, an ax murderer.
+LEADFEMALE:Come on, Mr.
+LEADFEMALE:Conner.
+LEADMALE:Let me out.
+OTHERMALE:I promise I won't see Becky again.
+OTHERFEMALE:There's no air in here.
+LEADFEMALE:Good.
+LEADFEMALE:

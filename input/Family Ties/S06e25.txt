@@ -1,0 +1,301 @@
+SUPFEMALE:Want to buy a raffle ticket, win a trip to Mexico? It's for my school.
+SUPMALE:Ah, that sounds good.
+LEADFEMALE:How much are they? Two dollars.
+LEADFEMALE:Yikes! Two dollars! Wow.
+OTHERFEMALE:Two dollars.
+SUPFEMALE:I don't know if I can swing that.
+SUPFEMALE:Let's see.
+SUPMALE:Boy, it's really fat.
+SUPFEMALE:You must be loaded.
+LEADMALE:See that? See what happens? Just a minute.
+LEADMALE:All right.
+LEADMALE:Hey.
+LEADFEMALE:Hey.
+LEADFEMALE:You want to buy a raffle ticket, win a trip to Mexico? Sure.
+LEADFEMALE:If I sell more than the other kids, I get a bike.
+OTHERFEMALE:Oh, in that case, Andy, I'll take three.
+OTHERFEMALE:I'll take three, also.
+LEADFEMALE:Alex only took one, and that was a struggle.
+SUPFEMALE:I thought I heard his wallet go off.
+OTHERMALE:Yeah.
+LEADMALE:Hey, gang.
+LEADMALE:Hi.
+SUPMALE:Hi.
+LEADMALE:Hi.
+SUPMALE:Do you think I should wear one of these to my high school reunion? I-I wore this to my graduation party, and this one to my prom.
+LEADFEMALE:Oh, Mom, I love these.
+LEADMALE:I love antique dresses.
+SUPMALE:Excuse me? Mom, come on.
+OTHERFEMALE:You don't honestly think you're going to fit into either of those, do you? Mom, what I mean is, they-they they look they look too big for you.
+LEADFEMALE:You must have been beefy in high school.
+SUPFEMALE:What are you going to wear, Dad? Whichever one your mother doesn't want.
+LEADFEMALE:Oh, cut it out, Steven.
+SUPMALE:He's just grumpy 'cause he has to go to the reunion.
+SUPFEMALE:Well, why shouldn't I be? I don't know anyone.
+OTHERMALE:Everyone will be clamoring around her.
+LEADFEMALE:I'll be sitting in the corner, sucking up punch with some nerds.
+LEADMALE:This is so exciting, Mom your high school reunion.
+LEADFEMALE:I bet all your old boyfriends are going to be there.
+LEADMALE:No, I didn't really have many dates.
+LEADMALE:I was just waiting for my Prince Charming to come around.
+SUPFEMALE:Hmm.
+SUPFEMALE:Did he? Oh.
+LEADFEMALE:Dad.
+LEADMALE:Right.
+LEADFEMALE:Come on, Elyse, you were the most popular girl in your high school.
+LEADMALE:You had millions of dates.
+OTHERMALE:Not really.
+SUPFEMALE:What about this Roger Erdman guy, huh? He's been calling all week.
+OTHERMALE:He insisted on coming over to see you today.
+LEADMALE:"Eggy" Erdman? Please! He was my next door neighbor.
+LEADFEMALE:Wait a minute Roger Erdman.
+LEADMALE:Roger Erdman of Erdman Enterprises? That's the one.
+LEADMALE:Mom, that man is a genius! His-his-his computer software company grossed $75 million last year.
+LEADFEMALE:So what? So So you knew Roger Erdman, and you married Dad?! Why? All right, that's it! I'm not going! Gown or no gown.
+SUPMALE:I can't believe you knew Roger Erdman, and you didn't tell me! The things you keep from me! You Who else do you know? Lee lacocca? No, just Eggy.
+LEADMALE:Well, what was he like? Well, you know, he was kind of a sweet, awkward guy.
+SUPFEMALE:He had the locker next to mine.
+OTHERFEMALE:He could not close that locker without catching some part of his body in it.
+LEADMALE:He was a strange character.
+LEADMALE:He was really a nerd.
+SUPFEMALE:Hello.
+SUPMALE:I know the type.
+SUPFEMALE:Uh, do you guys mind if I hang out here for a while? It's kind of lonely at my house.
+LEADFEMALE:Where are your parents? They went away for the weekend on a skiing trip.
+OTHERMALE:What about your girlfriend? She went with them.
+LEADFEMALE:Oh, my! - Well, here he is.
+LEADMALE:Eggy! - Elysey! Oh.
+LEADMALE:Oh.
+OTHERMALE:He's a little nerdy, isn't he? so there I was in school, walking down the halls, you know, carrying my books.
+OTHERMALE:I always had a ton of books with me, because I had a lot of trouble opening my locker.
+LEADFEMALE:Closing it was no picnic, either, actually.
+OTHERFEMALE:Anyway, I always - Uh, excuse me.
+SUPMALE:Oh.
+LEADMALE:Um, need some more coffee? - Oh, thank you.
+OTHERMALE:Whoa, be careful! - Oh, oh, oh! - Thank you.
+SUPFEMALE:There we go.
+SUPMALE:There we go.
+LEADMALE:All right.
+SUPFEMALE:So I-I usually brought everything I owned with me.
+LEADMALE:You know, I'd go down the halls with my books, clothes, microscope, a dozen handkerchiefs, my saxophone and an assortment of dried fruits.
+SUPMALE:I should have had one of those, uh, shopping carts, but I wanted to be cool, you know.
+LEADFEMALE:That is cool.
+LEADFEMALE:I'm-I'm getting rid of my shopping cart.
+SUPFEMALE:You remind me of someone.
+LEADMALE:Anyway, I was a real bully-magnet at school, you know, a target for book dumping.
+LEADMALE:Even the school nurse would get in a shot now and again.
+LEADMALE:But I could always count on good old Elysey to help me out, to protect me, to tell me to stand up for myself.
+SUPMALE:Do you remember uh, Vinnie Vinnie D'Agostino? Yeah.
+LEADFEMALE:Oh, he was tough.
+LEADMALE:I remember once he held your head underwater at the public pool.
+OTHERFEMALE:Yes, he did, and it was uncalled for, considering he was the lifeguard on duty.
+LEADFEMALE:Mr.
+SUPMALE:Erdman Mr.
+LEADMALE:Erdman, may I ask you a question? Certainly, but please call me Eggy.
+LEADMALE:I prefer not to, sir.
+OTHERMALE:I-I-I I don't think that that that's suitable for someone of your standing in the business community.
+SUPMALE:Uh, I could call you I could call you Mr.
+LEADMALE:Eggy.
+LEADFEMALE:Fine.
+OTHERMALE:That's what my Mom calls me.
+LEADFEMALE:I'm intrigued by your wealth.
+LEADFEMALE:Um Where did it come from, how did you get it, and, um will you share it with me? Alex, I'll be honest with you.
+LEADMALE:I-I never dreamed I'd have this much money, you know? Uh, as a matter of fact, when I was a kid, I was actually a bit of a nerd.
+LEADMALE:But I was a tremendous nerd.
+SUPMALE:What was that like? Take a wild guess, Skip.
+LEADFEMALE:Well, anyway, it would have been miserable if it weren't for Elyse Donnelly, the most popular girl in the school, and she was my friend.
+SUPMALE:Yeah.
+LEADFEMALE:You want to buy a raffle ticket? Oh, sure.
+OTHERMALE:Uh, how much are they? - Two dollars.
+LEADFEMALE:Oh, two dollars.
+LEADMALE:All right, I'll take one.
+LEADFEMALE:Just one? Alex said you were loaded.
+LEADFEMALE:He's confused.
+LEADFEMALE:He's confused.
+SUPMALE:What I what I said was that you may be quite well off.
+SUPMALE:You said $75 million, not counting what he's probably hiding from the IRS.
+LEADFEMALE:The things that come out of this kid's mouth, I'm I'm telling you.
+SUPFEMALE:So I just used to stay up in my room and make up all these imaginary games and puzzles and tricks, and you know, they became the nucleus of my Ledgermatic Computer Software System.
+LEADFEMALE:Ah.
+LEADFEMALE:Aha.
+LEADMALE:Getting back to your wealth Alex, come on, I've described it to you in every way possible.
+LEADFEMALE:It's-it's large, it's paper, it's green, let's greet it now money! Hey! Yeah.
+LEADMALE:Okay.
+LEADFEMALE:All right.
+LEADFEMALE:Can I ask you a question? Yeah.
+OTHERFEMALE:I don't know.
+LEADFEMALE:Uh, um, do you ever do you ever just kind of lay it out and-and roll around in it? I bathe in it.
+LEADMALE:Alex, please, I don't want to talk about money.
+LEADFEMALE:All right.
+LEADFEMALE:Okay.
+LEADFEMALE:All right, all right, all right.
+SUPMALE:Um, this this, uh this this is not about money.
+SUPFEMALE:Well, that's a giant breakthrough in our relationship.
+LEADMALE:This is about life.
+OTHERFEMALE:Go ahead.
+LEADMALE:Will you adopt me? Come on, Alex, you have a-a full, complete, loving family here.
+SUPMALE:Yeah.
+LEADFEMALE:Yes.
+LEADFEMALE:I think I've gotten everything I can out of the situation.
+SUPFEMALE:Let's run away together.
+LEADMALE:Look, you may not want to hear this, but money is not all that it's cracked up to be.
+SUPFEMALE:See It is not a sure ticket to happiness.
+LEADMALE:All you guys with money say that.
+LEADMALE:And then you go home to your mansions, and you laugh hysterically.
+LEADMALE:I want to be with you guys.
+LEADMALE:I want to laugh with you.
+LEADFEMALE:I am so ready to be rich.
+LEADMALE:You have no idea.
+LEADMALE:No, I have a good sense of it, Alex.
+LEADMALE:Why don't I just give you a couple of million, we'll call it even? I love you.
+SUPMALE:Uh, you knew him before Dad, and yet you Why am I torturing myself? You have a beautiful family there, Elyse.
+LEADMALE:Steven, Andrew, the girls young Mr.
+OTHERFEMALE:Scrooge.
+OTHERMALE:Thank you.
+SUPFEMALE:Boy, I can't believe that you're actually here in my house.
+OTHERMALE:Well, look at you! You look so grown up.
+LEADFEMALE:Your hair is combed, your shoes are actually on the right feet Yes.
+OTHERMALE:That's one of the advantages of being rich.
+OTHERFEMALE:I hired a man that takes care of that before I leave the house.
+LEADFEMALE:He's very good.
+LEADFEMALE:So happy for you, for everything that's happened.
+LEADFEMALE:For all the success you've achieved.
+OTHERFEMALE:I always told you you could do it, didn't I? Yes, you did, Elysey.
+SUPMALE:You were the only one.
+OTHERFEMALE:So, you proud of your little Eggy? You bet! My God, Elyse, you're more beautiful than I remember.
+LEADFEMALE:Ah, you say that to all the girls.
+LEADFEMALE:There are no other girls.
+LEADFEMALE:There's only you.
+LEADMALE:Oh, Eggy.
+LEADMALE:Do you remember we did our act on the talent night of the Senior Follies? Yeah Remember, we-we wore those matching outfits? - -God, those were beautiful dresses.
+SUPFEMALE:You had a run in your stocking.
+LEADMALE:That night is so clear to me! Uh, it was in the gymnasium, the lights went down, and the announcer got up and 
+SUPFEMALE:"Attention seniors, seniors, seniors "And now, now the South Sandusky, Sandusky "High School Entertainment Committee, Committee "proudly presents "sents sents Elyse Donnelly, ly, ly, ly "and Roger "Is this thing on? I don't think it's on.
+OTHERMALE:"Erdman man, man "the Doo-Wop Twins ins, ins "with their rock and roll rendition ion ion of 'Dream Lover! ' Lover, Lover!" We were so good that night! Good? We were incredible! Remember the hand we got? Yeah, I remember a couple of people booed.
+LEADMALE:Well, my parents never liked that sort of thing.
+SUPMALE:Then then we rushed off into the wings, and and you kissed me.
+SUPMALE:No.
+OTHERMALE:Did I? Yeah.
+LEADMALE:Right here.
+LEADFEMALE:For a long time, I was thinking of having it framed.
+LEADFEMALE:It was such fun.
+SUPMALE:Let's do it again.
+SUPFEMALE:We've got to do it again.
+LEADFEMALE:I've been practicing.
+LEADFEMALE:Do it again remember? We did it! It's over! I mean, come on, we're not in high school anymore.
+OTHERMALE:You got to grow up.
+OTHERFEMALE:Oh, don't look at me like that, Eggy.
+SUPMALE:You don't think I've grown up, Elyse? I-I didn't mean anything by it.
+LEADMALE:I - You're sorry I came, though, huh? No, I'm not.
+LEADMALE:I'm glad to see you.
+SUPFEMALE:It's just that it's it's 25 years later, I don't feel like splish- splashing with you, that's all.
+LEADFEMALE:You say that to a Doo-Wop Twin? You have changed.
+SUPMALE:Boy! Let's-let's drop it, okay? Let me make you a peanut butter and jelly sandwich and a raw egg for dessert you've always loved that.
+LEADFEMALE:No, thanks.
+LEADMALE:I've eaten.
+OTHERMALE:And if you haven't noticed, Elyse Donnelly, I have grown up.
+LEADFEMALE:I'm not the same Eggy you knew.
+LEADFEMALE:I'm a new, improved Eggy.
+LEADFEMALE:One that won't be bothering you with silly little memories of a time you'd evidently rather forget.
+OTHERFEMALE:Far as I'm concerned, high school never existed.
+LEADFEMALE:See you at the reunion! I can't believe I feel so nervous about this.
+OTHERMALE:What if no one remembers me? How do you think I feel? There's no chance anyone's gonna remember me.
+SUPFEMALE:I'm just afraid someone will remember me and lock me in the girls' bathroom all night.
+OTHERFEMALE:Probably go sign in here.
+LEADFEMALE:Uh, excuse me.
+LEADMALE:Hi.
+SUPMALE:I Elyse Donnelly! I can't believe it! You look exactly the same.
+OTHERFEMALE:Bob Dunphy.
+OTHERFEMALE:Bob! Hi! Hi! Hi, Elyse.
+SUPFEMALE:Norma Coleman.
+LEADMALE:I was hoping you'd show up.
+OTHERMALE:It's great to see you guys! This is Roger Erdman.
+OTHERFEMALE:Eggy? No, it can't be your shoes are on the right feet.
+SUPMALE:And this this Yeah, we know who this is Danny Wasserstein! No, I'm Steven Keaton.
+LEADFEMALE:Nah, get out of here! You're Danny Wasserstein, class clown! Uh, I-I'm Steven Keaton, Elyse's husband.
+LEADFEMALE:Yeah, sure, and I'm Ethel Merman.
+SUPMALE:Elyse, is he Danny Wasserstein, or what? How you been, Danny? Hey, everybody, it's Elyse Donnelly, Eggy Erdman and Danny Wasserstein! - Danny, how are you? - Danny, how you doing? I-I'm not Danny! Hi.
+LEADMALE:Remember me? The prom? After the prom? Danny Wasserstein.
+SUPMALE:Hey, listen, Eggy, I'm really sorry about holding you underwater in the community pool that time.
+SUPFEMALE:It's no problem, Vinnie; I was asking for it sitting on a beach chair, reading the Bible.
+SUPMALE:Welcome back, South Sandusky Class of '63! And now it's time to meet our class celebrities.
+LEADFEMALE:Now, whatever became of Mr.
+LEADMALE:Most Athletic, Wally Carello? Wally! What a hunk, huh? Whoa, whoa! And whatever happened to Mr.
+SUPFEMALE:Class Clown he's a panic Crazy Danny Wasserstein? Yeah, what a nut, huh? Oh And I know this lady's out here.
+LEADMALE:Where is Miss Homecoming Queen, Captain of the Cheerleaders, Captain of the Swim Team, Captain of the Wrestling Team, Miss Elyse Donnelly? And the guy voted Least Likely to Succeed, who's probably more successful than anybody in this room, who I'd like to talk to afterwards about an auto center I'd like to purchase where is Roger "Eggy" Erdman? Wait, hold on, hold on.
+OTHERFEMALE:You know, I'm wondering, is there anybody out there who remembers a group called the Doo-Wop Twins? - -Do you remember what they did for us during Senior Follies? Come on! Doo-Wop! Doo-Wop! Doo-Wop! Doo-Wop! Whoo! Eggy, that was great! We did it! It was great! Oh, Roger! Elyse Wait, Elyse! Guess who won the raffle and the trip to Mexico.
+OTHERFEMALE:Who? Buenas noches, my little burrito.
+SUPFEMALE:No, Skippy, I am not your little burrito.
+LEADMALE:Oh, come on, Mal, why don't you just wing up to sunny Mexico with me? Mexico's not up, Skippy.
+LEADMALE:Wh-Where is it, down? It's out there somewhere.
+LEADMALE:Well, I don't care, as long as you know where it is.
+LEADFEMALE:Buenos dÃ­as, my little burrito.
+LEADFEMALE:Yeah, buenos dÃ­as to you, my young and faithful enchilada.
+LEADFEMALE:Skippy won the raffle at Andy's school.
+LEADMALE:Hey, wait a min Andy! Andy, you told me I was gonna win that.
+LEADMALE:I tell everybody that.
+LEADMALE:Bandito.
+LEADMALE:Hi, gang.
+LEADMALE:Hey, how did it go? Not that great.
+OTHERFEMALE:I was a big hit, but, uh your mother and Eggy had a little run-in.
+SUPFEMALE:Mom, how could you?! The man is a millionaire! Maybe a trip to Mexico would make you feel better? I don't know, I'm-I'm not in the mood.
+LEADFEMALE:Hi.
+LEADMALE:Honey, I think we'll all be in the other room.
+LEADMALE:How about you, Mr.
+SUPMALE:Keaton? Would you like to go to Mexico with me? Which weekend is it, Skippy? Whatever she did, she didn't mean it.
+LEADMALE:Forgive me, Elyse.
+LEADFEMALE:When I, when I saw you, it brought everything back.
+LEADFEMALE:I was 16 again, and so were you.
+LEADMALE:We're not, though.
+LEADFEMALE:You know, we're not 16, we're well, I'm almost 30.
+LEADFEMALE:And strangely, I'm 41.
+LEADMALE:You were always a little different.
+SUPMALE:Seeing you has brought this all back to me, too, Eggy you know, growing up together, the old neighborhood, your old apartment on Steuben Avenue.
+SUPMALE:Yeah.
+LEADFEMALE:Apartment 4-A.
+LEADMALE:My parents, next-door, in apartment 4-B.
+LEADFEMALE:I used to wait for you at the bus stop to come back from cheerleading practice.
+SUPMALE:Remember? I used to carry your pom-poms.
+LEADFEMALE:Oh, yeah - And sometimes the guys would whistle at me.
+SUPMALE:Uh-huh - And sometimes I'd whistle back.
+SUPMALE:And when we got home, we'd practice the cheers together.
+LEADFEMALE:You remember? - Yeah.
+OTHERMALE:Remember? S-A-N-D Please don't do the whole thing.
+OTHERMALE:Usky! - Thanks.
+SUPMALE:I'm-I'm just I'm sorry.
+LEADMALE:I was way, way out of line.
+LEADFEMALE:I-I-I I got crazy.
+OTHERFEMALE:I had no business doing what I did; no business.
+SUPMALE:I'm a married woman.
+SUPFEMALE:How serious is it? Danny Wasserstein and I are very much in love.
+LEADMALE:I know.
+SUPMALE:Of course I do, and I I'm very happy about it; I really, I am.
+SUPMALE:It's what you deserve.
+LEADMALE:Oh, Eggy.
+SUPFEMALE:It's just that I've thought about you all these years.
+SUPFEMALE:And every time I dreamt about the moment we'd meet it always ended in a kiss.
+LEADFEMALE:Well, I've thought about you, too, and the moment that we would meet, and it always ended in a minor injury.
+SUPMALE:You thought about me? Really? Well, yeah, sure.
+LEADFEMALE:Ah, I love that.
+LEADFEMALE:See, when I think about you, I think that all my success and the great things that have happened to me have a lot to do with you.
+LEADFEMALE:Your having believed in Eggy meant the world to me.
+SUPMALE:Ah.
+SUPMALE:You weren't hard to believe in.
+SUPFEMALE:You were a good friend.
+LEADMALE:You're definitely, seriously married, huh? That's what I always loved about you you could always make me laugh.
+LEADMALE:You could always bring out the silly side in me.
+SUPMALE:I could bring out the silly side in Attila the Hun.
+OTHERMALE:Well, you know how, when I was a little kid, I used to always take myself a little too seriously.
+LEADFEMALE:I could never have done "Splish Splash" with anyone but you.
+SUPFEMALE:You-you taught me it was okay to be silly, that it could be fun.
+LEADMALE:I've carried that throughout my whole life.
+OTHERFEMALE:It helps when you have four kids.
+SUPFEMALE:So there's still a little Eggy left in your life, huh? There is.
+LEADMALE:That's good.
+LEADMALE:I like that.
+OTHERFEMALE:So you made me believe in myself and I made you silly.
+LEADFEMALE:It's a fair trade, believe me.
+LEADFEMALE:It was great to see you, Elysey.
+SUPFEMALE:It was great to see you, too.
+SUPFEMALE:Eggy This one I'm definitely framing.
+LEADFEMALE:

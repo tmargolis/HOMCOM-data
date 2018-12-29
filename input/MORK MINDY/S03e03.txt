@@ -1,0 +1,423 @@
+LEADFEMALE:You think the mail's here? l'm expecting something.
+SUPFEMALE:Oh, if it's important, say no more.
+SUPMALE:Neither wind nor sleet nor slush will stop me.
+SUPMALE:l'll fetch it.
+LEADFEMALE:Boy, that was quick.
+LEADFEMALE:Oh, hi, Glenda Faye.
+SUPMALE:Hi, Mindy.
+LEADFEMALE:Why was Mork scratching his ear with his foot? Oh, well, when he fetches the mail, he does it with total commitment.
+LEADMALE:Well, how about a little morning jog? Oh, l don't know.
+OTHERFEMALE:How far you going? - Denver.
+LEADFEMALE:- Denver? No, thanks, Glenda Faye.
+SUPMALE:l think that maybe some other time.
+OTHERMALE:l wish l could stop by more often.
+LEADFEMALE:You know, l really don't have too many people to talk to since my husband passed on.
+LEADFEMALE:Well, you know, l was sorry to hear about your loss.
+LEADMALE:There will never be another Randolph.
+SUPFEMALE:That's why every day, l wear something black in memory of him.
+OTHERFEMALE:Denver is pretty far.
+LEADFEMALE:How about a doughnut? We can go to the House of Holes.
+LEADMALE:No, l can't.
+OTHERMALE:l'm waiting for the results of a scholarship exam l took for journalism grad school.
+LEADFEMALE:Oh, l hope l get it.
+OTHERMALE:Well, l'm sure you did.
+OTHERFEMALE:You were always so smart in high school.
+SUPFEMALE:l envied you.
+LEADMALE:You envied me? Well, you were the one that was out having all the fun.
+LEADMALE:Well, l envied you between the fun.
+SUPMALE:Don't worry, Mindy.
+OTHERMALE:You're gonna get that scholarship.
+LEADMALE:Oh, l wish l could be as positive as you.
+OTHERMALE:Well, hasta la vista.
+SUPFEMALE:That wasn't a new vase, was it? No.
+LEADFEMALE:No, it's been in the family for generations.
+LEADFEMALE:Oh, good.
+LEADFEMALE:Now, don't you worry, l'm gonna replace it.
+LEADFEMALE:Bye, boy.
+LEADFEMALE:Have Mindy give you a little treat later.
+LEADFEMALE:Mail call! Let me see here.
+SUPFEMALE:''McConnell, Mindy.
+LEADMALE:'' ls there anything about my scholarship? l don't know.
+SUPMALE:Nothing really smells scholastic.
+SUPMALE:Let me see, let me see.
+LEADMALE:Nothing.
+LEADFEMALE:l should have heard by now.
+LEADFEMALE:When are those guys gonna let me know? Oh, there's something in here for you.
+LEADMALE:Here.
+LEADMALE:''Can you come visit me? Your friend, Pete--'' lt's from Peter, my pen pal.
+SUPMALE:He wants me to visit him.
+LEADMALE:Oh, come on, Mindy.
+LEADFEMALE:He lives outside of Boulder.
+OTHERFEMALE:Can you go? Maybe? Maybe? Oh, Mork, maybe some other time.
+LEADMALE:l don't think l'd be too much fun today.
+LEADMALE:Oh, Mind, maybe your scholar boat will come tomorrow.
+LEADFEMALE:That's ''scholarship.
+OTHERMALE:'' Oh, l guess l'm just a little ''dinghy,'' huh? ls Mork here yet? Anybody seen my pen pal? No, and we never will.
+SUPMALE:Come on, that guy ain't gonna show up.
+LEADFEMALE:When are you gonna face facts and grow up? But Mork will come.
+SUPMALE:l trust him.
+OTHERFEMALE:Come on, you can't trust anybody.
+OTHERMALE:Look at me.
+LEADFEMALE:My wife is in real estate.
+LEADFEMALE:One day, she said she found the perfect home for me.
+SUPMALE:l've been here ever since.
+SUPFEMALE:Peter, guess what.
+SUPMALE:My friend Mork is here.
+SUPFEMALE:That's very good.
+LEADFEMALE:See, Sid? l told you he'd show.
+LEADFEMALE:l'll get the confetti.
+SUPMALE:Mork? Peter? Mork.
+SUPFEMALE:Peter.
+LEADMALE:Morko.
+SUPFEMALE:Pedro.
+SUPMALE:Oh, my little pen pal, quill buddy, paper mate.
+OTHERFEMALE:Oh, this is some swell kind of place.
+LEADFEMALE:They gave me a tour.
+SUPFEMALE:lt was incredible.
+SUPFEMALE:l mean, that rubber wallpaper, wow, how convenient.
+SUPMALE:And then those coats too.
+LEADFEMALE:You can hug yourself all day.
+LEADFEMALE:lt's wonderful.
+SUPMALE:Look at that, industrial-strength screen.
+LEADFEMALE:You must have some big sucker mosquitoes out there.
+LEADFEMALE:The type that are on steroids, they're going, ''Here, l'm coming.
+LEADFEMALE:'' That's wonderful.
+SUPFEMALE:Hey, this is my kind of town.
+OTHERMALE:ls this guy crazy? He belongs in this place more than l do.
+LEADMALE:Oh, gee, thanks.
+LEADFEMALE:- l think your friend really likes me.
+SUPFEMALE:- l'm not his friend and l don't like you.
+SUPMALE:lt's okay, Mork.
+LEADFEMALE:Sid's a little depressed.
+LEADFEMALE:Hey, hey.
+LEADMALE:Let's play some games.
+LEADFEMALE:We've got cards, checkers.
+LEADMALE:Hey, we could even play some jacks.
+SUPFEMALE:Oh, l love playing jacks, especially Jack Nicholson.
+SUPFEMALE:We took a vote and l wanna see the damn World Series.
+SUPMALE:Hey, Sid.
+LEADFEMALE:Come on, join us.
+LEADMALE:- lt's fun.
+SUPMALE:- Buzz off.
+OTHERMALE:Oh, Mork, it's so sad.
+SUPFEMALE:You know, people don't wanna play around here anymore.
+LEADMALE:But l'm working on them.
+SUPFEMALE:Well, my friend Mindy's like that too.
+LEADMALE:She's been real sad recently.
+SUPMALE:l don't know why people are unhappy when there's so many clowns in government.
+SUPMALE:They're unhappy because they grew up.
+LEADMALE:But l thought you have to grow up so you can feel guilty and be an adult.
+SUPMALE:You may have to grow tall, but you don't have to grow up.
+LEADFEMALE:- Can you keep a secret? - Sure.
+LEADFEMALE:You know that--? Does he have one wheel in the sand? Well, what's your secret? l'm Peter Pan.
+LEADMALE:Peter Pan? But you sign all your letters Peter Panovski.
+LEADMALE:Oh, that's just a cover.
+LEADFEMALE:Nobody's left out there that believes in Peter Pan.
+SUPFEMALE:- Why not? - See, l'm the real Peter Pan.
+SUPMALE:You know? Oh, wait one millibleam.
+OTHERMALE:You mean the Peter Pan who could fly, lost his shadow, was chased by Captain Hook, got swallowed by the alligator that had clock in his stomach? - Yes.
+SUPFEMALE:- What's not to believe? Oh, Mork, you believe it's me.
+LEADFEMALE:You believe in me.
+LEADFEMALE:Oh, wait.
+LEADMALE:Wait one minute there.
+LEADMALE:l'm not just some shucker.
+LEADFEMALE:Come on now.
+LEADMALE:Wait a minute.
+LEADMALE:Peter Pan was a boy who never grew up.
+LEADFEMALE:Oh, that's me.
+LEADMALE:The little guy's still inside.
+LEADFEMALE:Oh, and it sounds like he's got gas.
+LEADFEMALE:Oh, Mork, you've made my day.
+OTHERMALE:Oh, who am l kidding? You made my life.
+SUPMALE:Somebody believes in me.
+OTHERMALE:Where l come from, everybody believes in you.
+LEADFEMALE:- Oh, where's that? - Well, it's l come from a place far, far away, where the plants are as intelligent as the people and the sky is yellow and brown.
+LEADMALE:Pittsburgh? No.
+SUPFEMALE:What would you say if l told you l come from a planet called Ork? l'd say, ''Welcome.
+LEADFEMALE:'' At last.
+SUPMALE:You know, where we come from, we say, ''Na-no, na-no.
+LEADFEMALE:'' Oh, what does that mean? Well, it's a lot nicer than the old greeting.
+SUPMALE:- Which was? - ''Yo, lizard thighs.
+LEADFEMALE:'' l love laughter.
+LEADMALE:You know, l tried to get everyone to laugh here at least once a day.
+SUPFEMALE:Sid's two years behind.
+LEADFEMALE:My friend Mindy's the same way.
+LEADFEMALE:She's so depressed recently.
+LEADFEMALE:See, that's why l came and got you so we could both make her happy.
+OTHERFEMALE:lt's been a long time since l've been out there.
+LEADMALE:You know, it's scary.
+LEADFEMALE:Hey, don't worry, because you're with me.
+OTHERFEMALE:l'm your pen pal.
+LEADFEMALE:We'll fight them off with a couple of quills.
+LEADMALE:You're right.
+SUPMALE:Okay, let's go.
+LEADFEMALE:Peter, aren't you forgetting something? Oh, yeah.
+OTHERMALE:What's the matter, Pete? l'm sorry, Mork.
+OTHERMALE:l can't go home with you.
+SUPMALE:Why not? The house is pretty clean and l make a great hot fudge tortilla.
+SUPMALE:You don't understand.
+SUPFEMALE:l can't leave.
+OTHERFEMALE:lt's against the rules.
+LEADMALE:Okay, everybody, it's time.
+OTHERMALE:Pete, l mean, you gotta come.
+LEADMALE:l'm-- But-- - Leave it to me, leave it to me.
+OTHERMALE:- Peter? Ma'am, you don't understand, you see, Peter has to come home with me and see Mindy.
+SUPFEMALE:Oh, l'm sorry, but this is where he belongs.
+OTHERFEMALE:Gee, Mork.
+LEADFEMALE:l'd like to help Mindy, but l can't.
+SUPFEMALE:Will you come visit me soon? Sure.
+SUPMALE:Ma'am, how come he can't get out? You have to understand, Mork, they must be locked in at night for safety.
+OTHERMALE:Oh, so they don't bump their wings.
+OTHERMALE:Yes, this too is true.
+SUPMALE:Hello? Oh, hi, Julie.
+LEADMALE:What? You got a scholarship? Well, how sweet and thoughtful of you to call and tell me.
+SUPMALE:Anybody else get one? Who? The Rebozo twins? Well, that makes me twice as happy.
+SUPFEMALE:Gee, Julie, thanks for calling me and giving me all the good news.
+LEADFEMALE:Thanks.
+OTHERFEMALE:Bye.
+LEADFEMALE:Thanks for the ride, Mrs.
+LEADFEMALE:Rebozo.
+OTHERMALE:And congratulations to the twins.
+LEADFEMALE:Yeah, two heads are better than one.
+LEADMALE:Oh, how we feeling? Terrible.
+SUPFEMALE:l seem to be the only one who hasn't heard about the scholarship.
+SUPMALE:lt's not looking good, Mork.
+SUPFEMALE:How was your day? Did you have fun with Peter? Oh, not bad.
+LEADFEMALE:- l have a question l'd like to ask you.
+OTHERFEMALE:- Yeah? Why do they lock some people up? - Why do you ask? - l don't know.
+LEADFEMALE:Why? Why you paranoid? l'm not paranoid, are you? Well, l'm just a little curious about Earth customs, that's all.
+LEADFEMALE:Well, they usually lock people up because they commit crimes.
+LEADFEMALE:What if they didn't commit a crime? Then they should be set free.
+LEADMALE:Wheels are turning.
+SUPMALE:A little justice must be done.
+LEADMALE:- Pardon me.
+LEADFEMALE:- No.
+LEADMALE:You see, Mork, sometimes life on Earth isn't always fair.
+SUPFEMALE:Oh, you mean like earthquakes demolish cities, floods wipe out homes.
+SUPFEMALE:The Rebozo twins get the scholarship.
+SUPFEMALE:l think l'll go lie down and count the sparkles in my ceiling.
+SUPMALE:Oh, poor Mind.
+LEADFEMALE:Adult life can really be tough sometimes.
+OTHERFEMALE:lf only Peter Pan were here.
+LEADFEMALE:Wait a minute.
+LEADFEMALE:This is a job for Morky Bell.
+LEADFEMALE:Mork, Mork, maybe l shouldn't.
+LEADFEMALE:You know, it's against the rules.
+SUPFEMALE:No.
+LEADMALE:No, come on, see? We're gonna break out, see? Don't chicken on me, see? Over the wall, see? We're gonna get out of this pig house.
+LEADFEMALE:Now come on.
+SUPFEMALE:Mork, Mork, Mork, no.
+LEADFEMALE:Happy Valley isn't a prison.
+LEADMALE:lt's, you know, a funny farm.
+LEADMALE:Oh, you mean a place where they grow jokes.
+LEADMALE:No, no, no.
+OTHERMALE:lt's where they put people who are different.
+LEADFEMALE:And people out there really think l'm different.
+LEADFEMALE:l don't know.
+LEADMALE:Maybe leaving isn't such a good idea.
+OTHERFEMALE:Oh, no, come on.
+LEADMALE:Mindy needs you.
+SUPMALE:The world needs you.
+LEADMALE:Even Disneyland needs you.
+LEADFEMALE:But what if she turns out to be like all the others? l put myself in here years ago because people didn't believe in me.
+SUPMALE:Why should she be any different? Oh, she'll believe in you.
+OTHERMALE:l mean, she believed that l came from outer space in an egg.
+LEADFEMALE:- She bought that? - Yeah.
+LEADMALE:Come on, come on, Mindy needs you.
+OTHERFEMALE:Let's go.
+SUPMALE:Wait a minute.
+SUPFEMALE:You're going out there? You won't get more than 50 feet before some fink will rat on you.
+OTHERFEMALE:Who would do a thing like that? Me.
+LEADMALE:You see, you can't trust anybody.
+LEADMALE:l trust you, Sid.
+OTHERFEMALE:Oh, Pete, you make it hard on a fink.
+LEADFEMALE:Maybe it's time l started trusting people out there.
+LEADFEMALE:Well, you mean you're gonna do it? Let's go.
+LEADFEMALE:Oh, l love you, you big pixie.
+SUPMALE:Mork, Mork, what about the grill? Step back.
+OTHERFEMALE:Big deal.
+LEADFEMALE:Let's go.
+LEADFEMALE:lt might be faster if we flew.
+SUPMALE:A little for me.
+OTHERMALE:Now think lovely thoughts and fly! l think that fairy sold you some bum dust, Pete.
+SUPMALE:Mork, what is it? Oh, Mind, Mind.
+SUPFEMALE:Don't worry about your troubles.
+LEADFEMALE:They've been tackled.
+OTHERFEMALE:Sacked by ''Mean Mork'' Greene.
+LEADFEMALE:What are you talking about? l haven't heard about the scholarship yet.
+LEADMALE:Oh, don't worry about that.
+SUPFEMALE:l got you something even better than the scholarship.
+LEADFEMALE:Peter, come on down.
+LEADMALE:Peter? Your pen pal spent the night? Yeah.
+OTHERMALE:He's here right now.
+OTHERFEMALE:What are you doing? Quiet, Mind.
+LEADFEMALE:He understands.
+SUPMALE:Mindy McConnell, meet Peter Pan.
+LEADMALE:Oh, Peter Pan.
+LEADMALE:Any relation to the real Peter Pan? Well, actually, l am the real Peter Pan.
+LEADFEMALE:And l bet you live in Never-Never Land.
+LEADMALE:No, l moved.
+SUPMALE:l now live in Happy Valley.
+LEADMALE:Happy Valley? You mean, the ment? The asyl? Yeah.
+SUPFEMALE:Mork, can l talk to you for a minute? Pardon me.
+LEADMALE:Mork, Mork.
+OTHERFEMALE:We've got big trouble here.
+SUPMALE:- Right here in River City? - No.
+LEADMALE:Mork, Peter has got to go back to Happy Valley.
+LEADMALE:l thought you said people don't have to be locked up.
+SUPFEMALE:No, you misunderstood.
+OTHERFEMALE:Peter Pan isn't real.
+OTHERFEMALE:lt's just a fairy tale.
+LEADMALE:l knew she wouldn't believe.
+OTHERMALE:Oh, give her a chance, Pete.
+LEADFEMALE:Come on, Mind, you believe in me.
+SUPMALE:Why don't you believe in him? Because you really are Mork from Ork and he's right here in my apartment.
+SUPFEMALE:Mindy, Mindy, Mindy.
+OTHERMALE:Problems only seem big if that's all you look at in life.
+OTHERMALE:- Yeah, but-- - Crow.
+LEADMALE:- Crow? - Yes.
+SUPFEMALE:ln Never-Never Land, whenever we're feeling really good inside, we crow like a rooster.
+SUPFEMALE:Colonel Sanders, watch out, huh, Mind? Come on, Mind.
+LEADMALE:Don't be all cooped up.
+LEADFEMALE:Take a flying chance.
+LEADFEMALE:No, Mork.
+LEADFEMALE:l don't think that l could possibly-- Oh, come on, Mindy.
+LEADMALE:You'll forget your worries in no time.
+LEADFEMALE:Listen, l appreciate what you're trying to do.
+LEADMALE:l do.
+OTHERMALE:But l have to answer the phone.
+SUPMALE:- lt's no use.
+SUPMALE:- No.
+SUPMALE:Hello? Oh, school.
+SUPFEMALE:Yes, this is Mindy McConnell.
+SUPFEMALE:No, l see.
+LEADMALE:You only have so many scholarships.
+LEADFEMALE:Right.
+LEADMALE:Maybe l'll try again next year.
+SUPMALE:No, no, no.
+LEADMALE:l'm not upset.
+LEADMALE:There's just one more thing, Dean Johnson.
+LEADMALE:l had a little frog in my throat.
+LEADMALE:Thank you for calling.
+SUPMALE:Oh, Mind, if you're ever gonna crow, you should have done it then.
+LEADMALE:l mean, you gotta let the little person out, like this: We should have gotten here sooner.
+LEADFEMALE:What's the matter? Did Sid spill the peas? No.
+LEADFEMALE:l found your letters from Mork, Peter.
+SUPMALE:And l had an idea you'd come here.
+SUPMALE:Fly, Peter, fly.
+OTHERFEMALE:- Open the window first.
+SUPFEMALE:- No, Mork.
+SUPFEMALE:- Open the window.
+SUPMALE:- No.
+SUPMALE:No, Peter.
+SUPFEMALE:Don't jump.
+LEADFEMALE:l mean, don't fly away.
+LEADFEMALE:We need you, Peter.
+SUPFEMALE:You cheer people up so.
+SUPMALE:Even Sid misses you.
+LEADFEMALE:Sid misses me? - And you know what he said? - No.
+LEADMALE:What? He said that you were his very best friend.
+LEADFEMALE:Oh, dear.
+LEADFEMALE:Mork, what should l do? l don't know.
+SUPMALE:lt's up to you, kid.
+LEADMALE:Oh, l have to go back.
+SUPFEMALE:l mean, those people have problems, big problems, and l can help them.
+OTHERMALE:Like the old saying, there's no place like the home.
+SUPFEMALE:l'll still be your pen pal.
+LEADMALE:l'm sorry, Mork.
+LEADMALE:lt didn't work.
+OTHERMALE:Mindy's still sad.
+SUPMALE:Come on, Mind.
+LEADFEMALE:lf you ever had to crow, do it now.
+OTHERFEMALE:For yourself, for Pete.
+LEADMALE:l can't.
+LEADMALE:l feel ridiculous.
+LEADMALE:You've been miserable.
+SUPFEMALE:What have you got to lose? - Mork, l can't.
+SUPMALE:- Oh, Mindy, why don't you enjoy what you have instead of worrying about what you haven't? Yeah.
+LEADFEMALE:Do it for me.
+LEADMALE:Well, do it for the little person inside of you.
+LEADFEMALE:No, Mork.
+SUPFEMALE:No, no.
+SUPMALE:Give it some gas, honey.
+SUPMALE:Give it some gas.
+LEADFEMALE:Again, with feeling.
+LEADMALE:Come on.
+LEADMALE:Come on, come on.
+LEADMALE:Come on.
+OTHERFEMALE:Yes.
+LEADMALE:Yes.
+LEADFEMALE:You know, it really is crazy, but it does work.
+SUPFEMALE:lt really works.
+LEADMALE:l told you this guy was good, huh? l told you.
+LEADMALE:Oh, Peter.
+LEADFEMALE:l believe in you.
+LEADMALE:Oh, l'm so glad.
+LEADFEMALE:Now, don't forget your crow.
+LEADMALE:l'll practise early in the morning so no one will get suspicious.
+LEADMALE:l can teach you how to do that too.
+OTHERFEMALE:Oh, that's awful thoughtful of you, Peter.
+OTHERMALE:Thank you.
+LEADFEMALE:Oh, Mork, thanks.
+LEADMALE:Oh, shucks.
+SUPMALE:l really do feel much better.
+LEADFEMALE:l really do.
+LEADMALE:Even though you didn't get the scholarship? Well, you know, l've been thinking.
+LEADMALE:l don't need a degree to prove that l'm good enough.
+LEADMALE:l'll go out and get a job without it.
+SUPMALE:So what if it's a little scary? Well Oh, Mork.
+LEADFEMALE:l forgot to say thank you.
+SUPFEMALE:Listen, l better get back.
+LEADMALE:They're looking for me around the corner.
+SUPMALE:See you next visiting day.
+LEADMALE:l don't believe it.
+SUPMALE:We're on the second floor.
+LEADFEMALE:He flew up here.
+LEADFEMALE:l know.
+LEADFEMALE:Did you help him do that? Do you really wanna know? - No.
+LEADFEMALE:- Me either.
+LEADFEMALE:Mork calling Orson.
+SUPFEMALE:Come in, Orson.
+SUPMALE:Mork calling Orson.
+SUPFEMALE:Come in, Orson.
+LEADMALE:Five, six, seven.
+SUPFEMALE:Come on, Bebo, follow the steps.
+SUPFEMALE:- Mork.
+SUPFEMALE:- Five, six, seven-- Yes, sir.
+SUPMALE:Why are you doing the Funky Orkan? Well, sir, that's because l have a terminal case of Peter Panitis.
+LEADMALE:Peter Panitis? What's that? Sir, it's the only disease that's better than the cure.
+LEADMALE:You know, l found out this week that some people on Earth take life too seriously.
+LEADFEMALE:l mean, they worry too much.
+LEADMALE:- That's easy for you to say, Mork.
+OTHERFEMALE:- Yes, sir.
+SUPFEMALE:You get to observe Earth and have fun while l'm on Ork doing all the work.
+LEADMALE:Oh, come on, Your Kvetchiness.
+SUPMALE:l mean, you can have fun anywhere.
+SUPMALE:There's a little child inside of all of us that needs to be let out.
+LEADFEMALE:See? Hi, hi, how are you? Come on, let him out.
+SUPMALE:All you have to do is a little of this.
+LEADFEMALE:Come on, try this: Oh, yeah.
+LEADFEMALE:Being silly doesn't change anything, Mork.
+LEADMALE:Oh, sir, come on.
+LEADFEMALE:Give it a try.
+SUPMALE:Just a crow, a little crow.
+LEADFEMALE:Croquette.
+SUPFEMALE:Enough of this nonsense.
+OTHERFEMALE:- l have work to do.
+LEADMALE:- Aye, aye, sir.
+SUPFEMALE:That's the ancient version of ''arr, arr,'' sir.
+LEADMALE:Or ''aye, aye,'' sir.
+LEADMALE:That's the Christmas version of ''arr, arr.
+OTHERFEMALE:'' But until next week, sir.
+SUPMALE:Come on, Beeb.
+SUPFEMALE:That's all right.
+SUPMALE:We failed.
+LEADFEMALE:Don't worry about it.
+OTHERMALE:Crowing, how ridiculous.
+SUPMALE:l got you, sir.
+LEADFEMALE:l knew you'd try it.
+OTHERMALE:l was just coughing, Mork.
+SUPFEMALE:Well, sir, one piece of advice.
+LEADMALE:Don't take anything for that cough.
+SUPMALE:Until next week, sir.
+LEADMALE:l knew there was a little person inside of all that fat, Bebo.

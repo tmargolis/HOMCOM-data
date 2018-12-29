@@ -1,0 +1,333 @@
+LEADMALE:Na-no, na-no.
+LEADMALE:- Mom.
+LEADMALE:Mom.
+SUPFEMALE:- You're from Neptune? My name is Kalnik, but please call me Kal.
+LEADMALE:You live on Earth? Me too.
+SUPMALE:What do you do? Well, I'm an observer, and I enjoy folk dancing.
+SUPFEMALE:I'm an observer also.
+LEADMALE:- What a small galaxy.
+SUPMALE:- What a small galaxy.
+LEADMALE:Years ago, I never even knew there were aliens, - and here I am, sitting with two.
+LEADMALE:- I know what you mean.
+SUPMALE:I would like to make a toast here.
+LEADFEMALE:A friendship that spans the universe.
+SUPFEMALE:Oh.
+LEADFEMALE:Mm-hm.
+SUPMALE:Are you satisfied with the Orkan? I can mold him into whatever I want.
+LEADFEMALE:- What about the woman? - She's of no use.
+LEADMALE:- She'll have to be eliminated.
+OTHERFEMALE:- The child? The son, Mearth, is nothing but a useless mutant.
+LEADFEMALE:No one calls my son a mutant.
+OTHERFEMALE:Take a hike.
+OTHERMALE:What are you getting so upset about? We have important business.
+LEADMALE:- We have nothing to discuss.
+LEADFEMALE:Leave.
+OTHERFEMALE:- You'll live to regret this, Orkan.
+SUPMALE:- You're so sweet.
+LEADFEMALE:- What is going on? - Mind, you know I'd never cheat.
+OTHERFEMALE:- Take your hands off Ah! - You're an android.
+LEADMALE:- And I'm also a bomb.
+LEADMALE:A bomb! Hide.
+LEADMALE:- Are you okay, Mork? - Still think I'm paranoid, Mind? Kalnik's after us.
+LEADMALE:Gotta go someplace where he won't find us.
+LEADMALE:I have a feeling we're never gonna see this place again.
+LEADFEMALE:Oh, boy, Arizona's beautiful, isn't it, Mind? Painted deserts, purple mountains.
+LEADFEMALE:- It's gonna be a great place to die.
+SUPMALE:- All right.
+SUPFEMALE:Now, I didn't say anything when you said you saw a cactus - take down our license plate number.
+LEADMALE:- I did.
+LEADMALE:But enough is enough, Mork.
+LEADFEMALE:We've put a lot of distance between us and Kalnik.
+LEADFEMALE:Mind, don't you underestimate Kal.
+LEADFEMALE:He's got a Porsche.
+OTHERFEMALE:This is an emergency situation.
+OTHERFEMALE:We need you.
+OTHERMALE:Okay? So don't fall apart, like you do when your potato chip has a little green on it.
+SUPMALE:Oh, I do hate that.
+SUPFEMALE:But you're right.
+SUPFEMALE:Gonna hang tough, gotta be cool.
+LEADFEMALE:You're right.
+LEADMALE:Agent 46 to Kalnik.
+LEADMALE:We've located the alien.
+LEADFEMALE:Shall we take him? No, keep him in sight, but save him for me.
+LEADMALE:Ha-ha! Go.
+SUPMALE:There you go.
+LEADFEMALE:I don't believe you, Mommy.
+SUPFEMALE:You're asking an innocent child to sleep here in this dirt? Mearth, I've explained to you.
+LEADMALE:This is sort of a spur of the moment camping trip, and you're just gonna have to bear with us.
+OTHERMALE:Okay? Oh, that's all right for you to say.
+SUPMALE:You've got the air mattress.
+LEADFEMALE:We all agreed that the coin toss was fair, all right? - Night-night.
+SUPFEMALE:Pleasant dreams.
+LEADMALE:- Night-night.
+LEADMALE:Sure.
+OTHERMALE:And I've got this Gila monster for a pillow.
+SUPFEMALE:- Mind? Ha-ha-ha.
+LEADFEMALE:- Ah! - Mork.
+LEADMALE:- Oh, look at that.
+SUPMALE:Georgia O'Keeffe's hood ornament.
+LEADFEMALE:Talk about the Scarsdale Diet.
+LEADMALE:Whoa.
+LEADMALE:Oh, Mind.
+LEADFEMALE:- Very funny.
+LEADFEMALE:- Oh, come on now, Mind.
+LEADFEMALE:What are you upset about? You got the air mattress.
+SUPMALE:And all I get is the tumbleweed as a pillow.
+SUPMALE:Mork, we have a dollar-56 left to our names.
+LEADMALE:Now, we've gotta stay out of sight till we get a message to Dad to bring us more money.
+OTHERMALE:But to tide us over, I think we're gonna have to pawn our wedding rings.
+SUPFEMALE:Oh, Mind, no.
+SUPFEMALE:I mean, that's a symbol of our love and commitment.
+LEADMALE:I mean, couldn't you just sell your hair? Look what's happened to us.
+SUPFEMALE:Mork, the biggest thing we had to worry about yesterday was trying to find a decent plumber, and now we're running for our lives.
+SUPMALE:- I'm scared.
+LEADFEMALE:- Oh, so am I.
+LEADMALE:Come here, come here.
+LEADMALE:I should've known better than to trust somebody from Neptune.
+SUPFEMALE:On Neptune, Pia Zadora would've won the Oscar.
+LEADFEMALE:Oh It's so hard to stay depressed around you.
+OTHERMALE:Oh, Mind, I guess that's why Ingmar Bergman doesn't come over and play tennis anymore.
+SUPFEMALE:Five-love.
+SUPMALE:Will you look at this place? Looks like Sylvester Stallone's library.
+SUPFEMALE:Who cares? It's a better place to hide than Edna's Reptile Dinner Theater.
+LEADFEMALE:I loved it when that iguana sang "Oklahoma.
+LEADMALE:" I'm hungry.
+SUPFEMALE:Where do you suppose the coffee shop is? The last thing I had to eat was a Junior Mint, and that was stuck to the sole of my shoe.
+LEADFEMALE:Yeah, but you didn't share it, you wretched little churl.
+LEADMALE:All right, let's not start this again.
+SUPFEMALE:Mearth, what we're gonna do, we'll check in and go to the coffee shop, and then when Dad comes, we'll be able to pay for it.
+LEADMALE:Come on, everybody, let's go.
+SUPFEMALE:Come on, let's go.
+LEADFEMALE:Come on.
+LEADFEMALE:All right.
+OTHERFEMALE:This is the last lap.
+LEADMALE:Enjoy it.
+LEADMALE:Okay, this is the last stretch.
+LEADFEMALE:Oh, terrific.
+SUPFEMALE:Let's all give ourselves a Hidden Hills hand for the splendid job we did on our run today.
+LEADFEMALE:And let's try to forget about what happened to Angela.
+LEADFEMALE:Time for lunch, everybody.
+LEADMALE:Today's meal is a carrot stick and a picture of a potato.
+LEADMALE:Let's go.
+LEADFEMALE:Remember, you can never be too rich or too thin.
+LEADMALE:Ha-ha! I have a feeling this place is a fat farm.
+OTHERFEMALE:Yeah, and what a bumper crop.
+OTHERFEMALE:One, two, three, four, soon you'll fit through the door.
+SUPFEMALE:I'm a Yankee Doodle Dandy Okay, everybody, let's shake it out now.
+LEADFEMALE:All right, everybody in a semi-circle.
+LEADFEMALE:Come on.
+LEADFEMALE:Good.
+LEADFEMALE:Okay.
+LEADMALE:Time now for sharing and caring.
+OTHERMALE:Stella, would you like to begin? - Do you gotta stand? - Yes.
+LEADFEMALE:Okay, give me a minute.
+LEADMALE:Come on, Stella, you can do it.
+LEADMALE:Well, my name is Stella Benson, and I have a weight problem.
+SUPFEMALE:But I feel good about myself, because I've lost 17 pounds.
+LEADFEMALE:And now, when I go on an airplane, they'll allow the other passengers to take luggage.
+SUPFEMALE:Thank you, Stella.
+LEADFEMALE:Okay, who wants to go next? - Dinner! - Dinner! Mork, it's been three days of starving.
+SUPFEMALE:I can't take much more of this.
+LEADMALE:Yeah, it's almost like Mahatma Ghandi opened up a burger stand.
+LEADMALE:- Mommy.
+LEADFEMALE:Mommy.
+SUPFEMALE:Daddy.
+LEADFEMALE:- Oh, what, Mearth? There's a woman after me.
+LEADMALE:She's from Indiana, and she's a widow.
+LEADFEMALE:And she wants me to take over her late husband's shoe factory.
+OTHERMALE:A whole factory? Son, you have my blessing.
+LEADMALE:Mearth, don't worry about it.
+LEADMALE:Just try to stay in large groups.
+LEADFEMALE:Around here that's not hard to do.
+SUPMALE:Oh, my looks have become a curse.
+LEADFEMALE:- Mork, Mindy, are you all right? - Oh, Dad.
+LEADFEMALE:Oh, I'm so glad to see you.
+SUPMALE:We didn't want to drag you into all of this, but there's no one else to turn to.
+SUPMALE:Well, honey, what's a father for? I'm just glad you're not hurt.
+OTHERMALE:Oh, Dad, I hate to be the clichéd son-in-law, but where are our bucks? - Oh, here.
+LEADMALE:- Oh, bless you.
+LEADFEMALE:Hey, hey, what's your hurry? I haven't even seen my little grandson yet.
+OTHERFEMALE:Look at this mondo dinero.
+LEADMALE:You must have gotten a great settlement in your hair-transplant suit.
+LEADFEMALE:- Dad, we don't need all this money.
+LEADFEMALE:- Oh, that's all right.
+LEADFEMALE:I can afford to be generous.
+SUPFEMALE:After all, you'll never live to spend it.
+SUPMALE:Kalnik.
+OTHERMALE:Oh Oh! Oh, Mind, we're not gonna hit our target weight after all.
+LEADMALE:All right, now, what has four legs and ten seconds to live? Wait a minute, I know this one.
+LEADMALE:Uh It's I think it's Sounds like Oh, would you shut up, Ork breath? Both of you, put your fingers in your ears.
+LEADFEMALE:Go ahead.
+LEADMALE:And stand on one foot.
+LEADFEMALE:Boy, do you look stupid.
+SUPFEMALE:Why do you want to kill us? Because you're the only ones that can throw a monkey wrench into my plans.
+SUPFEMALE:I have to kill all three of you and then get back for my haircut by 4.
+SUPFEMALE:- Now, where's the little mutant? - No, not Mearth.
+OTHERMALE:He's just a child.
+SUPMALE:Well No, I'm gonna kill him.
+LEADMALE:- You're insane.
+OTHERMALE:- I'm just a product of your sick society.
+SUPFEMALE:When I came to Earth, all I wanted to do was open a little restaurant.
+LEADFEMALE:I had trouble getting a liquor license.
+LEADFEMALE:I decided it would be easier to take over the planet instead.
+LEADFEMALE:Well, I'm glad you shared this moment with us because it probably makes you feel better about blowing us away.
+LEADMALE:- Yes, it does.
+LEADFEMALE:- Oh, really? Oh, Mork, Mork, if only you had my vision of the future.
+LEADFEMALE:If only you had one tenth of my power and brilliance instead of the ambition of a substitute teacher.
+LEADMALE:I infiltrated your government.
+SUPMALE:I took an ineffective arm of a consumer protection agency and turned them into my own personal army.
+SUPFEMALE:I told them that you were the aliens threatening the planet.
+LEADFEMALE:Catchy twist, isn't it? Thank you.
+OTHERFEMALE:There was a draft.
+LEADFEMALE:All right, all right.
+LEADFEMALE:- Any last words? - Oh, Mork.
+LEADMALE:Mind.
+LEADMALE:I'm so glad we had this time together Just to have a laugh and sing a song Seems we just got started And before we know it Comes the time We have to say, "So long" - Okay, hold it right there.
+SUPMALE:- Ah! Don't shoot me, Mindy.
+LEADMALE:Don't shoot me, Mindy.
+SUPMALE:Don't shoot me.
+LEADFEMALE:Get out of the way, you dumbbell.
+SUPFEMALE:- Okay, you hold it right there.
+LEADMALE:- Oh, no, you wouldn't fire that gun.
+LEADMALE:Oh, yes, I would.
+SUPMALE:No, no, no.
+SUPFEMALE:I'll get this back to you by Tuesday.
+LEADFEMALE:Kal, I'm warning you.
+SUPFEMALE:All you Earth women are good for is standing in line at the movies while your husbands park the car.
+SUPMALE:- Stay back.
+LEADFEMALE:I'm not kidding.
+LEADMALE:- You don't have the guts.
+LEADFEMALE:Yes, I do.
+SUPFEMALE:I just don't have the instructions.
+LEADMALE:Mind, Mind, I'm open.
+LEADMALE:Here.
+LEADMALE:Mind, was that you or the Memorex? That was my mother's ray gun.
+SUPMALE:All right, you just bought yourself another minute to live.
+SUPMALE:- But, oh, is it gonna hurt.
+SUPMALE:- Oh, yeah? What about this, huh? Oh, your dinky, little finger is no match for my telekinetic powers.
+LEADFEMALE:You did it now, Jack.
+LEADFEMALE:That's it.
+LEADFEMALE:- Come on, come on, come on.
+LEADFEMALE:- Yeah, yeah.
+LEADFEMALE:Yeah.
+LEADMALE:Howard, boxing has been good to me.
+LEADMALE:You didn't fight.
+LEADMALE:Come on, you gotta get mad, Mork.
+LEADFEMALE:You can think of things you hate.
+LEADMALE:Yeah, yeah, post-nasal drip and your perm.
+LEADMALE:Yeah.
+SUPMALE:My perm? What do you mean, my perm? Oh, I'm teasing now.
+SUPMALE:Come on.
+SUPFEMALE:Come on.
+SUPFEMALE:Bachelor number one, are you employed? Yeah.
+LEADFEMALE:Mind, look, little birds everywhere.
+LEADMALE:Okay.
+LEADMALE:Okay, this has been fun, gang, but it's death time.
+OTHERFEMALE:- Oh, no.
+SUPMALE:- Oh, Mommy, Daddy, what's this? The feeb.
+SUPFEMALE:Kalnik.
+OTHERFEMALE:Oh, please, don't hurt them.
+LEADFEMALE:Who would ever adopt a 200-pound orphan? Mearth, quick, run for it.
+LEADMALE:Drat.
+LEADMALE:That's all right, son.
+LEADMALE:Maybe you and I could band together against him.
+LEADMALE:We'll be the best father and son team since Raymond and Aaron Burr.
+LEADFEMALE:Go on, Mind.
+LEADFEMALE:We can't hold out for very long.
+OTHERMALE:Save yourself.
+SUPFEMALE:No, I'm not going anywhere without you.
+LEADMALE:Oh, bless you, Mind.
+LEADMALE:The ultimate Caucasian.
+LEADFEMALE:I turned him into a statue.
+OTHERMALE:Well, it's all over.
+OTHERFEMALE:We might as well go home.
+LEADFEMALE:- I guess.
+SUPFEMALE:- I guess you're right.
+LEADMALE:Son, we did it.
+LEADMALE:Oh, you little pooterette.
+LEADMALE:- Give your daddy five.
+OTHERFEMALE:- Yeah.
+SUPMALE:So long, honky.
+LEADFEMALE:What did you mean when you said you didn't like my perm? Well, I do like your perm, Mind.
+SUPFEMALE:It's just too much.
+SUPFEMALE:It's wonderful.
+SUPFEMALE:It's the heat of battle.
+LEADMALE:Mind, come on, I never said I hated your hair.
+OTHERMALE:I just liked it when it was, well, attractive.
+SUPMALE:Oh, great, so now I'm not attractive? I never said that.
+LEADFEMALE:Did I, son? The other day, didn't I casually remark how attractive your mother was? No, I believe you said that she looks like Marty Allen in a wind tunnel.
+SUPFEMALE:Son, I worship Marty Allen.
+SUPMALE:He's a lovely comic.
+LEADMALE:You know, "Hello there.
+LEADMALE:" - Mork? - Mind? I'm not gonna argue about this.
+LEADFEMALE:I'm too happy to be alive to be as mad as I should be.
+OTHERMALE:Off the record, Mommy, I'm on your side.
+OTHERMALE:Oh, those men! Whoever they are, they're not gonna be able to follow us over this terrain.
+LEADFEMALE:- Mork, we have to talk.
+LEADFEMALE:- All right.
+LEADFEMALE:- But not in front of M-E-A-R-T-H.
+LEADFEMALE:- Who is Me-arth? Me, Mearth.
+SUPMALE:I'm just trying to figure out how I can get that air mattress back.
+LEADFEMALE:Mork, nothing is gonna stop Kalnik's men.
+LEADMALE:They think you're the alien who is secretly out to take over the world, and they're just gonna keep hunting until they find you.
+LEADMALE:Well, there's only one solution, I guess.
+SUPFEMALE:You and Mearth take the jeep and go east, and I'll go west and try and keep them on my trail.
+SUPMALE:No, I'm not gonna do that.
+SUPFEMALE:I'm not gonna leave you.
+SUPFEMALE:Oh, bless you, hon.
+LEADFEMALE:Oh Well, let's see.
+LEADFEMALE:- Well, there's one other solution.
+LEADFEMALE:- What? It's very dangerous though.
+LEADFEMALE:Mearth? - Yes? - Come here.
+LEADFEMALE:- This has to be a family decision.
+LEADFEMALE:- Oh, we're gonna have steak tonight? Son.
+LEADMALE:You see, there's only one choice, but I think it's the only way.
+SUPMALE:I have to tell the whole world that I'm an alien.
+SUPMALE:That way they know I've got nothing to hide.
+LEADMALE:Mind, that's the only way.
+LEADFEMALE:I've gotta go public.
+SUPFEMALE:Mork, for as long as I've known you, this is the one thing I've been the most scared of.
+SUPMALE:You have no idea how people are gonna act, or how they're gonna treat you.
+LEADFEMALE:I don't know.
+LEADFEMALE:Mind, come on now.
+LEADMALE:Oh, Mind, I've lived on this planet for four years, and most of the people are very good.
+LEADMALE:I mean, if they can accept Diana Ross as Dorothy, they can go for me.
+SUPFEMALE:We interrupt our regularly scheduled programming to bring you this live report of national interest from the Federal Building in Los Angeles.
+OTHERFEMALE:Ladies and gentlemen, the Secretary General of the United States.
+OTHERMALE:Good afternoon.
+SUPMALE:I have been asked to make the following announcement.
+LEADMALE:Five days ago, the United States government became aware of the existence of an extra-terrestrial being, living on this planet.
+OTHERFEMALE:Since that time, his origin has been verified by our nation's leading scientific and military experts, who are present today.
+LEADMALE:He will speak to you now.
+OTHERFEMALE:- Just like you rehearsed it.
+OTHERMALE:- Oh.
+LEADFEMALE:Hello there.
+SUPMALE:I'm Mindy McConnell, and I'm married to Mork here.
+SUPFEMALE:Oh, go Dodgers.
+LEADMALE:Um, Mork came to this planet four years ago from a place called Ork.
+LEADFEMALE:Ork is a very nice planet.
+LEADMALE:It's a lot like Earth, as a matter of fact.
+LEADMALE:It has gravity and oxygen and dog races.
+SUPFEMALE:And now I want to introduce to you all someone who's proved to me that life on other planets is not only peaceful but compassionate and loving.
+SUPFEMALE:Mork.
+LEADMALE:Uh Good evening, Mr.
+LEADFEMALE:And Mrs.
+LEADMALE:America, and all couples who are just living together.
+LEADMALE:- Just tell them about yourself.
+SUPMALE:- Okay, you're right.
+LEADFEMALE:Yes, I am an alien, and cold pizza gives me gas.
+SUPFEMALE:Um, I know it's gonna be difficult for many of you to accept me because I'm different.
+LEADMALE:But, hey, I really pose no threat to you.
+LEADMALE:Hey, I'm just like all of you except I have three hearts and no liver.
+LEADMALE:And who likes liver anyway? Uh, to be very blunt, I'm throwing myself at your mercy.
+LEADMALE:See, all we want to do is live here in peace.
+LEADMALE:I This world has given me very, very wonderful things.
+SUPMALE:My wife, my son.
+SUPFEMALE:And now I think it's time for me to give you something back.
+SUPFEMALE:You see, the universe, it's a very, very big place.
+SUPFEMALE:But if you accept me today, I think we take the first step to make it a little bit smaller.
+SUPFEMALE:Uh, it's a great opportunity.
+LEADMALE:Let's not blow it.
+OTHERMALE:I don't know what else to say, except na-no.
+LEADMALE:Mork, your days are numbered.
+SUPFEMALE:

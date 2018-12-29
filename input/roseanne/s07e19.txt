@@ -1,0 +1,511 @@
+SUPFEMALE:Is anyone down there, Jackie? This is spooky, Roseanne.
+SUPFEMALE:I think there may be rats in here.
+SUPMALE:Good.
+SUPMALE:Tell them their queen has arrived.
+LEADFEMALE:I don't think anyone's in here, Roseanne.
+OTHERMALE:Maybe we should've made an appointment.
+LEADMALE:Yeah, well, if she's such a good fortune teller, she should've known we were coming.
+LEADFEMALE:Greetings.
+LEADFEMALE:Madame Zaftig bids you enter.
+LEADMALE:I gotta see this.
+OTHERFEMALE:How ya doing? Madame Zaftig sees all, hears all, and knows all.
+LEADFEMALE:Okay, I want to know my future.
+OTHERFEMALE:Start with who I'm gonna marry.
+OTHERMALE:Is Roseanne gonna marry Paul McCartney? Of course I am! And every night will be like Prince Charming and Cinderella, and I'll be Cinderella.
+SUPMALE:I see a man.
+LEADFEMALE:The man of your future.
+SUPFEMALE:Yeah, I was a pretty good wrestler in junior high school.
+OTHERFEMALE:Coach used to call me "Damaging" Dan Conner.
+OTHERFEMALE:God, don't make me listen to that boring story again.
+LEADFEMALE:Putting in a bid on a drywall job.
+LEADMALE:Great money if I get it.
+LEADMALE:You're not gonna get it.
+LEADFEMALE:Be a lot of guys bidding.
+LEADFEMALE:And they're all better than you, I bet.
+SUPFEMALE:Hey, I'm pretty good! You are not! Yes, I am! You're not, either.
+LEADMALE:I am the best! You're the worst.
+LEADFEMALE:I am drywall master of the universe! Agh! Agh! Ooh! Oh! Look out, ladies and gentlemen.
+OTHERMALE:It's a front suplex! No, he's got her over! He's going for it! You think this is a magic kingdom where you just sit up here on your throne.
+LEADMALE:Oh, yeah? Yeah! And you think everything gets done by some wonderful wizard.
+LEADFEMALE:Oh, poof, the laundry's folded.
+LEADFEMALE:Poof, dinner's on the table.
+LEADMALE:You want me to fix dinner? I'll fix dinner.
+LEADMALE:I'm fixing dinner! Oh, but honey, you just fixed dinner three years ago.
+LEADFEMALE:He's bouncing off the ropes! Ladies and gentlemen, bar the door! Look out! Holy cow! He's setting her up for a heart punch.
+LEADFEMALE:Oh! It's illegal in 30 states.
+LEADMALE:Hey, listen, tell me something, 'cause I gotta know.
+LEADMALE:What do you and your fat wife think of my new hat? Just this once.
+SUPFEMALE:Let's get out of here.
+SUPMALE:Holy cow, ladies and gentlemen! Iceman Dan Conner has gone berserk! He's setting her up.
+LEADMALE:He's got her.
+LEADFEMALE:One! Two! Three! Do you quit? One more.
+LEADMALE:Wow.
+SUPFEMALE:So that's what Paul McCartney is gonna look like in 30 years.
+SUPFEMALE:Okay, now tell me my whole future.
+LEADFEMALE:I want to hear everything.
+LEADFEMALE:Your whole future? But you only gave Madame Zaftig a dollar.
+SUPMALE:Well, what did that buy me? I'll show you Roseanne, it's my turn.
+SUPMALE:I want to know about my future.
+LEADFEMALE:Forget it, Jackie.
+LEADFEMALE:Your future's written on the wall.
+OTHERMALE:The wall of the boy's room.
+SUPFEMALE:Oh, gross.
+LEADMALE:I hate boys.
+OTHERMALE:That, my dear, will change.
+LEADFEMALE:Well, okay.
+OTHERMALE:How many men did you date before we met? Well, do you mean dated at all, or dated seriously? I mean seriously.
+LEADFEMALE:Okay, I'd have to say just a few.
+SUPFEMALE:Good.
+OTHERMALE:It's not that I mind if you slept with a lot of guys.
+SUPFEMALE:Oh, well, slept with Well That's not what you asked me.
+SUPMALE:No, I guess it wasn't.
+LEADMALE:Well, Fred, don't worry.
+SUPMALE:It's not that many.
+LEADMALE:I'd say three a year.
+OTHERFEMALE:Since you were, what, 18? Okay, we'll go with that.
+LEADFEMALE:Oh.
+SUPFEMALE:Wow.
+SUPMALE:Well, Fred, that's not that many.
+SUPFEMALE:Three a year for 20 years is 60.
+LEADFEMALE:Wow.
+LEADMALE:God.
+SUPFEMALE:I don't even know 60 people.
+SUPMALE:Well, I didn't know all of them.
+OTHERMALE:Jackie, Mom and me were just talking.
+LEADFEMALE:Just a second, Roseanne, there's something I want to tell my mother.
+SUPMALE:Mom, I'm pregnant.
+SUPFEMALE:I went out with a guy I hardly know.
+SUPFEMALE:We had sex for hours, and I got pregnant.
+LEADMALE:And I'm not gonna marry him.
+LEADFEMALE:I'm keeping the baby, and if it's a girl, I'm naming it Gidget.
+LEADFEMALE:What is it, Jackie? Well, I just wanted to tell you that I've been thinking about it, and I've come to the conclusion that it's never coming out.
+SUPMALE:Never.
+SUPFEMALE:I'm gonna be a 70-year old woman carrying a 30-year old baby.
+LEADMALE:Jackie, you're only three days overdue.
+LEADMALE:I have a three day old child inside of me! Look at me! It's huge! Yes, but you have a very pretty face.
+OTHERMALE:Eww! Look it! What is that? What the--how come it's like that? How, Roseanne, how is this gonna come out of this? Relax, Jackie.
+LEADFEMALE:These have been coming out of those for millions and millions of years.
+LEADMALE:Muscles stretch, bones break.
+LEADFEMALE:I'm sick of being pregnant.
+LEADFEMALE:Well, maybe it's like a turkey.
+LEADFEMALE:You know, when this comes out, it's ready.
+LEADMALE:Oh, cut it out.
+LEADFEMALE:I do.
+LEADMALE:By the power vested in me by the state of Illinois, I know pronounce you husband and wife.
+LEADFEMALE:You may kiss the bride.
+LEADMALE:Just let me switch sides, first.
+LEADFEMALE:Stop looking, Roseanne.
+SUPFEMALE:This is my future.
+LEADFEMALE:I paid for this, Jackie.
+LEADFEMALE:I own your future.
+OTHERFEMALE:I'm sick of you bossing me around, Roseanne.
+LEADMALE:Well, I'll give you Billy Schmitz I.
+SUPMALE:D.
+SUPMALE:bracelet if you let me boss you around for the rest of your life.
+OTHERMALE:Okay.
+LEADMALE:Oh, come on, this guy is great! All those little irritating things you do, he thinks they're cute! He walked in here and he gave me an ultimatum.
+SUPMALE:He told me to quit the force.
+LEADMALE:Well, so what? I've been telling you to quit the force since the day you started.
+OTHERFEMALE:Yeah, and I've been trying to break up with you, but you won't seem to go away.
+SUPFEMALE:Look, becoming a cop is something I worked very, very hard for.
+LEADMALE:What would you do if Dan just demanded that you give up the house and the job and the kids? I am gonna do exactly what you would do.
+LEADMALE:You would never let a man tell you how to run your life.
+OTHERMALE:I want somebody who'll love and support me no matter what, just like Dan does for you.
+SUPFEMALE:Are you insane? Do you know how many years I had to put in to Dan? You think he came out of a box like that? Now you could put those same years into Gary.
+OTHERMALE:I'm telling you, he is the perfect guy for you.
+SUPMALE:No, Roseanne, he's the perfect guy for you.
+SUPMALE:You just want him to settle down and take care of your flaky sister so you don't have to worry about her anymore.
+LEADFEMALE:Well, that's okay, you don't have to worry about her anymore because she's gonna be just fine! This takes a little more effort than a high school romance.
+LEADFEMALE:You know, I live with Fisher, Roseanne.
+LEADFEMALE:Well, so maybe that's your problem.
+LEADMALE:Maybe you and Fisher spend too much time together.
+LEADFEMALE:I never would have moved in with no guy so damn fast.
+LEADFEMALE:Maybe you wouldn't, but this isn't you, it's me.
+SUPMALE:And there's a real easy way to tell us apart.
+OTHERFEMALE:You-Me.
+SUPFEMALE:You.
+SUPMALE:Me.
+OTHERMALE:What is your problem? You.
+SUPFEMALE:You, you are my problem.
+LEADMALE:Ah, what'd I do now? Same thing as you always do, Roseanne.
+SUPMALE:You sit up there on your Pedestal? Yeah.
+LEADFEMALE:You act like some big high and mighty self-righteous pedestal type person, and you poo-poo everything in my life.
+LEADFEMALE:Yeah, and you go right for your addictive behavior.
+OTHERMALE:'Cause you cannot handle conflict.
+OTHERFEMALE:That is the whole thing.
+LEADMALE:You cannot handle conflict.
+SUPMALE:Remember, we saw that whole thing on Oprah.
+LEADFEMALE:People who cannot handle conflict so right away, they run for the alcohol.
+LEADMALE:Well, have another shot of pancake, Roseanne.
+LEADMALE:Take your best shot.
+SUPMALE:Your best shot.
+SUPFEMALE:You know that I would just knock your lights out.
+SUPMALE:Well, then, go ahead.
+OTHERFEMALE:Make my day.
+OTHERMALE:Ow! Ow! Excuse me? Is this like a sex thing? That's it, I'm not making any more calls.
+LEADMALE:You do the rest of the family list.
+LEADMALE:I can't call people, Roseanne! Jackie, dial.
+LEADFEMALE:I'm supposed to be in mourning.
+SUPMALE:Well, then wear a veil over your face while you do it.
+OTHERFEMALE:Can't-Auntie Barbara? It's Jackie.
+SUPMALE:Jackie.
+LEADMALE:I'm fine.
+OTHERMALE:Fine.
+SUPFEMALE:I'm fine.
+OTHERFEMALE:I have some bad news.
+SUPFEMALE:Dad is now with us anymore.
+OTHERMALE:I said Dad has passed away.
+SUPMALE:He's passed away! Dad is gone.
+LEADFEMALE:Dad's dead.
+SUPFEMALE:He's dead! No, dead! Dad! He's fine.
+SUPFEMALE:He sends his love.
+LEADFEMALE:Bye.
+SUPFEMALE:I am not doing that again.
+LEADFEMALE:You can't make me.
+LEADMALE:Well, now, Miss Harris, you're looking after your nephew, d.j. , huh? Yes, I am his only surviving relative.
+LEADFEMALE:I mean, that will speak to him.
+LEADMALE:I had to bring him to you, doctor, because d.j. has become so unmanageable lately.
+OTHERMALE:Well, why don't we bring d.j. in right now.
+LEADFEMALE:waiting room floor.
+LEADMALE:He looks just like his mother.
+SUPFEMALE:Hello, d.j. She's not the same.
+OTHERFEMALE:They say she's the same, but she's not the same.
+LEADMALE:He just repeats that to himself.
+LEADMALE:No one knows what it means.
+SUPFEMALE:Not the same at all.
+LEADMALE:Very different.
+LEADFEMALE:Well, now, why don't we start with d.j. 's family? Oh, d.j. 's family was wonderful.
+SUPFEMALE:It was happiness times joy plus love.
+SUPFEMALE:You stand on the end of the board, I'll jump on it and shoot you in the air, okay? Okay.
+LEADFEMALE:Ready? Ready.
+LEADMALE:Freeze right there! What'd I tell you about killing your brother in the living room? This is a pretty picture.
+LEADFEMALE:Is this the one for school? There's Daddy, and me, and Becky, and you.
+LEADFEMALE:Where's Darlene? Right there.
+LEADFEMALE:That looks like a bunch of flowers.
+LEADFEMALE:I know.
+SUPFEMALE:That's her grave.
+LEADMALE:I just had some questions about God and stuff.
+SUPMALE:Well, so why didn't you come to us if you had questions? There's no two better people to answer your questions than me and your dad.
+LEADFEMALE:Okay.
+LEADFEMALE:What religion are we? I have no idea.
+OTHERFEMALE:Dan? Well, my family's Pentecostal on my mom's side, Baptist on my dad's.
+SUPFEMALE:Your mom's mom was Lutheran and her dad was Jewish.
+SUPMALE:So what do we believe? Well We believe in being good, so, basically, we're good people.
+LEADFEMALE:Yeah, but we're not practicing.
+SUPMALE:How come we never say grace? Because, d.j. , grace is for those who are thankful.
+SUPFEMALE:Darlene, d.j. has a new interest, and we're not going to give him a hard time.
+LEADMALE:And I think saying grace is a wonderful idea.
+LEADMALE:Dan, say grace.
+LEADFEMALE:Whoa, whoa, whoa, this involves touching? Oh, Lord we thank thee for providing this food which we have gotten from thee.
+OTHERFEMALE:Thine chicken is particularly good.
+LEADFEMALE:Amen.
+SUPMALE:You know, I really liked that.
+LEADMALE:I think from now on we need to be as serious about our spiritual fitness as we are about our physical fitness.
+SUPFEMALE:d.j. , come on.
+LEADFEMALE:I'm walking you to school today.
+LEADMALE:Oh, no, you're not going in that, are you? Oh, no, d.j. I wouldn't do that to you.
+SUPFEMALE:But, I would do This.
+OTHERMALE:Oh, my, just a minute.
+LEADMALE:Wait one minute here.
+SUPFEMALE:This is for when I kiss you goodbye.
+OTHERFEMALE:Now, this is a very delicate area, but I just have to ask.
+OTHERFEMALE:In d.j. 's family, how did they deal with the issue of sex? Ow-ow-ow-ow-ow-ow.
+LEADFEMALE:Woop, woop, woop, woop, woop.
+LEADFEMALE:Only in the most healthy and appropriate ways.
+SUPFEMALE:Ow! Mom! Mom! Damn.
+LEADFEMALE:She hit me! I caught him peeking at me getting dressed.
+LEADFEMALE:Honey, I told you to cut that out.
+SUPFEMALE:You told me to stop peeking at Becky! Well, he's got me there, Darlene.
+LEADMALE:What's going on? Well, now the little pervert's peeking at me.
+LEADFEMALE:Why? Look, it was fun for everybody when he was peeking at Becky, but now, someone may get hurt.
+LEADFEMALE:Hey, come here.
+SUPMALE:Darlene, go away.
+LEADMALE:Darlene called me a "prevert.
+OTHERFEMALE:" No, you're not a "prevert," honey.
+SUPMALE:You're a pervert.
+OTHERFEMALE:Hey, what are you doing downstairs? What's the matter with your bathroom? Uh, d.j. 's been in there for, like, an hour.
+LEADMALE:Boy, he's just like you, Dan.
+SUPFEMALE:Why don't you run a newspaper up to him? He's got the door locked, and it's like the third time today.
+SUPMALE:Maybe I oughta go up there.
+LEADMALE:Trust me, I don't think this is a time that a boy needs his mother.
+OTHERMALE:What are you talking about? Um, I think I know what she's talking about.
+SUPFEMALE:And I think you know what she's talking about if you just think about it for a minute.
+LEADMALE:Yeah, d.j. 's finally got a friend that's not imaginary.
+LEADFEMALE:Oh, my God.
+OTHERFEMALE:You don't know.
+LEADMALE:He could just be brushing his teeth or, you know, uh, maybe he's compulsively washing his hands, or maybe it's something totally harmless, like chronic diarrhea.
+LEADFEMALE:Trust me, he goes in that room 'cause it's the only one with a lock on it.
+OTHERMALE:And he's in there for, like, an hour at a time.
+LEADMALE:Which either means he's really, really good at it, or really, really bad at it.
+LEADFEMALE:Oh, my God.
+LEADFEMALE:Well, I don't want you to give him any grief about this.
+LEADFEMALE:You could traumatize him and turn him into a serial killer, or something.
+LEADMALE:Well, don't worry, how much damage could he do with only one free hand? Well, I've got an idea.
+SUPMALE:Let's talk about D.
+LEADFEMALE:J .
+SUPMALE:'s school.
+LEADFEMALE:Yeah, I hear he got caught playing with his instrument in band.
+LEADFEMALE:I'm not in band, stupid.
+LEADFEMALE:Okay, next subject.
+OTHERMALE:Dan how was work? Well, today was a special one for me.
+OTHERFEMALE:It was the 179th day in a row where I did exactly the same thing.
+LEADFEMALE:Well, d.j. over here is well on his way to shattering that record.
+OTHERFEMALE:You know, uh When I was 13, something really embarrassing happened to me.
+SUPMALE:You know, I never thought I would get over it.
+LEADMALE:What? Well You know, the junior high had a dance, and, uh your grandma had bought me this real pretty white dress and in the middle of the dance, I looked down at the dress, and there was a, uh-very noticeable stain.
+OTHERFEMALE:What was it? Well, d.j. , it seems that I was going through what all the girls were going through at a certain age.
+LEADFEMALE:I was having my first period.
+SUPMALE:Oh, my God! I don't want to hear it! I don't want to hear it! Whoa, what's going on? Mom told me a story I don't want to hear anymore! Well, that's no reason for you to go running out of the room screaming like a maniac.
+LEADFEMALE:It was about her having her period! As you were.
+SUPFEMALE:Was I an accident? No, d.j. , you were a surprise.
+LEADMALE:What's the difference? Mmm, well An accident is something that, if you had to do it over again, you wouldn't.
+SUPFEMALE:But a surprise is something that you didn't even know you wanted until you got it.
+LEADMALE:Was Darlene an accident? No, Darlene was a disaster.
+LEADMALE:Darlene says I'm not gonna be the baby anymore, so nobody's gonna pay any attention to me.
+SUPFEMALE:Well, I'll tell you what, honey.
+LEADMALE:How about if we pay lots and lots of attention to you? I'll be happy if you have a baby.
+LEADMALE:Oh, that's so sweet.
+SUPFEMALE:Finally, I get a chance to kick some butt.
+LEADMALE:Well, perhaps his family wasn't completely horrid.
+LEADMALE:The problem may have stemmed from some other cause.
+OTHERFEMALE:But what, doctor? Why is d.j. the way he is? Well, somewhere in his past, something traumatic happened, and d.j. just split with reality.
+SUPFEMALE:Some key incident that he cannot remove from his mind.
+SUPFEMALE:They say she's the same, but she isn't the same.
+LEADFEMALE:If only we could get into his head.
+LEADFEMALE:They say she's the same, but she isn't the same.
+SUPFEMALE:Um Hello? Thick thick, medium thick, or thin thick? Becky Mom, will you help me with my hair? Hey.
+SUPFEMALE:Mom and Dad, this is Mark.
+SUPFEMALE:Mark, these are my parents.
+LEADMALE:Hi! They say she's the same, but she isn't the same.
+LEADMALE:They say she's the same, but she isn't the same.
+LEADFEMALE:They say she's the same, but she isn't the same.
+LEADMALE:We may never know what that means.
+SUPMALE:They say she's the same, but she isn't the same.
+OTHERMALE:All right, so, I'll lock up.
+OTHERMALE:I just gotta put some more chairs up.
+LEADFEMALE:See you later.
+OTHERFEMALE:Bye, Rob.
+LEADMALE:Wow! Hi, Roseanne! Hi! How are you? Hello, dear.
+SUPFEMALE:Oh, no, not June Cleaver! Wow! Wow, beautiful pearls, June.
+LEADMALE:My God, it's Lassie's mom! Yes! And the "Don't Eat the Daisy's" mom! And the mom from the Wonder bread, Wonder bra, whatever.
+LEADFEMALE:And Weezie! I love all you guys.
+LEADMALE:I can't believe you're here.
+LEADFEMALE:What are you doing here? We're the sitcom mom welcome wagon.
+LEADMALE:Well, yeah, well, it's been seven years.
+LEADFEMALE:What took you so long? We had to make sure you'd last.
+LEADMALE:So may families move into our neighborhood, and they're gone in 13 weeks.
+SUPFEMALE:I can't tell you what this means to me.
+LEADMALE:I'm so honored that you guys like my show.
+LEADFEMALE:Well, actually, we haven't seen your show.
+OTHERFEMALE:But we heard a few things.
+OTHERMALE:Elizabeth Montgomery was shocked, and she's a witch.
+LEADFEMALE:You see, Roseanne, we've all worked very hard to promote the image of motherhood.
+LEADFEMALE:And if what we've heard about your show is true, well we're about as mad as H-E-double hockey sticks! Excuse my French.
+SUPMALE:Well, whatever you heard is a hell of a damn lie.
+SUPMALE:Well, I'm afraid you're going to have to prove it, dear.
+LEADMALE:Hey, I'm just as wholesome as any of you.
+SUPMALE:I ain't the one that named my kid Beaver.
+OTHERFEMALE:I'm serious, Mother.
+LEADMALE:Bacon is loaded with sodium, nitrates, grease, and animal fat.
+LEADFEMALE:Breakfast! Hey, I thought you had pep squad today.
+LEADFEMALE:I'm quitting pep squad.
+OTHERFEMALE:I'm quitting school.
+LEADFEMALE:I'm never going back again, and if anybody calls me, tell them I'm dead.
+OTHERFEMALE:It must be serious.
+SUPMALE:She's not taking phone calls.
+LEADMALE:Where is she? Where is my sister? She went upstairs.
+OTHERFEMALE:Ah-ha! I'll nail her on her home turf.
+LEADFEMALE:Nah, you're not nailing nobody.
+LEADMALE:What happened? This is according to Sheryl Brewer, whose older sister not only goes to Lanford high, but it also on the student council, and had a ringside seat for the event of the century.
+LEADMALE:Get to the point, Edna.
+LEADMALE:Okay.
+LEADMALE:Well, just as she completes the line, "I'd like to thank the student council for allowing me to speak my mind," it happened.
+SUPMALE:What happened? Becky cut the cheese.
+SUPFEMALE:Well, now what? Shut up, Dan.
+LEADFEMALE:What? This isn't funny.
+SUPMALE:This is totally serious.
+SUPFEMALE:Why don't you go upstairs and talk to her? 'Cause I figure this is your area of expertise.
+OTHERFEMALE:Tell us about this stud we're gonna be meeting tonight.
+SUPMALE:Mother, you're not gonna meet him.
+LEADMALE:Well, we're gonna be at the bowling alley, and Chip's gonna be at the bowling alley.
+LEADMALE:We're bound to run into one another.
+OTHERMALE:Please don't embarrass me.
+SUPFEMALE:Please.
+SUPMALE:Oh, honey, there's no way we'd embarrass you.
+SUPFEMALE:Mom? Yeah? If you want it, I still have some birthday money I hid in my closet.
+SUPFEMALE:No, you don't, but thanks, anyway.
+LEADMALE:I can't handle this.
+SUPMALE:I'm outta here.
+LEADMALE:No, you're not going any place.
+LEADMALE:You're grounded.
+LEADMALE:Okay, wait a minute, now.
+LEADMALE:I'm grounded for lying to you guys about living with David, right? Right! Just like you lied to Dad, and said that you didn't know that I was living with him in Chicago even though you did, right? Excuse me? Oh, you are in so much trouble now.
+LEADFEMALE:Ratting out your own mother, there's just, like, there's nothing lower than that.
+OTHERMALE:I mean, am I right, Dan? Is that like-ratting out your mom, that's gotta be the worst, right? I'm going to Jackie's.
+SUPMALE:What are we gonna do with her? I was thinking, you know, um Just in case we decide to, um That it's time for me to, um get some birth control.
+LEADFEMALE:Idn't it great, Roseanne? That Becky has such a wonderful, progressive, open-minded mom that she can talk to about that? Oh, sure! Darlene, you can't just sit there and be kissed.
+LEADMALE:You gotta kiss back.
+LEADFEMALE:Or you can be the one doing the kissing.
+OTHERMALE:but boys don't like that.
+LEADMALE:How come? I don't know.
+LEADFEMALE:It's like they think it's their job, or something.
+LEADMALE:Well, how do you know when to breathe? You breathe whenever you feel like it.
+LEADMALE:So, basically, you just do this? No, no, no, no, no.
+LEADFEMALE:You kind of Then you open your mouth a little bit.
+LEADMALE:You open your mouth? For what? So you can slip him the tongue.
+OTHERFEMALE:Oh, my! I'm glad I don't stay up past 9:00.
+LEADMALE:We moved on up to get away from people like you.
+LEADFEMALE:You're supposed to teach your children valuable lessons.
+LEADFEMALE:Do you have an episode where your son breaks a window with a baseball and your husband makes him go out and get a job and pay for it? Well, no, we couldn't do an episode like that.
+LEADMALE:The network doesn't like it.
+SUPFEMALE:Too risky.
+LEADMALE:But we did have this one show the network just loved.
+OTHERMALE:It was about me finding some old reefer down in the basement.
+LEADMALE:Reefer? Ask Eddie Haskell.
+LEADMALE:So, anyway's, I thought it was David's.
+LEADFEMALE:You know, that's the guy that's sleeping with my daughter.
+LEADMALE:But, anyway, it turns out that it was my old pot so we start smoking it, you know, and Roseanne? Mmm.
+SUPFEMALE:You are the most wonderful, beautiful, sexy you know, thing.
+LEADMALE:I really, really, love you.
+LEADFEMALE:What? I thought this stuff would make me feel younger.
+LEADMALE:All I feel is old and tired and hungry.
+LEADFEMALE:Man, maybe this is how we got fat.
+LEADMALE:Nobody loves me.
+SUPMALE:Oh, hi, Jackie! We thought you went home.
+LEADFEMALE:Look at me.
+OTHERMALE:I got nothing.
+LEADMALE:No boyfriend, no meaningful job, no husband, no family.
+LEADMALE:It's just me.
+SUPFEMALE:It's just me and my ganja.
+OTHERFEMALE:Did you hear that? Sound's like somebody's coming through the front door.
+OTHERFEMALE:You're just being all paranoid, Dan.
+LEADMALE:Ooh, birds, birds, birds! Ooh, don't you hate that when you're stoned? I don't like it anytime.
+LEADFEMALE:Now don't tell me you didn't hear that.
+SUPMALE:Is this the sink? Am I shrinking? Mom? The jig is up! d.j. d.j. Deeeee Jay.
+LEADMALE:d.j. d.j. Did you ever notice how weird that sounds? d.j. Shhhh! Dan, maintain.
+SUPFEMALE:What do you want, d.j. ? God, you're right! Forgot my sleeping bag.
+SUPFEMALE:Where is it? Oh, well, it is out behind the house, you know? Past the yard, you know? In that building back there, you know? Where your dad always is? With the tools? And a car? Thanks, Mom.
+LEADMALE:Oh, my God, I'm like the worst mother on the face of the earth.
+LEADFEMALE:No, you're not.
+LEADFEMALE:Yes, I am, Dan.
+SUPMALE:I don't even know where I sent my kid.
+LEADFEMALE:Well, say he falls down, you know, and he breaks one of his organs and he needs a transplant from me, you know, but I can't give him any of my organs, because they're all full of pot! That's not going to happen, honey.
+LEADFEMALE:I just know there's just no way I could handle any kind of crisis, Dan.
+SUPFEMALE:Well, maybe I could.
+OTHERFEMALE:Oh, God, I just want our normal lives back.
+OTHERFEMALE:Were we ever really stupid enough to enjoy this? Yes, we were, Dan.
+LEADMALE:But you now, that was a very different time.
+LEADMALE:There was a war going on.
+LEADMALE:Everything was just a lot more fun.
+LEADMALE:Could someone please get me a cold towel.
+LEADFEMALE:Oh, come on.
+LEADMALE:We learned our lesson.
+LEADMALE:We got the message across.
+LEADMALE:Drugs are bad.
+LEADFEMALE:Especially really old stuff that's been sitting there awhile.
+LEADMALE:But that's the wrong image for a TV mom.
+LEADMALE:She's right, you know.
+LEADMALE:Once, Timmy went off to explore an old, abandoned mine after I had told him not to.
+OTHERFEMALE:My husband gave him a good talking to.
+LEADFEMALE:Well, see, now that is the difference between us.
+LEADFEMALE:In my house, I yell at the kids, and Dan is the one whose job it is to just sit there looking pretty.
+LEADFEMALE:You mean you're the boss in your own family? Yep.
+LEADMALE:And I get all the good jokes, too.
+OTHERFEMALE:Pretty sweet, ain't it? On my show, the dog got all the good lines.
+LEADFEMALE:I just translated.
+SUPMALE:And then they shot me off into outer space, and I had that annoying Dr.
+OTHERMALE:Smith and that damn robot.
+SUPMALE:Well, see, nobody upstages me.
+LEADMALE:That's why they call the show Roseanne.
+LEADMALE:They named the show after you? The wife? I didn't know they could do that.
+OTHERMALE:Now, those bastards told me that there were too many letters in June to be on the screen.
+SUPFEMALE:It was at that moment I realized I had been ripped off.
+SUPFEMALE:I should've been the star of my show.
+LEADMALE:I should've had the voiceovers! I still don't like it! You know, in my day, mothers did not have tattoos.
+SUPFEMALE:Yeah, well you obviously never saw Harriet Nelson naked.
+SUPMALE:Anyway's, the important thing is, on my show, I'm the boss, and Father knows squat.
+LEADMALE:All right, I'll stay.
+LEADFEMALE:Oh, poor Dan.
+LEADFEMALE:He has to sit here on the bed with me for two minutes and do nothing while me and God create a life.
+SUPFEMALE:Maybe my sperms are just waiting for your egg to shut up.
+LEADFEMALE:Oh, Dan, I know that we're both just sick to death of all this lovemaking crap, but we gotta do it.
+LEADFEMALE:Yeah, I've been thinking-when this kid graduates high school, I'll be 60.
+OTHERMALE:Well, it's one of our kids, Dan, so you'll probably be more like 65 or 70.
+LEADMALE:Be too old even to play ball with him.
+LEADFEMALE:Odds are, half my life's over already.
+SUPFEMALE:If this kid has to grow up without a father, is that fair to him? I'm scared, Roseanne.
+OTHERMALE:This whole thing is making me think about death.
+LEADFEMALE:Well, think about whatever you have to, Dan.
+LEADMALE:We're going again in 20 minutes.
+LEADFEMALE:Wake up, sleepyhead.
+SUPFEMALE:Dan? Hi, honey.
+OTHERFEMALE:How do you feel? How did everything go? Oh, the operation went great.
+LEADMALE:The surgeon said it was his best work ever.
+OTHERFEMALE:I want to see.
+OTHERMALE:I want to see! Okay, there's a mirror over by the wall.
+LEADMALE:Let me help you up.
+LEADFEMALE:Great, huh? They were supposed to make 'em smaller! This is better.
+SUPMALE:Oh, my God! You know, c'mon, Dan.
+SUPFEMALE:It's been, like, a while.
+SUPFEMALE:I know.
+LEADFEMALE:What's the matter? I'm not sure this is the right time.
+SUPMALE:No, no, it's the perfect time.
+SUPMALE:I haven't even made the bed yet.
+LEADFEMALE:I don't know, Roseanne.
+OTHERFEMALE:I feel kinda weird.
+LEADFEMALE:Well, it's still me.
+SUPMALE:I'm nervous, honey.
+SUPFEMALE:Well, don't be.
+OTHERMALE:They're higher, now.
+LEADFEMALE:Uh, look, it's not that we think anything is wrong with nudity.
+OTHERFEMALE:As a matter of fact, me and Mr.
+SUPMALE:Conner used to have sex that way.
+SUPMALE:I feel sorry for you people.
+LEADFEMALE:Nudity is our chosen lifestyle.
+LEADFEMALE:But you can't help yourselves.
+LEADMALE:You're compulsive, sick perverts.
+LEADFEMALE:Well, it's not that easy not to look.
+LEADMALE:Well, I certainly think we can manage.
+SUPFEMALE:Oh, yeah? What color are my eyes? Oh, my God! Run, dear! We're going to plant that hedge, believe me.
+LEADFEMALE:And we'll tell all your neighbors just what kind of people you are! Well, it's too late! They already know.
+LEADFEMALE:Honest to God, this broad was so hot, I thought she was gonna kill me.
+LEADMALE:Yeah! Ba-da-bing, ba-da-boom.
+LEADFEMALE:So then, she brings out this suitcase full of sex toys.
+LEADMALE:And I'm thinking, this broad is freaky.
+SUPMALE:Oh, yeah! Hey, as long as you're getting your battery charged, what's the damn difference? Yeah, I mean, while you're getting your car washed, you might as well get the hot wax, right? One thing I want to know is, what does she want with you when she's got a suitcase full of sex toys? That supposed to be a joke? Okay.
+OTHERMALE:Ahh! Ahh! So, how you doing? Fine.
+LEADMALE:You watch that Blackhawks game on TV? Nope.
+LEADMALE:Oh, you're a Bulls fan, 'eh? Oh, I get it! It's like being in an elevator.
+LEADMALE:You know, Roseanne, we oughta hang out more often.
+OTHERMALE:I was thinking that, too, but next time, let's leave the wives at home.
+LEADMALE:You read my mind.
+SUPFEMALE:Huh? Oh, come on, Barbara.
+LEADMALE:Wasn't that fun? Yeah, you know, maybe if you would have spoke your mind once in a while, Beave wouldn't have had to go get killed in 'Nam.
+LEADMALE:Oh, that was just a rumor.
+SUPFEMALE:Beaver's alive.
+LEADFEMALE:Yeah, well, he ain't workin'.
+LEADFEMALE:I don't like any of this.
+LEADFEMALE:Why, girls kissing girls and foul language? And teenage sex! Yeah, I know, that stuff's kinda bad, but you guys wanna hear how much money I make? Oh, my God! Why, I'd make out with a chick for that kinda dough! Any one of you, right now.
+LEADMALE:All right, well, come on, ladies.
+LEADMALE:Let's go toss back a few and raise a little hell.
+SUPMALE:Give them something to make a movie of the week about.
+SUPFEMALE:I'll call that Partridge girl.
+LEADFEMALE:She can pick us up on her bus! Ah, screw that.
+OTHERMALE:We'll take my limo.
+LEADMALE:You have a limo? Yeah! And look what my driver gave me.
+SUPMALE:Congratulations! There's nothing wrong with my driving.
+OTHERMALE:Uh-huh, right.
+SUPFEMALE:That's why you throw me all over the car pumping those brakes.
+SUPFEMALE:I pump the brakes to make sure they grab.
+SUPFEMALE:Because if they don't grab, I rear-end the guy in front of me, I get a ticket, they raise our insurance premiums we go broke trying to pay 'em, we end up in a poor horse-har-[whinnies Wilbur! We end up in a poor house, our children starve.
+LEADFEMALE:I pump those brakes to make sure they grab.
+SUPMALE:If they don't grab, I rear-end a guy in front of me.
+SUPFEMALE:I get a ticket.
+LEADMALE:Our insurance premiums go up.
+LEADFEMALE:We go broke trying to pay them.
+LEADMALE:Our children end up in a poor house, we starve.
+LEADFEMALE:That's why I pump the brakes.
+LEADFEMALE:Okay, well, just tell me one thing.
+SUPMALE:What? Why do you pump the brakes? You know, Rosie Welcome to the tunnel of terror! Now, Morty, be nice to the people! How do I look? I've got a splitting headache.
+SUPMALE:Agh! You tramp! You slut! Go away! Leave us alone! We are as God made us.
+LEADMALE:

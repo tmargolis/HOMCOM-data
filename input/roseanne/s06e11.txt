@@ -1,0 +1,252 @@
+LEADMALE:I don't smell the co-mingled scents Of sweat and Jean Nate.
+SUPMALE:Can I assume that Roseanne's not in today? Nope, she's at home.
+SUPFEMALE:Ah, good.
+LEADMALE:Can I have a word with you? I need someone with impeccable taste, And I can tell by that paw print jumpsuit of yours That you're my woman.
+LEADFEMALE:It has a matching cape.
+SUPFEMALE:Mm-hmm, I bet it does.
+SUPMALE:Here, try this.
+OTHERMALE:I found a way of cooking the loose meat into an omelet.
+SUPFEMALE:It's sort of like an egg and meat sandwich.
+LEADMALE:Mmm, delicious! Mm-hmm.
+SUPFEMALE:Thinking of adding it to the menu? Well, I would, except that, you know, Eggs aren't exactly the best lunchtime fare.
+LEADMALE:No, they're better for breakfast.
+OTHERFEMALE:Wait a minute.
+LEADMALE:Are you suggesting that we open the diner for breakfast, Thereby expanding our menu and drawing in A whole new customer base? I love it! Well, it was just a-just a thought.
+LEADFEMALE:No, no, Leon.
+SUPFEMALE:Roseanne won't wanna do breakfast.
+OTHERMALE:I once suggested we expand the hours And she thought it was dumb.
+LEADFEMALE:She called you "dumb," Jackie? Oh, I am so sorry.
+SUPMALE:Well, she didn't say that I was dumb; She said that my idea was-Well, it sounded different the way she said it.
+LEADFEMALE:Well, you know, of course we could stick With Roseanne's plan of just serving lunch and dinner.
+LEADFEMALE:I guess we could afford health insurance In about two years.
+SUPMALE:Gosh, I hope you can hold it in till then.
+LEADFEMALE:Well, I like the breakfast idea.
+LEADMALE:I say we vote "yes".
+OTHERMALE:Whoa, wait a minute.
+LEADMALE:We can't vote without Roseanne here.
+SUPFEMALE:That breakfast idea could be a big disaster.
+SUPFEMALE:Nancy's idea a disaster.
+LEADMALE:Oh, don't feel bad, kid.
+SUPMALE:I'm sure she didn't mean it.
+LEADMALE:Hey, Jackie, I don't have ideas often.
+SUPMALE:I'm proud of this one.
+LEADMALE:You know, Jackie, i'm sure it's easier Having Roseanne make all your decisions for you, But eventually, you're gonna have to cut the chord.
+OTHERMALE:Or else, you and the kid and Roseanne are gonna look like mountain-climbers.
+LEADFEMALE:Hey, now, Roseanne does not control me.
+LEADMALE:Well, then, let's vote on breakfast.
+LEADMALE:I vote "yes".
+LEADFEMALE:Yes! I voteOkay.
+LEADMALE:I got chills.
+SUPMALE:We open Monday at 6 A.
+SUPFEMALE:M.
+LEADMALE:Well, wait a minute.
+OTHERMALE:Who's gonna tell Roseanne? Well, it was Nancy's idea.
+LEADMALE:Good luck, Nance.
+OTHERFEMALE:Hey.
+OTHERMALE:Sorry those weren't done.
+OTHERFEMALE:That's okay, Dan.
+LEADFEMALE:I know there wasn't time to do the dishes And fall asleep in a puddle of your own drool.
+SUPMALE:d.j. said he'd do 'em after his homework.
+LEADFEMALE:Now, Dan, I think the dishes should come Before the homework.
+SUPMALE:If he doesn't learn how to do dishes, He'll never get a job after high school.
+SUPMALE:Honey, you're tired; why don't you call Leon And tell him you're not going to work today? I can't.
+LEADMALE:Leon is, like, on to me.
+LEADFEMALE:He knows that I control the restaurant, you know, So he's trying to stage this bloodless coup Down there to oust me, and he knows that I know.
+SUPMALE:So he's trying to get rid of me Before I can get rid of him.
+LEADMALE:Boy, does he sound paranoid.
+SUPFEMALE:You know, he thinks he's so nifty Because he turned Jackie and Nancy against me.
+SUPMALE:You know, well, I broke 'em; anybody can ride 'em.
+OTHERFEMALE:I better go.
+SUPFEMALE:No, no, no, you gotta drive d.j. To his basketball practice.
+SUPMALE:d.j. , come in here! Wrong, Roseanne.
+SUPFEMALE:d.j. 's basketball practice is Wednesday.
+LEADMALE:Uh-uh, it's on Tuesday.
+SUPMALE:I think I know this.
+LEADMALE:d.j. , is basketball on Tuesday or Wednesday? Tuesday.
+LEADMALE:Duy! I don't play basketball.
+SUPFEMALE:I quit at the end of last season.
+SUPFEMALE:Duy, duuuy.
+LEADFEMALE:Face it, Dan, we're workin' so much, We hardly know our kid at all anymore.
+LEADMALE:I think i'm forgettin' what "d.j. " stands for.
+SUPMALE:Gotta go.
+SUPMALE:SoKid, what's new in your life anyway That I don't know about? I got married.
+LEADFEMALE:Rosie, where'd you park your car? What do you mean? I checked it with the valet.
+SUPFEMALE:I'm serious, Roseanne.
+OTHERMALE:It's not in the driveway.
+LEADFEMALE:Did you leave your keys in the car? What you mean, did I leave the keys in the car? They're not hangin' on the hook.
+LEADMALE:Well, it don't matter what I do with my keys, 'cause I know I put the club on.
+LEADMALE:Where'd you leave the key to the club? You didn't do the dishes.
+OTHERFEMALE:I love the new breakfast sandwich.
+LEADFEMALE:Who asked ya? So, do you guys know what you want yet? We need more time.
+LEADMALE:There's, like, one thing on the menu.
+SUPMALE:How much more time do you think you need? What is it again? It is eggs and loose-meat sandwich.
+LEADFEMALE:What's in it? Chow Mein, hence the name.
+LEADMALE:We're gonna need more time.
+OTHERFEMALE:Well, maybe you'd feel more comfortable Yelling your order into the mouth of a clown.
+SUPMALE:Nancy? Hey, my breakfast idea brought in a whole new customer base.
+SUPMALE:Right.
+OTHERFEMALE:They're all over 35 and they all want a sammich.
+LEADFEMALE:Roseanne, we're making really good money.
+LEADFEMALE:Yeah, but it isn't supposed to be about the money.
+SUPMALE:Don't you remember the old days? It was about us having our own business That we run our own way without no man Tellin' us what to do.
+SUPFEMALE:Roseanne, you ran the place.
+OTHERMALE:You told us what to do.
+OTHERFEMALE:What happened to that? I think you're being hard on Leon.
+LEADFEMALE:He's a really good organizer.
+LEADFEMALE:Plus, he tells us when we've done a good job.
+OTHERFEMALE:Well, you do do a good job.
+LEADFEMALE:Both of you.
+LEADFEMALE:You're both great workers.
+OTHERFEMALE:Then why don't you ever say it? 'cause it's a big, fat lie! At least i'm honest.
+SUPFEMALE:Good morning, ladies.
+LEADMALE:Could you please not be so patronizing.
+SUPMALE:We're not ladies; we are women.
+SUPFEMALE:And i'm not patronizing; i'm condescending.
+LEADFEMALE:Nancy, when you have a second, I wanna show you the prototype for the uniform.
+LEADMALE:Uniform? Now, Roseanne I thought we agreed we wasn't gonna wear Them humiliatin' things.
+LEADFEMALE:Well, when I was talkin' to Leon the other day, I came up with a great idea that the uniforms Would make us stand out from the customers more.
+LEADFEMALE:So why would we wanna do that? Then they'd know who to go to to bring 'em more stuff! Well, we thought it was a good idea When we voted on it yesterday.
+OTHERFEMALE:I thought you says you wasn't gonna vote On nothin' if I ain't here.
+OTHERFEMALE:Well, first we voted on whether or not To vote without you, and I voted "no", but I lost.
+OTHERFEMALE:So then, we voted on whether or not To have the uniforms.
+LEADFEMALE:Yeah, and how'd you vote on that? That was a secret ballot.
+SUPMALE:I can't tell you that.
+LEADFEMALE:We also voted that the restaurant's Official bird should be the toucan.
+LEADFEMALE:Would you like to see the bird I voted for? No, really! The cops are here and everything! Yeah.
+SUPMALE:Yeah.
+LEADMALE:What's goin' on, Dan? Hey, Rosie.
+OTHERFEMALE:The cops found the car in a ditch A couple blocks away.
+LEADMALE:What do we got, boys? Quite a bit of damage.
+LEADFEMALE:Passenger door was smashed in, The fender was all dented, busted headlight.
+LEADFEMALE:Well, that sounds like our car all right.
+LEADMALE:Phoned in a 1099? for a backup and a possible 1057.
+SUPMALE:Good man.
+LEADMALE:Did you have anything of value that should be reported? Uh, yeah, as a matter of fact.
+LEADMALE:We just bought a brand new, Really expensive stereo system.
+LEADFEMALE:What kind was it? A, uh, pflegular.
+LEADFEMALE:Uh, p-f and, uh, two dots over the u.
+SUPMALE:Well, there is some good news.
+SUPMALE:We were patrolling around the vicinity And found a witness who saw the guy.
+LEADMALE:He describes him as a juvenile, Caucasian, dark hair, dark eyes, Resembling Eddie Munster.
+SUPFEMALE:I gotta get off the phone now.
+LEADMALE:I was just going down the street.
+LEADFEMALE:George dared me.
+SUPMALE:Then I got stuck in the mud and couldn't get out.
+SUPFEMALE:So you come home and you just go to bed And you don't even tell us about it? I forgot.
+LEADMALE:I think we can handle things from here, guys.
+LEADFEMALE:No, no, don't leave me alone with them! You really blew it this time, d.j. You coulda had a horrible accident.
+OTHERFEMALE:Nothing happened.
+LEADMALE:Nothin' happened? You stole a car! You coulda gotten yourself killed! How stupid are you anyway? What were you thinkin' about? You think it's funny or somethin'? Answer me! Let me handle this.
+SUPFEMALE:No, you had your turn.
+SUPFEMALE:What the hell's that supposed to mean? That is supposed to mean that if i'm not around him Every minute, he's gonna end up in prison! Shut up and leave me alone! No, i'm not done with you yet! Ow! Ow! Stop! Roseanne! Ow! Leave me alone! Roseanne! Honey Leave me alone.
+SUPMALE:Look, Roseanne, what you just did in there, It's not that big a deal.
+SUPMALE:Yes, it is.
+SUPFEMALE:You're not helping, Dan.
+LEADMALE:Look, I know what you feel like.
+SUPMALE:You've gotta talk about this.
+OTHERMALE:Hey, she doesn't need you makin' somethin' outta nothin'.
+LEADFEMALE:You didn't grow up in our house.
+LEADMALE:This is different! The kid had it comin'! He coulda killed himself! She was out of control! It was just like dad! Why don't you both just shut up And leave me alone? You heard her.
+OTHERFEMALE:I got some stuff to do.
+LEADFEMALE:Ugh.
+LEADFEMALE:Telling her to ignore what she did Isn't gonna make her feel any better.
+LEADMALE:Oh, but calling her a "child-beater" is.
+LEADMALE:You just don't get it, Dan.
+LEADFEMALE:I am so sick of hearin' I "don't get it.
+LEADFEMALE:" Look, I know your father was a jerk, But that's got nothin' to do with what's goin' on.
+LEADMALE:That has everything to do with it! These patterns repeat! Well, then, you better look out 'cause my father used to love to hit his sister-in-law.
+LEADMALE:I can't even talk to you.
+LEADFEMALE:Look, look, look, look She did it because she's stressed out from work And it would help if you didn't always vote against her! I'm not voting against her; i'm voting for my baby.
+LEADFEMALE:Leon's makin' us a lot of money down there.
+LEADFEMALE:And if you're so worried about her stress, Why don't you help out more? I help out a lot around here! How? You know how i'm gonna help her? By throwin' you outta the house! Too late! She already did! Hang on.
+LEADFEMALE:Hey, Leon.
+LEADMALE:Doin' the books? Yes, Dan.
+OTHERMALE:Trying to make conversation? Actually, I came to talk about Roseanne.
+LEADMALE:No.
+SUPMALE:No, I don't think so.
+LEADFEMALE:Why not? What's the matter? Well, you're a rather large man, Dan.
+LEADFEMALE:And if we discuss your wife, I can either say nice things Or I can be honest and get my arms torn off.
+LEADFEMALE:Don't worry, Leon.
+OTHERFEMALE:I can sympathize with ya.
+LEADMALE:Roseanne can be a little difficult.
+SUPFEMALE:Aw, hell, she idles at difficult.
+LEADFEMALE:You know, I-Dan, you have no idea how loudly I can scream.
+SUPMALE:Look, Leon She is really stressed out And she just needs to spend a little more time at home.
+OTHERMALE:But for some reason, she doesn't think She can talk to you about it.
+LEADMALE:Oh, that's ridiculous.
+LEADFEMALE:Well, I told her you'd understand.
+LEADFEMALE:So if you just cut her a little slack, It'll make life easier for everybody, especially me.
+LEADFEMALE:Well, i'd be happy to.
+SUPFEMALE:In fact, you know what? I'm gonna go you one better, Dan.
+OTHERMALE:How much to buy her out? i'm serious.
+LEADFEMALE:What? Come on, Jackie and Nancy are already on board With everything i'm doin' around here Because I can make a success out of this place.
+SUPMALE:Leon, come on.
+SUPFEMALE:Roseanne started this place.
+LEADFEMALE:This is her dream.
+LEADMALE:Well, I have a dream too.
+SUPMALE:And it's to not let her dream go bankrupt.
+LEADFEMALE:See, I knew it.
+LEADFEMALE:I knew it.
+SUPMALE:You are going to hurt me.
+SUPMALE:Worse.
+LEADMALE:For weeks, i've been tellin' her That she's just paranoid about you, But i'm through defendin' ya.
+SUPFEMALE:From now on, you fight your battles on your own Against Roseanne.
+SUPMALE:May god have mercy on your soul.
+LEADFEMALE:d.j. , come down here! What? Well, I thought maybe you might wanna spoil your dinner.
+SUPMALE:No.
+LEADFEMALE:Would you mind watching if I spoil mine? Do I have to? Yeah, yeah, you do.
+LEADMALE:I think we should, you know, talk about stuff You know, 'cause, uh, today was really bad.
+LEADMALE:Mm I'm really sorry that I hit you, d.j. I mean, it was totally wrong.
+SUPMALE:I never should have done that And i'm so mad at myself for doin' it.
+SUPMALE:I wanna go upstairs.
+LEADFEMALE:No.
+SUPMALE:You can't go upstairs till we talk this all out.
+LEADFEMALE:Um I know how you're feelin' And I know you're feelin' mad And, you know, kind of embarrassed and-Wrong.
+SUPFEMALE:Well, that's the way that I used to feel When I got hit.
+SUPMALE:Who hit you? Your grandpa hit me.
+SUPFEMALE:A lot.
+SUPMALE:What'd you do wrong? I think I breathed or something.
+SUPFEMALE:Do you hate him? Yeah, sometimes.
+LEADFEMALE:You know, 'cause, uh, the worst thing Was that he never ever said he was sorry For any of it, you know? I don't want you to hate me, d.j. I'm really sorry that I hit you.
+SUPMALE:And no matter what, i'm never gonna Hit you again, ever.
+LEADFEMALE:No matter what I do? I mean it, no matter what you do, ever.
+SUPFEMALE:I'm sorry you got hit.
+SUPFEMALE:I'm sorry you got hit, too.
+LEADFEMALE:I mean, big sorry.
+OTHERFEMALE:Like, "right now would be a great time To ask me for a new puppy" kind of sorry.
+SUPFEMALE:Sit down there, now.
+SUPFEMALE:We, uh, still have to talk About this little prank you pulled.
+SUPFEMALE:I thought we were done.
+LEADMALE:d.j. , you stole a car.
+SUPFEMALE:You've gotta take the consequences for that.
+LEADFEMALE:Man! You know what, I think you're tryin' to tell me somethin' with all this stuff.
+LEADMALE:I think you're tryin' to tell me That i'm not spendin' enough time with you lately.
+LEADFEMALE:No, I wasn't.
+LEADFEMALE:Well, I think you were, and that's why tomorrow, I'm gonna go in; i'm gonna rearrange everything; I'm gonna make sure that I have more time here with you.
+LEADMALE:But you can't; you work.
+SUPMALE:So? Sometimes you gotta trade what's important For what's more important, you know? And i'm gonna make sure that I have a lot of time To spend with you, d.j. I'm gonna be here all the time.
+LEADFEMALE:Is that my punishment? You are a funny, funny little man, d.j. A funny little man.
+OTHERMALE:Roseanne Jackie doesn't fit into hers, but where's your uniform? Oh, well, I tore it all up to use for bandages, you know? But then I remembered there was no war.
+LEADMALE:Pfft, whoops.
+LEADFEMALE:Well, if i'm the only one wearing it, Then it isn't a uniform.
+LEADFEMALE:People are gonna just think I have really bad taste In clothes or something.
+SUPFEMALE:Afternoon, uh, people.
+LEADMALE:That is a safe term, isn't it? I wouldn't want to offend you ladies.
+LEADMALE:And I wouldn't want to offend you either, You balding albino idiot.
+LEADMALE:Let me know when I cross the line.
+LEADMALE:I thought you were gonna try spending more time at home.
+LEADFEMALE:Oh, I was, but me and Dan talked about it, And we thought you might like that.
+LEADMALE:Oh, slave boy! What's he doing here? Five to ten, grand theft auto.
+SUPFEMALE:He can't be here.
+LEADFEMALE:He's a child.
+LEADMALE:I know, but he was tried as an adult.
+LEADFEMALE:And his punishment is that he's gonna help me Around the diner here so I have more time to bother you.
+SUPMALE:Well, you can't do this, Roseanne, Because a child cannot work in this restaurant.
+LEADMALE:Too late.
+LEADMALE:We took a vote while you were out.
+LEADMALE:To work, d.j. I hate you! You know what's so great, d.j. ? We're not just spending a lot of time together, We're spending quality time together.
+SUPFEMALE:Okay, this Connor kid is pretty tough.
+SUPFEMALE:He comes from a problem family, So we don't really know what to expect.
+SUPMALE:Police! We're comin' in! Go! Go! Go! Go! Freeze! Police! Hey, why don't you leave my kid alone, you [bleep].
+LEADFEMALE:okay, lady, where is he? You're hurtin' my arm, you [bleep].
+LEADFEMALE:Drop the pizza, d.j. it's the cops! Get down here! d.j. ! The cops are here! Get your outta this house! Where is he? He went out the window! he took our car! And you left the keys in it, didn't you, for brains? 

@@ -1,0 +1,364 @@
+LEADMALE: "all campers must bring "one flashlight, four batteries, "one canteen, 200 candy bars, two pair of sneakers" Wait a minute.
+SUPFEMALE:Wait a minute.
+LEADMALE:Something doesn't sound right on that list.
+SUPMALE:Oh, you're right.
+SUPMALE:One pair of sneakers would be plenty.
+SUPFEMALE:No, it was before that Something about candy and cookies.
+LEADFEMALE:See, Jen? You were greedy.
+LEADFEMALE:I told you, just go for the candy bars.
+LEADFEMALE:Take my word for it, Jennifer.
+LEADMALE:Camp winnetka will be so much fun, you won't have time to thin about candy bars.
+SUPFEMALE:Hope you have a better time than I did.
+OTHERFEMALE:I hated camp.
+LEADFEMALE:What didn't you like about it? Well, the way the whole thing was set up.
+LEADFEMALE:I mean, girls on one side of the lake, boys on the other.
+LEADFEMALE:Thank god I'm a good swimmer.
+LEADFEMALE:Aah.
+SUPMALE:Hello, skippy.
+OTHERMALE:Hello, Mr.
+SUPFEMALE:Keaton.
+LEADMALE:Alex, I got to talk to you.
+LEADMALE:It's an emergency.
+LEADFEMALE:What's wrong, skip? That's just how I get people's attention.
+LEADFEMALE:Usually when skippy handelman walks into a room, people tend to Walk away.
+OTHERMALE:Skippy, you're exaggerating.
+LEADMALE:That's not true.
+LEADMALE:Come on, Jennifer, let's go in the other room and study this camp list of yours.
+OTHERFEMALE:Color TV? You're going to camp.
+LEADMALE:You're supposed to be roughing it.
+LEADMALE:Okay, I'll just bring the black-and-white.
+SUPFEMALE: Alex I need to talk to you.
+LEADMALE:What's wrong, skip? I found out something unbelievable about my parents.
+LEADFEMALE:Come on, skip.
+LEADMALE:All adults do that.
+LEADFEMALE:It means they love each other.
+SUPMALE:No, no, no.
+LEADMALE:That's not what I mean.
+LEADMALE:What do you mean? I can't live with the handelmans anymore.
+LEADFEMALE:Skippy, what are you talking about? You a a handelman.
+LEADFEMALE:Yeah, that's what I thought, too, until 3:00 this afternoon.
+LEADMALE:Alex, here.
+OTHERFEMALE:Look at this.
+SUPFEMALE:Skip, these are adoption papers.
+OTHERMALE:That's right.
+LEADMALE:My real name isn't irwin handelman.
+LEADMALE:It's baby boy Doe.
+SUPMALE:Where did you find these? In my mom's dre I mean, in, uh Mrs.
+LEADFEMALE:handelman's dresser drawer.
+SUPFEMALE:Wait a minute.
+LEADFEMALE:Um What were you doing going through your mother's drawers? Oh, Alex, what difference does it make?! She's not my real mom anyway! Adopted? Skip Listen Uh, here.
+SUPMALE:You want to sit down? Here, get off your feet.
+LEADMALE:C-can I get you something? Alex, I'm adopted! I'm not pregnant! This is big news.
+OTHERMALE:Yeah.
+LEADFEMALE:You're telling me.
+SUPMALE:My whole life has been a lie.
+LEADFEMALE:I'm not who I thought I was.
+LEADFEMALE:Nothing about me is what I thought it was.
+LEADMALE:I might not even need these glasses.
+LEADMALE:Alex I'm Where are you? Uh, skip, you need 'em.
+LEADFEMALE:You need 'em.
+LEADMALE:Alex, I don't even know who I am.
+LEADFEMALE:I don't know who my family is.
+SUPFEMALE:I want to find my real parents, Alex.
+LEADMALE:I want to find my roots.
+SUPFEMALE:I'm leaving for Africa in the morning.
+LEADFEMALE:I told you, when we watched that on TV, those are his roots.
+LEADMALE:That doesn't apply to everybody.
+LEADFEMALE:Where are my roots, Alex? I don't know, skip.
+OTHERFEMALE:We should've told him a long time ago, rose.
+LEADFEMALE:We don't we admit it? We made a mistake.
+LEADMALE:Harry, I'm too upset to admit anything.
+LEADFEMALE:We should've told skippy he was adopted long ago.
+SUPMALE:Let's admit it, Harry.
+LEADMALE:We made a mistake.
+LEADFEMALE:That's what I just said.
+LEADMALE:Well, I agree with it, anyway.
+LEADFEMALE:You know, rose, n-now that skippy is aware of the situation, you should feel relieved I mean, that the pretending's over.
+OTHERMALE:Well, how can we feel relieved? We're so scared about what might happen if he meets Elizabeth Uh, his natural mother.
+SUPFEMALE:Exactly what are you afraid of? What do you think might happen if they meet? Well, anything could happen anything could happen, Steven.
+OTHERMALE:Skippy might like her better than he likes us, or she might try to get him to move in with her.
+SUPMALE:You know, once somebody's met skippy, it's very hard for them to imagine living without him.
+LEADMALE:You know, once, when he was 12, I was gonna tell him.
+LEADMALE:I was all poised to say, "skippy, you're adopted.
+LEADMALE:" But I lost my nerve.
+SUPFEMALE:It came out, "skippy, you're a doctor.
+LEADFEMALE:" I had to let him take my temperature.
+LEADMALE:And now he wants to meet that other woman.
+LEADFEMALE:Why is it so important to him? What kind of a son wants to meet his mother? 
+LEADFEMALE:So, what should we do? I mean, are we crazy to be so upset? Should we let him meet her? Should we tell him where she lives? It's difficult to know what to do in these it's a very personal We're asking you for help.
+LEADMALE:I mean, if you two had some personal problems, what two people would you call upon? Us, right? Huh.
+OTHERFEMALE:So, what should we do? Uh, maybe we should tell him where she lives.
+LEADMALE:I think it would mean a lot to skippy if you, uh, helped him find her.
+SUPMALE: Well, look, rose.
+LEADMALE:If if skippy doesn't meet his natural mother now, he's always gonna wonder about her.
+SUPMALE:And I think it might be good for him if he thought that you weren't afraid for him to meet her.
+LEADFEMALE:But we are.
+OTHERFEMALE:We're supposed to be washing dishes, Mallory.
+SUPMALE:What are you doing? I was just thinking.
+SUPMALE:No, seriously.
+LEADFEMALE:Alex! All right, all right.
+LEADMALE:What are you thinking about? I was thinking about skippy.
+SUPFEMALE:I know what you mean.
+LEADMALE:I've been thinking about him, too.
+LEADMALE:He's really upset about this adoption thing, isn't he? I think it's the way he found out, you know? He's innocently going through his mother's drawers, looking for money And he finds adoption papers.
+LEADFEMALE:You know, when I was little, I used to think I was from another planet.
+LEADFEMALE:Don't give up that thought, mal.
+SUPFEMALE:And one day, my space mom would come down and find me and take me back there with her.
+LEADFEMALE:Why don't you go up on the roof and wait for her? I just got off the phone with Mrs.
+LEADMALE:handelman.
+OTHERFEMALE:She's still really upset.
+SUPMALE:Do you, uh Do you think they're gonna tell skippy where his mom is? I don't know.
+OTHERMALE:That's a hard thing to do.
+LEADFEMALE:Mom, you're a mother.
+SUPMALE:How could a mother just give away her own baby? I can't answer that.
+SUPFEMALE:I-I don't know what the circumstances were.
+LEADFEMALE:You just know that has to have been a very difficult thing to do.
+SUPMALE:I guess she just did what she thought was best.
+LEADMALE:When I have a baby, I'm gonna keep it.
+LEADFEMALE:Even if it turns out to be an Alex.
+SUPMALE:I kept him.
+OTHERMALE:Well, it wasn't easy, Jennifer, but you are all packed.
+LEADFEMALE:Great.
+LEADFEMALE:Just think Tomorrow at this time, I'll be a full-fledged camper.
+LEADMALE:Now, here are a few postcards.
+OTHERFEMALE:They're all stamped and dated.
+SUPMALE:All you have to do is send one to us every day.
+SUPMALE:I can't write you a postcard every day.
+LEADMALE:Well, I-i know that.
+LEADFEMALE:That's why I pre-wrote a few for you.
+LEADFEMALE:"Dear mom and dad, camp is fun, but I miss you terribly.
+SUPFEMALE:" Now, all you have to do is sign one every day.
+OTHERFEMALE:Well, why don't I just sign them all now? That way I won't have to take 'em to camp.
+SUPFEMALE:Hi.
+LEADFEMALE:Can I come in? You're always welcome in this house.
+LEADMALE:Come on.
+SUPMALE:Why is everybody being so nice to skippy? Well, haven't you heard? I'm adopted.
+OTHERMALE:Have a seat, skip.
+SUPFEMALE:I have the address of my real mother.
+LEADMALE:No kidding.
+LEADMALE:Where did you get it? From my fake mom.
+LEADMALE:Skippy! I'm sorry, uh From Mrs.
+SUPMALE:handelman.
+LEADFEMALE:She kept in touch with my real mom's family over the years.
+OTHERMALE:Are you gonna make contact with her? I'm gonna see her tomorrow.
+LEADFEMALE:She lives in Dayton.
+SUPMALE:Are your parents driving you over? No.
+LEADMALE:No, I-i couldn't ask 'em to do that.
+LEADFEMALE:I'm gonna take a bus first thing in the morning.
+SUPFEMALE:Oh, skip, listen.
+SUPFEMALE:You don't have to do that.
+OTHERMALE:I'll, uh, I'll drive you.
+LEADMALE:Oh, Alex, that's great.
+LEADFEMALE:You're a real friend.
+SUPFEMALE:If you ever get adopted, I'll drive you to Dayton.
+LEADMALE:Come on, Jennifer, let's go.
+LEADMALE:We don't want to miss that bus! Hey, hey, dad, dad, dad.
+OTHERMALE:Let me help you with that.
+OTHERMALE:Oh, thanks, Alex.
+LEADMALE:There you go.
+LEADFEMALE:Straight to the door.
+OTHERMALE:Don't try anything tricky, okay? Good luck.
+LEADFEMALE:Okay, now, don't forget, and write every day.
+LEADFEMALE:I will.
+LEADMALE:Now, it may seem like three weeks are a long time to be away from home, honey But you're gonna meet a lot of wonderful new friends.
+LEADFEMALE:Beep, beep.
+LEADMALE:You're gonna have a wonderful time, so don't you feel sad, okay? Coming through! Hot stuff! Let me tell you a little story about when I went away to camp Elyse! Oh.
+LEADFEMALE:Sorry.
+OTHERFEMALE:Have a wonderful time! Bye-bye, Jen.
+OTHERMALE:Bye, Alex.
+LEADMALE:Don't stand up in a canoe! Don't play with matches! My baby girl's gone! She's back! Hi, skippy.
+OTHERMALE:Hello, Mrs.
+LEADMALE:Keaton.
+OTHERMALE:Skippy, are you all right? Yeah.
+OTHERFEMALE:We adoptees, we're made of stern stuff.
+LEADFEMALE:Did you know Moses was adopted? Yeah.
+OTHERMALE:Art linkletter, too.
+OTHERMALE:Skippy, I know you're upset now, and I just want you to know if there's, uh, anything I can do, don't hesitate to ask.
+OTHERFEMALE:Mallory There's nothing that you could do that could cheer me up.
+LEADFEMALE:Whoa.
+LEADMALE:Skippy.
+LEADMALE:You really are upset.
+OTHERMALE:Alex, don't call me skippy anymore, all right? Okay Irwin.
+LEADMALE:No, no, no.
+SUPMALE:Call me by my given name Baby boy Doe.
+SUPMALE:Okay.
+SUPMALE:Baby boy Doe.
+SUPFEMALE:Why why do you have a suitcase, skippy? Aren't you coming home tonight? Yeah.
+LEADMALE:I've got some things I want to show my mother.
+SUPFEMALE:We've got a lot of catching up to do.
+SUPMALE:Look at this.
+LEADMALE:My first pair of baby shoes.
+SUPFEMALE:The ones my mother never got to buy for me.
+OTHERMALE:My, you had Very large baby feet.
+SUPMALE:They say that's a sign of intelligence.
+SUPFEMALE:Well, at least they used to.
+SUPFEMALE:Hello, Alex.
+LEADFEMALE:Is baby boy Here? I thought you might get hungry, so I brought you your favorite Peanut butter and carrot sandwiches.
+LEADMALE:We just want you to know that we love you with all our hearts.
+SUPFEMALE:I hope you find what you're looking for in Dayton.
+LEADFEMALE:I hope you find Dayton.
+OTHERFEMALE:It gets a little tricky around the Wilson interchange.
+LEADMALE:Thank you, Mr.
+OTHERFEMALE:and Mrs.
+LEADMALE:handelman.
+LEADFEMALE:Alex, let's go.
+LEADMALE:Ah, Alex! Aah! It's my mom.
+LEADMALE:I'll knock.
+SUPFEMALE:Oh, I'm scared.
+LEADFEMALE:You knock.
+OTHERFEMALE: Coming! You're gonna be fine, skip.
+LEADMALE:Right.
+SUPMALE:I'll be fine.
+LEADMALE:Irwin! Uh No, no, no, no, no.
+LEADMALE:No.
+LEADFEMALE:No, I-I'm not irwin.
+LEADFEMALE:Irwin's right here.
+SUPMALE:Irwin skippy Um Plant needs water.
+LEADFEMALE:Hello, irwin.
+OTHERFEMALE:Hello Ma'am.
+SUPMALE:Oh, don't be so formal.
+LEADFEMALE:Call me Elizabeth.
+LEADFEMALE:Hello, Elizabeth.
+SUPMALE:Uh This is my friend, Alex.
+LEADMALE:Alex Keaton.
+LEADFEMALE:Hi.
+LEADFEMALE:Alex.
+LEADFEMALE:Alex Keaton.
+LEADMALE:Oh.
+LEADFEMALE:Nice to meet you, Alex.
+SUPFEMALE:Alex Keaton.
+SUPMALE:Alex drove me here today because I-i don't drive yet.
+LEADFEMALE:My birthday's not until March.
+SUPMALE:Oh, that's right.
+LEADMALE:I forgot She was there.
+OTHERFEMALE:Please, come inside.
+LEADMALE:Uh.
+SUPFEMALE:Skip, if you don't mind, I'm gonna wait out here, okay? Alex, I need Skippy You'll be fine.
+SUPFEMALE:I'll be right here.
+SUPMALE:It really is you after all these years.
+OTHERFEMALE:Do I look the same? Well, you're bigger And you've got more hair, but otherwise, yeah, you look the same.
+SUPMALE:Uh I-I don't recognize you.
+OTHERMALE:Oh.
+OTHERMALE:Well, that's understandable.
+SUPMALE:Last time we saw each other, you were only a few weeks old.
+OTHERMALE:So, tell me all about it.
+LEADMALE:All the things we did together.
+SUPMALE:There's not much to tell.
+LEADFEMALE:Basically, you ate and slept and went through a lot of diapers.
+LEADMALE:Those were good times, weren't they? Well Not completely good.
+SUPFEMALE:No, I wouldn't say they were good times.
+LEADFEMALE:What do you mean? That was a difficult period of my life.
+SUPFEMALE:I was 18 and unmarried and ostracized by everybody I knew.
+OTHERMALE:What about my father? I bet he was a great guy, huh? Well, he was Young, too.
+LEADMALE:Did, uh, did he know about me? Oh, he knew.
+OTHERFEMALE:He he wasn't interested.
+OTHERFEMALE:I see.
+SUPFEMALE:Hey, people are like that.
+LEADMALE:I understand.
+SUPFEMALE:So, uh What was his name? Was he tall? Did he ever play a professional sport? I-I really don't want to talk about him.
+OTHERFEMALE:I want to know.
+LEADFEMALE:He was my father.
+OTHERMALE:He may be your father, but He was nothing to me.
+LEADMALE:Nothing? It was a mistake.
+LEADFEMALE:Then I was a mistake, too, huh? Well, hey, that's all in the past now.
+LEADMALE:We could start fresh.
+SUPFEMALE:You want to hear about, uh, my hobbies or my ambitions? Would you like to see my vaccination? Oh.
+SUPFEMALE:I don't think so.
+LEADMALE:Okay, uh Well, then, let's talk about you, mom.
+LEADMALE:What do you do? I'm a secretary.
+OTHERMALE:See? That's amazing.
+SUPMALE:Typing's my best subject.
+LEADFEMALE:Oh.
+SUPMALE:Ask me anything.
+LEADMALE:Or, uh, better yet, why don't you bring out your typewriter? I don't have a typewriter here.
+LEADFEMALE:That's okay.
+SUPFEMALE:Uh Next time I come, I'll bring mine.
+SUPFEMALE:Oh, mom, this is gonna be great.
+LEADFEMALE:I can come by once a week, and And we can talk and type and Irwin I think it's best that you don't come to visit me again.
+LEADMALE:Why not? Irwin, you have parents.
+LEADMALE:I'm sure you're very important to them.
+SUPMALE:I have m-my own life, too.
+SUPMALE:I can't become a mother, just like that.
+SUPFEMALE:It's not that easy.
+LEADFEMALE:It would be very disruptive for both of us.
+LEADFEMALE:You understand what I'm saying? Yeah, I understand.
+LEADMALE:You don't want me.
+SUPFEMALE:Do you have any idea how painful it is seeing you again? It took me 15 years to get my life together again, and you just want to rip it apart again.
+SUPFEMALE:What do you want from me? I want to know how you could do it.
+OTHERFEMALE:How could you? How could you just give me away? It was the hardest thing I ever had to do.
+SUPFEMALE:But you still did it! I wanted you to have a good life! I couldn't give it to you.
+LEADFEMALE:I wanted you to have a real family, nice house, and a dog.
+SUPMALE:You have a dog, erwin? No.
+LEADMALE:But I have a sister.
+OTHERMALE:Even better.
+LEADMALE:I'd rather have a dog.
+LEADFEMALE:Well I'll be getting out of your way now.
+LEADMALE:Irwin You may find this hard to believe, but I gave you away because I loved you.
+SUPMALE:You were my baby boy.
+LEADMALE:You remembered my name.
+LEADFEMALE:So, skippy, uh You want something to drink? Uh, pretzels? No.
+LEADMALE:No, Alex.
+OTHERFEMALE:Thanks.
+LEADFEMALE:I'm too depressed to eat.
+SUPMALE:Hey, uh, why don't we toss a softball around, huh? How does that sound? Dangerous.
+SUPFEMALE:In the state I'm in, I'd probably miss the ball, and it would hit me in the face.
+OTHERMALE:Usually happens anyway, skip.
+OTHERMALE:Alex, I'm in a daze.
+SUPMALE:I'm stunned.
+LEADFEMALE:My mother rejected me Again.
+OTHERFEMALE:My mother never would've acted that way.
+LEADFEMALE:That's just the point, skip.
+LEADFEMALE:See, she wouldn't have done that Because she is your mother.
+SUPMALE:She loves you.
+OTHERFEMALE:Wait a minute.
+LEADFEMALE:Which mother are you talking about? I'm talking about your mother N-not Not the one from today, but your other mother Your real mother.
+SUPMALE:The one from today is my real mother.
+LEADFEMALE:Well, that's true, but I was referring to the mother that you thought was your real mother until a few days ago.
+LEADMALE:You mean my mother.
+OTHERFEMALE:That's what I said, skip, your mother.
+LEADMALE:When you said my mother, I thought you meant my mother, as in, the one who was my mother first.
+LEADFEMALE:No, no.
+LEADMALE:I'm talking about your other mother, not the mother who who knew you first.
+LEADMALE:The mother that you knew first.
+LEADMALE:Got it.
+LEADFEMALE:What about her? Look, skip.
+LEADFEMALE:All all I'm trying to say to you is this.
+SUPMALE:Y-your mother Didn't reject you.
+LEADFEMALE:The woman who gave birth to you rejected you.
+LEADMALE:You mean my mother? Let's not start this again, skip.
+LEADMALE:Look When you were 7 years old, and you got your head caught in the banister, who got you loose? My mom.
+OTHERMALE:Which mom? The one that raised me Mrs.
+LEADMALE:handelman.
+LEADMALE:That's right.
+OTHERFEMALE:And when you were 13 years old, and you got your head caught in the banister who got you loose? That time it was my dad Mr.
+SUPMALE:handelman.
+LEADMALE:Skip If it wasn't for those two people Your head would be stuck in that banister right now.
+LEADFEMALE:That's true.
+LEADFEMALE:See The woman you met today is your natural mother.
+LEADFEMALE:And and there's a guy out there who is your natural father.
+OTHERMALE:But they haven't been a part of your life for 16 years.
+LEADMALE:They they've had no role in in nurturing you, in molding you, in in caring for you.
+SUPMALE:They, uh They created a baby But they had no part in creating the human being that's irwin n.
+OTHERMALE:Handelman.
+SUPFEMALE:Oh, even so, Alex How would you feel if you found out that your mom and dad aren't your natural parents? It would explain a lot of inconsistencies in my family.
+LEADMALE:Look, what it gets right down to, skip, is The people who are most important in your life are the people who love you and the people who care about you.
+LEADFEMALE:And you got those people, just as much as I do.
+LEADMALE:You're home.
+LEADFEMALE:Yeah.
+LEADFEMALE:Just got back.
+LEADFEMALE:Uh, we would've been here sooner, but we got stuck at the Wilson interchange.
+LEADFEMALE:I was worried you might.
+OTHERFEMALE:They ought to put better signs up there.
+LEADMALE:Oh, how'd it go Baby boy? Uh You don't have to call me that anymore.
+LEADMALE:Did you meet Her? Yeah.
+LEADMALE:I met her.
+LEADMALE:She was Pretty nice.
+SUPFEMALE:I see.
+LEADMALE:Alex met her, too.
+OTHERFEMALE:Yeah.
+LEADFEMALE:Yeah, she was, um, she was nice.
+SUPFEMALE:Well I'm Glad your real mother's nice.
+SUPMALE:You're my real mother.
+SUPMALE:Oh, mom.
+LEADFEMALE:Hey! What about me? You're my real dad, dad! Let's go home and have real dinner! Let's go home! I just said that.
+LEADFEMALE:

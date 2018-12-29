@@ -1,0 +1,312 @@
+LEADMALE:Hey, Fred, you want to grab something At the lunch box with me? Jackie'll be there.
+SUPMALE:As will your unborn child.
+LEADFEMALE:No, I got to stop running after her.
+LEADMALE:Think i've asked her out She always says now.
+LEADMALE:It's as if she doesn't want to go out with me.
+SUPMALE:Fred, allow me to offer you A small dating tip.
+SUPFEMALE:Ears.
+SUPMALE:Excuse me? Jackie's a little sensitive About her ears.
+LEADMALE:She thinks they're too big.
+OTHERMALE:Gee, I never noticed.
+SUPMALE:Just like a man.
+OTHERFEMALE:Trust me on this one.
+SUPFEMALE:Every woman has a body part they worry about.
+LEADFEMALE:You zero in on the right one, You can get anything you want.
+OTHERFEMALE:Okay.
+SUPMALE:Thanks.
+SUPMALE:Dan.
+LEADMALE:Yeah? You're looking particularly slender today.
+OTHERFEMALE:I'll put through that raise immediately.
+LEADFEMALE:Excuse me, does Dan conner work here? No, he's the boss.
+LEADMALE:Uh, i'm Phyllis Zimmer.
+SUPFEMALE:I'm an old friend of Danny's from high school.
+LEADFEMALE:Do you think it would be okay if I went in there? Okay, but don't make too much noise.
+LEADFEMALE:I just put him down for his nap.
+OTHERMALE:oh, my god! It's Dan Conner, the big football star.
+SUPFEMALE:I think he looked at me.
+LEADMALE:Phyllis Zimmer.
+LEADMALE:My god! What in the world are you doing here? Well, i'm in town for a couple of days, And I was driving by the school, And I got to thinking about old times.
+SUPFEMALE:You look terrific.
+LEADFEMALE:Thanks.
+LEADMALE:You look exactly the same.
+OTHERFEMALE:No, I don't! So, uh, you in charge of this place? Oh, yeah! This is my office, desk, chair.
+OTHERMALE:I usually wear a tie, but today it was dirty.
+LEADFEMALE:Very impressive.
+LEADMALE:Who's that? Nobody.
+LEADFEMALE:But my family.
+LEADMALE:Very nice.
+LEADMALE:I see you're still married to Roseanne.
+SUPMALE:Oh, yeah.
+LEADFEMALE:She's great.
+LEADFEMALE:Am I making you uncomfortable? I mean, you know, because of ourthing.
+LEADMALE:aw, come on, Hey, hey, that was 25 years ago.
+LEADFEMALE:We were in high school! Me and Roseanne were broke up at the time.
+LEADMALE:Roseanne ever find out about us? Yeah.
+LEADMALE:False, false, crown, bridge.
+LEADFEMALE:I guess she probably wouldn't want us to go to lunch then.
+LEADFEMALE:Nah, she wouldn't care.
+LEADFEMALE:She's be okay.
+LEADMALE:She wouldn't mind.
+SUPMALE:She could come with us.
+OTHERFEMALE:Yeah, she could, she could.
+SUPFEMALE:I could call her and she could come, But she's working.
+LEADMALE:Then it's just you and me.
+LEADFEMALE:I guess so.
+OTHERMALE:Hey, we could go to the place we used to go.
+SUPMALE:Well, under the bleachers Is an unusual spot for lunch, But, hey, what the hell? Hey, Jackie.
+LEADMALE:Hi, Fred.
+SUPMALE:Think fast.
+LEADFEMALE:Earrings? Oh, I can't take these from you.
+SUPFEMALE:Come on, I saw 'em in a store And they just, I don't know, Made me think of your ears.
+OTHERMALE:What? What about 'em? They're just petite, you know? Delicate.
+OTHERMALE:Oh, well, thanks.
+LEADFEMALE:Can't really take credit for that.
+LEADMALE:Although I have always tried To sleep on them evenly.
+LEADMALE:WellGuess i'll see you around.
+LEADMALE:You know, Fred, um Maybe if we went out to dinner again sometime It wouldn't be that bad.
+LEADFEMALE:Really? So if I asked you to go out with me Tonight at 8:00 for dinner, you'd say yes? Yeah, I would.
+LEADFEMALE:That's good to know.
+SUPFEMALE:Fred! Yeah, deal.
+LEADMALE:So what's Dan doing today? Oh, he's having lunch with some old friend from high school.
+LEADFEMALE:Oh, yeah? Who? Maybe I know him.
+LEADFEMALE:I think it was phyllis zimmer.
+SUPMALE:My god, really? No, maybe not.
+SUPMALE:Not if it's gonna get Dan in trouble.
+LEADFEMALE:Well, it could.
+SUPMALE:They slept together in high school.
+OTHERMALE:If Roseanne finds out about this, she's gonna freak out.
+LEADFEMALE:Well, she doesn't have to find out.
+LEADMALE:Well, I can't lie to my sister.
+LEADFEMALE:I don't think it would be wrong.
+LEADFEMALE:No, I mean I can't lie to my sister.
+OTHERFEMALE:I always try, she can always tell.
+SUPMALE:Jackie, come here a minute.
+OTHERMALE:I'm busy! No, you're not! See? Hi, Fred.
+SUPFEMALE:Where's Dan? Well, hey, look what Fred gave me.
+OTHERMALE:Look at that.
+OTHERMALE:Says he can't stop thinking about my ears.
+LEADMALE:That's sweet, isn't it.
+LEADMALE:Just what you want to hear From somebody who's seen you naked.
+SUPMALE:So, uh, Fred, How come Dan didn't come down with you? Well, Dan couldn't come Because he had to have lunch at a seminar.
+LEADMALE:Had to go to a motor seminar in Dekalb.
+LEADFEMALE:Where theyseminar on all the motors That they'll be using.
+SUPMALE:Well, Fred, how come you didn't go with him? Who, Fred? Well, Fred Fred was gonna go.
+LEADMALE:And--and, uh Fred? It's only for bosses.
+LEADMALE:Ah.
+SUPMALE:Well, I guess Dan finally gets to lead That glamorous powerful life That he's always dreamed of.
+LEADFEMALE:I feel just like Jackie Kennedy.
+SUPMALE:It's only for bosses.
+OTHERFEMALE:That's really amazing the way you just did that.
+OTHERFEMALE:That's Weren't lying about my ears, were you? Hey, Jackie.
+SUPFEMALE:Dan.
+LEADMALE:Roseanne's in the kitchen.
+SUPMALE:Chicken's in the fridge.
+LEADFEMALE:No, no, that's okay.
+LEADMALE:I already had lunch.
+LEADMALE:Usual place.
+LEADMALE:I always eat at the same place.
+OTHERMALE:I'm very loyal that way.
+SUPFEMALE:I'm a very loyal luncher.
+SUPFEMALE:What exactly are we saying about lunch, Jackie? I know, Dan.
+SUPMALE:Oh, jeez.
+LEADMALE:What happened? What do you mean what happened? Nothing happened.
+SUPMALE:All right, I believe you, But it was still really, really bad.
+SUPFEMALE:You took out the one woman in the world Roseanne never wanted you to see again to lunch.
+LEADFEMALE:How could you do that? I don't know.
+LEADMALE:It was noon.
+SUPMALE:I was hungry.
+OTHERFEMALE:Remember how nuts she went when she found out What you guys did in high school? Yeah, and we're not gonna put her Through that again, are we? No, of course not.
+OTHERMALE:Dan, Roseanne is very sensitive about this.
+OTHERMALE:And we know how dangerous she is When she gets sensitive.
+LEADFEMALE:So if you don't tell her Then there's no problem.
+OTHERMALE:Yeah, there is! 'cause you made me lie to my sister.
+SUPFEMALE:Oh, man, you lied to her? She always knows when you lie to her! It's okay.
+LEADMALE:Told her a really good one this time.
+OTHERMALE:Jackie, is that you? What are you doing? I'mwatching the game with Dan.
+LEADMALE:Go, team! First down Buffalo at the 39 yard line.
+SUPMALE:You are the worst! Jackie, get in here! What'd you tell her? I told her that you went to Elgin to a motor seminar.
+LEADMALE:What the hell's a motor seminar? I don't know! Ask Roseanne.
+LEADFEMALE:She's the one that bought it.
+LEADMALE:Oh, milky way bars in the pudding.
+LEADMALE:What's the occasion? Oh, Dan did the coolest thing, you know? Right after he finished with that motor seminar, He came right home, he called in sick, And we spent the whole afternoon, You know, doing it.
+LEADMALE:He had sex with you afterthat? Oh, yeah, but it wasn't just sex.
+LEADMALE:I mean, it was like the best sex We have ever had since, uh Since we started having sex.
+LEADFEMALE:My god! Oh, chill out, Jackie.
+LEADMALE:It's not like I told you That we did it in here or nothing.
+LEADFEMALE:We did it in here.
+OTHERMALE:Hey, girls.
+LEADFEMALE:What are you talking about? Well, we're talking about you? Really? Yeah, I was just telling Jackie How you were showing me all that stuff That you learned about motors.
+LEADMALE:Vroom vroom! Oh, yeah, yeah.
+LEADMALE:That trip to elgin really paid off.
+OTHERMALE:I thought you said it was in dekalb.
+SUPFEMALE:Uh Jackie said it was Dekalb? No, no.
+LEADMALE:Motor seminars are always in Elgin.
+LEADMALE:What were you thinking? I don't know.
+OTHERMALE:Elgin, Dekalb, I See, it was originally scheduled for Dekalb, And then they moved it to Elgin.
+LEADMALE:They moved it to Elgin from Dekalb.
+LEADMALE:That explains it.
+LEADMALE:Oh, I totally believe everything that you guys are saying.
+SUPMALE:See, that makes liars of all three of us.
+SUPFEMALE:Okay.
+OTHERMALE:Dan and I were planning a big surprise party For your birthday last month.
+LEADMALE:I'm so bad at this.
+SUPMALE:Look, Rosie.
+LEADMALE:Jackie thought she could help me by lying, But the whole thing is no big deal.
+OTHERMALE:I had lunch with an old friend Who was passing through town.
+SUPFEMALE:We talked about you the whole time.
+LEADFEMALE:You remember Phyllis Zimmer.
+OTHERMALE:God, she really likes you.
+LEADMALE:Honey, it was only lunch.
+LEADMALE:Honey? Oh, god.
+SUPFEMALE:This is really bad.
+LEADMALE:Yeah, I know.
+SUPMALE:Oh, no, I mean this is really bad.
+LEADMALE:I'm parked behind her.
+LEADMALE:Oh, man.
+LEADFEMALE:Rosie's never left before.
+LEADMALE:Well, never would have happened If you hadn't been with another woman.
+OTHERFEMALE:"been with"? I had lunch with Phyllis.
+SUPMALE:And? And you lied about it badly.
+SUPFEMALE:And you came home and had sex with Roseanne.
+SUPMALE:How do you think that made her feel? Pretty damn happy judging from this pudding.
+SUPMALE:No, it was humiliating.
+LEADFEMALE:Dan, you were thinking about Phyllis While you were having sex with Roseanne.
+SUPMALE:Oh, well, that is just completely and totally not true! So there's no connection at all Between you having lunch with Phyllis today And having sex with Roseanne? For your information, Jackie, I have had sex with Roseanne many times Without having lunch with Phyllis, So your whole theory goes right out the window.
+SUPFEMALE:Okay, I just got one question.
+LEADFEMALE:If you're completely innocent, you did nothing wrong, Why do you think your wife just stormed out that door? Why are you here? You don't live here.
+LEADMALE:You're not married to anyone in this house.
+SUPFEMALE:Why don't you go out that door, Get a life of your own? Then you can screw that up instead of messing with mine! You want to know how innocent I am? I could have.
+SUPMALE:Could have what? She wanted me, Jackie.
+OTHERMALE:How do you know that? Men know.
+SUPFEMALE:She did the eyelash thing.
+OTHERFEMALE:She did the hip thing.
+SUPFEMALE:She did all the things.
+LEADMALE:I could have had her right then and there, But I never even thought about it! You could have "had her.
+LEADFEMALE:" The Ramada was right next door.
+OTHERFEMALE:The vacancy sign was on.
+SUPMALE:And if I was a different kind of guy, I could have had lunch, Phyllis, a quick shower, And been back at work by 2:00.
+SUPMALE:Well, it's a good thing you never thought about it! that's how the weather is shaping up today.
+SUPFEMALE:Now back to Charles in New York.
+LEADFEMALE:Well, good morning, America.
+SUPFEMALE:I'm Charles Gibson.
+SUPFEMALE:And i'm Joan Lunden.
+LEADMALE:Rosie? Where is mom? I need breakfast.
+LEADMALE:She's not in the bedroom? Nope.
+LEADFEMALE:I don't think she slept here.
+LEADFEMALE:The bed's not messed up.
+LEADMALE:Oh, don't be silly, d.j. You know how sometimes Your mom sleeps on the floor Because she doesn't want to make the bed.
+LEADFEMALE:Come on, i'll cook you breakfast.
+LEADFEMALE:You don't know how to cook.
+SUPMALE:I'll barbecue you breakfast! So, how do you like your eggs, sport? Hey, did you ever see the movie Rocky? Mom didn't come home, did she.
+LEADFEMALE:Deej, you need to eat some healthy food.
+LEADFEMALE:Hey! How 'bout some cream-style corn? I'm not hungry.
+OTHERFEMALE:I know, we can have mommy's pudding for breakfast.
+LEADFEMALE:It's fortified with milky ways.
+OTHERMALE:Why aren't you telling me Where mom is? Deej Your mom and I had a little fight last night.
+LEADMALE:You guys always fight.
+SUPFEMALE:Yeah, but this time I guess I messed up pretty good.
+LEADFEMALE:You're not gonna get a divorce, are you? I'm the only kid in my class Whose parents are married to each other.
+SUPFEMALE:Don't worry, son.
+SUPMALE:Your mom's coming home.
+SUPFEMALE:Everything's gonna be okay.
+OTHERMALE:Why don't you go upstairs and get ready, And i'll drive you to school.
+LEADMALE:Hey.
+SUPFEMALE:Roseanne get back? Oh.
+LEADMALE:Really scary, huh? Yeah, it is.
+LEADMALE:You want me to make you some coffee? Jackie, my wife's gone, My son is worried we're gonna get a divorce, And it's all my fault.
+OTHERMALE:I'll make you a big pot.
+SUPMALE:I don't know how I could have been so selfish.
+LEADMALE:Well, Dan, you couldn't have known That Roseanne would react so badly.
+LEADFEMALE:We've been married long enough.
+OTHERMALE:I should know exactly how she'd react.
+OTHERMALE:Then why did you go to lunch with phyllis? 'cause she walked in And it was like I was 20 years younger.
+SUPFEMALE:It just felt good.
+LEADFEMALE:Not many people make me feel that way anymore.
+SUPMALE:The last few years i've just felt So damn resistible.
+LEADFEMALE:DanThat's crazy.
+SUPMALE:Yeah, well, whatever.
+LEADMALE:Dan, there's a lot of women Find you very attractive.
+OTHERFEMALE:Yeah, right.
+LEADMALE:Who? You should hear what some of the women customers Say about you down at the lunch box.
+LEADMALE:What? Well, I promised not to tell, But let's just say the phrase "fine piece of tail" was used quite often.
+LEADMALE:Jackie, you know, you're getting A whole lot better at this lying thing.
+LEADMALE:I'm back.
+LEADFEMALE:Well, now you got cable.
+LEADFEMALE:Dan He's worried sick about where you are.
+LEADMALE:He just feels horrible.
+SUPFEMALE:Cool.
+OTHERMALE:No, he feels really, really bad.
+LEADMALE:It's kind of a mid-life thing.
+SUPFEMALE:Guys get to this point in their life Where they have to bolster their ego.
+SUPFEMALE:It's not unhealthy.
+SUPMALE:It can be a natural phase In a loving relationship.
+LEADFEMALE:What are you doing? I'm trying to turn down the Oprah show So I can hear you better.
+LEADFEMALE:Oh, wait a minute.
+LEADMALE:That's not Oprah.
+SUPMALE:That's you.
+LEADFEMALE:He just wanted somebody to think he was, You know, attractive.
+LEADMALE:Oh, poor boy.
+OTHERMALE:Dan doesn't think he's attractive.
+SUPFEMALE:Well, life is tough, Jackie.
+LEADFEMALE:Sometimes I don't think dan's attractive either.
+OTHERFEMALE:Oh, come on, Roseanne.
+OTHERFEMALE:Cut him a break.
+SUPFEMALE:It was--it was lunch! Yeah, when I feel all old and crummy, You don't see me having lunch With donnie van steenus.
+SUPMALE:Donnie van steenus is dead.
+SUPFEMALE:Well, be that as it may, Jackie, Not all my old boyfriends are dead.
+LEADFEMALE:I'm sure I could rustle up one or two of 'em That would be willing to buy me a sandwich.
+SUPFEMALE:Haven't you punished Dan enough? He had sex with phyllis all afternoon.
+LEADFEMALE:He didn't have sex with Phyllis.
+SUPFEMALE:Yes, he did, Jackie.
+SUPMALE:He just used my body.
+OTHERMALE:And let me tell you something.
+SUPFEMALE:She's been getting it a whole lot better than I have lately.
+LEADMALE:You don't know what was going on in Dan's mind.
+LEADFEMALE:Maybe Phyllis just made him feel good about himself, And the important thing is he came home to you.
+LEADFEMALE:In his mind, he was having sex with Phyllis! Okay? Can't believe he let that woman on my kitchen table.
+OTHERFEMALE:All right, what if he did? Haven't you ever fantasized about anybody? No, not about anybody that I, you know, Could really get.
+SUPMALE:Except for Fabio.
+LEADMALE:Come on.
+LEADMALE:No, it's true.
+LEADFEMALE:Fabio, he could show up in Lanford, you know, And be looking around For a loose meat sandwich.
+LEADMALE:You are never going to get fabio.
+LEADMALE:why do you have to ruin it for me? Well, anyway, so you have fantasized.
+LEADMALE:It is very different, Jackie.
+SUPFEMALE:How? Because haven't you heard of the double standard? And besides, Dan lied to me.
+LEADFEMALE:He just--he lied to protect you.
+LEADMALE:Well, he didn't protect me, Jackie.
+SUPFEMALE:He just made me feel really, really horrible.
+LEADMALE:Well, you made him feel really, really horrible back.
+LEADMALE:He's sitting on a couch Scares his wife is off someplace.
+SUPMALE:You won this one.
+SUPMALE:Can't you just be big about it? oh So you really think he's sitting over there All by himself on the couch? Yes.
+LEADFEMALE:All right.
+LEADMALE:Well, I guess I can go talk to him.
+LEADFEMALE:You bought it, didn't you.
+LEADMALE:Dan's here.
+LEADFEMALE:I said he was home, but he's here.
+LEADFEMALE:Hey.
+LEADMALE:Hey.
+LEADFEMALE:I didn't sleep very well without you last night.
+LEADMALE:Yeah, but you still slept, right? Rosie, i'm sorry.
+OTHERFEMALE:Please come home.
+LEADMALE:Do you wanna go somewhere and talk? Yeah, I guess.
+SUPMALE:No, I can't, Because I have to go to the school first And make sure d.j. got a decent lunch.
+LEADFEMALE:Don't worry about it, I made him lunch.
+LEADFEMALE:You did? No, I lied again.
+LEADMALE:Isn't it great? Glad you're back.
+LEADMALE:I'm glad for you.
+OTHERFEMALE:I think it's great we have the kind of relationship Where we can talk about stuff.
+OTHERMALE:Especially if one of us is completely in the wrong And you're completely in the right.
+LEADMALE:Dan, just get naked and show me how sorry you are.
+SUPFEMALE:If you want to think about other men sometimes, It's okay with me.
+SUPFEMALE:I can live with that.
+OTHERFEMALE:I don't need to do that, Dan, unlike some people.
+OTHERMALE:I have evolved.
+LEADMALE:Rosie, i'm just glad you love me for who I am.
+LEADFEMALE:I know i'm not perfect.
+LEADMALE:In my eyes, you're pretty close.
+LEADFEMALE:I washed my armpits with a washcloth.
+OTHERFEMALE:Just the way you like it.
+OTHERFEMALE:Dan, don't talk.
+LEADFEMALE:

@@ -1,0 +1,335 @@
+LEADMALE:Na-no, na-no.
+LEADMALE:Mom.
+LEADFEMALE:- Mom.
+LEADMALE:- You're from Neptune? My name is Kalnik, but please call me Kal.
+LEADFEMALE:You live on Earth? Me too.
+LEADFEMALE:No one calls my son a mutant.
+LEADFEMALE:Take a hike.
+LEADMALE:You'll live to regret this, Orkan.
+SUPFEMALE:Take your hands off Ah! - You're an android.
+LEADFEMALE:- And I am also a bomb.
+SUPMALE:A bomb! Hide! I have a feeling we're never gonna see this place again.
+LEADMALE:Why do you want to kill us? Because you're the only ones that can throw a monkey wrench into my plans.
+LEADFEMALE:Nothing is gonna stop Kalnik's men.
+LEADMALE:They think you're the alien who's out to take over the world and they're gonna keep hunting until they find you.
+LEADFEMALE:There's only one choice, but I think it's the only way.
+LEADMALE:I have to tell the world I'm an alien.
+OTHERMALE:That way they know I've got nothing to hide.
+LEADFEMALE:That's the only way.
+LEADFEMALE:I've gotta go public.
+OTHERMALE:Mork is the most famous man in the world, and I'm offering you your own prime time television show.
+SUPMALE:What? Oh, Mind, this is so fast.
+OTHERMALE:Four days ago I was having dinner with a lady friend of mine at my favorite Italian restaurant.
+OTHERFEMALE:I won't give it a plug, but you know which one.
+LEADMALE:The one where the Pope eats when he's in town, so you know it's good.
+SUPMALE:Anyway, in the bar the TV's blasting away about, uh, some alien from another planet.
+SUPFEMALE:Well, I'm not buying it at first, but for gosh darn it, uh, I turn out to be wrong.
+LEADFEMALE:Anyway, he's here with us tonight.
+OTHERMALE:He truly is a spaceman from another planet and he's here to tell us about it with his wife.
+SUPFEMALE:Will you please welcome to the stage Mr.
+LEADFEMALE:Mork and Mindy McConnell? Oh.
+LEADMALE:Oh.
+LEADFEMALE:Hi, Tom.
+SUPMALE:Ha, ha.
+LEADFEMALE:You know, back on my planet, the green room is flesh colored.
+SUPFEMALE:- So you're the guy from Ork.
+SUPFEMALE:- Yep.
+LEADMALE:Sometimes I get the feeling that half of my staff here is from Ork.
+LEADMALE:Ha-ha-ha.
+LEADMALE:I really don't think so, Tom.
+OTHERMALE:Reading from the papers, uh, we know that apparently you are an alien, but you married him, why? Two billion guys on this planet, they're not all good lookers, but you couldn't find one that you liked, for God's sakes? No, um, it's not like that at all.
+LEADFEMALE:It's just that Mork is very special and loving and he doesn't know the meaning of the word "deceit.
+OTHERMALE:" Remarkable, remarkable.
+LEADFEMALE:Now I understand that you have a son and his name is Steve? - Mearth.
+SUPMALE:- Mearth.
+LEADMALE:Good work, research.
+LEADMALE:Well, I think that's an excellent time to bring out young Mearth.
+SUPMALE:Uh, will you please welcome to the stage Mr.
+LEADMALE:Mearth McConnell? Mork, you're gonna have yourself a six-footer here.
+LEADFEMALE:Ha-ha-ha.
+LEADMALE:Hello, Tom.
+SUPFEMALE:Are you ready for this, Mr.
+LEADFEMALE:Tom? It's super neat.
+LEADFEMALE:Tell me about the stars and Uh, so, big fella, you age backwards, is that it? You're really old but you're really quite young, is that it? So when someone says, "Hey, you look good for your age," you have no idea what they're talking about, because I certainly don't.
+SUPMALE:- What's the matter with him? - I don't know, son.
+LEADMALE:I think his eyebrows put too much pressure on the frontal lobe.
+OTHERFEMALE:All right, let's get everything straight.
+OTHERFEMALE:Uh, Mom's a cute little Boulder gal who obviously prefers men from another planet, and, uh, Dad's a space jockey, and, well, now you're all famous, and there's talk of a TV talk show and you'll probably be put against old Tom here, huh? Ha, ha.
+SUPMALE:Oh.
+SUPMALE:Oh.
+LEADMALE:Not a bad idea, hey? You know something? You look exactly like our garbage man.
+SUPFEMALE:Uh, Tom, you see, one of the reasons we're considering a television show is we feel that it's the most effective way to reach a large number of people.
+LEADMALE:See, Mork hopes to promote a cultural exchange of, um, understanding and respect between our two worlds.
+LEADMALE:- Right, Mork? - Very much so.
+LEADMALE:That and being on Battle of the Network Stars.
+SUPMALE:Excuse me, I'm getting a cue here from my stage manager over there, and, uh, well, McConnells, you've been really interesting guests and I'd like to talk to you more about the, uh, mysteries of the universe, but I got a man in the green room who makes cities out of toothpicks and he's putting the finishing touches there on Fort Lauderdale.
+LEADFEMALE:So McConnells, uh, good night and, uh, na-na, nu-nu, or whatever the heck it is you say.
+LEADMALE:It doesn't matter, Tom.
+LEADFEMALE:Any way you want to fly.
+LEADMALE:We'll be back in two minutes, five seconds after we hear from our affiliates across this country coast to coast.
+LEADMALE:That's it? What a gyp.
+LEADMALE:You had Charles Manson on for a whole hour.
+LEADFEMALE:Son, son.
+LEADFEMALE:Mind, Mind, pull harder.
+LEADFEMALE:I can grow another one.
+LEADFEMALE:Why don't they just go upstairs and bother Warren Beatty? Mearth? Oh, hi, sweetheart.
+SUPFEMALE:- Hi, Mommy and Daddy.
+LEADMALE:- We made it.
+SUPMALE:I was just talking to the press here.
+SUPMALE:That is off the record, isn't it? - Thank you.
+LEADFEMALE:- Thank you for the snacks.
+LEADFEMALE:Hello.
+SUPFEMALE:Goodbye.
+LEADMALE:- Mork? - Mind? - We gotta stay calm, okay? - Mm-hm.
+SUPMALE:I know you feel like you're being pulled in a million different directions.
+LEADMALE:Yeah, you're not kidding, Mind.
+OTHERFEMALE:I feel like a fire hose in the South Bronx.
+SUPMALE:Unhand me, Mr.
+OTHERFEMALE:Lawman.
+SUPMALE:Don't you know who I am? Why, I'm Mork's producer.
+LEADMALE:I'm who got Arthur Miller to write that episode on CHiPs.
+LEADMALE:Mork.
+LEADMALE:There he is, the new media's darling of the day and his little pooter.
+OTHERMALE:- Hi, Billy.
+SUPFEMALE:- Let's talk TV, kids.
+SUPMALE:I think Mork's had enough for today.
+SUPMALE:I was so looking forward to talking concept and sipping white wine.
+LEADMALE:You know what? Why don't I introduce you to your writers? - Oh, yes.
+LEADMALE:- They're absolutely hilarious.
+LEADMALE:And you know why? Because not one of them had a date in high school.
+LEADFEMALE:Oh, are you the guys who wrote "But seriously"? I love that.
+SUPMALE:And also, "Hey, where are you from?" What? Who? Mommy, Daddy, do we know a Ron and Nancy? - No, sweetheart, just take a message.
+SUPMALE:- We'll call you back.
+SUPMALE:I don't care what color your house is.
+LEADFEMALE:Mork, here is the concept.
+SUPFEMALE:You are going to be starring in Those Amazing Aliens.
+SUPFEMALE:Now, on the first episode, we're gonna strap you to the nose of a Concorde and when you land in Paris, we set you on fire and make you eat mud.
+OTHERMALE:Isn't that wonderful? I get to go to Paris.
+OTHERFEMALE:No.
+LEADMALE:Absolutely not.
+LEADFEMALE:Very well, Miss Red Blazer.
+LEADMALE:He can read a poem at the end of the show.
+SUPMALE:See if I care.
+LEADFEMALE:The T-shirts were just the tip of the merchandising iceberg.
+OTHERMALE:I don't care if you are my granddaddy.
+SUPFEMALE:Mommy said to tell everybody that they're not in.
+LEADFEMALE:Mearth.
+LEADMALE:Dad Now, listen, Mork, tomorrow we're going to make you look like an alien.
+OTHERMALE:- But I am.
+LEADFEMALE:- We're gonna shave your head - No, no - We're gonna tint your skin green I knew you'd be here.
+OTHERMALE:Oh, Mind I couldn't take the pressure.
+LEADMALE:All those people hounding me, Mind.
+SUPFEMALE:How does Slappy White do it? Oh, Mork, Kalnik gave us no choice.
+LEADFEMALE:But all the notoriety hasn't changed us.
+SUPFEMALE:No.
+SUPMALE:Where's Mearth? Well, he's getting a star on Hollywood Boulevard today.
+LEADMALE:Don't worry, he's with Dad.
+SUPMALE:Well, Mind, what's up for us next? Are we gonna end up like every other American flash-in-the-pan? Making spaghetti westerns in Italy? Oh, Mork, I wish I could tell you all this was gonna change tomorrow, but I can't.
+LEADFEMALE:You're about as cheerful as an East Berlin cheerleader.
+OTHERMALE:Ha, ha.
+LEADFEMALE:I'm not finished yet.
+LEADFEMALE:Sit down.
+LEADFEMALE:On what's left of our couch.
+OTHERMALE:Mork, what we've gotta do starting right now is take control of our lives.
+LEADFEMALE:Well, I know what I want right now.
+SUPFEMALE:What? Nobody can make us do anything we don't wanna do.
+LEADMALE:Unless they've got a great big outer space ray gun.
+LEADMALE:Ooh.
+LEADMALE:All right, you've got 30 seconds to live.
+SUPMALE:- Twenty-nine, 28 - Wait a minute.
+LEADMALE:You call that a second? It should be 27 Mississippi, Twenty-five Mississippi, Stop it! You're crazy.
+LEADFEMALE:You need help.
+LEADFEMALE:And so do you.
+SUPFEMALE:What do you expect to accomplish by killing us? Your death.
+LEADMALE:You spoiled my plot.
+LEADMALE:You turned me into a statue and you made me miss my parents' 400th anniversary.
+LEADMALE:Four hundred years? Oh, that's terrific.
+LEADFEMALE:Mazel tov.
+LEADFEMALE:Thank you.
+LEADFEMALE:They're wonderful and still very alert.
+SUPMALE:Oh, really? Don't we deserve to see our first year anniversary? Not the way you cook.
+LEADFEMALE:I saw you on Merv the other night.
+LEADFEMALE:I tried your Chicken Kiev recipe.
+OTHERFEMALE:You used too much garlic.
+LEADFEMALE:You made me ruin my dinner party and you're gonna pay for it.
+LEADMALE:Wait.
+LEADFEMALE:I have one last request.
+SUPMALE:I would like to die with dignity, with honor and with my penny loafers on.
+OTHERFEMALE:All right, hurry up.
+LEADMALE:Hurry up.
+SUPMALE:The guys are waiting for me down in the car.
+LEADFEMALE:I have a 2:00 tee-off.
+LEADFEMALE:- Do you need a couple of caddies? - Nine Mississippi All right, all right.
+LEADMALE:Don't rush.
+SUPFEMALE:It's not an easy thing to prepare for.
+SUPFEMALE:Hold it.
+LEADFEMALE:Sissy shoes.
+OTHERMALE:Do you realize what I paid for these? Oh, Mork.
+OTHERFEMALE:Oh, will you look at that? Kal, you don't have to kill me.
+LEADMALE:I'm gonna die of embarrassment.
+LEADFEMALE:- Put on the shoes - I'm trying This one? That was "let's go.
+LEADFEMALE:" - All right.
+LEADMALE:Well, well, well - All right.
+LEADMALE:Well, you've been a lovely couple but it's time to play "You Lose Your Life.
+OTHERFEMALE:" Thank you.
+SUPMALE:It's nice seeing you too, because there's no place like Rome.
+LEADFEMALE:There's no place like Rome.
+LEADMALE:There's no place like Rome.
+OTHERFEMALE:There's no place like Rome.
+LEADMALE:Come back here.
+SUPMALE:Come back here.
+LEADMALE:Mork.
+LEADFEMALE:Mindy.
+OTHERFEMALE:What do you gotta do to kill somebody around here? "Time travel shoes.
+SUPFEMALE:Ruby red.
+LEADMALE:Size eight.
+LEADMALE:" Ugh.
+SUPMALE:I fell for the oldest time travel trick in the books.
+LEADMALE:Sorry, guys, I can't play golf today.
+LEADFEMALE:I gotta go kill Mork and Mindy.
+SUPMALE:You did it.
+LEADFEMALE:We escaped through time.
+OTHERFEMALE:- Where do you think we are? - I don't know.
+LEADMALE:- Get us out of here.
+LEADMALE:- Here we go.
+SUPMALE:- Hurry.
+SUPMALE:- Home, James.
+LEADMALE:- Home, James.
+SUPMALE:Uh-oh.
+SUPFEMALE:- Mork.
+LEADMALE:Something's wrong.
+LEADMALE:Maybe the insole's short circuited.
+SUPMALE:Well, I hope I have the receipt.
+SUPMALE:Do you realize where we are? We're at the dawn of man.
+LEADMALE:Oh, no, Mind.
+LEADFEMALE:Finally we'll be able to buy land in California cheap.
+LEADMALE:Oh, no.
+SUPMALE:Get ready for a fight.
+LEADMALE:Well, I see evolution hasn't changed you.
+LEADMALE:I'll soothe the savage beasts.
+LEADFEMALE:Look.
+SUPFEMALE:Yes.
+OTHERMALE:Look nice.
+LEADMALE:Nice.
+SUPFEMALE:The record company executives did the same thing.
+SUPMALE:Rahlu.
+LEADFEMALE:Rahlu.
+LEADFEMALE:Rahlu.
+LEADMALE:Oh, she must think you did magic.
+SUPMALE:Well, either that or she's near-sighted and has a foot fetish.
+LEADMALE:I knew I should have paid more attention in eighth period history.
+LEADFEMALE:I'm trying to remember anything good that ever happened in a cave.
+LEADMALE:Rahlu.
+SUPFEMALE:Rahlu.
+LEADFEMALE:Mind, if we play charades tonight, I want her on my team.
+LEADFEMALE:Macho.
+LEADFEMALE:Talk about your Old Spice, Mind.
+LEADMALE:Maybe you just need partial protection.
+OTHERMALE:- No.
+LEADMALE:- Mind, they're your ancestors.
+LEADFEMALE:You talk to them.
+LEADMALE:- Don't be afraid.
+LEADMALE:- Uh Me, ugh, Mindy.
+LEADFEMALE:Shiksa likes mayonnaise and Tupperware.
+SUPFEMALE:- Him, Mork.
+LEADMALE:Mindy, Mork.
+SUPFEMALE:- Na-no.
+OTHERFEMALE:We friends of yours.
+LEADMALE:We come here from, uh, Boulder, Colorado.
+LEADFEMALE:Many moons from here.
+LEADFEMALE:Ah-ah-ah.
+LEADFEMALE:Don't worry about them, Mind.
+OTHERFEMALE:I think I have mastered their language.
+LEADFEMALE:Watch my lips.
+LEADFEMALE:Look.
+SUPFEMALE:Ooh.
+LEADFEMALE:Listen.
+LEADFEMALE:Rahlu.
+OTHERFEMALE:Rahlu.
+LEADFEMALE:They're in key, Mind.
+OTHERFEMALE:They're in key.
+LEADFEMALE:Rahlu.
+SUPMALE:Rahlu Rahlu.
+LEADFEMALE:Rahlu.
+LEADMALE:Rahlu, Rahlu Sometimes you ra-win Sometimes you ra-lose Now we have the Rahlu Blues.
+LEADFEMALE:Ha, ha! Oh, uh Oh, no, uh, my doctor told me I should cut down on raw zebra.
+LEADMALE:Oh, no thanks.
+SUPFEMALE:I really don't like mastodon tartar.
+LEADFEMALE:I'll stick to bark.
+LEADFEMALE:I need the roughage.
+SUPMALE:- No.
+SUPFEMALE:- No.
+LEADFEMALE:Not today.
+SUPFEMALE:Mork, will you just keep working on that shoe? - Yeah, Mind.
+SUPFEMALE:- I am freezing.
+LEADMALE:I want to go home to our family and a warm bed.
+LEADFEMALE:Oh, yeah, and plumbing.
+OTHERFEMALE:Oh, and clean clothes.
+LEADFEMALE:And Frank Gifford.
+OTHERFEMALE:What? We're freezing to death and you miss Frank Gifford? Don't you? If you're freezing to death, why don't we go over and pile on? I mean, that big guy over there would make a great pillow.
+LEADMALE:Look at them over there, all heaped together like that.
+LEADFEMALE:I feel so sorry for them.
+SUPFEMALE:Yeah, they look like a dessert cart at a cannibal restaurant.
+OTHERFEMALE:Look how hard they have to fight to survive.
+LEADFEMALE:Against animals and enemies and this brutal climate.
+LEADMALE:I mean, all this tribe has are a couple of crummy weapons, and they don't even have a fire.
+LEADFEMALE:Help me gather some twigs.
+SUPMALE:Hey, Mind, what're you doing? You don't have to clean up here.
+LEADMALE:I mean, you're not gonna invent maid service, are you? I'm not cleaning up.
+LEADFEMALE:I'm gonna make a fire.
+SUPMALE:Think about what you're doing.
+LEADFEMALE:You could be altering history.
+SUPFEMALE:I mean, then the Wright Brothers could be wrong.
+OTHERFEMALE:The Righteous Brothers might end up being atheists.
+LEADFEMALE:What? Mork, all I know is the discovery of fire predates cave paintings by thousands of years.
+LEADMALE:So that means somehow this tribe lost that knowledge.
+SUPMALE:- All I'm doing is giving it back to them.
+SUPFEMALE:- Well Wouldn't you want someone to do it for your son? Oh, yeah, I guess you're right.
+OTHERMALE:Help me with the fire.
+OTHERFEMALE:I'm gonna do it.
+LEADFEMALE:Keep blowing.
+LEADFEMALE:I'm gonna give these people a better future.
+SUPMALE:Keep going.
+LEADMALE:It's starting to work.
+LEADMALE:Keep blowing.
+SUPFEMALE:Keep blowing.
+LEADFEMALE:Oh, you inventors are so temperamental, Mind.
+OTHERFEMALE:It's starting to smolder.
+SUPMALE:I can't believe it.
+LEADMALE:I saw this on Grizzly Adams, but I didn't think it was gonna work.
+LEADFEMALE:Do you realize what's happening here? I'm gonna give this tribe a new lease on life.
+SUPMALE:Can you bring that light over here? Pardon me.
+LEADMALE:How's this, hon? Oh, that's much better.
+SUPFEMALE:Mind, guess who's already invented fire? I am so embarrassed.
+SUPMALE:Aw.
+SUPFEMALE:It was a lovely gesture.
+LEADFEMALE:Don't you Oh, little pooter, come on now.
+OTHERMALE:Mind, I guess we'll just have to invent the Olympics now.
+LEADFEMALE:Sprint.
+LEADMALE:All right, so they had fire.
+OTHERMALE:But I want to leave these people with something.
+OTHERMALE:I'm gonna teach them how to protect themselves or how to plant seeds.
+SUPFEMALE:I know, the wheel.
+LEADFEMALE:That's a good one.
+LEADFEMALE:Unless they've already invented it.
+OTHERFEMALE:You wanna teach them something? Teach them how to invent pantyhose.
+LEADMALE:Very funny.
+OTHERMALE:Mork, think about how often you're allowed to leave your mark on history.
+LEADFEMALE:Good morning, campers.
+SUPMALE:I have such a lovely day planned for us.
+SUPFEMALE:First, I'm gonna vaporize you.
+LEADFEMALE:Then, the rest of us go canoeing.
+SUPFEMALE:Hello.
+SUPFEMALE:Kalnik.
+LEADMALE:And you said I had sissy shoes.
+LEADMALE:Stall him, Mind.
+LEADMALE:Maybe I can get these babies working Uh, so Kalnik, how'd you find us out here in the boonies? It wasn't easy following you through time.
+SUPMALE:I had tickets to the theater.
+LEADFEMALE:I ended up sitting between Booth and Lincoln.
+SUPFEMALE:But that's history, and now so are you.
+SUPFEMALE:Oops.
+LEADFEMALE:Here goes nothing.
+LEADMALE:Does anybody have any aspirin? - Oh, Mork, I'm scared.
+SUPFEMALE:- Oh, don't be, Mind.
+LEADFEMALE:Just hold on.
+LEADMALE:I don't know what's in store for us, but whatever happens, we'll have each other.

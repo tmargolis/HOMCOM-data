@@ -1,0 +1,368 @@
+LEADMALE:Na-no, na-no.
+LEADMALE:Mork calling Orson.
+SUPFEMALE:Come in, Orson.
+LEADMALE:Mork calling Orson.
+LEADMALE:Come in, Orson.
+SUPFEMALE:Mork calling Orson.
+LEADFEMALE:Come in, Fat Masterson.
+OTHERFEMALE:Hola! Orson is no in casa.
+LEADFEMALE:This is the housekeeper, Keezbalita.
+LEADMALE:Talk fast, I'm watching The Edge of Ork.
+LEADMALE:When will he be back, Keezbalita? He's at his club.
+LEADFEMALE:He get drunk and then he come home and say: "Keezbalita, I want you bad.
+LEADFEMALE:" Gotta go now.
+LEADMALE:Elizabeth Taylor's on.
+LEADFEMALE:Boy.
+OTHERMALE:Adiós, you fine young thing.
+SUPFEMALE:I should never have given her that Fernando Valenzuela poster.
+LEADMALE:Hello, Mom? Mom? Mom, can you hear me? Oh, excuse me.
+LEADFEMALE:I'm awfully sorry, my friend.
+LEADFEMALE:I was just trying to call my mother on Neptune.
+SUPFEMALE:Oh, you're from Neptune? You don't know Bobby Gleepglow, do you? Are you kidding? I dated his sister.
+OTHERMALE:Are you kidding? That gorgeous bald girl? - Uh-huh! - Whoa! My name is Kalnik, but please, call me Kal, okay? Everybody does except my car salesman who calls me "guy.
+SUPFEMALE:" "Hey, guy, what you doing? Guy.
+LEADMALE:" Well, na-no.
+LEADFEMALE:I'm Mork from Ork.
+OTHERMALE:- Oh! I'm sorr - Oh.
+LEADMALE:Sorry, I have been on Earth for so long, I'm starting to pick up their primitive customs.
+SUPMALE:You know, lately I've even started raising my arms on roller coasters: - Oh! You live on Earth? Me too.
+OTHERFEMALE:- Mm-hm.
+SUPMALE:- No.
+OTHERFEMALE:- What do you do? Well, I'm an observer, and I enjoy folk dancing.
+OTHERMALE:- I'm an observer also.
+OTHERMALE:- Yeah? Yup, in my spare time I'm a homemaker, though.
+SUPFEMALE:Yeah, I like to take care of my son, and one day hope to make big money stuffing envelopes.
+LEADMALE:- You're married, huh? - Yeah.
+SUPFEMALE:Me too, but don't laugh, okay? - She's an Earth girl.
+OTHERFEMALE:- Oh! - Whoa.
+OTHERMALE:So's mine.
+LEADFEMALE:- No.
+LEADMALE:- Does yours use Noxzema? - Yes! Does yours buy those little soaps that she won't let you wash with? - Oh, what a small galaxy.
+OTHERFEMALE:- Oh, what a small galaxy.
+OTHERMALE:So you dated Bobby Gleepglow's sister? Yes, have you heard from her? Well, I don't wanna spread any rumors, but I heard that she's turned amphibious.
+LEADFEMALE:No.
+LEADFEMALE:Cootchie-cootchie.
+LEADFEMALE:- Yeah.
+OTHERMALE:- Ha-ha! I'm really glad it's raining.
+LEADMALE:That bully that keeps beating me up across the street, he has to stay in too.
+SUPMALE:Shh! Mearth, Daddy's working.
+LEADFEMALE:Are you kidding? He isn't working.
+LEADFEMALE:He watches Love Boat the same way.
+SUPMALE:Well, when he watches Love Boat he keeps mumbling: "Is Dennis Cole on again?" Why don't you go and get out of your wet slicker? No, I don't wanna get out of my wet slicker, okay? - I wanna stay in my wet slicker.
+LEADFEMALE:- Mearth Celeste.
+LEADMALE:I've asked you never to come aboard.
+SUPFEMALE:Not at a time, we're entering heavy gales, northeast by southwest by southeast by southwest by northeast.
+LEADFEMALE:Go below.
+SUPFEMALE:Take those groceries, help yourself.
+OTHERMALE:Be careful of the cabin boy.
+LEADFEMALE:He's small and tiny, and he bites.
+LEADFEMALE:Oh! Look at those: Oh, seaweed.
+OTHERMALE:Who knows, it might be in a Nantucket museum.
+OTHERFEMALE:Save it.
+SUPMALE:It was aboard the Pequot.
+LEADFEMALE:When will we see the whales, sir? When will we see the whale? Well, you can't miss it.
+SUPFEMALE:They're quite large.
+LEADMALE:They have Gregory Peck on it, just like this: Your little girl, she'll be on the bow, just like this: - Captain, sir.
+SUPMALE:- Yes? - Captain, sir? - Yes.
+LEADMALE:The storm is breaking.
+SUPMALE:Is it? Yes.
+LEADFEMALE:I think you should go and change into your jammies.
+LEADMALE:- I think you're right.
+OTHERMALE:- Good.
+SUPFEMALE:The crew was out of line anyway.
+OTHERMALE:- They were talking mutiny, Mommy.
+SUPMALE:- Mearth.
+LEADFEMALE:Mind? Oh, Mind, Mind, put away those groceries and do something to your hair.
+OTHERMALE:Put some magnetic beads in because we're stepping out with a terrific couple.
+OTHERMALE:Mork, I told you I'm not going to the Salvation Army luau with Exidor and his sister.
+LEADFEMALE:Mind, that's next week.
+LEADFEMALE:Tonight we're going out with our new best friends, Kal and Tracy Andrews.
+LEADFEMALE:Now, I wish you'd checked with me first.
+SUPFEMALE:You know what happens every time we go out with another couple.
+OTHERFEMALE:We can never get close enough to them to stay friends.
+SUPMALE:I mean, they brag about their kids, and we have to pass Mearth off as a visiting professor from Ceylon.
+LEADFEMALE:Mindy, come on.
+SUPMALE:We won't have to do any of that stuff for these people.
+SUPMALE:Why? Are they blind? You don't see.
+OTHERFEMALE:They're just like us.
+SUPFEMALE:I mean, she's from Chicago, and he's from Neptune.
+LEADMALE:- There's life on Neptune? - Well, not after dark.
+SUPMALE:Well, except for one little rib place in the inner city.
+SUPMALE:They also serve seafood.
+SUPFEMALE:You can get my man, lobster.
+SUPFEMALE:What's happening? Now, this couple, they are normal, right? I mean, Kal doesn't have three heads or eat wood or anything? No, I don't eat wood, although mahogany does make great croutons.
+LEADFEMALE:And they never get soggy.
+LEADFEMALE:- Hi, I'm Kal.
+SUPMALE:- Hi, I'm embarrassed.
+LEADMALE:- Hey, paisano.
+LEADMALE:- Hey.
+LEADFEMALE:Kal, I'd like you to meet my main gal here, the light of my life, the one I give my extra pickle to.
+LEADMALE:And I would like you to meet the only girl in the universe for me.
+OTHERFEMALE:Unfortunately, she couldn't make it, so I had to bring my wife.
+LEADMALE:He always says that.
+LEADMALE:Oh, I'm so happy to meet both of you.
+OTHERMALE:You know, my favorite cousin's name is Mindy.
+OTHERFEMALE:What a coincidence.
+SUPFEMALE:Mindy's name is Mindy.
+LEADMALE:Mindy, Mork tells me you're in television.
+LEADFEMALE:Maybe Maybe you can answer this for me.
+SUPFEMALE:Why is there no Channel 1? Oh.
+SUPMALE:Oh, oh, oh, uh Well, see, uh, when television was first invented, uh No, see, the FCC has special frequency regulations and, uh I haven't the faintest idea.
+OTHERFEMALE:The search goes on.
+SUPFEMALE:She may not know, but she can adjust the vertical hold, - if you catch my drift.
+SUPMALE:- Oh! Well, how did you two meet? Well, I was working as a nurse's aide when Kal came in with re-entry burns.
+SUPFEMALE:Oh, it's okay.
+SUPMALE:And out of all the girls on Earth, he chose me.
+LEADMALE:You know, Mindy, we must be the two luckiest girls since the other two Mandrell sisters.
+LEADFEMALE:- Your champagne, sir.
+SUPFEMALE:- Oh, thank you, Chuck.
+OTHERFEMALE:- I'll do the honors.
+SUPMALE:Thank you.
+LEADMALE:- Very good, sir.
+LEADMALE:I think you'll like this one.
+OTHERFEMALE:It's from the Chateau region of Arkansas.
+LEADMALE:"Eau de Billy Bob.
+LEADMALE:" Heh.
+LEADFEMALE:See, it says, "Bottled somewhere near the house.
+LEADFEMALE:" Squeal! Heh-heh.
+SUPMALE:Oh, there we go.
+LEADFEMALE:Little touch there.
+LEADFEMALE:There we are.
+LEADMALE:Whoo! Party! Boom! You are my kind of guy, Mork.
+OTHERFEMALE:I never had a friend like you, Kal.
+SUPMALE:You know, we are gonna be closer than Karen Black's eyes.
+LEADMALE:Oh, Mork, why don't we sit down and talk seriously for a moment, okay? I think you're right, Kal.
+LEADFEMALE:How about this? Famine, flood and Alexander Haig, huh? Mork, have you ever noticed that this planet offers opportunities that a couple of guys like us could really take advantage of? I mean, aren't you tired of just sitting around being an observer when it would be so easy to just step in and take a piece of the action? You and I could really accomplish something very significant here.
+LEADMALE:Oh.
+LEADMALE:Really? You mean, like change the smell of tar? That's not exactly what I had in mind.
+LEADFEMALE:Wow.
+SUPFEMALE:Company.
+LEADFEMALE:Are you anybody I should know? Kal, Tracy, this is our little bundle of joy, our bouncing baby-man, Mearth.
+LEADMALE:- Hey.
+LEADFEMALE:- Hi, Mearth.
+LEADFEMALE:- Hi.
+LEADFEMALE:- Hi.
+SUPFEMALE:Yes, and he's even And he's even cuter when he's upstairs asleep in his bed, - aren't you, Mearth? - Oh, uh, uh-oh! Come on.
+LEADFEMALE:What's the good of having a kid if he can't come down and show off for company a little bit? Mearthy, do something wonderful, that thing that Daddy loves so much.
+LEADFEMALE:These slippers are a cheat.
+LEADFEMALE:Heh.
+LEADMALE:Whoa, eh, you're a little boy.
+SUPFEMALE:He is so fun.
+LEADFEMALE:It's amazing.
+LEADFEMALE:- Isn't he something? - Incredible.
+LEADMALE:Very talented.
+LEADMALE:Well, if you like that, how about my impression of Gary Cooper? Why don't you do Gary Cooper sleeping in the bunkhouse? Hmm? Okay.
+LEADFEMALE:Okay, Mommy.
+SUPMALE:Well, I'll be moseying along.
+SUPFEMALE:I'll be going to the bunkhouse.
+SUPMALE:I'm a little uneasy about that because of those bunkies.
+SUPFEMALE:Tomorrow at 12:10-30, they're gonna hang me.
+SUPMALE:I hope the guy has a sense of humor.
+SUPFEMALE:Last year he used a rubber band.
+SUPFEMALE:You kids wait here.
+LEADMALE:I'll be right back.
+LEADFEMALE:Mearth won't go to bed unless I show him a picture of the bogeyman getting on a plane.
+LEADFEMALE:Oh, you go right ahead.
+LEADFEMALE:Are you satisfied with the Orkan? He may be a feeb, but he still has great powers, though they're no match for mine.
+OTHERFEMALE:- I can mold him into whatever I want.
+LEADFEMALE:- What about the woman? She's of no use to us.
+SUPMALE:She'll have to be eliminated.
+OTHERMALE:And the child? The son, Mearth, is nothing but a useless mutant, and he does a lousy Gary Cooper.
+LEADFEMALE:- Oh! Mindy, Mindy, Mindy.
+LEADFEMALE:Oh.
+SUPMALE:Ha-ha.
+SUPMALE:We were just talking about how precious your child is.
+LEADMALE:No, you weren't.
+LEADMALE:I heard exactly what you said.
+OTHERFEMALE:How dare you talk about our son like that? - I think you two had better leave.
+OTHERFEMALE:- Oh.
+LEADMALE:Whoa-ho.
+SUPMALE:What's wrong, Mind, did they use those little soaps of yours? They just called your son a mutant.
+SUPFEMALE:How can you say something so cruel about a special boy - that's never hurt anybody? - Oh, hey, space-bro, lighten up.
+SUPMALE:What are you getting so upset about? I mean, we have important business to talk about.
+LEADFEMALE:We have nothing to discuss.
+LEADMALE:You should leave right now.
+SUPMALE:Look, I didn't wanna say this, but let's face it, he's nothing but a hefty half-breed.
+SUPMALE:No one calls my son a mutant.
+OTHERMALE:You should take a hike.
+LEADMALE:You could have been my ally.
+SUPMALE:But you've made your choice.
+SUPFEMALE:You'll live to regret this, Orkan, but not for long.
+LEADFEMALE:Tracy, come.
+OTHERMALE:Oh, remember, Mindy, you owe me that carrot-cake recipe.
+OTHERFEMALE:Night.
+LEADFEMALE:Well, we'll show them.
+SUPMALE:Give them your grandmother's carrot-cake recipe.
+LEADFEMALE:They'll starve to death trying to read her handwriting.
+OTHERFEMALE:Mommy, you'd better hurry up and get out here.
+LEADMALE:It's time you get out here.
+LEADMALE:If you take longer, I'm gonna start getting interested in girls.
+LEADFEMALE:I know you're in there, Mommy.
+LEADFEMALE:I know you're in there.
+LEADMALE:Now, I'm going to count to ten.
+LEADFEMALE:If you're not out here by the time I count to ten, I'll make a lot of long-distance calls at random.
+LEADMALE:Like Berlin, London, Paris, Frankfurt, Fayetteville.
+LEADFEMALE:Mommy.
+OTHERFEMALE:Okay, I'll use the old saver.
+LEADMALE:- Oh, Mommy, Mommy, Mommy.
+LEADMALE:Ah! - Mearth.
+LEADMALE:- I'm sorry, sweetheart.
+LEADFEMALE:- My tiny heart left my body.
+OTHERMALE:I'm sorry.
+LEADMALE:I didn't mean to frighten you.
+LEADFEMALE:I've been waiting downstairs.
+LEADFEMALE:I thought you'd slipped out for a moment.
+LEADMALE:I was irrigating my ant farm.
+SUPMALE:We'll wanna get to the park before the winos wake up.
+LEADFEMALE:- Here, here's your jacket.
+SUPFEMALE:- Okay.
+OTHERMALE:Oh, you're gonna love flying your kite in the park, Mearth, - and running.
+SUPFEMALE:- I don't wanna I don't wanna run.
+OTHERFEMALE:I'll just walk briskly.
+SUPMALE:Oh, hi.
+OTHERMALE:Heh.
+LEADFEMALE:- What's wrong? - Oh, nothing.
+OTHERMALE:- Good.
+LEADMALE:We're going.
+LEADMALE:- No, you're not! Oh, there's someone following me! Mork, you have been doing this for three days.
+LEADMALE:Now, no one is following you.
+SUPFEMALE:So Kal made a few idle threats.
+SUPMALE:That doesn't mean he's gonna do anything.
+LEADFEMALE:Look at Reagan.
+LEADMALE:Mind, you don't know Neptunians.
+LEADFEMALE:They end their national anthem with a human sacrifice.
+SUPMALE:Mork, you can stay in here and be afraid of your shadow, or you can come with us.
+LEADFEMALE:- Bye.
+OTHERMALE:- Okay.
+SUPFEMALE:Come on, Mearth.
+SUPFEMALE:- Bye.
+SUPMALE:- See you, Dad.
+OTHERFEMALE:There's no wind out there anyway.
+LEADMALE:Mork, are you in there? It's Tracy.
+LEADMALE:Please, open the door.
+OTHERFEMALE:I can't.
+LEADFEMALE:My Mommy and Daddy are sleeping.
+LEADFEMALE:Oh, Mork, please, I have to talk to you.
+LEADMALE:Let me in.
+LEADFEMALE:I'm alone.
+LEADFEMALE:Oh, sure.
+LEADMALE:And Tip O'Neill wears tapered shirts.
+SUPMALE:If you won't believe me, why don't you check for yourself? - Please.
+SUPMALE:- All right.
+LEADFEMALE:I think I'll just do that.
+LEADMALE:Kal, are you out there? Kal, are you out there? Well, that's good enough for me.
+LEADMALE:- Oh, Mork.
+LEADMALE:Oh, Mork.
+LEADMALE:- Oh, it's all right.
+OTHERFEMALE:Mork, you were the only person I could turn to.
+OTHERFEMALE:My life has fallen apart.
+SUPMALE:I've left Kal.
+SUPFEMALE:I should have known he was evil when he laughed at Old Yeller.
+SUPMALE:- Oh! That macho pig.
+OTHERFEMALE:Macho pig.
+OTHERFEMALE:- Yeah.
+LEADFEMALE:Oh I have tried to be a good wife.
+LEADFEMALE:I washed his clothes.
+LEADFEMALE:I darned his socks.
+LEADFEMALE:I even jogged for him so he could sleep late.
+LEADFEMALE:Oh, that's all Oh, wait, wait a minute, wait a minute.
+SUPMALE:There we go.
+OTHERMALE:There we go.
+LEADFEMALE:Okay, there we go.
+LEADMALE:Oh, come on, it's all right.
+SUPMALE:Yeah.
+LEADMALE:- Oh, Mork.
+OTHERMALE:- Feel better? Yeah.
+SUPMALE:You're so sweet.
+LEADFEMALE:Heh.
+LEADMALE:I have to tell you, Kal didn't meet you by accident.
+SUPMALE:It was all part of his plan.
+SUPMALE:He was just using you.
+SUPFEMALE:I feel so cheap.
+OTHERFEMALE:He just wanted to pick your brain to find out what your ultimate mission was here on Earth.
+OTHERFEMALE:Well, originally, I was sent to observe the culture, but now I just want to see if Nightline knocks off Carson.
+LEADMALE:Why do you want to know? Why? Oh.
+LEADMALE:Oh, Mork, I'm just being silly.
+LEADFEMALE:It's just that I haven't had a chance to chat with anyone since Kal left me.
+LEADMALE:Kal left you.
+SUPFEMALE:I thought you said you left Kal.
+LEADMALE:I did? Well, we both left at the same time.
+LEADFEMALE:Heh.
+SUPFEMALE:Wait a minute.
+OTHERMALE:You're trying to pull the Dacron over my eyes here.
+LEADMALE:Wait.
+LEADMALE:Who do you think I am? The American people? Come on, now.
+LEADFEMALE:Oh, my little Morkie Pie.
+LEADFEMALE:What difference does it make? Just as long as we're together.
+LEADFEMALE:Oh.
+OTHERFEMALE:Heh-heh.
+LEADMALE:Wait a minute, wait a minute.
+SUPFEMALE:I know I'm irresistible, but I have a wife and child.
+LEADFEMALE:I can't support them, but I've got them.
+SUPMALE:No, no, no.
+LEADMALE:I just wanna know what pleases you.
+LEADMALE:I wanna know your joys, - your problems.
+SUPMALE:- No.
+LEADMALE:Stand back! No.
+OTHERMALE:Well, the only problems I have is I really can't find a decent FM station.
+SUPMALE:No, no, no, please, no, no, no, please, no, no, no, wait, time-out.
+LEADFEMALE:Now, let's look at this rationally.
+LEADFEMALE:You and I are married people.
+LEADMALE:And besides, I can't keep this up.
+SUPMALE:I mean, I'm beginning to hyperventilate.
+OTHERFEMALE:Please.
+LEADMALE:- Good, I just love a heavy breather.
+SUPMALE:- Oh, no, no, no.
+SUPMALE:Daddy, are you telling her a story? - What is going on? - Oh, Mind.
+LEADFEMALE:Mind, Mind, Mind.
+LEADMALE:Mind, Mind, you know me.
+SUPFEMALE:Nothing is going on.
+OTHERMALE:Nothing is going on here.
+OTHERFEMALE:You know me.
+LEADMALE:I'm straighter than Chinese children's bangs.
+LEADMALE:- Mearth, go to your room.
+OTHERMALE:- Ma I still think that someday this will make a very sensitive movie.
+OTHERFEMALE:No, Mind, now, come on.
+LEADMALE:No, no, no.
+LEADMALE:Mind, you know I'd never cheat on you.
+OTHERFEMALE:Except in Monopoly when I'm the banker.
+SUPFEMALE:Mork, I'm sure that there's a perfectly logical explanation.
+SUPMALE:Oh, there sure is.
+SUPMALE:And you've got five seconds to give it to me.
+LEADFEMALE:Oh, no pressure.
+SUPFEMALE:Oh, Mind, she just can't keep her hands off me.
+LEADMALE:That's not the right thing to say.
+LEADFEMALE:I know.
+SUPMALE:Tracy, come on, now.
+SUPMALE:I mean, tell her, tell her.
+OTHERMALE:Your marriage may be over, but we just got our monogrammed towels.
+LEADFEMALE:You take your hands off Ah! You didn't have to take her literally.
+SUPFEMALE:I have a feeling she's not from Chicago.
+SUPMALE:What a pair of feebs.
+LEADMALE:I am programmed to extract and transmit information for my master, Kal.
+LEADFEMALE:You're an android.
+SUPMALE:Affirmative.
+LEADMALE:And I am also a bomb.
+SUPMALE:Oh, what a difference A bomb! Hide! Gosh, it's incredible.
+SUPMALE:What a mess.
+LEADMALE:Are you all right? Oh, Mommy, I wouldn't count on getting my cleaning deposit back on this place.
+LEADFEMALE:Everything okay, Mork? Mork.
+LEADFEMALE:- You still think I'm paranoid, Mind? - No.
+SUPFEMALE:Kal is after us.
+LEADFEMALE:Oh We gotta find someplace where he won't go.
+LEADFEMALE:- Where? - I don't know.
+SUPMALE:I was hoping you'd know.
+SUPFEMALE:I can't leave.
+SUPMALE:My guppy's expecting.
+LEADFEMALE:I'll go get the photo album and your jewelry.
+LEADMALE:- You get the Veg-O-Matic.
+OTHERFEMALE:- No.
+LEADMALE:We gotta get out of here before Kal comes back.
+LEADFEMALE:- Yeah, you're right.
+SUPMALE:Come on, son.
+LEADFEMALE:- Guppy's on her own.
+LEADMALE:Come on.
+OTHERFEMALE:This stuff will all be here when we come back.
+SUPFEMALE:I don't know, Mork.
+LEADFEMALE:I have a feeling we're never gonna see this place again.
+LEADMALE:Come on, we gotta get out of here.

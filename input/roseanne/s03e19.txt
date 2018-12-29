@@ -1,0 +1,353 @@
+OTHERMALE:Look science.
+LEADMALE:God, what a slow day.
+OTHERFEMALE:Yeah, but maybe if that guy with the Danish leaves us a $400 tip, we can close up early.
+SUPFEMALE:Oh, here comes the boss.
+SUPMALE:Look busy.
+LEADMALE:Hey, Leon.
+LEADMALE:Oh, listen, I know it's slow, but isn't there something menial you could be doing? Well, we're talking to you.
+OTHERMALE:Hey.
+OTHERFEMALE:Hey, look who's here.
+LEADMALE:Knocked off early.
+OTHERMALE:Thought I'd do something special for myself.
+SUPFEMALE:New thermos.
+SUPFEMALE:Ooh, plaid.
+LEADMALE:Snazzy.
+OTHERMALE:I want to knock off early, too.
+SUPFEMALE:Can you cover for me? No problem.
+LEADFEMALE:Hey, I got the afternoon off.
+OTHERFEMALE:We'll do something together.
+SUPFEMALE:I know.
+LEADFEMALE:We'll go grocery shopping.
+LEADMALE:I'll go in and buy the groceries, and you sit outside and play the radio.
+LEADMALE:Quality time.
+LEADFEMALE:See you later, Bonnie.
+SUPMALE:Excuse me.
+LEADFEMALE:Oh, yeah, sorry.
+LEADMALE:Leon, Dan.
+OTHERFEMALE:Dan, Leon.
+LEADMALE:Bye.
+SUPMALE:Roseanne, don't you think it might be appropriate to, say, uh, check with the boss before simply taking off? Well, it's dead in here and everything.
+LEADMALE:Bonnie said she'd cover for me.
+SUPMALE:What's the problem? The problem is that you keep doing this.
+LEADMALE:You took yesterday morning off, you didn't tell me.
+LEADFEMALE:Last Saturday, Estelle covered for you, Estelle tells me that.
+LEADFEMALE:I set the schedule around here, Roseanne, and you're ignoring it, which makes me wonder if you really want this job.
+LEADFEMALE:Of course I do.
+LEADMALE:The hours are great.
+LEADFEMALE:It's freezing out there.
+LEADMALE:But it'll be 80 degrees when we get to Vegas.
+SUPMALE:Oh, I can't wait.
+SUPFEMALE:Hey, check this out, these really cool sunglasses I bought.
+LEADMALE:Why do you need those? You're never leaving the casino.
+LEADFEMALE:They're to cover my eyes when I'm bluffing.
+LEADFEMALE:You can't bluff a slot machine.
+OTHERFEMALE:I don't see why not.
+LEADMALE:You talk to the dice.
+LEADMALE:Slots don't pay.
+SUPMALE:Let me teach you to shoot craps.
+SUPFEMALE:I don't like that.
+LEADMALE:You got to stand up the whole time.
+SUPMALE:Best odds in the house.
+LEADFEMALE:Dan, the best odds in Las Vegas in our favor are at the buffet table.
+LEADFEMALE:That reminds me, bring your big purse.
+LEADFEMALE:Anyways, I don't care nothing about gambling.
+SUPFEMALE:Alls I want to do is see Wayne Newton.
+LEADMALE:Ooh, yeah, the main Wayne.
+LEADMALE:The big fig.
+OTHERFEMALE:Sir Isaac Wayne.
+LEADFEMALE:Remember we saw him in Chicago, and he was singing Apple Blossom Time just to me? Thought he was singing to me.
+LEADFEMALE:Dream on.
+LEADMALE:Hey.
+LEADFEMALE:Hey.
+LEADMALE:I don't want you guys living on pizza the whole weekend, so I bought you this nice ravioli.
+LEADMALE:Thanks.
+OTHERMALE:So, what time you guys leaving tomorrow? Soon as I get off work.
+OTHERFEMALE:So that would be, what, 5:00? Yeah, I guess.
+LEADMALE:5:30? Becky, you trying to get rid of us? No.
+LEADFEMALE:I want to make sure I'm here to say goodbye at, what, quarter to 6:00? I think that's about right.
+LEADFEMALE:You got to allow yourself time to get to the airport.
+LEADFEMALE:Well, that's a great idea, honey.
+LEADMALE:Ok.
+SUPMALE:So, Dan, I guess this party we don't know about starts, what, 7:00, 7:30? Party? Why would they have a party the one weekend we're going to be out of town? Knock, knock.
+LEADFEMALE:Who's there? Ohh, Roseanne.
+OTHERFEMALE:Thanks for bringing me that suitcase, Crystal.
+LEADFEMALE:You shouldn't be hauling that in your condition.
+LEADMALE:There's nothing in it, Dan.
+SUPMALE:Roseanne asked to borrow it for your trip.
+LEADMALE:Here, sit down.
+LEADMALE:Goodness, Dan.
+LEADMALE:I'm pregnant, I'm not dying.
+LEADMALE:He's just wonderful like that, Crystal.
+SUPMALE:When I was pregnant with Darlene, he was so nice, I held her in for 16 months.
+SUPMALE:Hi.
+SUPMALE:Hi.
+SUPMALE:We're going to miss you when we're gone.
+LEADMALE:I'll take good care of him, Roseanne.
+SUPMALE:Why can't I stay with Becky and Darlene? I don't want you to spend the weekend locked up in a closet.
+LEADFEMALE:Roseanne, here's $5.
+SUPFEMALE:00.
+SUPMALE:Put it in one of those machines that has the million dollar jackpot, and if it wins a million dollars, stop.
+LEADMALE:I'm up 5 bucks, and you said the slots don't pay.
+LEADMALE:You know, I envy you two.
+LEADMALE:A weekend of luxury in Las Vegas.
+SUPMALE:Well, we try to get away, what, every 15, 16 years? You know, so we can relate to each other as a man and a woman.
+LEADMALE:Yeah, then after that, I'm going to go shoot craps.
+LEADMALE:That'll kill another five minutes.
+LEADFEMALE:The fire extinguisher's in the closet, emergency numbers are by the phone Dad That reminds me, I'll write down the hotel number just in case there's a problem.
+LEADMALE:Dad, we're not babies.
+LEADFEMALE:You don't have to worry about us.
+OTHERFEMALE:I'm not worried about you.
+LEADFEMALE:I'm worried about the house.
+SUPFEMALE:So, what time's the party start? What are you talking about? Girls, listen.
+LEADFEMALE:When I was your age, and my parents went out of town, I had a party.
+LEADMALE:I had a great party.
+LEADMALE:Legendary.
+LEADMALE:People wrote songs about it.
+SUPFEMALE:Did your parents know you had it? Course not.
+LEADFEMALE:Then we're not having a party.
+LEADMALE:I know.
+LEADFEMALE:Hey! Hi! Hi.
+LEADMALE:Is d.j. Ready? d.j. , aunt Jackie's here.
+LEADFEMALE:What time do you want me here tonight? Jackie's coming over? Why? It's still a big secret.
+LEADFEMALE:Ohh, that's cute.
+LEADFEMALE:We're not having a party.
+SUPMALE:Why won't you believe us? Dan, I got a great idea.
+SUPMALE:Since I'm coming over to hang with the girls, how about I wear my old cop uniform? Sure.
+LEADFEMALE:It's not like they're having a party or anything.
+LEADFEMALE:Ok, ok, we're having a party.
+OTHERFEMALE:God! Ok, right to the rules.
+OTHERFEMALE:No booze, no pot, no sex below the neck, everybody out by midnight.
+SUPFEMALE:1:00.
+SUPFEMALE:12:30, and no rap music.
+SUPFEMALE:Why not? I don't like it.
+LEADMALE:God, why don't we just bob for apples? Yeah, then we can take turns reading from the Bible.
+LEADFEMALE:d.j. , let's go! Thanks for taking him over to Crystal's.
+LEADMALE:You'd better get going.
+OTHERMALE:You got a 1 1/2 hour drive to Chicago.
+OTHERMALE:Roseanne's still at the mall.
+SUPMALE:Bye, Dad.
+SUPMALE:Ok, buddy.
+OTHERFEMALE:Have a good time, and remember what we talked about.
+LEADMALE:Yeah, yeah.
+SUPMALE:Don't make Crystal cry.
+LEADFEMALE:Attaboy.
+OTHERFEMALE:I got to get out of here.
+LEADMALE:Wait, Roseanne, here's $2.
+SUPFEMALE:00.
+OTHERFEMALE:Take it to the roulette table and put it on number 17.
+SUPMALE:Just let it ride until I lose.
+LEADFEMALE:What's the point? I love the action.
+SUPMALE:Ok, see you later.
+SUPFEMALE:Bye.
+LEADFEMALE:See you tomorrow, Roseanne.
+LEADMALE:Tuesday.
+SUPMALE:Tuesday? No, we're in the middle of a weekend sale, and I have you on the schedule.
+LEADMALE:I told you about this weeks ago.
+OTHERFEMALE:No, ma'am.
+LEADFEMALE:I wasn't here weeks ago.
+LEADFEMALE:Well I told some guy in a suit.
+SUPFEMALE:That suit doesn't work here anymore, and he didn't take care of it.
+SUPMALE:No, you're working tomorrow.
+LEADFEMALE:I'm going to Vegas.
+LEADMALE:How am I going to replace you on no notice? I have had this trip planned for months.
+LEADMALE:I got non-refundable plane tickets.
+SUPMALE:Ohh! Oh, well that falls into the category of not my problem Give me a break.
+LEADMALE:You give me a break! You just come and go here as you please.
+OTHERFEMALE:You totally ignore me.
+LEADFEMALE:That's what this is about, I'm not nice enough? I'm running a business, and I need a waitress tomorrow, so let's just say either you're here to work your shift, or don't come back at all.
+SUPFEMALE:If we don't go, we're out $500.
+LEADFEMALE:So you think I should go.
+OTHERFEMALE:We've been saving for this trip forever.
+OTHERMALE:I know that.
+LEADMALE:If we drive the speed limit, we'll just miss the plane.
+LEADMALE:I've got to talk about this some more.
+SUPFEMALE:Ok, talk.
+LEADMALE:I know you think it's just some waitress job, but I really like it, and I like Bonnie, and I like being at the mall, too.
+LEADFEMALE:Leon's a piece of garbage, but I quit that job, I got to find another, and what if that boss turns out to be even worse? Crazy world, isn't it? Ok, let's go.
+SUPMALE:Boy, you really care about this.
+OTHERMALE:I don't want to miss this trip.
+SUPMALE:You going to bellyache, or are we going to have a wonderful time? Oh, well, ok, we'll go and have a wonderful time, but you're going to regret it! No, no, no, no, no, no.
+LEADFEMALE:Party's down here.
+LEADFEMALE:I just wanted to use the bathroom.
+LEADMALE:Well Tough.
+OTHERFEMALE:Uh Let me see that.
+SUPFEMALE:Carry on.
+LEADMALE:Hi.
+OTHERMALE:Hi.
+SUPMALE:How you doing? Nice party.
+LEADFEMALE:Yeah, I'm enjoying myself.
+LEADMALE:You know, you have got a beautiful smile.
+LEADFEMALE:I'm not smiling.
+LEADFEMALE:Well, why don't we work on that? Ohh, god.
+OTHERFEMALE:Hey, there we go.
+OTHERMALE:Ohh.
+LEADMALE:I'm Eric.
+LEADFEMALE:I'm a senior.
+LEADMALE:Oh.
+SUPMALE:And you are? I'm Jackie.
+OTHERMALE:I'm a former senior.
+LEADFEMALE:Jackie.
+LEADMALE:Jackie.
+LEADMALE:You know, that is a beautiful name.
+LEADMALE:These parties make it real hard for two people to get to know each other well.
+LEADFEMALE:I got a car.
+LEADFEMALE:Why don't we go somewhere Listen, Eric, you're very cute, but you and I together would be illegal, so I don't think so.
+LEADMALE:Hey, ok.
+LEADFEMALE:It's cool.
+LEADFEMALE:Yep.
+SUPMALE:Oh, yeah.
+SUPMALE:Still got it.
+OTHERFEMALE:I tried to get her out.
+LEADFEMALE:The old broad said no.
+LEADMALE:Yeah, thanks, anyway.
+SUPMALE:Hey, Becky.
+OTHERFEMALE:Oh, hey, Brian.
+SUPMALE:Um If I asked you a question, would you not tell Darlene that I asked you? Yeah.
+LEADFEMALE:Well you know how what happened with us, right? You made out on the couch and then you groped her.
+OTHERFEMALE:Yeah, she made me.
+LEADFEMALE:Yeah, so? Well, I asked her out, you know, exclusively, and She said no.
+SUPMALE:I don't get it.
+SUPFEMALE:Well, Darlene's just sort of discovering boys, Brian.
+SUPFEMALE:In fact, till she met you, she thought she was one.
+LEADFEMALE:So I should be her boyfriend, right? Becky, there you are.
+SUPFEMALE:I was looking for you.
+LEADMALE:Brian, can you excuse us? Where you been, Beck? Around.
+OTHERFEMALE:Around where? Outside.
+LEADFEMALE:With Mark? I was going to tell you, but I couldn't find you.
+LEADMALE:Ohh, ok.
+OTHERMALE:You won't tell Mom and Dad, will you? No.
+LEADMALE:Oh, you're so cool.
+LEADFEMALE:Not really.
+LEADFEMALE:Your folks figured he'd show up.
+SUPMALE:They said it was ok as long as I was here.
+LEADMALE:You're kidding.
+SUPFEMALE:He just drove away.
+LEADFEMALE:Oh! I was going to tell you, but I couldn't find you.
+LEADFEMALE:Becky.
+LEADFEMALE:Hey, Darlene.
+LEADFEMALE:Barry's here.
+SUPFEMALE:No way.
+LEADFEMALE:He's such a scuzz.
+LEADMALE:If he came to drool over you, I swear I'll kill him.
+LEADFEMALE:Hi, Darlene.
+SUPMALE:Hi, Barry.
+LEADFEMALE:Could I talk to you? I don't think this is a good idea.
+SUPFEMALE:Darlene liked you, and you asked me out.
+LEADMALE:She's real vulnerable, and she shouldn't have to go through this again.
+OTHERFEMALE:Shut up, Becky.
+SUPMALE:What did you want to talk about, Barry? Look, I never really did apologize for What for? You liked Becky more than you liked me, so you asked her out right? Well, it wasn't that I liked Becky exactly.
+LEADMALE:It's just that she's popular, and I figured I had a chance with her, so it's kind of like, you know, go for the gold.
+LEADMALE:Becky's gold? So what am I? Darlene Well, come on, Barry, pick a mineral.
+LEADFEMALE:You're funny, Darlene.
+SUPFEMALE:Yeah, I'm a regular riot.
+SUPFEMALE:No, that's what's great about you.
+LEADMALE:I mean That's why I like you.
+LEADMALE:You like me? Hey, you leave her alone! Who are you? Her boyfriend.
+LEADMALE:Boyfriend? Oh, we had a thing.
+LEADMALE:It's over.
+SUPFEMALE:It was fine until you came along.
+LEADMALE:Hey, don't push me.
+LEADMALE:You mean like this? No, like this! Jeez, Darlene, who is this guy? Hey, there's a fight! Hey! Hey! Hey! Let me through! Let me through! Hey! Come on, you guys! You guys! Come on! What's going on here? I was talking to Darlene and he I am her boyfriend.
+LEADMALE:That's not what she says.
+LEADFEMALE:Any more trouble out of you, you're out of here.
+LEADMALE:They were fighting over you? Yeah.
+OTHERFEMALE:That's it, show's over.
+LEADMALE:Nothing more to see.
+LEADFEMALE:Come on.
+SUPFEMALE:And as for you, Darlene Excellent.
+SUPMALE:This is your captain speaking.
+LEADFEMALE:I'd like to apologize for the delay, but the snow's coming down pretty hard and we're awaiting tower clearance, which, hopefully, we'll be getting any minute now.
+LEADMALE:So, in the meantime, why don't you sit back, relax, and wait.
+LEADMALE:8.
+LEADFEMALE:8's the point, and Eighter from Decatur.
+LEADFEMALE:Get this plane to Vegas.
+OTHERMALE:These peanuts are no good.
+SUPFEMALE:I didn't grow them, dear.
+LEADMALE:And the seats are too small, too.
+LEADFEMALE:I didn't build the plane, dear.
+LEADFEMALE:It's never going to stop snowing, is it? My fault.
+LEADMALE:Stop acting like everything I'm saying is your fault.
+LEADFEMALE:Sorry.
+OTHERFEMALE:No, I'm sorry.
+LEADMALE:I've been blaming you the whole time, and it stopped being fun an hour ago.
+SUPMALE:Well, if it will make you feel any better, I'm up $56,000.
+LEADMALE:If we were in Vegas, I could quit my job, too.
+LEADFEMALE:I really liked that job, Dan.
+SUPMALE:I know it wasn't a career or nothing, but I was happy, and I hate losing it.
+LEADMALE:I know.
+SUPFEMALE:I'm sorry I pushed you.
+SUPFEMALE:I just thought you'd feel better once you found yourself on an overcrowded, uncomfortable little plane that won't go anywhere.
+OTHERMALE:Maybe you won't have to lose that job.
+SUPFEMALE:Once we get back, you can talk to the guy.
+LEADFEMALE:Take a shot.
+LEADMALE:That would be like groveling.
+LEADMALE:You want me to talk to him? No, I think I'd better fight my own battles.
+SUPFEMALE:We're going to go see Wayne Newton.
+LEADMALE:I bet we get some lousy seats, too.
+OTHERMALE:I'll make sure we get seats right down in front.
+LEADMALE:Yeah? Close enough for me to hit him with my underpants? You will take them off first, won't you, dear? I ain't making no promises.
+SUPFEMALE:Ladies and gentlemen All right.
+LEADFEMALE:All right.
+LEADMALE:We just heard from the tower.
+LEADFEMALE:The snow's getting real bad out there, so they're trying to determine whether we can take off at all.
+OTHERFEMALE:We'll know in a moment.
+OTHERFEMALE:Hang in there.
+SUPFEMALE:We're going to make it.
+LEADFEMALE:No way.
+SUPFEMALE:Look at it out there.
+LEADFEMALE:This plane ain't going nowhere.
+LEADMALE:Yeah? I got 50 bucks says it is.
+LEADFEMALE:I'll take 5 of that.
+SUPMALE:Dan! I'm on a roll.
+OTHERFEMALE:You're on.
+SUPMALE:Hey, I'll take 10.
+SUPFEMALE:I'll take 15.
+LEADMALE:I'm going double, pal.
+SUPFEMALE:Outstanding.
+LEADFEMALE:Ladies and gentlemen, this is Captain Johnson.
+SUPMALE:I'd like to bet $100 we're not going.
+LEADFEMALE:He's bluffing.
+OTHERMALE:Iced tea, coffee.
+LEADFEMALE:I had the coffee.
+SUPFEMALE:I don't care.
+SUPMALE:All right, you know what you want? Are there any specials today? No.
+LEADFEMALE:Well, is there anything you could recommend? Yeah, hurry.
+SUPFEMALE:I guess I'll have the tuna melt.
+LEADFEMALE:Good choice.
+OTHERMALE:Oh, excuse me.
+LEADFEMALE:I forgot to order a beverage.
+LEADFEMALE:Then you must be really kicking yourself right about now, huh? Hi, Bonnie.
+LEADFEMALE:Hey, Roseanne.
+OTHERMALE:I thought you were in Las Vegas.
+LEADFEMALE:No, the flight got canceled, so we spent the night in Chicago.
+SUPMALE:Then it took us half a day to drive back.
+OTHERFEMALE:I'm sorry.
+OTHERMALE:Well, well, well.
+LEADFEMALE:Look who came crawling back.
+SUPMALE:Leon.
+OTHERFEMALE:Work, Bonnie.
+LEADMALE:So, Roseanne, how the hell are you? Ok, this is not easy But, uh, if you don't give me my job back, my husband's going to beat the crap out of you.
+LEADMALE:Roseanne, we both know why you're here.
+LEADFEMALE:Now, all you have to do is say, "I want my job back," and I'll give it to you.
+LEADFEMALE:Didn't you hire somebody else? I was going to, but you're here begging for your job, so I'm not begging.
+SUPFEMALE:No, of course not.
+SUPFEMALE:You have your, uh, dignity.
+LEADMALE:To recap "I Want My Job Back.
+LEADMALE:" Leon.
+LEADMALE:Come on.
+LEADFEMALE:"I Want" you're such a little, creepy, little, icky guy.
+LEADFEMALE:And? And I want my job back.
+SUPFEMALE:Fine.
+SUPFEMALE:Take this iced tea to table four.
+SUPFEMALE:Hell, no.
+SUPMALE:I'm on a break.
+SUPFEMALE:So I says, "Leon, you want me to come back, alls you got to do is ask.
+LEADFEMALE:" You really said it? Yep.
+SUPMALE:Did he give you a raise? 100 bucks an hour.
+LEADFEMALE:All right! Oh, I forgot to tell you, when I called the hotel to cancel the reservations, they said there was a huge earthquake and Las Vegas got sucked under the ground.
+LEADMALE:Wow, it's a good thing we didn't go.
+SUPMALE:You bet! I forgot to tell you something, though.
+LEADFEMALE:You know, while we were gone, the kids all met really rich guys and they all got married.
+LEADFEMALE:d.j. , too? Uh-huh.
+SUPFEMALE:Far out! Aah!
+LEADMALE:

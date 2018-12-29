@@ -1,0 +1,403 @@
+OTHERFEMALE:Na-no, na-no.
+LEADFEMALE:This has been a day to remember.
+LEADMALE:Mindy was such a beautiful bride.
+SUPFEMALE:But, Cora, they're honeymooning on Ork.
+OTHERMALE:Why can't they go to the Poconos? Well, I think it's exciting to go to another planet.
+LEADMALE:And I'd rather have a frontal lobotomy.
+SUPFEMALE:Well, go for it.
+LEADFEMALE:- Hello.
+LEADFEMALE:- Hey.
+SUPMALE:Hi.
+OTHERMALE:It's almost time to blast off.
+LEADMALE:Oh, Mindy, honey, won't you reconsider? I mean, we're talking about space travel here.
+LEADMALE:Going off to some strange planet.
+OTHERMALE:Oh, Dad, it's where Mork grew up.
+LEADFEMALE:He just wants to share it with me.
+OTHERFEMALE:Yeah, well, couldn't you just thumb through his yearbook? Dad, I'm a journalist.
+LEADFEMALE:This is the opportunity of a lifetime.
+LEADFEMALE:To boldly go where no man has gone.
+OTHERFEMALE:I mean, I'm thrilled.
+LEADFEMALE:I mean, I'm exhilarated.
+OTHERFEMALE:I'm scared to death.
+SUPFEMALE:Boy, that's a catchy tune.
+SUPMALE:I just wish I could remember the words.
+LEADMALE:Are those special glasses to shield our eyes from the ultraviolet rays? No, no, Mind.
+LEADMALE:I just bought them because they're gnarly.
+SUPMALE:Yeah, that's great, Mork.
+SUPMALE:Are you crazy? You can't let this man pilot you millions of miles through space.
+SUPFEMALE:He doesn't even have a driver's license.
+LEADMALE:Oh, come on now, Pops, come on now.
+SUPMALE:I've been to the four corners of the universe, I've charted 16 solar systems, and I can refold a road map correctly.
+LEADMALE:Well, there's another thing, Mork.
+LEADMALE:Mindy doesn't travel all that well.
+LEADMALE:- She got sick in her baby carriage.
+LEADMALE:- Aw.
+LEADMALE:Oh, that little "neener pooter.
+SUPMALE:" Don't worry about her.
+LEADMALE:We're gonna be traveling first class.
+SUPMALE:It's here, Mindy.
+LEADFEMALE:Oh, boy.
+LEADMALE:Boy, we're gonna go in style! We're gonna go Oh, shazbot.
+LEADFEMALE:They sent the compact model.
+SUPMALE:Oh, well, we'll just have to make do.
+LEADFEMALE:Now, now, now, just a minute, Mork.
+OTHERFEMALE:The words "deep space" and "make do" don't go together.
+SUPFEMALE:Oh, mon papa, ma familia, don't you worry about a thing.
+LEADMALE:I have prepared for everything that can be planned.
+LEADFEMALE:I've packed plenty of Dramamine and Tang.
+LEADFEMALE:Has anyone seen my Dramamine and Tang? Uh, I packed it.
+OTHERMALE:My wife.
+LEADFEMALE:I think I'll keep her.
+SUPMALE:I packed a lunch for you.
+LEADMALE:And there's a piece of your wedding cake in there too.
+LEADFEMALE:Oh, thanks, Grandma.
+SUPMALE:And we'll both bring you back something from Ork.
+SUPFEMALE:Where are you going to stay up there? We're going first class.
+SUPMALE:We're staying at the Hotel And Spa.
+LEADFEMALE:- You have reservations? - No, it seems like a nice place.
+LEADFEMALE:Well, just remember, Mork.
+LEADFEMALE:That's pretty valuable cargo there.
+LEADFEMALE:Oh, you're right.
+OTHERFEMALE:I really am proud of this suitcase.
+OTHERMALE:He meant me.
+LEADFEMALE:Oh.
+LEADMALE:Don't you worry.
+LEADFEMALE:Your little girl is in very good hands.
+SUPMALE:Don't touch that! You'll kill us all! Good evening and welcome to Air Ork's intergalactic traveler, the Huevos Grande.
+LEADMALE:Now that we're in flight, be aware of the total lack of safety measures.
+SUPMALE:First of all, we have no exits, either front, back or side.
+LEADFEMALE:In case of emergency, a brown paper bag will fall from the ceiling, - which means absolutely nothing.
+LEADFEMALE:- Heh.
+LEADFEMALE:On this flight, our in-flight movie will be The High and the Mighty and Fate is a Lonely Hunter.
+OTHERFEMALE:Airport '7ç.
+LEADMALE:Okay.
+LEADMALE:My turn.
+LEADFEMALE:I spy with my little eye something starting with the letter J.
+OTHERMALE:I spy the planet Jupiter.
+OTHERFEMALE:Ha, ha.
+LEADMALE:- Very good.
+LEADMALE:- That's hard to miss.
+LEADFEMALE:It's so huge.
+LEADMALE:Okay, I spy with my little eye something beginning with the letter K.
+LEADFEMALE:K.
+SUPMALE:I see a meteor coming right at us.
+LEADFEMALE:- You're supposed to say, "I spy," not - No! Besides, meteor begins with M Yeah, it's a Meteor! Mind, Mind, wake up.
+LEADMALE:Look on the scanner.
+SUPMALE:We're here.
+LEADMALE:- Oh, Mork.
+LEADMALE:Ork is beautiful.
+LEADFEMALE:- Well, yeah.
+SUPMALE:Just think, me, Mindy McConnell, the first woman in space.
+LEADFEMALE:Well, you're not the first one.
+LEADFEMALE:There was a Russian lady, but you're the first one that shaves her legs.
+SUPMALE:Aren't we going awfully fast? Yeah, yeah.
+LEADFEMALE:Yeah, Mind, isn't it a kick? Oh, there's the city now.
+LEADMALE:I better slow down.
+OTHERFEMALE:Pity.
+LEADFEMALE:Welcoming you to Squelm in the Elm Memorial Airport.
+LEADFEMALE:There will be a brief delay due to the controllers' strike.
+LEADFEMALE:Don't stand up until we're completely docked at the gate.
+LEADMALE:And observe the "No Screaming" signs.
+LEADMALE:- Oh, Mork, Ork is just amazing.
+SUPMALE:- I know, Mind.
+SUPFEMALE:Look at this hotel.
+SUPMALE:Everything is just so futuristic.
+SUPFEMALE:This is one of the old downtown hotels, Mind.
+LEADMALE:You should see the ones on the Strip.
+LEADMALE:Boy, Kenahara.
+LEADMALE:What are we gonna do first? I just wanna do everything.
+OTHERMALE:We'll go see my old neighborhood, if you don't mind digging with your hands.
+LEADFEMALE:What? Ha, ha.
+SUPFEMALE:Oh.
+LEADFEMALE:Na-no.
+LEADMALE:Ha, ha.
+LEADMALE:Oh.
+LEADMALE:Oh.
+LEADFEMALE:Na-no.
+LEADMALE:What's? What's that all about? Oh, that's our version of the National Enquirer, Mind.
+OTHERFEMALE:Here you'll be a celebrity, because they've never seen an Earthling before.
+OTHERMALE:There's gonna be a little giggling and gawking.
+LEADFEMALE:Like an Alexander Haig press conference.
+LEADFEMALE:Na-no.
+LEADFEMALE:I suddenly feel very tired and very out of place.
+SUPMALE:- Let's go to our room.
+SUPFEMALE:- All right.
+LEADFEMALE:- What did you say? - I said you weren't that contagious.
+LEADMALE:And also I said you were housebroken too.
+LEADMALE:May I help you? Uh, yes.
+SUPFEMALE:We have reservations under the name of Mork.
+OTHERMALE:Mind, why are you talking to him? He asked about our reservations.
+LEADMALE:Mind, that's a penguin.
+LEADMALE:They don't talk.
+LEADFEMALE:They hardly ever take reservations.
+SUPMALE:Yes, Mork.
+OTHERMALE:And this must be your wife, the Earthling.
+LEADMALE:Well, it takes all kinds.
+LEADMALE:Orlando, this is taken care of through, uh, Orson's office.
+OTHERMALE:We'd like the special room overlooking the ice machine.
+LEADFEMALE:The room won't be ready for 30 micro-bleems.
+LEADFEMALE:Na-no, na-no.
+LEADMALE:Doesn't he look amazingly like Elton John, Mind? Mork, Orson carries a lot of weight around here.
+LEADMALE:Couldn't we get him to lean on the snippy little guy? Listen, I'm your husband.
+SUPMALE:I don't need Orson's weight.
+OTHERMALE:I have a lot of clout around here.
+LEADMALE:I used to be the dinner diver in the lobster tank.
+OTHERFEMALE:If that penguin gives you any trouble, wait right here.
+SUPFEMALE:Okay, I'll just browse.
+LEADFEMALE:Hello.
+OTHERFEMALE:Why do I feel like the Elephant Man? Excuse me.
+LEADFEMALE:On Earth we don't poke people we don't date.
+LEADMALE:Okay, that's enough.
+LEADFEMALE:No more poking.
+OTHERMALE:Mork.
+OTHERFEMALE:Oh, no, officers, they didn't mean any harm.
+SUPFEMALE:I'm sure they've just never Wait a minute! Mork! Wait.
+SUPFEMALE:I'm an American.
+SUPMALE:Help! Mork! Help! Mind? Mind, I've arranged for the room, hon.
+LEADFEMALE:Peekaboo.
+SUPMALE:Hope she didn't go in the pool.
+LEADMALE:It hasn't eaten yet today.
+LEADMALE:Hello, police? My wife is missing.
+LEADFEMALE:She's an Earthling.
+SUPFEMALE:Yeah, she'll be the only one who knows who Claude Akins is.
+LEADFEMALE:Oh, never mind.
+LEADFEMALE:Thank you anyway.
+LEADFEMALE:Mind.
+LEADMALE:Mind.
+SUPFEMALE:- Oh, Mork.
+LEADMALE:- Oh, Mind.
+LEADMALE:Hope you're all right.
+SUPFEMALE:Oh, Mork, I was dragged out of here by the space cadets.
+LEADFEMALE:And taken someplace for this physical examination.
+LEADFEMALE:Oh, they paraded me around and asked me questions I didn't understand and gave me this.
+SUPFEMALE:I guess it's some sort of a visa or something.
+SUPMALE:That wasn't a customs office.
+SUPFEMALE:That was a pet show.
+LEADFEMALE:What? You didn't do too badly.
+LEADFEMALE:You took fourth place.
+LEADFEMALE:A pet show? Oh, I'm so humiliated.
+LEADMALE:Oh, Mind, I know.
+LEADFEMALE:You should have at least won in the obedience class.
+LEADFEMALE:Oh, Mind, I don't know what to Thank you.
+LEADMALE:Oh, Mind, I'm really sorry about that.
+LEADFEMALE:I'm sorry.
+LEADMALE:I wanted to make the honeymoon very, very special.
+LEADFEMALE:Oh, Mork, no, it's not your fault.
+LEADMALE:It's just been such a long trip.
+SUPMALE:And And our rooms weren't ready.
+LEADFEMALE:In fourth place.
+LEADMALE:Mind! Mind.
+LEADFEMALE:I went to school with his father.
+OTHERFEMALE:I just need some rest.
+SUPFEMALE:Let's go to our room.
+SUPMALE:I admit I love your attitude.
+LEADMALE:You're hanging in there with me.
+LEADMALE:No wonder they call you the better half.
+SUPMALE:Now the room's all set to go and let's go upstairs and we'll play newlyweds, you know, count our savings bonds.
+LEADMALE:This is an intergalactic class hotel.
+LEADMALE:They modify each room to satisfy the needs of the specific alien.
+LEADMALE:It's gonna be like any Ramada Inn on Earth, right down to the little paper sash on the commode.
+LEADMALE:Mork, it's customary to be carried over the threshold.
+LEADMALE:Oh, all right, Mind, but I'm a little heavy.
+LEADMALE:Me, not you.
+OTHERFEMALE:Thanks, Mork, that was real romantic.
+SUPMALE:Well, Mind, this is just like any room on Earth.
+LEADMALE:I mean, lots of rooms I've seen on Earth with floor paper and wall rugs.
+SUPMALE:- Ceiling chairs.
+SUPMALE:- Mork.
+LEADFEMALE:All right, Mind, they screwed it up! I'm sorry! It looks like it was decorated by Fools-R-Us.
+LEADMALE:Oh, Mind, how could they do this to me? Oh! Too much coffee, Tom? - Mork, it's all right.
+OTHERFEMALE:- Oh, it is? No, but you're distraught.
+SUPMALE:We'll talk about it later.
+LEADMALE:Oh, Mind, Mind.
+OTHERMALE:I just wanted our honeymoon to be very, very special.
+LEADMALE:Oh, I know.
+LEADMALE:Look, the important thing is that we're together, and it is our honeymoon.
+LEADFEMALE:Aw.
+LEADFEMALE:In the dictionary it says, "Compassionate, see you.
+SUPMALE:" - I love you, Mork.
+LEADFEMALE:- I love you, Mind.
+SUPFEMALE:- Dong-ding? - Dong-ding? They can even screw up a doorbell.
+SUPMALE:Oh, maybe it's the bellhops with our luggage.
+LEADMALE:- Do you tip bellhops here on Ork? - No.
+LEADMALE:They're robots.
+LEADFEMALE:If you tip them, they can't get back on their feet.
+LEADMALE:- Surprise! - Surprise! Oh, gosh, Mind! It's the Peevee clones, Six and Seven.
+SUPFEMALE:- It's nice to meet you.
+SUPMALE:- You must be Mindy, his wife.
+LEADMALE:Whatever that is.
+LEADFEMALE:We heard you were back.
+OTHERFEMALE:We could hardly wait to get up here.
+LEADFEMALE:Six thought it'd be funny if we brought in your luggage.
+LEADFEMALE:Yeah, we had to tip the robot.
+LEADFEMALE:He's still out there.
+SUPFEMALE:Oh, yeah.
+OTHERFEMALE:Yeah, he's out there.
+OTHERFEMALE:His little feet just flailing away.
+LEADFEMALE:Mind, the clones and I, we go way back.
+LEADFEMALE:Remember? Rick 'em, rack 'em, ruck 'em, ruck 'em, get that ball and really fight! We used to sneak into the school bathroom and tell, like, jokes, and l Well, you know, I got caught for being funny, and that's why I was sent to Earth.
+LEADFEMALE:Wait till you hear our latest Orson joke.
+OTHERMALE:This is really gonna shorten your circuits.
+LEADMALE:Okay, now, watch those sides.
+SUPMALE:Here goes.
+SUPFEMALE:Orson is a big - Fatso! - Fatso! I can see why you were the only one caught.
+SUPFEMALE:We might as well make ourselves at home.
+SUPMALE:Might as well.
+SUPFEMALE:We've got a lot of catching up for Mork to do.
+SUPFEMALE:Hey, Mork, your human friend is really going to appreciate this one.
+SUPFEMALE:How many Earthlings does it take to screw in a light bulb? I don't know.
+SUPFEMALE:How many Earthlings does it take to screw in a light bulb? - One.
+LEADMALE:- One.
+LEADFEMALE:They're gone, Mind.
+OTHERMALE:Mork, I've had colds that didn't hang on as long as the Peevee clones.
+OTHERMALE:I thought they'd take the hint when we put on our nightgowns.
+SUPFEMALE:I thought they'd take the hint when we told them to get out.
+OTHERFEMALE:Especially after they referred to me as "your creature.
+OTHERFEMALE:" Well I guess we're alone now.
+OTHERMALE:I guess so.
+LEADMALE:Just the two of us, huh? Yep.
+SUPFEMALE:Looks that way.
+SUPMALE:- On our honeymoon night.
+LEADMALE:- Yep.
+SUPFEMALE:Sure is dark.
+LEADMALE:Sure is.
+LEADFEMALE:Well, it's our wedding night.
+SUPMALE:I'd better not put this off any longer, huh? Guess not.
+LEADMALE:Bette Davis eyes Night, Mind.
+LEADMALE:What was that? That's the ancient Orkan honeymoon ritual.
+LEADFEMALE:Good night, Mind.
+LEADFEMALE:The honeymoon ritual is a little different on Earth.
+LEADFEMALE:What's different, Mind? No mask? Hardly.
+LEADMALE:My father gave me this marriage manual to give to you.
+OTHERFEMALE:I told him he was crazy.
+SUPFEMALE:That's one for Dad.
+LEADFEMALE:- Read this.
+LEADFEMALE:- Now? Please.
+LEADFEMALE:Cute pictures.
+SUPMALE:Just read, Mork.
+LEADMALE:Uh-huh.
+SUPMALE:Mm-hm.
+LEADFEMALE:Whoa.
+LEADMALE:Heh.
+LEADFEMALE:Okay, all done.
+OTHERMALE:Is there anything you don't understand? No, clear as a bell, Mind.
+SUPMALE:L I'm just gonna step in the bathroom for just a minute.
+LEADMALE:Mork.
+SUPMALE:Mork, are you all right? - Did that book upset you? - No! Not at all.
+LEADFEMALE:Really, Mind.
+LEADFEMALE:I'm just gonna sleep on the bathroom floor tonight and maybe forever.
+LEADFEMALE:That's ridiculous.
+LEADFEMALE:You're not gonna sleep in the bathroom.
+OTHERFEMALE:Now, come out here.
+SUPMALE:I wanna talk to you.
+LEADMALE:No way, Jose.
+SUPMALE:No chance, Lance.
+LEADMALE:Not tonight, Irving, I have a headache! Mork, you're my husband.
+LEADMALE:I'm not gonna let you sleep in the bathroom.
+LEADMALE:If you don't come out, I'll come in there and get you.
+LEADFEMALE:Aha! I'll lock the door.
+LEADMALE:Stupid Orkans forgot to put a lock on the door! They probably didn't think we'd need one.
+LEADFEMALE:Now, come on, Mork, come out of there.
+OTHERFEMALE:Mork.
+LEADMALE:Mork? All right, I'm coming in there.
+OTHERFEMALE:Mork! Mork, come back.
+SUPMALE:Don't run away.
+LEADFEMALE:Mork.
+LEADFEMALE:We should have gone to Niagara Falls.
+OTHERMALE:Mork.
+LEADMALE:Mork, where are you? I know you're here someplace.
+LEADFEMALE:Mork, this is our honeymoon.
+LEADMALE:Is this really the way you wanna start out our marriage? Mork not here right now! Mork, will you come out here, please? I need to talk to you.
+SUPMALE:I can't, Mind Oh, he can't! Mork.
+LEADMALE:Mind.
+LEADFEMALE:You knew it was me all along, didn't you? Psychic.
+SUPMALE:Well, I wasn't really running away.
+LEADFEMALE:I just like to hyperventilate alone.
+LEADFEMALE:You know, Mork, I think I realize for the first time how you must feel on Earth.
+LEADFEMALE:- I don't know how you cope.
+LEADFEMALE:- I've got you to take care of me.
+OTHERFEMALE:Aw.
+LEADMALE:I haven't told you this, but, you know, I think Ork is really a lovely planet.
+SUPMALE:I mean, the three moons are very romantic.
+LEADFEMALE:Mm-hm.
+LEADMALE:And this garden, it's It's beautiful.
+SUPMALE:Look, these flowers look almost exactly like Earth roses.
+LEADFEMALE:They should look exactly like Earth roses.
+LEADMALE:I've been sending them here for three years now.
+LEADFEMALE:You see, I wanted to share a little bit of Earth's beauty with Ork.
+LEADMALE:Oh, Mork, you never told me that.
+LEADFEMALE:That's so nice.
+LEADFEMALE:They're not as beautiful as you are, though.
+LEADFEMALE:Oh, thanks.
+LEADFEMALE:Now, you wanna tell me what's bothering you? I'm scared.
+OTHERMALE:Oh, Mork.
+LEADMALE:Come over here.
+SUPMALE:Oh, Mork, everyone's scared of getting married.
+LEADFEMALE:It's a new experience.
+SUPMALE:It's a normal emotion.
+LEADFEMALE:- It is? - Sure.
+SUPMALE:Oh, Mork, just think, someday we might have children and I'm scared to death of that.
+LEADMALE:But I know that you'll be there to help me get through it.
+SUPMALE:See, that's the really wonderful thing about marriage, is you have a friend who loves you and a partner who helps you through the rough times.
+LEADMALE:This friend and partner isn't ashamed of the other friend and partner? No, not if they love each other.
+LEADFEMALE:- Oh, trouble, Mind.
+SUPFEMALE:- For picking a rose? Yeah, we better walk fast.
+LEADMALE:This is a national monument, Mind.
+LEADMALE:Picking that rose would be the same on Earth as if you plucked one of Brooke Shields' eyebrows.
+LEADMALE:Back in the room again, huh? - Looks that way.
+LEADMALE:- Yeah, looks that way.
+LEADFEMALE:Well, back in the room again.
+LEADFEMALE:Heh.
+LEADMALE:Sounds like a Willie Nelson song.
+LEADFEMALE:Well, um, wanna watch a little TV, Mind? Orson Knows Best is on.
+LEADFEMALE:No, Mork, I'd rather talk.
+SUPMALE:You know, Mork, until today, I never really realized what it's like to be a stranger on a strange planet.
+OTHERFEMALE:But as bizarre and as scary as Ork has been to me, at least I've been here with you.
+OTHERFEMALE:Yeah, you got it there, kid.
+OTHERMALE:It's just you and me, sweetheart.
+OTHERFEMALE:Guess again.
+LEADMALE:- They're back.
+LEADFEMALE:- No, no.
+OTHERFEMALE:Mind, Mind, Mind.
+SUPMALE:That was Peevee clones Six and Seven.
+LEADMALE:These are One and Two, the originals.
+LEADFEMALE:Do you wanna hear our latest Orson joke? Mind, you think Six and Seven are funny, these clones wrote the book.
+SUPMALE:Okay, now, hold onto those sides.
+LEADMALE:Here goes.
+LEADMALE:Orson is a big Fatso.
+LEADFEMALE:- Mork.
+LEADFEMALE:- Fatso! - You didn't laugh the first time.
+LEADFEMALE:- I know, Mind, but I just got it.
+LEADFEMALE:Oh, honey, your delivery's incredible.
+LEADFEMALE:"Fatso.
+LEADFEMALE:" Just the way you said "fatso.
+LEADFEMALE:" - She's funny.
+LEADMALE:- She's funny.
+LEADFEMALE:You think she's funny, wait till you read this.
+LEADMALE:Ha, ha.
+SUPFEMALE:Check that one out for a week, and let me know when you figure it out.
+LEADMALE:Check that one out.
+SUPFEMALE:Rick 'em, rack 'em, ruck 'em, ruck 'em, get that ball and really fight! - They're gone.
+LEADMALE:- They're gone.
+LEADMALE:- Here we are in the room again.
+SUPFEMALE:- Yeah.
+SUPFEMALE:- Just the two of us.
+SUPMALE:- Looks that way.
+LEADMALE:I just want you to know I think I understand your Earth customs.
+LEADFEMALE:- You do? - Yeah, and I really do care.
+LEADMALE:Oh, Mork.
+LEADMALE:Just one thing.
+SUPFEMALE:Would you wear the chicken head tonight? - You're doing great, Mind.
+LEADMALE:- Thanks.
+LEADMALE:- Just stay in your lane.
+LEADMALE:- Okay.
+SUPFEMALE:We should really send Orson a nice thank you note.
+SUPMALE:- Yeah.
+SUPMALE:- Because I had a great time.
+LEADFEMALE:Oh, me too.
+SUPFEMALE:Mork! You know what my favorite part was? - What? - Guess.
+LEADFEMALE:- The pillow fight? - No.
+OTHERMALE:Yeah, well No, my favorite part was My favorite part was waking up in the morning and seeing you laying there next to me and knowing for the rest of my life your face will be the first one I wake up to every morning.
+LEADMALE:Oh, ditto, Mind.
+LEADFEMALE:- And I've got one thing to say to you.
+OTHERMALE:- What? Meteor!

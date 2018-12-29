@@ -1,0 +1,340 @@
+LEADMALE:okay, kid, you ready? Are you sure this is a good idea, Alex? I don't know anything about delivering groceries.
+LEADMALE:It's a great idea.
+LEADFEMALE:It's about time you get a little experience in the job market.
+SUPFEMALE:Besides, you figure people will give you bigger tips if you're with a little girl.
+LEADMALE:How can you be so cynical? Maybe it's because I only get Who is it? 
+SUPMALE:Adler's grocery! Door's open.
+LEADMALE:Come on in.
+SUPFEMALE:Hi.
+LEADFEMALE:You ordered some groceries? Yeah, just set them down on the counter and bill my account, okay? Sure.
+LEADFEMALE:Okay, they're on the counter.
+SUPMALE:I say, they're on the counter.
+LEADMALE:Yeah, and, uh, we're ready for our tip.
+LEADMALE:Jennifer! Uh, you have to excuse my sister.
+LEADFEMALE:No, no, no, no.
+SUPFEMALE:She's absolutely right.
+SUPFEMALE:I'm sorry.
+LEADFEMALE:I didn't mean to be rude.
+SUPMALE:It's just that I'm trying to write this paper for school, and I'm pretty caught up in it.
+LEADFEMALE:Hey, I know the feeling.
+SUPFEMALE:I'm sort of a workaholic myself.
+LEADFEMALE:This is my senior thesis.
+SUPFEMALE:It's on Milton Friedman's economic theories.
+LEADMALE:Pretty boring, huh? Are you kidding? I-i love Milton Friedman.
+LEADMALE:He's my favorite economist.
+SUPMALE:You have a favorite economist? He's not a normal boy.
+SUPFEMALE:Well, you know, I hate to play favorites, but, uh, I'm really excited about Friedman's theory that by keeping a tight lid on the money supply, the federal reserve board can control inflation.
+SUPFEMALE:I don't agree.
+LEADMALE:By following that policy, the fed keeps interest rates artificially high, which stifles the growth of the economy.
+SUPFEMALE:Oh, I-i don't know.
+SUPMALE:I think the high interest rates are mostly a psychological phenomenon.
+LEADMALE:See, the banks just don't have enough confidence in the economy to take the risk of lowering them.
+OTHERFEMALE:Speaking of the economy, Alex, time is money.
+LEADMALE:I'm gonna take the groceries next door to 215.
+OTHERFEMALE:If you're not in the car in 15 minutes, I'm leaving without you.
+LEADFEMALE:Uh, Jennifer, don't forget our deal.
+LEADFEMALE:I won't.
+LEADMALE:Cute kid.
+LEADFEMALE:Yeah, real cute.
+OTHERFEMALE:You know, you made an interesting point about Friedman's economic theory.
+SUPMALE:I never thought of looking at it that way.
+LEADMALE:Well, it's a it's a subtle yet intriguing perspective.
+OTHERFEMALE:Oh, I-i put your soap in freezer bags.
+LEADFEMALE:It helps keep the scent from permeating the food.
+SUPMALE:Oh, and, uh, I individually wrapped your eggs.
+LEADFEMALE:I've never seen that done before.
+LEADFEMALE:Well, uh, most people don't take groceries that seriously.
+SUPFEMALE:Most people don't take life that seriously.
+LEADFEMALE:It's my first day.
+OTHERMALE:You're my first delivery.
+LEADMALE:I hope I haven't overdone it.
+LEADMALE:Oh, I, uh, pitted those olives for you.
+LEADFEMALE:I hope you don't mind.
+SUPFEMALE:Did you leave my tea in the tea bags? Uh, listen, I'm starting to get a little worried about Jennifer.
+SUPMALE:I'm gonna go see what's taking her so long.
+LEADMALE:Hey, uh, by the way, my name's Stephanie Brooks.
+LEADFEMALE:Alex p.
+LEADMALE:Keaton.
+SUPMALE:Where do you go to school, anyway? I go to Harding high school.
+LEADFEMALE:You're kidding.
+LEADMALE:You don't seem like a high-school student.
+LEADMALE:You seem much older.
+SUPFEMALE:You know, you look it, too.
+LEADMALE:Thanks.
+LEADMALE:I've always thought immaturity was rather childish.
+OTHERMALE:Let's go, Alex.
+LEADFEMALE:You got 5 bucks from Mrs.
+LEADMALE:winchell? What'd you have to do to get that? I didn't have to do anything.
+LEADFEMALE:But this afternoon, you have to wash her car.
+LEADMALE:Real cute.
+LEADMALE:Well, look at you, Jennifer.
+OTHERFEMALE:You're up early.
+LEADMALE:You set the table, you're making breakfast, you're putting chocolate chips in the eggs? Mom, somebody had to be the first to try them in cookies.
+LEADMALE:That worked out all right, didn't it? Morning.
+SUPFEMALE:Hi, honey.
+SUPMALE:I'm making chocolate-chip eggs, Alex.
+OTHERFEMALE:Do you want some? Not if it were the last remaining food on the planet.
+SUPMALE:A simple "no" would have been sufficient.
+LEADFEMALE:Good morning, everybody.
+LEADMALE:Morning.
+LEADMALE:Now, there's a likely candidate.
+SUPMALE:Dad, do you want some scrambled eggs? I'm making them especially for you.
+OTHERFEMALE:Terrific.
+OTHERMALE:I'd love some.
+LEADMALE:Do I know how to pick them? Has anybody read any good books lately? I have to do a book report for English class.
+SUPFEMALE:Oh, what kind of book do you want to read, Mallory? Well, I don't actually want to read the book.
+LEADFEMALE:I was hoping one of you could tell me about a book you've read.
+LEADMALE:Mallory, reading is one of the great joys of life.
+LEADFEMALE:When you were young, you used to read all the time.
+LEADFEMALE:What happened? I discovered shopping.
+LEADFEMALE:I have this great picture of you as a young girl all curled up by the Christmas tree, reading "Lassie come home.
+LEADFEMALE:" Why don't you just do your book report on that? That's a good idea.
+SUPFEMALE:Refresh my memory.
+SUPFEMALE:Does Lassie come home or do they get a new dog or what? Hello? Uh, yes he is.
+SUPMALE:Can I tell him who's calling? Just a minute.
+OTHERFEMALE:Alex, a Stephanie Brooks for you.
+LEADMALE:Hello? Yeah, sure I remember you.
+SUPMALE:There wasn't any problem with the groceries, was there? Good.
+OTHERMALE:Tonight? In person?! Oh, I'd love to go! All right.
+LEADFEMALE:I'll come by your place at 7:00.
+LEADFEMALE:Thanks again.
+LEADFEMALE:Goodbye.
+SUPFEMALE:Front row, center.
+LEADFEMALE:I can't believe it.
+LEADFEMALE:Are you going to that Barry manilow concert tonight? Oh, better.
+SUPMALE:Better.
+SUPMALE:Better than Barry manilow? Who? Milton Friedman.
+OTHERFEMALE:He's giving a lecture at the college auditorium tonight.
+LEADMALE:Well, he is better than Barry manilow.
+LEADFEMALE:You see, a friend of Stephanie's canceled out, so she offered me the extra ticket.
+LEADFEMALE:Who is Stephanie? We delivered groceries to her yesterday.
+SUPMALE:She's very pretty.
+LEADMALE:She goes to college, and she has her own apartment.
+LEADFEMALE:You left out the color of her walls.
+OTHERMALE:Pink and tan.
+OTHERFEMALE:Now, Alex, don't take this the wrong way, but why would a college girl be calling you for a date? Why would any girl be calling him for a date? I mean, I'm not sure if I approve of you going out with a college girl.
+LEADFEMALE:Oh, come on, Elyse.
+SUPMALE:No, Steven, I'm I'm serious.
+OTHERMALE:A girl like that is is older.
+SUPFEMALE:She's She's more mature.
+LEADFEMALE:She's she's older.
+LEADFEMALE:Hey, Elyse, I don't see anything wrong with it.
+LEADFEMALE:What's a few years, anyway? Does, uh, that mean I can go out with college guys? That would be a gross misinterpretation of my remarks.
+LEADFEMALE:Sounds like a double standard to me.
+LEADFEMALE:Oh, ely You're on your own, buddy.
+LEADMALE:M-Mallory Alex is two years older than you.
+LEADFEMALE:In two years, if you want to go out with a boy who's in college, uh, we'll let you know then if it's okay.
+LEADMALE:Look, let's not make such a big deal about this.
+SUPMALE:Stephanie and I are not romantically involved.
+SUPFEMALE:We do share an interest in economics, but what we have is nothing more than a delivery boy/customer relationship.
+SUPFEMALE:That's what I was afraid of.
+LEADFEMALE:Your eggs are ready, dad.
+SUPFEMALE:Mmm! Steven, don't Heh These aren't bad, but I think they need some more chocolate chips.
+OTHERFEMALE:I knew Friedman was brilliant, but I never dreamed he was so Dynamic! You know, I was heartbroken when he finished and walked offstage.
+LEADMALE:Well, I'm sure Milton was as surprised as anyone when you stood up and yelled, "more! More!" Uh, do you think my holding up a lit match was a bit too much? Yeah, probably, but, hey, you were excited.
+SUPMALE:Well I guess it's pretty late.
+OTHERFEMALE:What is it Aha.
+LEADFEMALE:Would you like to come in for a little while? Uh, sure.
+OTHERMALE:Take a step forward.
+SUPFEMALE:Forward.
+LEADFEMALE:Right.
+LEADFEMALE:So, would you like some wine? Thank you.
+LEADMALE:Uh, just leave it on the counter.
+SUPMALE:I'll remember to take it when I leave.
+LEADFEMALE:No, I meant to drink here.
+LEADFEMALE:Oh! Oh, you mean here.
+LEADFEMALE:Now.
+LEADFEMALE:Oh, yeah.
+LEADMALE:Sure, wine would be great.
+OTHERFEMALE:Alex, did you think that it was at all strange that I called you and invited you to the lecture? No, not at all.
+LEADFEMALE:I mean, you knew I liked Milton Friedman.
+LEADMALE:You had an extra ticket.
+LEADMALE:It doesn't seem strange.
+SUPMALE:That's not why I invited you.
+SUPMALE:I didn't think so.
+LEADFEMALE:Alex I'm not really in the habit of calling up high-school guys and asking them out on dates, but when you were here yesterday delivering my groceries, I sensed something different, something, uh, special about you.
+LEADFEMALE:Maybe it was the way I individually wrapped your eggs.
+LEADFEMALE:There was more to it than that.
+LEADFEMALE:I mean, I can't even believe that I'm here with you right now.
+SUPMALE:I have to keep reminding myself that you're only 17.
+SUPMALE:You seem to have come by so much so early.
+LEADMALE:You must sense that about yourself, don't you? Not really.
+LEADMALE:I don't think of myself as Oh, Alex, come on.
+SUPMALE:Admit it.
+OTHERFEMALE:You're really special.
+LEADFEMALE:All right.
+SUPFEMALE:I I don't want to get in an argument about this.
+OTHERMALE:I think I know what you mean.
+SUPMALE:Has a lot to do with my parents, you know? They've always encouraged me to think for myself, to be aware of things.
+LEADFEMALE:We disagree about a lot, but underneath it all, I know they think I'm okay.
+LEADFEMALE:That's important.
+LEADFEMALE:I think a good relationship with your parents helps you to form good relationships with others.
+LEADFEMALE:That's true.
+LEADFEMALE:I know this guy at school, Louie Hicks.
+LEADFEMALE:His dad ran out on his family when he was 10, and I can tell by the way Louie acts that he deeply resents it.
+SUPMALE:Either that, or he just enjoys setting things on fire.
+LEADMALE:Do you have a lot of close friends at school? More than Louie.
+LEADMALE:See, you know, m-my friends at school, they're just kids.
+LEADFEMALE:I'd feel real funny having a conversation like this with any of them.
+OTHERFEMALE:All they want to talk about are girls and and baseball.
+LEADMALE:You know, I know exactly what you mean.
+LEADMALE:I couldn't have a conversation like this with most of the people I go to college with.
+LEADFEMALE:People who are intelligent and sensitive are a very rare breed.
+SUPFEMALE:I think that's why, despite our age difference, I find myself very attracted to you.
+OTHERFEMALE:How 'bout those Cleveland Indians? How 'bout those Cleveland Indians? Alex? Yes? Do you want to spend the night here? No, that's okay.
+SUPMALE:I-i live real close.
+SUPFEMALE:That's not what I meant.
+SUPFEMALE:I know.
+LEADMALE:It's just that You remember yesterday w-when I told you I had never delivered groceries to anybody before? Yeah.
+LEADMALE:That's not the only thing I've never done before.
+LEADMALE:Hmm.
+LEADMALE:Well, you did pretty well with the groceries.
+OTHERFEMALE: * birds do it bees do it even educated fleas do it let's do it let's fall in love morning, all.
+OTHERMALE:Hi.
+LEADFEMALE:You entering a David niven look-alike contest? Honestly, dad, you slay me.
+OTHERMALE:You done with the real-estate section? Uh Alex, what time did you get in last night? Oh, I don't know, mother.
+LEADFEMALE:What is time, really? Okay, Alex.
+LEADFEMALE:What the hell is going on here? How do you mean that, dad? You seem to have aged 10 years since yesterday, which would put you at about 56.
+LEADMALE:Are you in a school play you didn't tell us about, or is this costume related to your date last night? Mom What happened to me last night was more than just a date.
+SUPMALE:It was, perhaps, the most pivotal event of my life thus far.
+OTHERFEMALE:Should I take that to mean "yes"? You should indeed.
+LEADFEMALE:Oh, well, whether it was a date or a pivotal event, I still think you should have called home when you knew you'd be so late.
+SUPMALE:What would you have me do? Just after I said, "Stephanie, would you like some more cabernet?" Should I have said, "excuse me, I have to call my mommy"? I don't care what you said, as long as you called your mommy I mean, your mother.
+LEADFEMALE:Alex, uh, you sound pretty serious about Stephanie.
+LEADMALE:Let me put it this way, dad Remember when I said I wouldn't be getting married till I was 32? Yes.
+LEADFEMALE:Yes I remember July 17, 1998.
+LEADMALE:You made us put it on our calendar.
+LEADFEMALE:Well, it may be sooner.
+LEADMALE:Wait a minute.
+OTHERFEMALE:You met this girl two days ago, and already you're talking about marriage? They weren't just two ordinary days.
+LEADMALE:I mean, in some magical way, time moved quickly and yet stood still.
+LEADFEMALE:Oh, brother.
+SUPFEMALE:A-Alex, we don't want to interfere.
+LEADFEMALE:Okay, maybe we do.
+SUPFEMALE:We just don't want things to happen faster than you can handle them.
+SUPMALE:You're still young.
+OTHERMALE:You've got a lot to learn.
+SUPMALE:You have to learn how to dress, for one thing.
+SUPFEMALE:Now, if you'll excuse me, I have to go get changed.
+SUPMALE:I'm going rowing in the park.
+OTHERMALE:With Stephanie? No, I'm going alone to practice first.
+SUPMALE:I want everything to be just perfect when I take her.
+SUPMALE:birds do it 
+LEADMALE:Who is it? It's Alex.
+SUPMALE:Alex.
+SUPFEMALE:What are you doing here? I just thought I'd come by and surprise you.
+LEADMALE:Uh, you should have called me first.
+OTHERFEMALE:Wouldn't have been as much of a surprise.
+LEADFEMALE:Hey, we got a fresh batch of melons in at the market.
+LEADMALE:I brought you a couple.
+LEADMALE:Oh, here's a tip Keep them at room temperature for 36 hours before serving.
+SUPMALE:I thought maybe we could go out, maybe go see a movie, go rowing in the park.
+OTHERFEMALE:I've been practicing.
+LEADMALE:Who's he? Alex, this is Pete drucker.
+LEADMALE:Pete, Alex Keaton.
+LEADMALE:Hi.
+LEADFEMALE:How are you? Who is this guy? Uh, Pete, do you mind if I talk to Alex for just a minute? No, not at all.
+OTHERFEMALE:I meant alone.
+SUPFEMALE:Oh.
+LEADFEMALE:I'll wait in the other room.
+SUPMALE:Thanks.
+LEADFEMALE:Stephanie, what's going on? Uh, Pete goes to college with me.
+SUPFEMALE:He's a friend.
+LEADMALE:What kind of a friend? A very good friend.
+LEADMALE:Look, Alex, I'm not gonna lie to you.
+LEADMALE:Pete and I have dated.
+LEADMALE:Oh.
+LEADMALE:Are you on an official date right now? Well, we haven't registered or anything, but, yeah, I guess it's a date.
+SUPMALE:Stephanie, I don't, uh This just doesn't make sense to me.
+LEADFEMALE:How can you be on a date with another guy after what happened between us last night I mean, after everything we said, after everything We did? Alex, Pete being here right now has nothing to do with what happened last night.
+LEADMALE:How can you say that? Then w-what What was I to you? Just another body? Just a delivery boy, good for some groceries and a few laughs? I forgot to get myself something to drink.
+LEADMALE:Um I'm not that thirsty.
+SUPMALE:He's eating the food I delivered.
+LEADMALE:Let him go out and eat! Alex, look, I could ask Pete to leave, but that's not gonna solve anything.
+LEADMALE:I say we give it a try.
+LEADMALE:Look, Alex, I think I'd better explain something to you.
+LEADFEMALE:Look, okay.
+LEADFEMALE:You don't have to draw me a picture.
+SUPFEMALE:I think I know what's going on here.
+SUPMALE:There's one guy too many! I was here first.
+LEADFEMALE:Look, Alex, I'm really sorry.
+LEADFEMALE:If I hurt you in any way Look, last night was wonderful and special to me.
+LEADFEMALE:You've got to believe that.
+LEADMALE:I want to believe that.
+LEADMALE:I would believe that if it weren't for the small problem of that guy in the other room! I feel so cheap.
+LEADMALE:Okay.
+OTHERMALE:Everybody set? Yeah.
+LEADFEMALE:Just about.
+LEADMALE:Do you think Alex will be mad that we went to the movies without him? Honey, since Stephanie came into his life, I don't think he'd notice if we moved out of town.
+LEADMALE:Why don't we try it and see if he does? Come on.
+LEADFEMALE:Let's go.
+LEADMALE:Sweetheart, come on.
+LEADMALE: Alex.
+LEADMALE:Oh.
+OTHERFEMALE:How was your date with Stephanie? Fine.
+SUPMALE:Really? Yeah, dad.
+SUPFEMALE:It was fine.
+LEADFEMALE:It was a great date.
+LEADFEMALE:I had a wonderful time.
+SUPMALE:O-okay, Alex.
+OTHERFEMALE:Sorry to bug you.
+LEADFEMALE:It's just that, um You've only been gone So, a date can be fine without being long.
+SUPFEMALE:Where are you all going? We're going to the movies.
+OTHERMALE:What are you seeing? "Endless love.
+LEADFEMALE:" Uh I don't really want to see the movie.
+OTHERFEMALE:Elyse, why don't you go? Go on ahead with the girls.
+LEADMALE:Yeah.
+LEADMALE:Come on, girls.
+SUPFEMALE:Let's go.
+SUPFEMALE:Are you kidding?! This could be better than the movie.
+LEADMALE:Come on, Jennifer.
+LEADFEMALE:You want to talk about it? I went over to surprise her.
+OTHERMALE:I figured it would be sort of a romantic thing to do, you know? I even brought two gift-wrapped melons with me.
+LEADMALE:Melons? Well, no one can accuse you of being clichÃ©d.
+OTHERMALE:She was with another guy, dad.
+OTHERFEMALE:Oh, boy.
+OTHERMALE:How could she do that to me after everything that happened between us last night? I-I'm not sure I know what happened.
+SUPFEMALE:Well, you know what you think might have happened? That's what happened.
+SUPFEMALE:It was your first time, wasn't it? Sort of.
+SUPFEMALE:"Sort of"? You know that girl I have been dating, Monica Dillon? Yes.
+LEADFEMALE:She likes me.
+SUPMALE:But she's not ready She's not ready yet.
+OTHERMALE:But when she is ready, she wants me to be the guy, so I've been sort of counting that as one.
+LEADFEMALE:Interesting way of looking at it.
+SUPMALE:Alex Your first time.
+OTHERFEMALE:How about those Cleveland Indians? Look, look You've caught me a-a little bit off my guard here.
+LEADFEMALE:Actually, I've been practicing for this moment for a long time now.
+LEADFEMALE:So have I.
+OTHERFEMALE:I-I didn't expect you to be giving me this news in the kitchen, though.
+LEADMALE:Where'd you expect to hear it? For some reason, I pictured us in a ski lodge.
+LEADMALE:Big stone fireplace, snow falling outside, boots warming by the fire.
+LEADMALE:Well, I'm glad you told me.
+LEADFEMALE:Did you tell your dad about the first time? N-not yet.
+LEADMALE:I'm so confused, dad.
+SUPFEMALE:There was real communication between Stephanie and me.
+LEADMALE:At least I thought there was.
+LEADMALE:How could she have misled me like this? Alex, you and Stephanie may have had a beautiful night together, but but it But it was just one night.
+LEADMALE:Love and commitment don't materialize because two people spend a night together.
+SUPMALE:They did for me.
+LEADFEMALE:I don't know, dad.
+LEADFEMALE:I don't think I want anything more to do with girls.
+LEADMALE:Might as well join a monastery.
+OTHERMALE:You have to be catholic to do that.
+OTHERFEMALE:Boy, this really isn't my day.
+LEADMALE:Alex Alex, you acted on your feelings tonight and got hurt because of it.
+SUPMALE:But only by opening yourself up like this can you ever hope to To experience the exhilaration, the joy of loving another person.
+LEADMALE:Now, uh, maybe next time, you won't get hurt.
+LEADMALE:Maybe you will.
+SUPFEMALE:I don't know.
+SUPMALE:But, uh, I think it's worth taking that risk.
+LEADFEMALE:I didn't realize you knew so much about this relationship stuff.
+SUPMALE:I read a lot.
+SUPFEMALE:Alex, I know what it's like to feel something and want something only to have reality splash cold water in your face.
+LEADFEMALE:When your mother and I were in high school, I was crushed because she went to the junior prom with Roger silverman instead of me.
+LEADFEMALE:Why'd she do that? Because he asked her and I didn't.
+OTHERMALE:I was shy, but But I didn't give up on girls.
+OTHERMALE:I hung in there with your mother and, uh Well, I think you know how it turned out.
+SUPFEMALE:I could look at this as a learning experience, couldn't I? Of course.
+LEADFEMALE:Maybe I will give Stephanie a call tomorrow.
+LEADMALE:I mean, when you look back on mom and Roger silverman, you probably laugh, right? 
+LEADMALE:

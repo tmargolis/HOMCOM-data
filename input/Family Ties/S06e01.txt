@@ -1,0 +1,678 @@
+LEADMALE:Hey, Mom.
+LEADFEMALE:Morning, honey.
+OTHERFEMALE:Where's Andy? He was supposed to be down 15 minutes ago.
+SUPFEMALE:He's upstairs getting dressed.
+OTHERMALE:Oh, yeah, it's his first day of kindergarten, Mom.
+LEADFEMALE:He doesn't want to be late.
+LEADMALE:Most of the kids I knew who were late for kindergarten never bounced back.
+LEADFEMALE:Some are unemployed, some are in jail, the rest are at Grant College.
+LEADFEMALE:Seems like yesterday we were taking you to your first day of kindergarten.
+LEADFEMALE:What a nightmare that was.
+SUPFEMALE:I thought it went rather smoothly.
+OTHERMALE:No, as soon as you found out that your kindergarten teacher's name was Mrs.
+LEADFEMALE:McGovern, you became hysterical.
+LEADMALE:We could not convince you that she wasn't related to George McGovern.
+SUPFEMALE:You kept screaming, "Nixon's the one.
+OTHERFEMALE:Four more years.
+SUPMALE:" Jennifer, I'm telling you, you look great! I just want a second opinion.
+OTHERFEMALE:Mom, what do you think of this blouse? Well, the blouse is fine.
+LEADFEMALE:Where'd you get the pants? Mallory and I went shopping yesterday.
+SUPMALE:Well, how'd they get so ripped? We had them done at the store.
+LEADFEMALE:Costs a little extra, but it's worth it to get them ripped professionally, huh? Well, Jen, you're not wearing those pants to school.
+LEADFEMALE:Why? When you and Dad were in school, all your clothes were ripped I've seen pictures.
+LEADFEMALE:That's different.
+LEADFEMALE:Why? I'll go ask your father.
+OTHERMALE:Jen, I'm telling you, you are gonna do great in high school.
+OTHERMALE:Yeah, Jen, what are you worried about? This is Harding High.
+SUPFEMALE:This is my alma mater.
+LEADFEMALE:I'm a legend there.
+LEADFEMALE:Let's see your schedule.
+LEADMALE:Okay, let's take Okay, first period, you got Mr.
+SUPFEMALE:Gibson for English.
+LEADMALE:No problem.
+LEADMALE:He loved me, wrote me a recommendation for college.
+OTHERMALE:Second period, Mrs.
+SUPFEMALE:Hentaugh for math.
+SUPMALE:She wrote me two recommendations for college.
+OTHERMALE:Third period, Mr.
+SUPFEMALE:Kaufman for science.
+LEADMALE:He drove me to college.
+LEADFEMALE:Andy, Andy, let's get to work, buddy.
+SUPMALE:Got a lot of ground to cover here.
+SUPFEMALE:First day of kindergarten, you want to get off to a good start, right? I'm ready, Alex.
+LEADFEMALE:Yeah, the first thing your teacher's gonna ask is what you did over the summer.
+SUPMALE:Now, a lot of kids are gonna say, "I went to the zoo" or "I went to the beach" or "I went to a baseball game.
+LEADFEMALE:" What are you gonna say? I watched the Iran-Contra hearings.
+SUPFEMALE:And? President Reagan doesn't know anything.
+LEADFEMALE:Doesn't know anything about the scandal.
+LEADMALE:Okay, you don't want to be quoted out of context.
+LEADFEMALE:Alex, we've been over this a thousand times.
+OTHERMALE:Well, just humor me, okay? Because our ripped pants were a political statement.
+LEADFEMALE:What? That's why we could wear ripped pants to school and you can't.
+LEADFEMALE:Forget about the pants for a minute.
+LEADFEMALE:What do you think of the blouse? The blouse I like.
+SUPFEMALE:It's hip, it's rad, it's gnarly.
+OTHERMALE:You'll have to change it.
+LEADFEMALE:Okay, Keaton school bus leaving in 15 minutes.
+SUPMALE:Kindergarten.
+SUPFEMALE:Coming, Alex? Mm, I don't have to be on campus till 11:00, Dad.
+LEADMALE:Tough schedule at Leland, huh? Well, considering you go to a college that offers a graduate program in Trivial Pursuit, I wouldn't start with the college jokes.
+LEADFEMALE:And for your information, it's not a class, it's a psychology experiment.
+LEADFEMALE:I didn't know you had an interest in psychology.
+OTHERMALE:I don't.
+SUPFEMALE:I have an interest in money.
+LEADFEMALE:Yes, you've mentioned that.
+OTHERFEMALE:Some, uh, psych major's doing a paper on overachievers put an ad in the Leland Gazette looking for participants, so I thought I'd apply.
+LEADFEMALE:It's 100 bucks just to see what makes a guy like me tick.
+OTHERFEMALE:Oh.
+OTHERMALE:Well, when they find out, please let us know.
+SUPMALE:Chester, please.
+LEADFEMALE:I'm trying to work here.
+LEADMALE:Are you hungry? What are you in the mood for? Where did you learn the sign for McNuggets? Thanks.
+SUPFEMALE:I know it's the door.
+LEADFEMALE:Hello.
+LEADMALE:Can I help you? Hello.
+OTHERFEMALE:Alex P.
+SUPFEMALE:Keaton, overachiever.
+LEADMALE:Good.
+LEADMALE:I'm Lauren Miller.
+LEADFEMALE:Come in.
+LEADFEMALE:Thanks.
+LEADMALE:Come on, Chester, lunchtime! He wants McNuggets.
+LEADMALE:Again? I'm not gonna look like that when you're done with me, am I? No, no, no.
+SUPFEMALE:Chester's here learning sign language.
+SUPFEMALE:He has over a 300-word vocabulary.
+SUPFEMALE:That's incredible! I have a sister who gets by on half that.
+LEADMALE:Have a seat, Alex.
+LEADFEMALE:Oh, thanks very much.
+OTHERMALE:Whoa.
+LEADMALE:So, have you ever been the subject of a psychological profile before? Uh, well, not officially, Lauren.
+SUPFEMALE:Uh, although, when my younger sister Jennifer was in the fifth grade, she had to do a paper on a member of the family and chose me.
+LEADMALE:That's sweet.
+LEADFEMALE:Yeah, I still remember the title.
+OTHERMALE:It was, uh, "He Ain't Heavy "But He's Annoying He's My Brother.
+LEADMALE:" Well, this study will probably be a little different.
+LEADMALE:Although I do like that title.
+OTHERFEMALE:Now let me see your resume, please.
+SUPMALE:Uh, sure.
+SUPMALE:Just got to one sec.
+LEADFEMALE:There you go.
+LEADFEMALE:Well, you sure have been a busy little beaver, haven't you? Lord knows I try.
+LEADFEMALE:"Member of Phi Beta Kappa.
+OTHERFEMALE:"President of the Young Entrepreneurs Club.
+LEADMALE:"President of the Young Businessmen's Club.
+OTHERMALE:"President of the Alliance of Young Entrepreneurs and Young Businessmen.
+SUPFEMALE:" Thank God someone finally got them together.
+LEADMALE:Well, it wasn't really that hard.
+OTHERFEMALE:I'm the only member of both clubs.
+LEADMALE:"Winner of the McKinley Fellowship, the Rotary Scholarship, the Wilson Scholarship.
+LEADFEMALE:" Alex, this is really impressive.
+SUPFEMALE:Seems like the only thing you haven't won yet is the Miss America contest.
+LEADMALE:Well, you know that's all political.
+LEADMALE:I'm really glad that you'll be a part of this study.
+LEADMALE:You mean I'm accepted? Accepted? Alex, you are the classic overachiever.
+SUPMALE:You're the Babe Ruth of overachievers.
+LEADMALE:Well, we can start on Tuesday.
+LEADMALE:The sessions will run about an hour.
+OTHERMALE:All right.
+LEADFEMALE:Of course, you'll be paid for your participation.
+SUPMALE:Paid? Paid? Come on.
+OTHERFEMALE:Forget about it.
+LEADFEMALE:No, it's really not necessary.
+LEADFEMALE:It's reward enough for me to be able to help a fellow student in pursuit of academic knowledge.
+OTHERMALE:Well, it's $50 a session.
+LEADFEMALE:The ad said a hundred.
+LEADFEMALE:No, no, it's a hundred for schizophrenics and 50 for overachievers.
+LEADMALE:Uh, why? Uh, what, are you getting a two-for-one deal on schizophrenics? No, we just have variable rates depending on the particular study.
+OTHERFEMALE:Now, we can begin The ad said a hundred.
+OTHERMALE:No, I've got it right here.
+LEADFEMALE:Then uh-huh You see, 100 for schizophrenics, and 50 for overachievers.
+LEADFEMALE:I don't believe this.
+OTHERMALE:I'm-I'm being penalized for being normal.
+OTHERMALE:Anyone who merged the Young Businessmen and the Young Entrepreneurs is not normal.
+LEADMALE:Ooh.
+LEADMALE:Ooh.
+LEADFEMALE:What is that supposed to mean? It means that all of you overachievers are exactly the same.
+OTHERMALE:You know, all you care about is how much money you're getting paid.
+LEADFEMALE:Well, what happened to the idea of helping a fellow student in the pursuit of academic knowledge? I wouldn't exactly call a psychology experiment academic knowledge.
+OTHERMALE:What's wrong with psychology? Nothing, nothing.
+LEADFEMALE:Has its place, right up there with all the other make-believe disciplines.
+SUPFEMALE:Like anthropology, sociology my personal favorite, women's studies.
+SUPMALE:Well, for your information, Mr.
+LEADFEMALE:Keaton, psychology is a very real discipline.
+OTHERFEMALE:But of course, I know it's not as exciting as sitting in a business class, learning how to take over the world in one huge multinational merger.
+SUPFEMALE:All right, okay, all right.
+OTHERFEMALE:Don't start knocking business majors just 'cause we don't have time to sit around and get in touch with our feelings.
+LEADFEMALE:Oh, I know you don't.
+LEADMALE:That's 'cause you're too busy getting in touch with your brokers.
+SUPMALE:You leave my broker out of this.
+LEADFEMALE:I'll tell you what.
+OTHERFEMALE:I don't know if you business, economic, yuppie, Republican overachievers have any feelings to get in touch with.
+LEADFEMALE:Oh! Oh, really? Oh, really? Well, I've got a feeling.
+OTHERMALE:I got a feeling that this whole thing is a mistake! See, I know where this study is going.
+SUPMALE:You're trying to show that just because I am an overachiever, that I have no soul.
+SUPMALE:That all I care about is money.
+LEADFEMALE:Well, let me tell you something, missy, you are wrong.
+SUPMALE:And I'm not doing this for a penny less than 75.
+LEADMALE:Hey, sorry I'm so late.
+LEADFEMALE:How'd the psychology session go? Oh, Ma, if you don't mind, I'd rather not talk about it.
+LEADFEMALE:Sorry.
+LEADFEMALE:I had a great first day.
+SUPFEMALE:I'm taking this biology course, and I thought it'd be really boring, but I found a way to relate it to my major.
+SUPFEMALE:Found a way to relate biology and fashion design? Uh-huh.
+LEADMALE:My first my first research paper is gonna be called "Darwin and the Survival of the Best Fitted.
+LEADFEMALE:" That's real interesting, honey.
+LEADMALE:My basic premise is that certain animal species became extinct for the same reason certain types of clothes disappear they simply go out of style.
+OTHERFEMALE:In other words, the dinosaur and the leisure suit suffered the same fate.
+SUPMALE:I-I think it's a little more complex than-than that, Mallory.
+LEADMALE:See, the dinosaurs became extinct because of some very severe, uh, climatic changes in the Earth's temperature.
+LEADFEMALE:Exactly.
+LEADFEMALE:They didn't have a good winter wardrobe.
+SUPMALE:Meanwhile, the mammals are running around in stylish fur coats, so they survived.
+LEADFEMALE:Yeah, that's great, honey.
+OTHERFEMALE:That's the dumbest thing I've ever heard.
+LEADMALE:There's no way that happened.
+SUPFEMALE:How do you know? Were you there? I've taken enough history to know that the dinosaurs' problem was not a lack of earmuffs.
+LEADMALE:What's your problem tonight? Yeah, what's bothering you, honey? Did something go wrong at the psychology session? I go to see this girl, this Lauren Miller girl, right? The one, the one that's conducting the experiment on overachievers.
+LEADMALE:Anyway, things started out fine.
+LEADMALE:Said hello, you know, exchanged a few pleasantries.
+LEADMALE:The next thing I know, we get into this huge argument about money.
+LEADMALE:Mm-hmm.
+OTHERMALE:In other words, the same thing that happens when you meet anybody.
+LEADMALE:Even though the ad clearly stated $100 per session, she tells me that's just for schizophrenics.
+LEADFEMALE:That's so typical of 
+SUPFEMALE:I'm being paid less money 'cause I only have one personality.
+OTHERFEMALE:If that.
+OTHERFEMALE:Then she starts accusing me of being just like all the other overachievers.
+SUPMALE:Um, only being interested in money, and, uh and status, you know? Not having time for the more emotional areas in my life.
+LEADMALE:I'm telling you, nobody's irritated me this much, this fast, since the first time I met Ellen.
+LEADFEMALE:Aw, come on I know what you're thinking.
+SUPFEMALE:You're thinking I'm falling for this girl.
+OTHERMALE:There's no way, that's not true.
+LEADFEMALE:Alex and Lauren, sittin' in a tree Why don't you go put some earmuffs on a dinosaur, Mal? Hello.
+SUPFEMALE:Uh Oh, um ye-yes, uh-hmm.
+LEADFEMALE:Just-Just a second.
+OTHERFEMALE:Alex, it's Lauren Miller.
+LEADFEMALE:It is? What does she what what does she want? She agrees to $75, and she wants to know if you'll start Tuesday.
+LEADFEMALE:Uh, uh, just, uh tell-tell-tell her I'm eating.
+LEADMALE:All right? No! Um Uh, tell her, uh tell her I'm in the shower.
+SUPMALE:No.
+LEADFEMALE:No, um Uh, tell-tell her I'm eating in the shower.
+SUPFEMALE:You know, I think he might be able to get that schizophrenic rate after all.
+LEADFEMALE:Yes, Alex is coming back.
+OTHERFEMALE:I know how you feel about him.
+OTHERFEMALE:Alex P.
+LEADFEMALE:Keaton, overachiever.
+OTHERFEMALE:Hey, Chester.
+LEADMALE:How you doing, buddy? What-What does it mean when he holds up his middle finger like that? Exactly what you think it means.
+OTHERFEMALE:Oh.
+LEADFEMALE:Look, Alex, before we get started, I'd like to officially apologize for my behavior the other day.
+LEADMALE:It was it was very unprofessional.
+SUPMALE:Well, I'd like to apologize also.
+OTHERMALE:I-I didn't mean to slander psychology.
+LEADMALE:It's definitely better than women's studies.
+LEADFEMALE:And I'm sorry I criticized your incredible, all-consuming money obsession.
+LEADFEMALE:Not your normal exchange of apologies but, uh it's all we got.
+LEADFEMALE:Shall we get to work, then? - Sure.
+LEADMALE:Whoa, whoa, wait a minute, wait a minute, wait I I don't want to harp on this money issue, but if you're going to electrocute me, I'd like another $75 for my family.
+LEADFEMALE:Alex, this is just a polygraph machine.
+LEADFEMALE:If someone displays undue tension or an increase in pulse when answering a question, the machine buzzes, and I know they're not telling the truth.
+SUPFEMALE:Does it really bother you? No, no, absolutely not.
+LEADMALE:Absolutely not.
+OTHERFEMALE:Uh I got nothing to hide.
+LEADMALE:Oh, good.
+SUPMALE:It's working.
+SUPFEMALE:Now, first I'd like to ask you a few questions to see how well you'll fit in with the rest of the subject group.
+SUPFEMALE:Now, politically, would you describe yourself as liberal, middle of the road, or conservative? Uh, well, I-I I don't really like political labels.
+LEADFEMALE:Conservative.
+LEADMALE:Thank you.
+SUPFEMALE:Okay, overachievers they tend to meticulously plan out every aspect of their lives, from graduation to retirement.
+OTHERMALE:Do you see yourself as an obsessive planner? What, me? No.
+LEADMALE:Well, I-I wouldn't say "obsessive.
+LEADFEMALE:" I'm a planning maniac.
+LEADFEMALE:Now, the typical overachiever is so focused on classes and career that there's not much time left for dating.
+LEADMALE:Would you say you have a very active social life? An active active social life.
+LEADMALE:Yeah.
+SUPFEMALE:Are you actively dating? Well I go out on a couple of dates a week.
+SUPFEMALE:Maybe more.
+LEADFEMALE:This particular week was a little slow.
+SUPMALE:This particular year was a little slow.
+SUPFEMALE:You're lucky you don't have one of these strapped to you in real life.
+LEADMALE:Look, I'm just I just I'm not very good at sitting here and answering these personal questions, you know? Uh, maybe if it was a little more of a give and take.
+SUPFEMALE:You know, maybe if I asked you some questions? Okay, but Alex, I'm not the one that's being studied here.
+SUPFEMALE:I'm not the overachiever.
+LEADMALE:Hey, come on, you can't be doing too bad.
+LEADMALE:I mean, not everybody gets to do an honors thesis in psychology.
+LEADFEMALE:Well, that's different.
+LEADMALE:Psychology's always come very naturally for me.
+LEADFEMALE:Even when I was a kid, I was You really don't want to hear about this.
+LEADMALE:No, no! I do, I do! I really.
+LEADFEMALE:It'll-It'll-It'll make us more comfortable with each other.
+LEADMALE:I'll be able to lie in a much more relaxed fashion.
+LEADMALE:I remember when I was a kid, my mother came into my room and she was screaming at me, 'cause I'd made this huge mess in the kitchen.
+LEADFEMALE:Thanks.
+LEADMALE:She must have yelled at me for about an hour, and when she finished, I just I looked at her very calmly and said, "So how does that make you feel, Mom?" That must have driven her crazy.
+LEADFEMALE:And the crazier she got, the more interested I became in psychology.
+OTHERFEMALE:All my girlfriends had pictures of David Cassidy and John Travolta in their in their lockers at school.
+LEADFEMALE:I had this big picture of Freud.
+LEADMALE:All my friends had pictures of Jaclyn Smith, Farrah Fawcett and, uh, I had this big picture of Pat Nixon.
+LEADMALE:Um, now that we're more relaxed with each other, let's get back to work, okay? Yeah, how about how about you, uh, Lauren? Are you actively dating? That's an area of my life that's in a holding pattern.
+SUPFEMALE:I wish I could be as analytical about love as you overachievers, but I guess you could say that I'm in the "hopeless romantic" category.
+LEADMALE:Right.
+SUPFEMALE:You know, I don't think that we're gonna get a lot done today.
+LEADMALE:Why don't we just wrap it up? Or we could just continue talking about this informally.
+SUPFEMALE:Uh, maybe over a cup of coffee? Coffee? I don't know.
+SUPMALE:Is this a beverage problem? No, I just we've just got such a great psychologist-overachiever relationship, and I'd - I'd hate to see that change.
+LEADMALE:Right, I understand.
+OTHERFEMALE:Anyway, I've got a class in a couple of minutes.
+OTHERFEMALE:Sure.
+LEADMALE:Oh, by the way, Alex I'd like to come by your house sometime this week and talk to your family.
+OTHERMALE:I like to get a firsthand look at each overachiever's home environment.
+SUPMALE:I'll see you.
+LEADMALE:Just what I need.
+LEADFEMALE:A psychologist who makes house calls.
+SUPFEMALE:Oh, great, good, everybody's here.
+LEADFEMALE:Now is a good time for us to go over what we're going to say when Lauren gets here.
+LEADFEMALE:No, Alex, I know exactly what I'm gonna say.
+LEADFEMALE:I've been waiting 18 years to discuss you with someone in the mental health field.
+SUPFEMALE:Look, Mal, you got to be very careful what you say to a psychologist.
+SUPFEMALE:That's why I've, uh, drawn up some appropriate comments for all of you.
+SUPMALE:"Alex is more than a son.
+LEADFEMALE:"He's a friend.
+LEADMALE:"A companion.
+LEADFEMALE:"Someone with whom I can spend many happy hours discussing politics, world affairs and current events.
+SUPMALE:" Alex, I'm afraid if I read this aloud I'll be struck by lightning.
+SUPMALE:Mom "Mom, please read the 'Alex is more than a son' speech if Dad refuses to.
+LEADFEMALE:" "When I think of Alex, three words come to 
+LEADMALE:Integrity, intelligence, intellect.
+LEADFEMALE:" And, of course, the soon-to-be-added "institutionalized.
+SUPMALE:" No improvising.
+LEADMALE:"The thing I love best about Alex is that whenever I have a problem, he's around.
+LEADMALE:" You are never interested in my problems.
+LEADFEMALE:Where does it say I'm interested? It says I'm around.
+LEADMALE:There's a psychologist out there.
+SUPFEMALE:Good, there's a crazy person in here.
+OTHERMALE:Lauren.
+OTHERFEMALE:Uh uh, um Everybody, this is Lauren Miller.
+LEADFEMALE:Lauren, this is my father Steven Keaton, - My mother Elyse Keaton - Hi, Lauren.
+LEADMALE:Hi.
+LEADMALE:Uh, my sisters Jennifer, Mallory and I guess you met Andy.
+LEADMALE:I really want to thank you all for taking the time to talk with me.
+LEADMALE:I always find that visiting the home of an overachiever gives me a special perspective.
+LEADFEMALE:You should see what living with one does.
+SUPMALE:Well, uh why don't we go into the living room? You know, uh, Lauren, Alex is more than a son, he I can't do it.
+LEADMALE:Andy! Andy, Andy.
+LEADFEMALE:How's it going in there, buddy? I'm not sure.
+SUPMALE:What does "straight jacket" mean? So I said, I don't care how much interest a money market is making, Alex.
+LEADFEMALE:I don't think it's a very nice gift for Grandma.
+SUPFEMALE:Lauren! Lauren! Uh, Lauren Uh, can I speak to you for a minute? Sure.
+LEADFEMALE:What's up? Nothing.
+OTHERMALE:Uh, we just we never really had a chance to say hello.
+LEADFEMALE:Hi.
+LEADMALE:Hi.
+LEADMALE:Uh, so how's it going in there? Well, the only thing I can tell you for sure is that you're not normal.
+LEADMALE:But other than that, there's no sign of a severely maladjusted id, or a wildly fluctuating ego.
+LEADFEMALE:Which in Freudian terms means They're the two elements balanced by the superego.
+SUPFEMALE:How did you know that? Uh, well, I-I, uh I took some Freud out of the library the other day.
+LEADFEMALE:I just figured since you were you were spending so much time uh, trying to figure me out, I'd, um, I'd see what made you tick.
+LEADFEMALE:Uh, actually, the interesting thing is this Freud's a pretty amazing guy.
+OTHERMALE:Although I do think he's a little too sexually oriented.
+LEADMALE:Really? That's kind of what I liked about him.
+LEADFEMALE:I'm really surprised you did that, Alex.
+LEADFEMALE:It's a very non-overachiever-ish thing to do.
+LEADMALE:Yeah, well, I felt pretty non-overachiever-ish when I did it.
+SUPFEMALE:I'm gonna get back inside.
+LEADMALE:Yeah, Lauren? What? You be careful on your way into that living room.
+LEADFEMALE:Thanks.
+SUPMALE:I will.
+LEADFEMALE:I guess you could say I've always wanted to excel.
+SUPFEMALE:I mean, even as a young boy.
+SUPMALE:But it wasn't so much the winning that mattered to me it was the pure enjoyment of the competition.
+OTHERFEMALE:And I've always felt, in my heart You know, the amazing thing is it's not even on.
+SUPFEMALE:All right, I think I've had enough abuse for one day.
+SUPFEMALE:Okay, that was a great session.
+LEADMALE:Thanks.
+SUPFEMALE:You know, I had a terrific time talking to your family the other day.
+LEADMALE:They really seem to love you a lot.
+LEADFEMALE:You sure it was my family you were talking to? They gave me a lot of great information.
+OTHERMALE:And they told me about Ellen.
+SUPMALE:Oh, yeah.
+SUPMALE:Do you mind discussing her? Because if you'd rather not Oh, no, no, no no problem.
+LEADFEMALE:No, I I love to talk about Ellen.
+LEADFEMALE:What do you want to know? Well, psychologically speaking, it's interesting that you should be in a relationship with a girl like Ellen.
+LEADFEMALE:I mean, considering that most overachievers look for other overachievers to go out with.
+LEADMALE:I mean, she was an artist, wasn't she? Uh, yeah, an artist dancer, a poet yeah, we were complete opposites.
+LEADMALE:Why did you break up? Oh, she got a dance scholarship in Paris.
+LEADFEMALE:I got one, too, but Do you miss her? Sure yeah.
+LEADMALE:I-I miss her in the way that you miss a close friend, you know? I mean, Ellen Ellen taught me a lot.
+LEADFEMALE:She taught me how to appreciate art.
+OTHERFEMALE:Or at least not to laugh at it so much.
+LEADFEMALE:She taught me She taught me how to come out of my emotional shell.
+LEADFEMALE:You know? Be more more giving.
+OTHERMALE:More open.
+LEADFEMALE:More caring.
+LEADMALE:Made me a better person.
+LEADMALE:Alex, what you just said was really beautiful.
+LEADFEMALE:I mean, it was almost poetic.
+LEADFEMALE:Well, that hardly seems possible.
+LEADMALE:Nothing rhymed.
+LEADMALE:It just doesn't add up.
+LEADMALE:I mean, on the surface, you're this business-oriented, money-minded, conservative guy, yet you fell for a girl like Ellen, and expressed those kind of feelings.
+LEADFEMALE:You're definitely the most complex overachiever I know.
+LEADMALE:How many of us do you know? Well, I've interviewed And I was going out with this guy who definitely qualified as an overachiever.
+LEADFEMALE:You-you and an overachiever? That seems biologically impossible.
+LEADMALE:He was a graduate student in business management.
+LEADMALE:And you let him go? Well, we went out for almost a year.
+LEADFEMALE:It was sort of like your relationship with Ellen.
+LEADMALE:We were also complete opposites.
+SUPMALE:But we did have some good times.
+LEADMALE:What happened? Got a job offer from a big investment firm on Wall Street, his own office and $50,000 a year to start.
+SUPFEMALE:So he left.
+SUPMALE:Well, you can't really blame the guy.
+LEADFEMALE:I don't blame him.
+SUPFEMALE:It was mutual I mean, I-I I got tired of interpreting his dreams.
+SUPFEMALE:They were always about BMWs.
+LEADFEMALE:Uh, so, you, uh, you haven't seen anybody since then? Alex, how come you're the one that always ends up asking me the questions? I'll share my hundred bucks with you.
+LEADMALE:Seventy-five.
+LEADMALE:Don't be so hung up on money.
+LEADMALE:No, I haven't seen anybody since then.
+LEADFEMALE:I guess you can say I've been kind of wary - about getting involved.
+LEADMALE:All right.
+SUPFEMALE:Have you seen anybody since Ellen? No.
+SUPMALE:I guess you could say I've been pretty wary myself.
+LEADFEMALE:I guess it's best that way.
+OTHERFEMALE:Yeah, I mean that way nobody gets hurt.
+LEADMALE:Exactly.
+LEADMALE:Although, um although, sometimes if you take the chance of getting hurt you could be surprised.
+OTHERFEMALE:That's true.
+LEADFEMALE:Look, Alex, I got some research I want you to comment on.
+SUPMALE:Right.
+OTHERFEMALE:I mean, I had some research I wanted you to comment on.
+OTHERMALE:I got it, here.
+LEADFEMALE:No, no, I got it.
+OTHERFEMALE:No, let me get it Got it; I got it.
+SUPFEMALE:Uh Lauren, look, I'm sorry, I'm sorry.
+LEADMALE:I-I didn't, I didn't mean to kiss you.
+OTHERFEMALE:I was, I was helping you with the papers and your lips got in the way.
+LEADMALE:It's okay; this is really interesting stuff here.
+LEADFEMALE:It's you'll hardly be able to put it down.
+LEADMALE:Alex, I got to go.
+LEADFEMALE:Lauren, uh Lauren, wait a minute, um Look, uh, we were just getting good at that.
+LEADMALE:Is Alex home yet? - Not yet, honey.
+OTHERFEMALE:He still must be at school.
+OTHERMALE:Oh.
+SUPFEMALE:High school's gonna be a lot rougher than I thought.
+LEADMALE:This algebra course is a killer.
+LEADMALE:Well, maybe we can help you, Jen.
+SUPFEMALE:I think I better wait for Alex.
+LEADMALE:Wait a minute.
+LEADFEMALE:Wait a min You're sitting here, uh, with two college graduates.
+LEADMALE:I'm sure we can handle it.
+LEADFEMALE:Right, Elyse? I think we should wait for Alex.
+SUPFEMALE:Give me a shot.
+LEADMALE:I'm not optimistic about this, Dad.
+OTHERMALE:Go ahead; I'm listening.
+SUPFEMALE:"There are two trains.
+LEADFEMALE:"If the first train's destination is "a thousand miles away, and it travels at a speed "of 120 miles an hour for two hours, "making three stops of ten minutes each, "at what point will it pass a train coming from 700 miles away "in the opposite direction, traveling 90 miles an hour, making stops of 18, There-there are two trains, right? I'll send Alex up when he gets home.
+OTHERMALE:Thanks.
+OTHERMALE:Hey.
+SUPMALE:Alex, when you have a chance, Jen could use some help on an algebra problem? Yeah, I'll go up in a minute can I talk to you guys? - Oh.
+LEADFEMALE:Sure, what's up? I did something incredible today.
+LEADFEMALE:Something I told myself I'd never do.
+SUPMALE:You helped a Democrat cross the street? Worse.
+OTHERMALE:You see, it happened during one of my research sessions with Lauren.
+LEADFEMALE:Um we were talking, you know, this, that, you know, and, uh, um Anyway, one thing and another, you know Well, what happened after you kissed her? I-I, I, I fumbled out a little apology.
+SUPMALE:I mean, it was a little kiss.
+OTHERFEMALE:It was a little nothing.
+LEADFEMALE:And then-then, then she kissed me.
+LEADMALE:A big one.
+SUPMALE:Nearly tore the ligaments in my neck.
+LEADMALE:And, uh, and then-then-then she just ran out of the room.
+LEADMALE:And you haven't seen her since? Well, judging by my romantic history, she's probably on a plane for Paris right now.
+OTHERFEMALE:They have that regularly scheduled "Au revoir, Alex" flight.
+LEADMALE:Alex, does Lauren know how you feel about her? I don't know how I feel about her.
+SUPFEMALE:I mean, on one hand, I can't stop thinking about her.
+LEADMALE:And on the other hand, I'm just not ready for this kind of relationship right now.
+LEADMALE:Hey, what's going on? Oh, we're, uh, having a private discussion, Mal.
+SUPFEMALE:Great.
+LEADMALE:What's it about? Private meaning I'd rather not discuss it with you.
+SUPFEMALE:Alex, why won't you share some of your emotional life with me? After all, there's so little of it to go around.
+LEADFEMALE:Because, Mal, whenever I tell you something personal, it's instantly transmitted up to some big gossip satellite in the sky, and then beamed back down into the otherwise empty heads of your rumor-mongering friends.
+OTHERMALE:Alex, I won't tell a soul; I promise.
+LEADFEMALE:Well, there's-there's an outside possibility that I may have developed something other than a professional relationship with Lauren.
+LEADMALE:Oh, I've already spread that gossip.
+LEADFEMALE:How do you know? Because you always wear that-that blue sweater when you want to impress a girl.
+LEADMALE:The one with the monogrammed "APK" on it.
+SUPFEMALE:It's totally wrong for you, by the way.
+SUPMALE:Makes you look like a big, blue bath towel.
+LEADFEMALE:That's the look I was going for, Mal.
+LEADFEMALE:Well, congratulations.
+LEADFEMALE:Anyway, this whole thing is complicated by the fact that Lauren has already been through a bad experience with another guy.
+SUPMALE:Well, then that's perfectly understandable behavior coming off a breakup.
+OTHERFEMALE:Mom's right.
+SUPMALE:I know if Nick was suddenly out of my life, I'd have a hard time starting a relationship with somebody new.
+LEADFEMALE:You'll never know until you try.
+SUPMALE:No, I think what I should do here is continue with the sessions, you know? Pretend that nothing happened.
+LEADMALE:Feel her out, and don't commit until she commits.
+SUPMALE:Alex, I think you should tell her how you feel.
+LEADMALE:Be as open and honest as you can.
+SUPMALE:I can't be open and honest with her.
+LEADMALE:She's a psychology major.
+LEADFEMALE:She'll see right through that.
+LEADMALE:We-we were just talking.
+SUPFEMALE:One thing lead to another and then he kissed me.
+LEADMALE:No, I'm not gonna tell him how I feel about him.
+LEADMALE:I don't even know how I feel about him.
+LEADFEMALE:All right, here he is.
+LEADFEMALE:I want everything to be completely business-like.
+OTHERFEMALE:Maybe you should go.
+LEADMALE:Hello.
+LEADMALE:Hello.
+SUPMALE:Come in.
+LEADFEMALE:Got a lot of ground to cover today.
+LEADFEMALE:Why don't we get started? - Fine.
+SUPFEMALE:Fine, I'm ready to work.
+OTHERMALE:That's why I'm here.
+LEADFEMALE:Good.
+OTHERFEMALE:Okay, last time we discussed your childhood and your scholastic career.
+LEADFEMALE:Today I'd like to discuss your future.
+SUPMALE:Fine.
+LEADFEMALE:How do you picture your life ten years from now? Ten years from now? Uh, let me see.
+LEADMALE:Um, well I'd probably be a partner in a major New York banking firm, making a quarter of a million dollars a year.
+SUPFEMALE:Uh, I'll have a condo in Manhattan, beach house in Long Island, house in-between.
+LEADFEMALE:For storage.
+SUPMALE:Uh Couple of cars, a boat helicopter.
+SUPMALE:And a huge electrical fence to keep poor relatives out.
+OTHERFEMALE:How about you how do you see yourself ten years from now? Alex, this is how we get into trouble.
+SUPFEMALE:You start asking questions, you throw me off track, the next thing you know, we're on the floor and you're kissing me.
+LEADFEMALE:While we're on this topic, let me just say that while I was kissing you, you were kissing me.
+LEADFEMALE:What happened at our last session was a very natural thing.
+LEADFEMALE:We were opening up emotionally to each other, things got a little out of hand.
+LEADMALE:It happens all the time.
+OTHERMALE:Lauren, if that happens all the time you're gonna be the most popular psychologist in Ohio.
+LEADMALE:It's a very simple psychological phenomenon known as "emotional transference.
+LEADMALE:" It's well-documented in the literature.
+SUPFEMALE:Look, I'll show you.
+LEADFEMALE:Try looking under "kiss.
+SUPMALE:" "Transference the psychological carryover "of learned emotional responses "from one behavioral situation to another.
+LEADMALE:See 'Kiss.
+OTHERFEMALE:"' I was just like it noted, for the record, that we were kissing each other.
+OTHERMALE:It's duly noted.
+OTHERMALE:Thank you, Miss Miller.
+LEADMALE:You're welcome, Mr.
+OTHERFEMALE:Kiss.
+SUPMALE:Well, now that we've gotten that cleared up, may we please continue? Yes, ma'am.
+SUPMALE:Okay.
+OTHERFEMALE:So far, you've got a quarter of a million dollars and a huge fence.
+OTHERFEMALE:That's a very full life.
+LEADMALE:Are you married? Definitely, definitely.
+LEADFEMALE:And what's your wife like? She's a, she's a warm wonderful caring woman.
+LEADFEMALE:Who looks great in an evening gown.
+LEADFEMALE:Understands my needs.
+SUPFEMALE:You know, my priorities are her priorities.
+LEADMALE:You know, she's always there for me, willing to listen.
+LEADFEMALE:You know, to stand behind me, to support me, comfort me.
+LEADFEMALE:Uh-huh.
+SUPMALE:Where are you planning to meet her, at dog obedience school? All right, what is that supposed to mean? Nothing, nothing at all.
+LEADMALE:It's just that she sounds a tad subservient.
+SUPFEMALE:Subservient? How is that subservient? She'll have a key to the fence.
+LEADMALE:And I can just imagine what your husband is gonna be like.
+SUPFEMALE:And what's that supposed to mean? Well, you'll probably have him strapped to a polygraph machine.
+LEADMALE:Make sure all his feelings, all his emotions are real.
+SUPMALE:That's right.
+SUPFEMALE:I'd like to be with a man who's not afraid to express his feelings.
+LEADFEMALE:What's wrong with that? Absolutely nothing.
+SUPMALE:Why don't we give Phil Donahue a call? Well, let's just hope, for your sake, that in ten years, Pat Nixon is available.
+LEADMALE:Oh, oh, now you're making fun of Pat Nixon.
+LEADFEMALE:Is nothing sacred to you? You know, I hope you can make that fence of yours real tall, Alex, 'cause I wouldn't want you to see any part of the real world by mistake.
+OTHERMALE:You're telling me about the real world? A girl who holes up in a psych lab behind all her books and her reports, judging other people.
+LEADMALE:Oh, good! Things are finally getting out in the open here! Yeah, one more 
+LEADFEMALE:You know, I came here today thinking that maybe, by some incredible chance, we might have something together.
+OTHERFEMALE:Boy, was I wrong.
+LEADMALE:You know, for your information, I was wondering the same thing.
+OTHERFEMALE:You know, I thought you were different.
+LEADFEMALE:I must have been crazy.
+LEADFEMALE:You're just like all the others.
+LEADMALE:All right, okay, here we are, back to the first day the big generalizations.
+SUPMALE:All of us overachievers are the same.
+LEADMALE:All right, look, every response is identical.
+SUPFEMALE:"I want a quarter of a million dollars.
+OTHERFEMALE:"I want a beach house.
+LEADFEMALE:I want a fence to keep my relatives out.
+SUPFEMALE:" You know, the biggest distinction is whether to get the Jaguar in black, red or racing green.
+SUPMALE:They come in racing green? You know, I'll tell you this much.
+LEADFEMALE:The guy I fell for isn't gonna plan his life out according to some graph.
+SUPMALE:And his wife isn't going to be a walking Barbie doll.
+OTHERFEMALE:He's gonna be overwhelmed with passion and devastated by emotion and exhausted by the intensity of his love.
+LEADMALE:And I was overwhelmed and devastated and exhausted.
+LEADFEMALE:I just freshened up before I came over here.
+SUPMALE:I don't know why I bothered.
+LEADMALE:You know, I really don't see any point with going on with these sessions.
+LEADMALE:No, that's great why don't you just send the check to my house, all right? Of course.
+LEADMALE:You'll get your precious check.
+OTHERMALE:Hey, Chester, don't ever evolve.
+LEADFEMALE:It's not worth it.
+SUPMALE:All right.
+SUPMALE:Hey.
+SUPMALE:Hey, where's everybody going? We're taking Andy to see Snow White.
+OTHERMALE:Snow White.
+OTHERMALE:There was a gal.
+LEADFEMALE:Not too many like her anymore.
+LEADFEMALE:Sweet, pretty Whistled while she worked.
+SUPFEMALE:Easy, son, the woman's animated.
+SUPFEMALE:Yeah, at this point, Dad, I'd be willing to settle.
+LEADMALE:What's the matter with you, Alex? You don't look too great.
+OTHERMALE:Things, things didn't work out between me and Lauren.
+SUPMALE:Alex, I'm so sorry.
+SUPFEMALE:You must have worn the blue sweater.
+LEADMALE:I appreciate your concern, Mal.
+LEADFEMALE:This just isn't a fashion issue.
+SUPFEMALE:You want to go to the movie with us, Alex? The popcorn's on me.
+SUPFEMALE:Come on along, Alex.
+SUPMALE:Indulge your Snow White fantasies.
+SUPMALE:Yeah, Alex, you could pretend to be the eighth dwarf Greedy.
+OTHERMALE:Thanks, anyway, guys.
+SUPFEMALE:I'm not really in the mood for a fairy tale right now.
+SUPFEMALE:Anyway, they're replaying President Reagan's news conference from this afternoon.
+SUPMALE:I thought you said you weren't in the mood for a fairy tale.
+SUPMALE:Ah Ah, ha-ha.
+SUPMALE:Just kidding.
+LEADMALE:Okay, we'll see you later.
+SUPFEMALE:Bye-bye.
+SUPMALE:Bye-bye.
+SUPMALE:Bye.
+LEADFEMALE:Bye.
+SUPFEMALE:Hey, wait Mom, I thought you were going.
+OTHERMALE:Well, to tell you the truth, I'm a little fed up with Snow White.
+SUPFEMALE:I mean, she's just so passive.
+LEADFEMALE:You know, lying around waiting for some prince to come and give her a kiss.
+SUPMALE:What kind of role model is that for women today? I think she should go to school, get a degree, start a business and hire a prince.
+OTHERMALE:Then she could kiss him whenever she wants.
+LEADFEMALE:Settle down.
+LEADMALE:Oh I can't imagine what's gonna happen when they rerelease Bambi.
+SUPFEMALE:I'm all right.
+SUPMALE:I'm fine.
+SUPMALE:How are you doing? - You mean about Lauren? - Mm-hmm.
+SUPFEMALE:I don't know, I, I figure if it was meant to be, it would have happened by now.
+LEADFEMALE:I've known you a long time now that doesn't mean I fully understand you; doesn't mean I even have a clue but I-I-I do know one 
+OTHERFEMALE:You are not the kind of person who sits around and mopes and casually takes defeat.
+LEADFEMALE:I'm just, I'm trying to look at it philosophically, you know? I mean, it's just part of part of growing up.
+LEADMALE:It's part of the maturing process.
+LEADMALE:Why doesn't she love me?! I'm not the one to ask, honey.
+SUPMALE:I love you very much.
+LEADFEMALE:It's not the same.
+LEADMALE:I'm well aware of that.
+LEADMALE:But I have been thinking, you know? You really seem to have a passion for this girl Lauren.
+OTHERMALE:If I were you, I'd-I'd get the hell over there.
+LEADMALE:Thanks, Mom.
+SUPMALE:Tell Lauren your mommy sent you.
+OTHERFEMALE:Alex.
+LEADFEMALE:Hi.
+LEADFEMALE:Hi.
+SUPMALE:You busy? No.
+SUPFEMALE:Come on in.
+LEADFEMALE:Thanks.
+LEADFEMALE:This is a surprise.
+LEADMALE:Yeah, well, my mommy sent Uh, so, this is your place, huh? Yeah.
+LEADMALE:It's nice.
+OTHERMALE:It's, uh, it's very nice.
+LEADMALE:Thank you.
+OTHERMALE:This your family? Alex, those are the Beatles.
+OTHERFEMALE:You have heard of the Beatles, haven't you? Oh, hey, come on.
+SUPMALE:Just 'cause I'm an overachiever doesn't mean I'm not hip.
+LEADFEMALE:No, I've heard of the Beatles.
+OTHERMALE:We should go and see them play sometime.
+SUPFEMALE:Good idea.
+LEADMALE:Look, Lauren, I don't want to take up too much of your time, okay? I-I just came over to say something, and I'm gonna say it.
+SUPFEMALE:What is it, Alex? Lauren Yes, Alex? Do you have the correct address to send my check to? Yeah, I've got your check.
+LEADFEMALE:Great.
+SUPMALE:Well, thanks.
+OTHERFEMALE:Uh-huh.
+LEADFEMALE:Just, uh I guess that's, that's it.
+LEADMALE:Yeah, I guess so.
+SUPFEMALE:I mean, I got what I came for, so Yeah.
+LEADMALE:Well, see ya.
+OTHERFEMALE:Yeah Yeah, I'll see ya.
+LEADMALE:Look, Lauren, this check is not what I came here for.
+LEADMALE:What's the matter? You wanted cash? No, look, I was just thinking about what you said to me about, about how I plot out every aspect of my life, and all I think about is money.
+LEADMALE:Alex, I was upset when I said that.
+SUPMALE:No, no, you were right.
+LEADFEMALE:See, after, after Ellen and I broke up, I ju I just told myself I wasn't gonna get involved in any other relationships, and, um, I'd just concentrate on school and on career and on making money, and I thought I'd be happy.
+SUPMALE:And then I met you and those things just don't seem like enough anymore.
+SUPMALE:They don't? I mean, don't get me wrong; I mean, I love money.
+LEADMALE:But you can't come home at night and cuddle up with money.
+LEADFEMALE:You know, you can't sit down and pour your feelings out to money.
+SUPFEMALE:You can't take a romantic moonlight walk on the beach with money.
+SUPFEMALE:God knows I've tried.
+LEADMALE:There's just got to be more.
+LEADFEMALE:I just got to have someone to care about.
+SUPFEMALE:Alex, what are you saying? Lauren, uh you know how you have an image of yourself in your mind, you know? And that, and that image is of-of being, being the best, you know? Being the cleverest, the happiest person that you can be.
+LEADFEMALE:Uh-huh.
+SUPFEMALE:I just feel like when I'm with you, I can be that person.
+LEADFEMALE:I make you feel that way? Lauren, I can't stop thinking about you.
+OTHERMALE:I, I want to be with you.
+LEADMALE:I want to hold you.
+SUPMALE:I want to open a joint bank account with you.
+LEADMALE:I can't believe it.
+LEADMALE:It's true.
+OTHERMALE:Lauren, I think I'm falling in love with you.
+LEADFEMALE:That I can believe.
+SUPMALE:It's the part about the joint bank account.
+LEADFEMALE:Alex, you know when you said that I was hiding in my psych lab, just making judgments on people? You were right.
+LEADMALE:I have been hiding because I was scared of getting hurt.
+LEADMALE:But since you started coming in, I felt incredibly alive.
+LEADMALE:Also annoyed, bothered and frustrated, but mostly alive.
+LEADFEMALE:Alive is good! Those are good signs.
+LEADMALE:But, Alex, you know, maybe we shouldn't go so fast, though.
+SUPMALE:We should probably discuss and try to place in some perspective our What bank do you want to start the account in? I've always been partial to First Federal.
+SUPMALE:Alex, you make me laugh.
+LEADMALE:No one's ever made me laugh like you before.
+LEADFEMALE:Well, you know, if you've read Freud's jokes on the relation of the unconscious, - you'll find that humor is really - Uh-huh.
+SUPMALE:You know, if you want to make a million dollars and have a car and a boat and a plane, I can live with that.
+SUPMALE:Don't forget about the beach house.
+OTHERFEMALE:Actually, a beach house would be very nice.
+SUPMALE:I was hoping you didn't come by here just to pick up your check.
+LEADMALE:Check? I couldn't care less about that check.
+LEADFEMALE:Sit, Ubu, sit.
+OTHERFEMALE:Good dog.
+SUPFEMALE:

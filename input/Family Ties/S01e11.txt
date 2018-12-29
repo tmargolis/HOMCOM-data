@@ -1,0 +1,470 @@
+SUPFEMALE:
+LEADFEMALE:Elyse, I can't believe all this luggage.
+OTHERFEMALE:There shouldn't be more suitcases than members of the family.
+OTHERFEMALE:I don't know how to break this to you, Steven, but these are Mallory's.
+LEADMALE:Ours are still upstairs.
+LEADMALE:Okay, ready to go.
+LEADMALE:Let's hit those slopes.
+LEADFEMALE:Mallory, where are your skis? Skis? Why would I bring skis? It's a ski trip.
+SUPFEMALE:Oh, that's the outdoor part, mom.
+LEADMALE:Let's not forget the great indoors.
+LEADMALE:Parties, boys Games, boys.
+SUPFEMALE:I'll get your skis.
+SUPMALE:Are you gonna ski with me this year, Alex? No way, Jennifer.
+LEADMALE:I tried skiing with you last year, and it didn't work out.
+SUPFEMALE:I'll stay on the bunny slope with you this time.
+LEADFEMALE:I promise.
+LEADMALE:That's what you said last year, a-and then as soon as we got up there, you dragged me off to deadman's gulch.
+LEADFEMALE:Why do you always have to ski the top? Because it's there.
+LEADFEMALE:Okay, this should do it! Everybody grab a bag or two, and let's go for it.
+SUPFEMALE:Okay.
+LEADMALE:Okay.
+LEADMALE:Honey.
+LEADMALE:Okay.
+LEADMALE:Oh! It's coming down pretty hard.
+LEADFEMALE:Well, what do you want to do? I say we all make a run for it.
+LEADMALE:Ready? Okay! Come on, bundle up.
+SUPMALE:Okay, let's go! Yay! Here we go! Here we come! Aaah! Maybe we could go away for the fourth of July instead.
+OTHERFEMALE:Well, maybe the storm will pass in a few minutes.
+LEADFEMALE:Meanwhile, we'll have to stay here.
+SUPMALE:Stay here? For Christmas? Oh, it'll be nice.
+LEADMALE:Just the family at home in front of the fire.
+OTHERMALE:What are we, a hallmark card? Sounds good to me.
+LEADFEMALE:Maybe we could open up a few Christmas presents early.
+SUPMALE:Now you're talking my kind of Christmas.
+LEADMALE:I don't I don't know.
+LEADFEMALE:I'm against this.
+SUPFEMALE:Tradition says you don't open presents till Christmas morning.
+LEADFEMALE:Hey, is that big blue one for me? Keep your tiny little hands off that.
+LEADMALE:That's my present to mom.
+LEADFEMALE:Steven, I want you to open this one first.
+LEADMALE:It's from me to you.
+SUPFEMALE:Well well, really, it's for the whole family.
+SUPFEMALE:Oh, no.
+LEADFEMALE:Another "whole family" gift? Not another trash compactor.
+LEADFEMALE:A photo album.
+SUPFEMALE:And unless I missed my guess, there's a brand-new camera to go along with it.
+OTHERMALE:No, no camera.
+LEADFEMALE:Oh, just an album, huh? No camera? Yeah, just the album.
+LEADFEMALE:Don't you remember? We said we were gonna be creative this year and make gifts, instead of spending a lot of money Christmas shopping? Well, I-i know we said it.
+LEADMALE:I-I just didn't know we meant it.
+LEADMALE:Why don't you just open the album? Hey, peace corps pictures! I'd rather have a trash compactor.
+LEADFEMALE:Where'd you dig these up? Well, that's the surprise.
+SUPFEMALE:See, the whole album is filled with pictures from the time that we met until the present.
+LEADMALE:Oh, thank you, honey.
+LEADMALE:That's very sweet.
+LEADMALE:Oh! Hey, look, there's one of Alex as a baby.
+SUPFEMALE:Why is he wearing a tie? Those are beads.
+LEADFEMALE:Alex wearing beads? I want this one enlarged.
+OTHERMALE:Hey, look.
+SUPFEMALE:It wasn't my choice to be born in Africa.
+SUPFEMALE:Oh, I got to sit down.
+SUPMALE:Me too.
+OTHERFEMALE:Oh, I'm sorry.
+SUPFEMALE:Are you okay? Yeah, is it hot, or is it just me? Oh.
+LEADMALE:It's 109.
+SUPFEMALE:It's just you.
+LEADMALE:Did you happen to hear the weather forecast for tomorrow? I did, Elyse.
+OTHERFEMALE:It's gonna cool off a little tomorrow.
+SUPMALE:They say the old Mercury will be dipping down to about 105.
+LEADFEMALE:The humidity should be about minus 14.
+LEADFEMALE:Is this at least a record-breaking drought we're living through? No, no.
+SUPMALE:There was a longer one last year.
+LEADMALE:In fact, this is still last year's drought.
+OTHERMALE:Sorry I brought it up.
+LEADMALE:I shouldn't talk about it.
+SUPFEMALE:The more I talk about it, the more it bothers us.
+LEADMALE:You're right.
+SUPFEMALE:Let's not bring up the drought again.
+SUPFEMALE:Dry enough for you? Max.
+LEADMALE:I'm sorry, Elyse.
+LEADFEMALE:The drought is really starting to get to me.
+LEADMALE:And it's not just me, either.
+LEADFEMALE:I saw a camel buying an airline ticket.
+SUPMALE:Look.
+SUPMALE:Look, Max.
+SUPFEMALE:It's not that bad, and don't forget, tomorrow the villagers are doing that big rain dance.
+LEADMALE:I'm glad you told me.
+LEADFEMALE:I was gonna wash my car.
+LEADMALE:Look, we can't let them go through with this rain ceremony, can we? Why not? It sounds fascinating.
+LEADFEMALE:No.
+SUPMALE:It's ridiculous.
+LEADMALE:Look, I want to see the end to this drought as much as the next man, but, uh, we can't have the people going off and performing some crazy ritual that perpetuates superstition and fear.
+SUPFEMALE:Why not? It gives me the willies.
+LEADFEMALE:There's something to be said for their way of life as it is now.
+LEADFEMALE:You know, they They live in Harmony with nature.
+LEADMALE:They they have a close, intimate connection to the land.
+LEADFEMALE:You can't take that away.
+LEADFEMALE:And and just give them a-a toaster oven and And an alarm clock in return.
+SUPMALE:How 'bout we throw in some flashlights? Some of those guys get a big kick out of that stuff.
+SUPMALE:Can I ask you a personal question, Max? Yeah, sure.
+OTHERFEMALE:Why did you choose Africa as a place to do your peace corps service? I didn't.
+SUPFEMALE:My first choice was Miami beach.
+LEADFEMALE:I mean, why did you join at all? Oh, um It was Kennedy's speech, I guess.
+SUPFEMALE:It really inspired me.
+LEADMALE:It made me ask not what my country could do for me, but, rather, ask not what my country had done.
+SUPMALE:Could do.
+OTHERMALE:O-or I could do.
+SUPMALE:You know what I mean.
+SUPMALE:Hey, it's a tough speech to remember.
+LEADMALE:Was that a "here comes the baby" scream? I'm gonna take that as a "yes.
+OTHERFEMALE:" Max, can you go get Dr.
+SUPFEMALE:Ellis, please? Sure.
+LEADMALE:Okay, honey, hold on.
+SUPFEMALE:I'm comin'.
+LEADMALE:You know, I think I remember it now.
+LEADMALE:It's, "ask not what your country " Max! Oh, oh! Are you feeling okay? Fine.
+SUPMALE:I'm just a little nervous.
+LEADFEMALE:Okay, okay.
+LEADMALE:Just relax.
+LEADMALE:Uh, try to take your mind off this.
+LEADMALE:Oh, okay.
+OTHERMALE:So, uh, read any good books lately? Forget books.
+LEADFEMALE:What what about movies? We haven't seen a movie in 10 months, Steven.
+OTHERFEMALE:Elyse Do you realize what's gonna happen? We're going to have a baby.
+LEADFEMALE:I know.
+OTHERMALE:It doesn't feel real.
+LEADFEMALE:It does from here.
+LEADFEMALE:Elyse! It's raining! Come on out here! I'm busy, Steven! Oh, it's a miracle! Oh, let me have a sip of your sleeve.
+OTHERMALE:We're gonna be a mother, Elyse.
+LEADFEMALE:I mean, we're not both gonna be a mother.
+LEADFEMALE:One of us will be the mother.
+OTHERFEMALE:The other one will be the father.
+LEADMALE:I'll be the mother, okay? Okay.
+SUPMALE:And I won't be the kind of father who says, "do this.
+OTHERFEMALE:Don't do that.
+LEADFEMALE:"Eat all your peas.
+SUPFEMALE:Eat all my peas.
+SUPFEMALE:" I-I think we should treat him or or her as an autonomous individual, a unique personality, a one in a million Steven! What? Please shut up.
+LEADFEMALE:You look beautiful.
+LEADFEMALE:So do you.
+SUPMALE:What a day.
+SUPFEMALE:Let's try to remember every detail.
+LEADMALE:I don't think it'll be easy to forget.
+SUPFEMALE:So, what happened next? I don't remember.
+SUPMALE:Do you, Elyse? No.
+SUPMALE:Well, of course I remember.
+OTHERMALE:Dr.
+SUPMALE:Ellis came, and and pretty soon Alex was born.
+LEADMALE:Made a pretty big hit over there, too.
+LEADFEMALE:Everyone thought he was so cute.
+SUPMALE:Must have been the heat.
+LEADFEMALE:Whatever happened to Max? He lives in Miami beach, runs Max's kosher African deli.
+LEADFEMALE:Closed on Saturdays and Nigerian bank holidays.
+LEADMALE:Boy, am I glad I was born right here in the usa.
+LEADMALE:I'd hate to think I started life someplace where they'd never heard of a clearance sale.
+LEADFEMALE:Ha.
+SUPMALE:No, when you were born, there were other problems.
+SUPMALE:There's one.
+LEADFEMALE:Well, Mrs.
+OTHERMALE:Keaton, you are definitely in labor.
+SUPFEMALE:Lucky for you, I majored in labor relations.
+LEADFEMALE:See, that's a play on the word "labor.
+SUPFEMALE:" It's a joke.
+SUPMALE:Y-yeah, I know it's a joke.
+SUPMALE:I didn't think it was funny.
+OTHERFEMALE:I won't belabor it.
+SUPMALE:That's one, too.
+OTHERFEMALE:No, it isn't.
+SUPMALE:Nurse, could you ask Mr.
+LEADFEMALE:Keaton to come in, please? You're in the very earliest stages of labor.
+LEADMALE:I I think it's gonna be a while.
+LEADFEMALE:How long do you think? Your guess is as good as mine.
+LEADMALE:Yours is supposed to be better.
+OTHERMALE:Is everything okay, doctor? Well, I've got this pulled muscle in my leg, but other than that, I'm fine.
+LEADMALE:Now I see why you two get along.
+LEADFEMALE:What do you two do for laughs? Oh, I see what you do for laughs.
+LEADFEMALE:Why don't I start all over? Um I'm Dr.
+OTHERFEMALE:waxman.
+SUPFEMALE:Steven Keaton.
+OTHERMALE:Nice to meet you.
+LEADFEMALE:Your wife is doing just fine.
+LEADFEMALE:Oh, great.
+LEADMALE:Wait a minute.
+LEADMALE:Wait a minute.
+SUPFEMALE:Stevie Keaton? Camp cuyahoga, right? Right.
+SUPMALE:Well, don't you remember me? I'm Larry waxman.
+LEADMALE:Larry waxman? Crazy Larry waxman! Yeah! No way! No way! You look great.
+OTHERFEMALE:Hey, Larry, look.
+LEADFEMALE:Ooga, booga, huh, huh! Ooga, booga, huh, huh! That's great.
+LEADFEMALE:My baby's gonna be delivered by someone named crazy Larry? Hey, Stevie, camp song ready? Ready! 
+OTHERMALE:* we'll be going to cuyahoga when we go * when we go when we get there, we'll be there, and then we'll know then we'll know we'll be roastin' those marshmallows with those gals and all those fellows when we go to cuyahoga, when we go when we go campers! Campers Go back to your cabins.
+OTHERMALE:We're having a baby here, remember? I'm sorry, Elyse.
+LEADFEMALE:Sorry.
+LEADFEMALE:It's just that I don't get to sing that song too often.
+OTHERMALE:You can sing anything you want tomorrow.
+LEADMALE:You can record it tomorrow.
+SUPMALE:Do you No.
+LEADMALE:Steve, I want you to know this baby stuff is easy.
+LEADFEMALE:You've got nothing to worry about.
+LEADMALE:It's it's a breeze Routine procedure.
+LEADMALE:You're gonna pull through this just fine.
+SUPFEMALE:I know.
+LEADMALE:This is my second baby.
+LEADMALE:Really? It's my first.
+LEADMALE:Oh, come on! Gotcha! 
+LEADMALE:Yoo-hoo! Yoo-hoo! Remember me? I'm the one having the baby.
+LEADMALE:Oh, yeah.
+LEADMALE:Well, uh Everything seems to be okay.
+SUPFEMALE:You feel all right, honey? Yeah, I'm fine.
+OTHERMALE:Hey, what about the test? You don't need a test.
+LEADFEMALE:You're pregnant.
+SUPFEMALE:I'm sure of it.
+SUPFEMALE:Steven has a poli-sci final in about 20 minutes.
+LEADMALE:Oh.
+LEADFEMALE:I can skip it.
+LEADMALE:You can't skip it.
+LEADFEMALE:I can't leave here.
+OTHERFEMALE:Steve, it's gonna be a while.
+LEADFEMALE:It could be hours.
+SUPMALE:It could be tomorrow.
+LEADFEMALE:I-I think you should go.
+LEADMALE:I'd feel better if you did.
+SUPMALE:I'll be fine.
+SUPFEMALE:You sure? Yeah.
+LEADFEMALE:Steve, you go take that final.
+SUPMALE:Cuyahoga guys don't skip finals.
+LEADMALE:All right.
+SUPFEMALE:You sure it's okay? I'm sure, baby.
+LEADFEMALE:I'll be back just as soon as I can.
+SUPFEMALE:Okay.
+LEADFEMALE:Hey, remember when they showed us the movie "psycho"? Oh, sure.
+LEADMALE:That's what made me want to be a doctor.
+OTHERMALE: * we'll be roastin' those marshmallows * oh! Ohh! S-s-Steven! Nurse! Crazy Larry! I was delivered by a guy named crazy Larry? That explains a lot.
+LEADMALE:Did Dr.
+LEADFEMALE:crazy hear you call for him, mommy? Yeah, and the funny thing was, he turned out to be a terrific doctor.
+LEADFEMALE:How did you do on the poli-sci test, dad? Uh, not too well.
+LEADFEMALE:For "name the bolshevik leaders," I put, "Mallory if it's a girl, Lenin if it's a boy.
+SUPFEMALE:" I got partial credit.
+LEADMALE:Boy, it's coming down worse than ever.
+LEADFEMALE:Aw, great.
+LEADFEMALE:Now we're gonna be stuck here together.
+LEADMALE:I don't think "stuck" is the appropriate word, Alex.
+SUPMALE:Okay, trapped.
+LEADFEMALE:Dad, it's light flurries, that's all.
+LEADMALE:We can make it.
+LEADMALE:I can't even see the car from here.
+SUPFEMALE:Dad, you don't understand.
+SUPMALE:Donny Hayes is up there waiting for me.
+LEADMALE:His family went last night.
+OTHERFEMALE:Mallory, you don't want your whole family to risk their lives just so you can meet Donny Hayes, do you? No.
+LEADFEMALE:Maybe Alex could drive me.
+LEADFEMALE:Maybe we can open up a few more presents if we're going to be in all night.
+LEADMALE:Good idea.
+LEADFEMALE: Okay.
+LEADFEMALE:Oh, here.
+OTHERFEMALE:Merry Christmas, Mallory.
+LEADFEMALE:Thank you, Jennifer.
+LEADMALE:What do we get? Oh, that's Great.
+LEADMALE:It's It's a very nice Woolen All-purpose, practical gift.
+OTHERMALE:It's a hat.
+LEADMALE:I made it myself.
+LEADFEMALE:Shhh.
+LEADMALE:No kidding.
+SUPMALE:That's great.
+SUPFEMALE:I wish I had a hat like that.
+LEADFEMALE:You do.
+LEADFEMALE:Oh, I changed my mind.
+SUPFEMALE:I love it.
+OTHERFEMALE:Well, I think it's beautiful, Jennifer.
+LEADFEMALE:Thank you.
+LEADMALE:Well, I've got something that I'd like to give now.
+LEADFEMALE:It's for you, Elyse.
+LEADMALE:For me? You shouldn't have.
+OTHERMALE:Should I take it back? Don't you dare.
+OTHERMALE:A flute! Oh, Steven! I made it myself.
+LEADFEMALE:It's beautiful! Mommy, I didn't know you could play the flute.
+LEADMALE:I've always wanted to learn.
+SUPMALE:Aren't there supposed to be holes in this? I, uh, got a late start.
+LEADFEMALE:I'll give you the holes next year.
+SUPMALE:Thank you, honey.
+LEADMALE:Mmm.
+SUPFEMALE:Oh, boy, here they go.
+SUPFEMALE:They're not even under the mistletoe.
+LEADMALE:In a couple of minutes, they're gonna be under the table.
+LEADMALE:Look, maybe you'd better tell us the story of when Jennifer was born.
+SUPFEMALE:Do you really want to hear it? No, but it's probably the only way to stop the kissing.
+OTHERFEMALE:Woman on P.
+OTHERMALE:A.
+LEADFEMALE: Dr.
+LEADMALE:caro, surgery please.
+LEADFEMALE:Aha.
+SUPMALE:T-this is interesting.
+LEADMALE:"Childbirth can be described as four stages "effacement, dilation, transition, and expulsion.
+LEADMALE:"These stages are accomplished by the muscular action of the uterus, called contractions.
+LEADMALE:" Which stage are you in, Elyse? I'm in pain, Steven.
+LEADMALE:We're only on page 114.
+OTHERMALE:You shouldn't be in pain until page 156.
+LEADFEMALE:Turn to page 156.
+LEADFEMALE:Uh Pain Pa They have "discomfort," they don't have "pain.
+LEADFEMALE:" Write it in.
+LEADMALE:You know, most people don't cram for childbirth.
+SUPMALE:You see, she's way ahead of schedule.
+LEADMALE:The baby wasn't due until next month.
+LEADMALE:In fact, we were on our way to vote when the contractions started.
+LEADFEMALE:Yeah, I really think we should've voted first.
+LEADFEMALE:I know what you mean.
+LEADFEMALE:I think it's going to be a very close election, and our votes could have put mcgovern over the top.
+OTHERMALE:Have you heard anything about the early returns? Well, I just came from a Nixon victory party.
+SUPFEMALE:Does that give you any clue? It's a little early to tell, isn't it? Well, there's 1% of the vote in, and mcgovern's losing by a 6-1 margin.
+LEADFEMALE:It's mcgovern's hometown.
+SUPFEMALE:Ohh! Shouldn't we get her into the delivery room? A delivery room's bound to open up in a few minutes.
+LEADFEMALE:We're very busy today.
+LEADMALE:Oh, oh, I'm sorry.
+OTHERMALE:Should we come back next week? Sarcasm is not called for.
+LEADFEMALE:Now I need some information.
+LEADMALE:Name? Oh.
+LEADMALE:Jennifer if it's a girl.
+OTHERFEMALE:David if it's a boy.
+OTHERMALE:Not the baby's name, sir.
+LEADMALE:Oh, sorry.
+LEADMALE:Steven Keaton.
+OTHERMALE:Not your name.
+LEADFEMALE:The patient's name.
+LEADFEMALE:Elyse Keaton.
+LEADFEMALE:Thank you.
+OTHERFEMALE:Believe it? Four more years with that guy? I know.
+LEADFEMALE:Hey, dad, did you hear the good news? Yeah, Alex.
+LEADMALE:We heard.
+LEADMALE:We're very happy for you.
+LEADMALE:Guess all my hard work paid off.
+SUPMALE:Yeah, I think that last-minute mailing you sent out had some effect.
+LEADFEMALE:Sir, if those are your children, they must wait in the waiting room.
+LEADMALE:That's how the room got its name.
+LEADMALE:I know, that's where they were.
+SUPFEMALE:Why don't you go on back now? How are you feeling, mommy? Oh, just great, honey.
+LEADMALE:How come when cousin Sandy's German Shepherd had puppies, she had eight, and you're only gonna have one? It's not the same as a dog having puppies.
+LEADMALE:Is that why you're not having it in the garage? Dr.
+LEADMALE:Hansen, report to obstetrics, please.
+SUPFEMALE:She's about eight centimeters.
+SUPMALE:I'll go check on a delivery room.
+LEADFEMALE:Hi, Dr.
+SUPMALE:Rogers.
+LEADFEMALE:Hi, Steven.
+LEADFEMALE:Hi, Elyse.
+SUPFEMALE:How are you feeling? Great! I don't think you've met Alex and Mallory.
+SUPFEMALE:Hi, kids.
+OTHERFEMALE:Hi.
+LEADFEMALE:Hi.
+SUPFEMALE:Well, birth is a wondrous event, isn't it, kids? Mystery of nature's miracles.
+SUPMALE:You must have a lot of questions about all this.
+LEADFEMALE:Yeah.
+LEADFEMALE:How much do you make a year? Alex, you were just leaving.
+LEADFEMALE:Right, dad.
+SUPMALE:Uh, now, Alex, uh, you look after Mallory.
+SUPFEMALE:And, uh, we'll be back just as soon as we can, and we'll have a brand-new baby brother or baby sister for you to play with.
+OTHERMALE:I'm hopin' for a brother.
+OTHERMALE:I think I'd rather have a German Shepherd.
+OTHERFEMALE:Four more years! Four more years! Dr.
+LEADFEMALE: Don't worry, Elyse.
+LEADFEMALE:We'll get you into a room in a minute.
+OTHERMALE:How you doing? Oh, well, I-i Well, she started having some discomfort about two hours ago.
+SUPMALE:We were in the kitchen That is, the kids and I were in the kitchen.
+LEADMALE:And Elyse was upstairs getting dressed.
+SUPMALE:See, this is totally unexpected.
+LEADMALE:N-not not the baby, but tonight.
+SUPFEMALE:We haven't had a chance to vote.
+OTHERFEMALE:The the election's over, Steven! See that? Irritability.
+OTHERMALE:She's right on schedule.
+LEADMALE:What comes after irritability? Uh, let's try another breathing technique.
+SUPFEMALE:Uh, the one where you go like this Hee, hee, hee, hee.
+LEADMALE:They say you should do it in 4/4 rhythm To the tune of "yankee doodle.
+LEADMALE:" Really, Elyse.
+SUPFEMALE:It's in the book.
+SUPMALE:Here, look.
+SUPMALE:Look for yourself.
+LEADMALE:Okay.
+OTHERMALE:I'll give it a try.
+LEADFEMALE:Okay.
+OTHERFEMALE:Do you Telephone, please.
+LEADFEMALE:Delivery room 4 is free now.
+SUPMALE:Let's go! All right.
+SUPFEMALE: * hee, hee, hee, hee hee, hee, hee, hee * Dr.
+OTHERMALE: Okay, you're doing great, Elyse.
+LEADMALE:Now, during your next contraction, I want you to resist the urge to push.
+SUPFEMALE:It says here that to avoid pushing, you should relax and blow out as hard as you can.
+LEADMALE:That doesn't sound too tough.
+OTHERMALE:Why don't you try it sometime? Oh! Good.
+SUPFEMALE:Two.
+LEADMALE:Slow it down.
+SUPFEMALE:Good.
+OTHERFEMALE:Easy.
+SUPFEMALE:Oh, that was perfect! I can't believe how well you're doing! You don't look so bad, yourself.
+LEADFEMALE:Oh, well, thanks.
+LEADMALE:But there's nothing to it.
+LEADFEMALE:How about a kiss? Oh, yeah.
+OTHERMALE:Mmm.
+SUPMALE:Mmm.
+LEADFEMALE:Oh! Ohh! Whoa, that must have been some kiss! Okay, Elyse, start pushing.
+SUPFEMALE:Aah! Good, good.
+LEADFEMALE:Oh, hey, I can see the baby's head.
+LEADMALE:Is it a boy or a girl? I can't tell from the head.
+OTHERFEMALE:I don't see any ponytails or anything.
+SUPMALE:Push.
+LEADFEMALE:Push.
+LEADMALE:There you are! You have a baby Girl.
+LEADMALE:Oh, all right! And then you opened your mouth and let out a big scream! And we haven't been able to shut you up since.
+LEADFEMALE: It was really terrific having your daddy in the room with me, too.
+SUPFEMALE:He was such a big help.
+SUPMALE:So, Alex wanted Nixon.
+LEADFEMALE:Mallory wanted a puppy.
+LEADFEMALE:What did you want, daddy? Me? I just wanted one thing A healthy, beautiful child.
+SUPMALE:And that's what I got.
+OTHERFEMALE:Three times.
+OTHERMALE:I'm a very lucky man.
+SUPMALE:Well, hey.
+LEADFEMALE:As parents go, you two aren't so bad.
+SUPMALE:Thank you! Dad, here's a present from us kids.
+OTHERFEMALE:We didn't exactly make it, but But we all worked hard to earn some extra cash.
+SUPFEMALE:And, uh, now that Ron's got inflation under control and our dollars are worth more, we thought we'd stimulate the economy by buying an expensive, American product.
+LEADMALE:However, we ran, uh, a little short in the liquid-assets department.
+LEADMALE:What he means is mommy put up the rest of the money.
+LEADMALE:Well, that's another way of saying it.
+LEADMALE:Merry Christmas, dad.
+LEADMALE:Oh, hey! Oh, this is great! It's that new camera! Oh, this is really fantastic! Oh, ho, thanks everybody! It's all loaded and ready to go, too.
+SUPMALE:Yeah! I am so glad it snowed so hard.
+SUPFEMALE:I've I've had such a good time looking at these old photographs.
+SUPFEMALE:Yeah, remembering all the glory years when I was still an only child.
+OTHERFEMALE:Do you still see crazy Larry? Yeah, we visit him on weekends.
+LEADFEMALE:You know, this could turn out to be the best Christmas ever.
+LEADFEMALE:You're right, dad.
+LEADMALE:And it's a really special night.
+LEADFEMALE:Christmas is a time for sharing those moments that are more precious than any material gift.
+SUPMALE:It's a time which renews our spirits and makes us aware of the beauty that surrounds us and of the beauty within us.
+LEADFEMALE:Jennifer, that's really lovely.
+LEADFEMALE:Yeah, but it's more effective with the wings.
+OTHERMALE:Wings? It's from a part in my school play.
+SUPFEMALE:Remember? I was a Christmas angel.
+LEADFEMALE:Oh! You played an angel? It was either that or stick a tree branch on my head and be a reindeer.
+OTHERFEMALE:Okay.
+LEADMALE:Everybody in front of the tree.
+SUPMALE:I'm gonna take a Christmas portrait.
+LEADMALE:Oh, good idea! Oh! I got a timer on this thing.
+SUPMALE:Okay.
+LEADMALE:Oh, great.
+LEADFEMALE:Oh, get down.
+LEADFEMALE:Get in place.
+SUPFEMALE:Oh, everybody looks great.
+OTHERFEMALE:You all set? Get down.
+LEADFEMALE:All right, now, leave room for me right there.
+OTHERMALE:Okay.
+SUPMALE:Okay.
+LEADMALE:Great.
+SUPFEMALE:Okay.
+LEADMALE:Come on, dad.
+LEADMALE:All right, I'm here.
+LEADMALE:Good.
+LEADMALE:Smile.
+SUPMALE:Okay.
+LEADMALE:What's happening? Be just a second.
+LEADFEMALE:Oh! Can't win! One more chance.
+SUPMALE:Come on.
+OTHERFEMALE:Okay, dad.
+SUPFEMALE:I can get it.
+LEADMALE:All right.
+LEADFEMALE:One more time.
+LEADFEMALE:Let's give it a little more time okay.
+SUPMALE:Okay? All right.
+LEADFEMALE:Everybody say, "merry Christmas.
+LEADMALE:Merry Christmas! 
+LEADMALE:

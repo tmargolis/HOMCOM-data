@@ -1,0 +1,323 @@
+LEADMALE:Hey! - Hey, Lauren, come on in! - Hi.
+LEADFEMALE: Long time, no see.
+SUPMALE:Hey, Lauren.
+SUPMALE:How was your psychology conference? It was great, except for I really missed Alex.
+SUPFEMALE:Is he around? - No.
+LEADFEMALE:No.
+LEADFEMALE:I haven't seen him.
+SUPFEMALE:I haven't seen him.
+LEADMALE:Out of sight, out of mind.
+SUPFEMALE:Maybe he's with that other girl! - Andrew! don't know what you're talking about.
+LEADFEMALE:You mean Marty.
+LEADFEMALE:Oh, he's told you about her.
+SUPFEMALE:Sure, he told me he was tutoring her.
+LEADMALE:Oh, he is! - Oh, yeah, yeah, purely business.
+SUPFEMALE:Business relationship, yeah.
+LEADMALE:He's tutoring her.
+SUPMALE:Hey.
+LEADMALE: Oh, look who's home! - Hey, honey.
+OTHERFEMALE:Hi, honey.
+LEADMALE: Hi.
+LEADMALE:So, did you miss me? Yeah, sure, I did; sure, I did.
+SUPFEMALE:You miss me? Well, sure.
+LEADMALE:But I did get kind of friendly with a man at the conference who suffered from wide mood swings.
+LEADMALE:See, he even signed my Freud anthology.
+OTHERFEMALE:"Dear Lauren, it was nice to meet you.
+OTHERMALE:P.
+SUPFEMALE:S.
+OTHERMALE:I can't stand you.
+LEADMALE:" Uh, what do you want to do? You want, you want to go get a bite, something like that? No, let's just sit and talk.
+OTHERFEMALE:After all, it's been two weeks.
+SUPMALE:You know, I think that's the longest we've ever gone without seeing each other.
+SUPFEMALE:Yeah, well, not-not-not including the 20 years before we met.
+SUPMALE: Alex, are you okay? Yeah, I'm just, I'm like really tired.
+SUPFEMALE:Well, if you're tired, then I'll just see you tomorrow.
+LEADFEMALE:Lauren, wait a minute.
+LEADMALE:What? We've always said that we were gonna be completely honest with each other about everything.
+SUPMALE:Alex, what is it? This girl that I've been tutoring, you know, from my economics class? Marty? Yeah.
+LEADMALE:Well, we've been spending a lot of time together lately.
+LEADMALE: And I would be lying to you if I, if I, if I didn't say that I was thinking about her a lot.
+LEADMALE:Do you love her? I don't, I don't know.
+LEADFEMALE:I mean, I don't know.
+OTHERFEMALE:I don't know, I don't know, I don't know, I don't know what I feel.
+LEADMALE:I don't know what I'm thinking.
+SUPMALE:I don't know anything.
+LEADMALE:I just need a few days, okay? - Just a little bit of time.
+SUPMALE:Okay, sure.
+LEADFEMALE:Lauren? Lauren? Are you all right? Of course, I'm okay.
+LEADFEMALE:I'm a trained psychologist.
+LEADFEMALE:I know how to handle these types of emotions.
+LEADMALE:Hi.
+LEADMALE:Hey, Marty.
+LEADFEMALE:Hi.
+SUPMALE:Uh, Cecilia, can I get a yogurt? You're too skinny, Marty.
+LEADFEMALE:Well, I'm not very hungry, and besides, I'm a little short of cash.
+LEADFEMALE:Hey, hey, it's on me.
+LEADFEMALE:Oh, no, no no, no, no, I couldn't, really.
+OTHERFEMALE:Don't worry about it.
+SUPMALE:I'm loaded.
+SUPFEMALE:Besides, most of it's your money.
+LEADMALE:Oh, well, then I'll have a meatball sub, in that case, and some soup, a large salad, uh, the yogurt, some milk, and-and some Twinkies.
+SUPMALE:Thanks.
+SUPFEMALE:What, are you going into hibernation later today? Alex, we need to talk, so I'm gonna go I'll go get us a table.
+LEADMALE:Yeah, all right.
+SUPMALE: Hi.
+LEADMALE:Hi.
+SUPMALE:Lauren! Hi.
+LEADFEMALE:Cecilia, can I get a yogurt, please? Sure.
+LEADFEMALE:I'll put it on Alex's tab.
+LEADFEMALE:Alex, I think we need to talk.
+LEADFEMALE:I'll get us a table, okay? I don't believe this.
+SUPMALE:This is like a bad episode of Love, American Style.
+LEADFEMALE:Alex.
+LEADMALE:Alex.
+LEADFEMALE:Hey, there.
+SUPFEMALE:Let's see, you had the yogurt and you had the yogurt, the meatball hero, the soup, the milk and the Twinkies.
+LEADFEMALE:Well, if that'll be all for you ladies Alex, what's going on? Marty Brodie, this is Lauren Miller.
+OTHERMALE: You okay? I'm fine, I'm fine.
+SUPMALE:My doctor says I'm not getting enough calcium in my, in my nose.
+LEADMALE:LAUREN & 
+LEADFEMALE:I think I should go.
+LEADFEMALE:No, look, look, I got a better idea, okay? Why don't I go? Alex, don't worry, you can stay, because I'm leaving.
+OTHERFEMALE:Wait, Lauren, listen.
+LEADFEMALE:Come on.
+OTHERFEMALE:Come on.
+SUPFEMALE:You haven't even finished your yogurt.
+OTHERFEMALE:I just decided I'm not hungry.
+LEADMALE: Oh, my God.
+LEADFEMALE:I paid $1.
+OTHERFEMALE:20 for this.
+LEADFEMALE:Oh, Alex, this is terrible.
+SUPMALE:I really, I feel horrible.
+LEADMALE:I cannot stay here Oh! Alex, I'm-I'm-I'm sorry.
+SUPFEMALE:I'm I'm really hungry.
+SUPFEMALE:Did you ever see Fatal Attraction? 
+OTHERMALE:Hi, Mallory.
+SUPFEMALE:Hey, Alex.
+SUPMALE:Feel like catching a movie? No, thanks.
+OTHERFEMALE:I'm not really in the mood tonight.
+LEADFEMALE:Well, we're running late.
+LEADFEMALE:Come on, let's go.
+LEADMALE: Bye-bye, Alex.
+LEADFEMALE: See you later.
+OTHERFEMALE:Uh, Alex, you okay? Oh, yeah, Dad, I'm fine.
+SUPFEMALE:Just a little distracted lately with this whole Marty-Lauren thing.
+OTHERFEMALE:Well, look, I'd be more than willing to miss this movie so we can stay and talk.
+LEADFEMALE:I'm not really up for it.
+LEADFEMALE:Besides, I got to stay here and work on my valedictory speech for graduation.
+LEADMALE:I can't get a handle on it.
+SUPFEMALE:Well, you let me know.
+SUPMALE:I'll be around.
+LEADMALE:Thanks.
+OTHERMALE: I'm gonna need some quotations to kick this thing off.
+LEADMALE:Let's see what we got here.
+LEADMALE:Shakespeare Bunch of pretentious guys in tights talking to skulls.
+OTHERMALE:Better than my speech.
+LEADFEMALE:Lauren's Freud 
+OTHERFEMALE:
+LEADFEMALE:An Introduction.
+LEADFEMALE:Nah, I think too much of myself to read that.
+SUPFEMALE:Jean-Paul Sartre.
+LEADFEMALE:You know, maybe Jennifer's right.
+LEADMALE:Maybe life is absurd.
+OTHERMALE: Of course it is! You think I was just trying to sell some books? Jean-Paul, don't take it personally.
+LEADMALE:I'm just a little skeptical about this existentialism stuff.
+LEADFEMALE:Oh, really? Look at your life.
+LEADMALE:If that isn't absurd, I'll buy you a ribs dinner.
+SUPMALE: Jean-Paul, you're wrong.
+LEADMALE:His life is not absurd.
+OTHERFEMALE:Thank you, Dr.
+LEADMALE:Freud.
+SUPFEMALE:He is just highly sexually repressed.
+LEADMALE:Jean-Paul, Sigmund, please, I got a problem I'm trying to work out here.
+LEADFEMALE:I have an emotional attachment to two women.
+OTHERMALE:It can't be worked out.
+LEADFEMALE:Alex, don't you see? Love is an impossibility.
+SUPFEMALE:It's nothing more than an attempt to justify one's own existence by possessing another in a futile gesture at warding off the bleakness of death.
+LEADFEMALE:And you wonder why you don't get invited to more parties.
+SUPMALE:You're wrong, Jean-Paul.
+OTHERFEMALE:Love does exist.
+LEADMALE:Yeah, back me up on this, will ya, Shakespeare? Uh, Bill? May I call you "Bill"? Please.
+LEADFEMALE:As I wrote in Hamlet, about love "Doubt the stars are fire, "doubt that the sun doth move, "doubt truth to be a liar, but never doubt my love.
+SUPMALE:" How do we really know you wrote those plays? Guys, guys, guys, come on.
+OTHERMALE:Look, we're getting nowhere fast here.
+LEADFEMALE:You're supposed to be three of the greatest minds in history.
+LEADMALE:You can't help me out? The truth is, Alex, we don't know more about this than anyone else.
+LEADFEMALE:In the end, we're all just poor players strutting and fretting our hours upon the stage.
+SUPMALE:It's true.
+SUPMALE:When it comes to love, as my friend Camus once said, "It can burn, or it can last, but it can't do both.
+LEADMALE:" God, that's depressing.
+LEADMALE:I want it to do both.
+SUPMALE:Hmph! Don't we all? That's why people are so unhappy.
+LEADFEMALE:Well, I'm not unhappy.
+LEADFEMALE:I would be if I was wearing that outfit.
+OTHERFEMALE:Alex all I can say is to thine own self be true.
+SUPFEMALE:And remember, you must take responsibility for your own choices in this life.
+LEADMALE: Talk to your dad.
+OTHERMALE: I should have gone to the movies.
+LEADFEMALE: 
+SUPFEMALE:Oh, Marty Iook at you at that piano.
+LEADFEMALE:You look so right sitting there.
+LEADMALE:So joyous, so full of life.
+LEADMALE:You look like me filling out the new 1040 short form.
+LEADMALE:There's so much I like about you.
+LEADMALE:Of all the basic applied economic principles of capitalism in the post- industrial-era seminars in the world, you had to walk into mine.
+OTHERMALE:This is crazy.
+OTHERMALE:This can't work.
+LEADMALE:I'm probably gonna go get a job on Wall Street.
+LEADMALE:You've got two whole years of college ahead of you.
+LEADMALE:So even though I know this is gonna hurt you, we got to stop kidding ourselves.
+SUPMALE:We've got to bring this thing to an end.
+LEADFEMALE:I'll never forget the time we spent together.
+SUPMALE:The way you hold your knife, the way you sip your tea, the way you changed my life Oh, no, they can't take that away from me.
+LEADMALE: Hey, hey, don't stop.
+LEADMALE:I-I have to.
+LEADFEMALE:It's-it's the end of the song.
+LEADFEMALE:I'm just, I'm here practicing for the ceremony.
+OTHERFEMALE:I've gotta, I've gotta practice the old "Pomp and Circumstance.
+SUPMALE:" Oh, yeah? How's it going? Well, I've got the pomp down, it's-it's the circumstance that's giving me a little trouble.
+LEADFEMALE:We got to talk about this, Marty.
+LEADFEMALE:Yeah, I know, Alex.
+OTHERMALE:I-I've been thinking, and, uh, you know, even though I know this is gonna hurt you, I-I think that we've got to stop kidding ourselves and we've got to end this.
+SUPMALE:After everything we've been through? Alex, really, the last thing I want to do is break your heart.
+LEADMALE:Aah! Aah! Aah! It's a little late for that now, isn't it? Alex I'm sorry, I'm sorry, please.
+SUPMALE:Can I just have a minute to be alone with my thoughts? I hope he doesn't start to cry.
+SUPFEMALE: I'm not crying.
+SUPMALE:There's something in my eye.
+OTHERFEMALE: Excuse me? 
+OTHERMALE:There's something in my eye.
+LEADMALE: Do you want a tissue? Marty, Professor Heller needs you to look over the arrangement for the processional.
+LEADFEMALE:Well, I have to go.
+LEADFEMALE:Yeah, I know you do.
+LEADMALE:Good-bye, Mr.
+LEADFEMALE:Keaton.
+SUPMALE:Bye, Miss Brodie.
+SUPMALE: Oh, Lauren.
+OTHERMALE:Two years such a long time.
+LEADMALE:And there's been a lot of good times in those two years.
+LEADMALE:Remember the first time we met? In that little psychology lab? It was really love.
+SUPFEMALE:You were so beautiful.
+LEADFEMALE:Well, you are so beautiful.
+LEADMALE:I'm not so bad myself.
+LEADFEMALE:I don't know what happened to us.
+OTHERMALE:But whatever it is, I've got to admit my true feelings.
+SUPMALE:And be honest with you.
+LEADMALE:And I know it's probably gonna crush you.
+LEADFEMALE: And yet you seem to be handling it pretty well.
+LEADMALE:I just have to be honest with her.
+LEADMALE:Just tell her that she's a wonderful, decent, intelligent, unique individual.
+LEADMALE:And that we're not in love anymore.
+LEADFEMALE: Lauren.
+SUPMALE:Hi, Alex.
+OTHERMALE:Uh, can I talk to you for a minute? Sure.
+LEADMALE:Excuse us.
+LEADFEMALE:Lauren, I got to be honest with you.
+SUPFEMALE:I have to be honest with you, too.
+SUPFEMALE:Alex, you're a wonderful, intelligent, decent, honest, unique individual.
+LEADFEMALE:But we're not in love anymore.
+LEADMALE:Nobody lets me get a word in edgewise.
+SUPFEMALE:Alex, the last couple of days have been torture for me.
+SUPMALE:I've been trying to 
+SUPMALE:What did I do to make you stop loving me? Was it something I said or was it something I did or? Was it that I was just trying too hard? And then I realized it was nothing I did, and nothing you did it just happened.
+SUPFEMALE:And it's wrong for me to try to be something that I'm not.
+LEADMALE:The same goes for you, Alex.
+LEADMALE:You're an obsessive person.
+LEADFEMALE:You don't love many things, but the things you love, you really love.
+SUPMALE:And either you love me or you don't.
+LEADFEMALE:Boy, you really know me.
+OTHERMALE:I do.
+SUPFEMALE:And I know myself.
+SUPFEMALE:And I got to admit something to you.
+LEADMALE:The other day when Marty was giving a recital at Delaware Hall, I went and I just wanted to see what the attraction was.
+LEADMALE:I also brought some rotten tomatoes, just in case.
+OTHERMALE:I sat there listening and I I saw she-she's a real artist.
+OTHERFEMALE:She's kind of bohemian, and she's very exotic.
+SUPFEMALE:And I can't compete with that.
+LEADFEMALE:Lauren, you don't have to.
+SUPMALE:Oh, I'm not.
+LEADMALE:I'm not I know who I am and I like myself.
+SUPMALE:I'm intelligent, I'm attractive.
+SUPMALE:And I'm a good person.
+SUPMALE:But I'm not her.
+SUPFEMALE:And I'm not gonna make believe that I can be.
+SUPMALE:I'm gonna go on with my life and find someone who loves me just as much as I love him.
+LEADFEMALE:Whatever happens I just want you to know that I can't be happy unless I know that you're happy.
+SUPMALE:I really like you.
+LEADFEMALE:And, um, we had a lot of great times together.
+SUPMALE:I want you to know that part of who I am I mean one of the best parts is what you gave me.
+LEADMALE: You gave me a lot, too, Alex.
+LEADMALE:I really love to tell you that I hope you and Marty make a great couple, but, um, I really can't.
+LEADMALE:Yeah, well uh, the crazy thing is Marty and I aren't gonna be seeing each other either.
+LEADFEMALE:Why not? I think I got to take some time to be with myself.
+LEADFEMALE:You know, I'll go to New York and, uh, get a job on Wall Street.
+LEADFEMALE:Try and meet Leona Helmsley.
+SUPFEMALE:Good luck, Alex.
+LEADFEMALE:Thanks, Lauren.
+SUPFEMALE: What next? Huh? Locusts? Boils? Democrats in '92? Am I interrupting anything? 
+LEADMALE:Mommy, my gown doesn't fit.
+OTHERMALE:It's okay.
+SUPMALE:Your hat's no bargain either.
+LEADMALE:Let's-let's fix this.
+LEADFEMALE:This is just like when you were a little boy.
+SUPMALE:Couldn't get yourself dressed then either.
+LEADFEMALE:You'd come out of your room with your shirt buttoned the wrong way, and your pants on backwards.
+SUPFEMALE:Although always with a tie.
+LEADMALE:You'd come into the kitchen, I'd say, "Alex, did you even look at yourself in the mirror?" And I'd say, "I couldn't Mallory took it to school.
+SUPMALE:" What I wouldn't give to be eight years old again.
+LEADFEMALE:Well, you're still dressing about the same.
+SUPMALE:There.
+LEADFEMALE:Well, let's get this hat for you, okay, um You know, moms were a good idea.
+OTHERFEMALE:Thank you.
+LEADFEMALE:I mean, no matter what else is happening, no matter what anybody else is doing you're just always there for me.
+LEADMALE:Well, we'll see.
+SUPMALE: Okay.
+SUPMALE:Let's try this.
+LEADFEMALE:Yeah, right.
+SUPFEMALE:Front.
+LEADMALE:Hey! Hey, great, you did it.
+LEADFEMALE:You know, Mom, you could give up architecture and go into tailoring.
+LEADMALE:Mom? Hey, Mom, I'm only kidding, you know.
+SUPMALE:You're a wonderful architect.
+LEADMALE:Oh, no, it's not that.
+SUPFEMALE:I just can't believe my little boy's graduating.
+LEADMALE:You look very handsome.
+LEADMALE:Yeah, well It's a good thing 'cause inside, I don't feel too terrific.
+LEADMALE:Been a tough couple of weeks for you, hasn't it, honey? The worst.
+LEADFEMALE:Well, you know, if you were eight years old again, I'd just kiss your boo-boo and make it better.
+LEADFEMALE:But you're an adult now and that's, uh, that's a little more complex.
+SUPMALE:I say we give it a shot.
+LEADMALE:I love you so much, honey.
+LEADFEMALE: Hey, you guys, come on, break it up.
+SUPFEMALE:You got to sit down, graduation's starting.
+SUPFEMALE:Well, can you give us a minute? We were just discussing the meaning of life.
+LEADMALE:Oh, that's easy.
+OTHERFEMALE:Be happy, try not to hurt other people and hope that you fall in love.
+LEADFEMALE:It sounds good to me.
+LEADFEMALE:Me, too.
+LEADMALE:Considering the source, that's truly frightening.
+OTHERFEMALE:Well 
+LEADFEMALE:So this is it college is finally over.
+LEADMALE:Fortunately, it ends on a real high note for me.
+OTHERFEMALE:Broke up with two wonderful women on the same day.
+LEADFEMALE:I don't know, maybe Jen really is right.
+SUPMALE:Maybe life is absurd.
+SUPFEMALE:Still, it has its moments.
+LEADFEMALE:Even the painful ones.
+OTHERFEMALE:Lauren this was a tough day for both of us.
+SUPFEMALE:Still I don't regret one single moment we had together.
+SUPFEMALE:And Marty, even if I never see you ever again, you'll always be a beautiful, wonderful memory.
+SUPMALE:You know, Jen, your pal Jean-Paul Sartre once said, "Hell is other people.
+LEADMALE:" Well, anybody who's seen a few game shows knows what he means.
+SUPMALE:But I think he's only half-right.
+LEADFEMALE:Because Heaven is other people, too.
+LEADMALE:I mean, after all, when you get right down to it, we are all we've got.
+OTHERFEMALE:And no matter how much we may argue or fight or hurt one another, in the end, we just keep running back for more because we're human.
+SUPMALE:And for some strange, unexplainable reason, we need each other.
+LEADMALE:And maybe that's the only real wisdom any of us will ever have.
+LEADMALE:That and the words of another very great philosopher who just happens to be my sister Mallory, I 
+LEADMALE:"The meaning of life is to be happy, "try not to hurt other people and hope you fall in love.
+LEADFEMALE:" It's ironic.
+LEADFEMALE:After all these years of learning, Mallory teaches me the most important lesson of all.
+SUPMALE:Boy, life is funny sometimes, isn't it? so now I present to you the valedictorian of the class of 1989, Alex P.
+SUPMALE:Keaton.
+LEADMALE:

@@ -1,0 +1,374 @@
+LEADFEMALE:Steven, what do you think your dad would like with dinner Beer or wine? Oh, definitely beer, Elyse.
+OTHERFEMALE:You know how my father feels about wine.
+LEADMALE:It's okay for women and interior decorators.
+OTHERFEMALE:Uh-oh.
+LEADMALE:What? What's the matter? It's light beer.
+LEADMALE:Oh, it's okay.
+LEADMALE:It's okay.
+OTHERMALE:Don't panic.
+LEADFEMALE:Bubba Smith and dick butkus drink light beer, and they're right at his cutoff level for manliness.
+OTHERFEMALE:Oh.
+LEADFEMALE:I think we're in the clear.
+LEADMALE:Good.
+SUPMALE:Oh, what time does his plane get in? About an hour ago.
+LEADFEMALE:He's taking a cab here from the airport.
+LEADMALE:Well, we could have picked him up, Steven.
+LEADMALE:Didn't you offer? Well, of course I offered.
+LEADMALE:He insisted on taking a cab.
+LEADFEMALE:He said he didn't want a repeat of what happened last year when I picked him up.
+LEADFEMALE:You mean when you hit the police car? I didn't hit the police car, Elyse.
+SUPFEMALE:I grazed it.
+SUPFEMALE:All they lost was their door handle and one headlight.
+LEADMALE:The dog was fine.
+LEADMALE:Anyway, it was my father's fault.
+LEADFEMALE:The second we got in the car, he started bugging me about my driving.
+LEADFEMALE:He had me so worked up, I didn't even see the police car coming.
+LEADMALE:Didn't hear the siren either? Drop it, okay? Sorry.
+LEADFEMALE:This time, it's gonna be different, Elyse.
+LEADMALE:I'm determined that this visit with him be a peaceful one.
+LEADFEMALE:You will not see us fighting.
+SUPMALE:Gonna blindfold me? Better I've come up with a list of safe issues that my father and I can discuss.
+OTHERMALE:"The printing press A step forward for mankind?" "Crabgrass friend or foe?" You think it's silly, don't you? Yes.
+LEADFEMALE:I don't expect to learn anything from these discussions, but I think the fighting's got to stop.
+SUPMALE:For one thing, I don't think it's right for the kids to see their father and grandfather locked in combat.
+LEADMALE:Oh, the kids don't even notice.
+LEADFEMALE:They are totally oblivious to any conflict between you and your dad.
+LEADFEMALE:Mommy, when is grandpa getting here? I don't want to miss any of the yelling.
+OTHERFEMALE:So, what's the fight gonna be this year, dad? Foreign policy? Offshore oil drilling? Oblivious, hmm? Daddy, why do you and grandpa argue all the time? I mean, you both are grown-ups, right? Well, th-the fact that we're grown-ups has nothing to do with it, Jennifer.
+LEADMALE:Parents and their children tend to disagree on things all their lives.
+SUPFEMALE:Your father's right.
+LEADMALE:You know, take, for example, h-how I'm always telling you to clean your room and be careful outside.
+LEADFEMALE:Yeah? Well, I'll still be telling you those things when we're both much older.
+SUPMALE:That's really something to look forward to.
+LEADMALE:He's here.
+SUPMALE:Grandpa's here.
+SUPMALE:Hey, Alex! Hey, hey! - Grandpa! Hi, kids! - Hi.
+LEADFEMALE:Hi, grandpa.
+LEADFEMALE:Hello, pumpkins.
+SUPFEMALE:Hello, Elyse.
+SUPFEMALE:Hello, Jake.
+OTHERMALE:I'll take the bags upstairs, grandpa.
+OTHERMALE:Thanks, Alex.
+SUPFEMALE:Hmm.
+SUPFEMALE:Well Hi, dad.
+SUPFEMALE:Oh, hello, son.
+LEADFEMALE:How was your trip? Great, except for the taxi.
+SUPMALE:Cabbie named George.
+LEADFEMALE:Long hair, terrible driver.
+SUPMALE:Friend of yours? Jake and Steven, why don't you sit down and get comfortable, and the kids and I will bring in the food, okay? Well, no argument here.
+SUPMALE:I do you want something to drink? Oh, thank you.
+SUPFEMALE:I'd like a light beer.
+LEADFEMALE:You got it.
+SUPMALE:So, you like light beer, huh? I guess you drink it because it's less filling.
+SUPFEMALE:I drink it because it tastes great.
+SUPFEMALE:Well, it's less filling, too.
+LEADMALE:Tastes great.
+LEADFEMALE:Dad, have a seat.
+SUPMALE:Well, thank you, Steven.
+LEADMALE:So, uh, how have you been? Oh, pretty good.
+LEADMALE:Yourself? Oh, not too bad.
+SUPFEMALE:You notice Gas stations don't give out free maps anymore? I don't need maps.
+SUPFEMALE:I never get lost.
+LEADFEMALE:Okay, here we go.
+LEADFEMALE:Oh, let me help you with that, dear.
+LEADFEMALE:Thank you, sweetheart.
+LEADMALE:Need anything else from the kitchen, Elyse? Anything from the store? This looks wonderful, Elyse.
+SUPMALE:Thank you, Jake.
+LEADFEMALE:Jen, you like those skates I bought you? They're great, grandpa.
+LEADMALE:I hope they're the kind that you wanted.
+OTHERFEMALE:Actually, I wanted red ones, but that's my fault.
+OTHERMALE:I didn't specify in my letter.
+OTHERFEMALE:Jennifer, you didn't ask grandpa to bring you those skates, did you? No, mom.
+LEADMALE:I couldn't do that.
+OTHERFEMALE:I told him I was saving up so I could buy them myself Oh.
+SUPFEMALE:But I didn't think I could do it without quitting school and working full-time.
+SUPFEMALE:Did you go hunting this year, grandpa? Sure did.
+SUPMALE:Shot eight beautiful Mallard.
+SUPFEMALE:Big day.
+OTHERFEMALE:Not for the mallards.
+SUPFEMALE:How's that? I said Nice work, dad.
+LEADFEMALE:Good shooting.
+LEADFEMALE:Well, this is a surprise, Steven.
+LEADFEMALE:You always used to say you thought hunting was cruel and barbaric.
+SUPMALE:Well, dad, I've modified my opinion somewhat.
+OTHERFEMALE:I've come to realize that killing does have its merits.
+OTHERMALE:What did I just say, Elyse? Hunting sounds exciting, grandpa.
+SUPFEMALE:I'd love to go with you next year.
+LEADFEMALE:Can I go, too, grandpa? Girls don't shoot ducks, Mallory.
+OTHERMALE:Men shoot them, dogs retrieve them, women cook them That's the food chain.
+OTHERMALE:Then why can't I go if Alex is going? Alex isn't going.
+SUPFEMALE:Why not, dad? Because The duck-killing s Hunting season doesn't coincide with your school vacation.
+SUPMALE:So, any of you kids studying anything in school you want to tell your grandpa Jake about? Yeah, we just finished reading a book about Richard Nixon in history class.
+LEADFEMALE:Nixon.
+OTHERFEMALE:Fine man.
+OTHERFEMALE:One of the greatest.
+LEADFEMALE:Uh, uh So, how's daylight-savings time treating you? Same as usual.
+LEADFEMALE:I-it's a clever idea, really.
+OTHERMALE:You know, they just seem to get that extra hour of daylight out of nowhere.
+LEADFEMALE:It's amazing when you think about it.
+SUPFEMALE:Nixon was framed, you know.
+LEADMALE:Excuse me, please.
+LEADFEMALE:He was not framed! He was a crook! Uh, pass the potatoes, please.
+SUPFEMALE:We can't get along.
+LEADFEMALE:That's all there is to it.
+LEADFEMALE:I might as well just accept it.
+OTHERMALE:Look, you just got off on the wrong foot, that's all.
+LEADMALE:These cards weren't any help at all.
+SUPFEMALE:Well, how were you supposed to know he had such strong feelings about felt-tip pens? He's wrong, Elyse.
+OTHERFEMALE:They were not invented in Russia.
+LEADMALE:Okay, just Just relax, sweetie.
+LEADFEMALE:Here.
+LEADMALE:Ahh.
+LEADMALE:Oh.
+LEADFEMALE:Let me rub your neck.
+OTHERFEMALE:Boy.
+LEADMALE:Will that help get your mind off your dad? Who? Oh.
+SUPFEMALE:Oh.
+OTHERFEMALE:Can't you two remember to close the door? What is it, Mallory? Jennifer's wearing her skates to bed, and she keeps rolling into my room.
+SUPFEMALE:Whee! See? - I'll get her.
+LEADMALE:You get to sleep.
+OTHERMALE:Yes, okay.
+LEADMALE:Coming to bed, honey? I'd rather not, if it's all the same to you.
+LEADFEMALE:Dad.
+LEADFEMALE:I didn't mean to wake you, Steven.
+OTHERMALE:Y-you didn't.
+LEADMALE:I just got into bed this second.
+SUPMALE:Oh, good.
+LEADFEMALE:Good.
+LEADFEMALE:Uh, look, dad, I think we got off on the wrong foot tonight.
+LEADFEMALE:Ah, so do I.
+LEADFEMALE:That's why I came in to talk to you.
+LEADMALE:I appreciate that.
+SUPFEMALE:Oh, don't bother.
+SUPFEMALE:I-it's no bother.
+SUPMALE:You made a nice gesture, and I wanted to acknowledge it, that's all.
+LEADFEMALE:It doesn't call for an acknowledgment.
+LEADFEMALE:It was nothing.
+LEADFEMALE:It wasn't nothing.
+LEADFEMALE:Yes, it was! Night.
+LEADFEMALE:Day.
+LEADFEMALE:I think we've got some things to work out, dad.
+SUPMALE:I guess so.
+SUPFEMALE:Listen.
+SUPMALE:Since I'm only gonna be here for a week, I'd like to spend some time with Alex.
+SUPFEMALE:Great idea.
+LEADFEMALE:Alex loves you.
+LEADMALE:He loves spending time with you.
+LEADMALE:Well, I've decided to take him out of school on Thursday.
+LEADFEMALE:Well, Thursday's a school day.
+LEADMALE:He can't go.
+OTHERFEMALE:Ah, he'd just miss one day.
+LEADFEMALE:What's the big deal? Look at all the schooling you had.
+OTHERFEMALE:A lot of good it did you.
+SUPMALE:I apologize for getting my master's degree.
+SUPMALE:I was way out of line.
+LEADMALE:You could have been working.
+SUPFEMALE:That's all.
+OTHERFEMALE:Ah, you know what I always say.
+LEADMALE:I know.
+LEADMALE:I know.
+LEADMALE:"Less learnin', more earnin'," right? You bet.
+SUPFEMALE:Well, we, uh, tried to get Alex into construction work as early as we could, but his kindergarten teacher was against it.
+LEADFEMALE:I don't like your attitude, Steven.
+SUPFEMALE:Well, I'm not so crazy about yours, either.
+LEADFEMALE:I mean, you're here in my home.
+OTHERFEMALE:I think you should respect my wishes.
+OTHERMALE:Well, I'm your father, and I think you should respect my wishes.
+LEADFEMALE:The answer is no, dad.
+LEADMALE:Well, that's just fine, Steven.
+LEADFEMALE:It's fine.
+LEADFEMALE:I come here to visit you for the last time.
+LEADMALE:I don't even get to spend a day with my grandson! I didn't say you cou Wait a minute.
+LEADFEMALE:What do you mean, the last time? Oh, forget it.
+LEADMALE:What do you mean? - Nothing! What are you saying, dad that you won't come and visit again unless I let you take Alex out of school? Because if that's what you're saying, then I say fine.
+LEADMALE:Oh, that's not what I'm saying, damn it! Steven.
+LEADFEMALE:This is gonna be my last visit here because Well, I'm very sick.
+OTHERMALE:W-what do you mean? I'm dying.
+LEADFEMALE:God, when I think of all the petty, little arguments we've had, I feel so guilty.
+LEADFEMALE:I should have just been glad to have him alive.
+LEADFEMALE:You can't conduct every moment of a relationship on the premise that the other person's gonna be dead at some point.
+LEADFEMALE:Life just isn't like that.
+SUPFEMALE:Even so, we've had some pretty avoidable arguments over the years, Elyse.
+LEADMALE:We didn't speak for two months after the Cuban missile crisis.
+LEADMALE:Well, that was a very emotional issue.
+LEADMALE:Khrushchev and Kennedy made up quicker than we did.
+SUPMALE:Come on, your dad isn't thinking about Cuba anymore.
+LEADFEMALE:He mentioned it at dinner.
+LEADFEMALE:Oh, hi, kids.
+SUPFEMALE:What are you doing up so late? - Hi, Jake.
+OTHERMALE:Hi, dad.
+LEADFEMALE:Aw, come on, you guys.
+LEADFEMALE:Lighten up.
+LEADMALE:It's like a morgue in here.
+LEADMALE:Jake! Sorry, Elyse.
+LEADFEMALE:I Just a figure of speech.
+LEADFEMALE:Dad, do you have a minute? I hope more than that.
+LEADMALE:Dad, sit down for a minute, okay? Come on, let's Let's talk about this.
+OTHERFEMALE:What's there to talk about? You don't discuss it.
+SUPFEMALE:You do it.
+LEADMALE:Actually You stop doing it.
+LEADFEMALE:Jake, are you absolutely sure you're Going? Oh, yes.
+SUPMALE:Yes, I'm sure.
+LEADFEMALE:Have you tried everything? No, I never tried white-water rafting.
+SUPMALE:I'm going next month.
+OTHERMALE:Have you checked all possible treatments? Yeah, I've been through all that.
+LEADMALE:Cocoa? No, they tried that.
+LEADFEMALE:Look, look, dad, this happens to be very serious to us.
+SUPFEMALE:Well, how do you think I feel? I give up.
+OTHERFEMALE:Jake, we want to help you.
+LEADMALE:I-is there anything that you need from us? Well, I'd really appreciate it if you wouldn't tell the kids about it.
+LEADFEMALE:This is probably my last visit here, and I-i want it to be a happy one.
+SUPMALE:Whatever you say, dad, if that's what you want.
+LEADFEMALE:Where are you going? Up, I hope.
+SUPFEMALE:I appreciate your concern, kids.
+OTHERFEMALE:Good night.
+LEADMALE:Good night.
+OTHERMALE:Uh, h-hold it, dad.
+OTHERFEMALE:Yes, what is it, Steven? Uh, dad, we're going to have to talk about this eventually, so I might as well bring it up now About the Arrangements.
+LEADMALE:I mean What kind of funeral do you want Big? Small? I don't know.
+LEADMALE:Surprise me.
+LEADMALE:Well, good morning, everyone.
+LEADMALE:Hi, grandpa.
+LEADMALE:Great day, isn't it? Where you been, grandpa? I been chopping wood since 6:15.
+LEADFEMALE:Dad! Yeah, nothing like an early morning.
+LEADFEMALE:You know, makes you feel so alive.
+LEADFEMALE:Don't you think you should be taking it easy? Maybe you should lie down.
+SUPFEMALE:Plenty of time for that soon enough.
+LEADFEMALE:Can I make you some pancakes, Jake? You bet.
+LEADFEMALE:Grandpa, we're having show-and-tell at school.
+LEADFEMALE:I'm bringing that stuffed porcupine you gave me.
+SUPMALE:Now, Jennifer, I don't know if that's a good I-I mean, uh, I think the other kids will really get a kick out of that.
+OTHERMALE:Nothing cheers up a roomful of kids like a Dead animal.
+LEADFEMALE:Always worked at my school.
+SUPMALE:Uh, here, dad.
+SUPFEMALE:Oh, thank you, Steven.
+OTHERMALE:Jake, can I get you something to drink Maybe some hot tea? Tea? Do I look like Princess Margaret? Bring me a man's drink.
+LEADFEMALE:Coffee black.
+SUPMALE:Make that two.
+LEADMALE:Attaboy.
+LEADFEMALE:Do you two men want your coffee in cups, or you want to drink it right out of the pot? Bearing in mind, Alex, this is your first cup of coffee ever.
+SUPFEMALE:Cups, mom.
+LEADMALE:And a lot of milk, please.
+SUPFEMALE:I got it.
+OTHERMALE:Well, you get your homework done last night? Well, you know.
+SUPFEMALE:Yeah, I bet you get your girlfriend to do it for you, don't you? I doubt it.
+OTHERFEMALE:She can't read.
+LEADMALE:As long as she's cute and can cook, that's all that matters.
+OTHERFEMALE:Darn right, dad.
+LEADMALE:I-I-it's not the only thing that matters, but, uh, cooking and cuteness are an integral part of a woman's life.
+LEADMALE:And reading isn't? All I'm saying is that the time people spend reading might better be spent working.
+SUPFEMALE:You know what I always say "less learnin', more earnin'.
+SUPFEMALE:" Daddy, you never say that.
+LEADMALE:Jennifer, I say it at least once a day.
+LEADMALE:She's just never in the room when I say it.
+LEADMALE:She's probably too busy reading.
+LEADMALE:So, dad, what do you have planned for today? Oh, I was hoping that Alex and I could spend some time together.
+LEADMALE:Today? I got school.
+LEADFEMALE:So? Skip it.
+LEADMALE:How often do you get to spend a day with your grandfather? Wait a minute.
+OTHERMALE:Did I hear you right? You're telling me to skip school? I would take advantage of it, Alex Before he regains his senses! I c I can't today.
+OTHERMALE:I've got midterms.
+LEADMALE:So you miss a midterm or two.
+OTHERMALE:What's the worst thing that could happen? I have to repeat 12th grade.
+LEADFEMALE:You'll just be that much ahead next year.
+SUPMALE:We'll do it some other time.
+OTHERFEMALE:Forget it, Steven.
+LEADMALE:Midterms are over at noon, gramp.
+LEADFEMALE:If you want, you can pick me up then.
+LEADFEMALE:I thought maybe you and I could do some fishing.
+OTHERFEMALE:How does that grab you? Okay.
+LEADMALE:Should be fun.
+OTHERFEMALE:Yeah, and after, I'll take you downtown.
+LEADMALE:I'll get you tattooed.
+LEADMALE:Tattoo? I don't know.
+LEADMALE:Alex Do what your grandfather says.
+LEADFEMALE:A-a-a tattoo is A-a living, breathing monument.
+LEADFEMALE:You'd look great with one, Alex.
+LEADMALE:But, dad! Ah! I was just kidding about the tattoo.
+SUPMALE:Me too.
+LEADMALE:Any sign of them yet? They called from the lake an hour ago.
+LEADMALE:They should be here any minute.
+SUPMALE:Well, I'm starving.
+LEADFEMALE:I say we give them 15 minutes And order pizza.
+LEADFEMALE:Hang in there, guys.
+OTHERFEMALE:Your grandfather's really excited about catching dinner for us.
+LEADFEMALE:Oh, it's gonna be great.
+OTHERMALE:You'll see! See we'll take fresh fish, we'll clean it, and then we'll scale it and we'll cut out the bones and then cut off the Head.
+OTHERFEMALE:Maybe we should just order the pizza now.
+SUPFEMALE:All right.
+LEADFEMALE:All right.
+LEADMALE:The men are back.
+SUPFEMALE:What kind of fish did you catch, grandpa? Well, the fish weren't biting out there today, but look what we caught in the supermarket! Hamburgers! Yeah! They put up quite a fight, too.
+LEADFEMALE:You want to tell us about the one that got away? Well, there was a steak about this big.
+OTHERMALE:How big? It was about this this big.
+OTHERMALE:How big? - About about this big.
+LEADMALE:How big? Just got a little, tiny one.
+LEADMALE:I got to hand it to you, Steven.
+SUPMALE:Well, you raised a fine boy, there.
+LEADFEMALE:Listen, I, uh, made some calls this morning.
+LEADMALE:I even talked to the Mayo clinic.
+SUPFEMALE:Now, you're probably not aware of this, but there's a chance they could extend your life for a while.
+SUPMALE:Well, I'm aware of that.
+SUPFEMALE:You are! Yes, and I'm not interested.
+SUPMALE:I'm planning to die on my feet.
+SUPFEMALE:Of course, eventually, I'll fall over.
+OTHERFEMALE:Come on, dad.
+OTHERMALE:Don't pull this macho stuff with me now! I'm talking about your life, here.
+LEADMALE:So am I.
+SUPFEMALE:Do you think I want to spend the days I have left lying in a hospital bed with tubes in me, getting shots and treatments every day, depending on some overworked nurse to tell me if I'm awake or asleep? Not on your life.
+LEADFEMALE:Dad, a lot can happen in the time they keep you alive.
+SUPFEMALE:They could find a cure.
+OTHERFEMALE:Well, I hope they do, but I'm not gonna risk wasting my last days in the hospital.
+SUPMALE:I got a lot of things to do before I go.
+SUPMALE:No, sir.
+SUPFEMALE:I'm gonna die the way I lived.
+LEADFEMALE:You'll die the way you've lived, all right pigheaded and stubborn! Now, don't talk to me that way, Steven.
+OTHERMALE:It happens to be true.
+LEADMALE:I'm trying to save your life, dad, and you won't listen to a word I have to say, and you never have, either! You've never given me one ounce of credit, not for the past 20 years! Credit?! You wanted credit?! What for?! For letting your hair grow long and refusing to hold down a decent job?! For maligning the leaders of the country?! For spitting on every value I ever held?! For purposely trying to antagonize me?! Is that what you think? It just so happens, dad, that I believed in what I was doing and what I stood for.
+LEADFEMALE:Then I suppose you wanted me to agree with what you did.
+LEADFEMALE:No! I wanted you to respect the fact that I could have my own ideas! I-I wanted you to keep on treating me like a son even though I was different from you! I wanted to Well, maybe just once, I wanted you to put everything aside and spend a day with me like the one you just spent with Alex! Steven, I, uh I suppose It's always difficult for me to show any emotion to you.
+SUPFEMALE:I don't know, the way our relationship was I saw affection as a sign of weakness.
+LEADMALE:I hope you didn't take it personally.
+LEADMALE:You know what really bothered me? When you took Jeffrey Garrett to the father/son picnic.
+LEADFEMALE:I explained that to you, Steven.
+LEADFEMALE:I thought he was you.
+LEADMALE:Hey, I was in a hurry.
+SUPMALE:He was about your size.
+LEADMALE:Once he was in the car, it was too late.
+SUPMALE:What was I gonna do? I didn't want to hurt his feelings.
+SUPMALE:I thought inviting him again the next year was too much.
+SUPFEMALE:Well, we had to go back.
+LEADFEMALE:We were the defending champs in the father/son ping-pong tournament.
+SUPMALE:You know, Jeffrey still writes to me.
+OTHERFEMALE:I'd write to you, too, if you'd taken me to one of the picnics.
+SUPFEMALE:Ah, Steven, I I guess I never gave you much reason to like me.
+LEADFEMALE:Like you? Damn it.
+SUPFEMALE:Dad, I love you.
+SUPFEMALE:I never said I didn't love you.
+SUPMALE:You never said you did.
+SUPFEMALE:Well, it was implied.
+SUPFEMALE:It's not enough.
+LEADFEMALE:Of course it's enough.
+SUPFEMALE:Unless I specifically Say I don't love you, you have to assume that I do.
+LEADMALE:I love you, Steven.
+OTHERFEMALE:I always have.
+LEADMALE:Dad.
+LEADMALE:You know, I always thought I made a lot of mistakes with you, Steven.
+LEADMALE:The biggest mistake I ever made was maybe not telling you that I loved you until it was too late.
+LEADMALE:Dad, it's never too late.
+LEADFEMALE:Dad, are you scared? Am I scared? Is Jake Keaton scared? Yes.
+SUPFEMALE:Not so much of dying.
+SUPFEMALE:But I'm scared of not living anymore.
+LEADFEMALE:Well I'm here.
+SUPFEMALE:You got some time off tomorrow? I'll make time.
+LEADFEMALE:Good.
+LEADMALE:You want to go hunting? - Uh - I'm just kidding.
+SUPFEMALE:We'll find something we can do together.
+LEADFEMALE:Come on.
+LEADFEMALE:Uh, dad? Yeah, Steven? There was a song you used to sing to me when I was a kid and I was having trouble sleeping.
+LEADMALE:I've been trying to remember what it was, but I can't.
+OTHERMALE:Oh, I remember.
+SUPMALE:Would you sing it to me? Oh, sure.
+SUPMALE:from the halls of montezuma to the shores of tripoli the marine fight song? You used to sing me the marine fight song as a lullaby? It worked like a charm.
+LEADFEMALE:we will fight our country's battles on the land and on the sea first to fight for right and freedom 
+SUPFEMALE:

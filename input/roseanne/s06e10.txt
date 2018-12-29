@@ -1,0 +1,288 @@
+LEADFEMALE:No beer? Oh, I think Mark took the last one.
+LEADFEMALE:I'll get you more beer, Dan.
+SUPFEMALE:After all, it is thanksgiving, The day where I do everything And the rest of you sit around like Plymouth Rock.
+LEADMALE:fine.
+LEADFEMALE:Don't get the beer.
+SUPFEMALE:No, I feel I should, Dan.
+LEADMALE:I mean, you do too much, What with having to carve the turkey tomorrow From 5:00 to 5:10.
+LEADMALE:Mom, why don't you let me do the cooking this year? I mean, ever since we've moved in here, I've just felt like a burden, Especially seeing how much dad hates having Mark around.
+LEADMALE:Oh, Becky, you're no burden.
+SUPFEMALE:Well, what about dad hating Mark? What makes you feel like you're a burden? Come on, mom.
+LEADMALE:You're doing everything for us.
+LEADFEMALE:Please? Okay, i'll let you do it.
+LEADMALE:I'll let you do all the cooking, All the cleaning up And all the laundry.
+LEADMALE:The laundry? I took a shot.
+LEADMALE:Hey, by the way, you're out of beer.
+LEADFEMALE:Hello? Oh, hi, Darlene.
+LEADMALE:Um, what time is your bus coming in? Actually, mom, I was wondering if instead of coming home It'd be okay if I went to michigan to see David.
+LEADMALE:You know, I don't really get to see him that often.
+LEADFEMALE:Yeah, well, I guess you're kinda obligated.
+LEADFEMALE:After all, he gives you money anytime you ask for it.
+OTHERFEMALE:Oh, no, wait! That's me! Mom, I gotta spend time with him Or he's gonna start seeing someone else.
+LEADFEMALE:Why? Is there some rush all of a sudden On 5'2" moody boys with no body hair? Please? Fine.
+LEADMALE:Go ahead.
+LEADFEMALE:Go.
+LEADMALE:thanks.
+LEADFEMALE:don't feel guilty about missing your great-grandma.
+LEADMALE:I'm sure she can hang on 'til christmas.
+SUPMALE:Okay, bye.
+SUPMALE:Wow.
+LEADFEMALE:She bought it? Yeah.
+LEADMALE:We should join together and give thanks.
+LEADFEMALE:Turkey's about ready.
+LEADFEMALE:Did you make the stuffing? Mother, i've taken care of everything.
+LEADFEMALE:For once we can have a thanksgiving Where you don't have to yell and scream at everybody.
+SUPMALE:Well, gee, you might as well just take the carols Right out of christmas.
+LEADMALE:Hello! Hey, jacks! Did you bring the cranberry sauce like I asked? Isn't that cute? Just like a little Roseanne.
+LEADMALE:What time did you get up? Look at the circles under your eyes.
+LEADFEMALE:it's not cute anymore.
+OTHERMALE:You need some help with that? No, no, no, I got it.
+LEADMALE:Oh, good.
+LEADMALE:I see you got the, uh Canned yams and the carrots.
+LEADMALE:By the way, I invited Fred.
+OTHERMALE:And the potato buds-Roseanne! Well, Dan said he doesn't have any family here, And, you know, it's thanksgiving, And nobody should be alone on thanksgiving Except maybe mom.
+LEADFEMALE:Alone? Really? But still, ever since he got me pregnant, Mom's been pushing me to go out with him, And if she sees him here, She's just gonna think I listen to her.
+OTHERFEMALE:If she thinks I listen to her, She's gonna keep talking to me.
+SUPMALE:Well, don't worry about it.
+LEADMALE:We'll just tell her that Fred won a turkey when he slept with ya.
+LEADMALE:I just caught the biggest rat you've ever seen In that trap out in the garage.
+SUPMALE:Unless What color is the Martin's dog? Need some help taking care of that? Nah, i'll get it later.
+LEADFEMALE:You sure? Yeah, i'm sure.
+LEADMALE:Suit yourself.
+SUPMALE:thanks a lot, dad.
+LEADFEMALE:Mark, wait.
+LEADFEMALE:Jeez.
+LEADMALE:Can't you even make an effort to try to be nice to him? I don't know, Roseanne.
+SUPMALE:I just find it a little awkward sharing a house With a guy who eloped with my And now he's run off with my beer.
+SUPFEMALE:Hello.
+SUPFEMALE:Hey, Fred.
+SUPFEMALE:Hi.
+SUPMALE:Hi, Jackie.
+LEADFEMALE:Glad you could make it, Fred.
+OTHERMALE:Yeah.
+LEADFEMALE:Well, with 16 cousins, My family could use the extra room at the kids' table.
+OTHERMALE:I didn't know Fred had 16 cousins.
+OTHERFEMALE:We're a fertile people, Jackie.
+SUPFEMALE:Guess I don't need to tell you that.
+LEADMALE:You know, Fred, us being here Is making it very hard for them To talk about us behind out back.
+LEADMALE:To the living room for football! No family for thanksgiving, huh? Stop trying to shove us together.
+OTHERFEMALE:Correct me if i'm wrong, But I think the two of you Have already been shoved together.
+SUPFEMALE:Happy thanksgiving, everybody! You know, I had a lot more chips in here, But shirley ate them all on the way down.
+OTHERFEMALE:Hello, Jackie! Is it true you're gonna let little betty Cook the whole dinner this thanksgiving? Mother, hang your coat up, dear, right over there.
+LEADMALE:All right.
+LEADMALE:Roseanne, it's awful.
+SUPFEMALE:This started last month and it's gotten worse.
+SUPMALE:She keeps confusing me with your aunt shirley.
+LEADFEMALE:She forgets everything.
+LEADFEMALE:I'm afraid your nana Mary's mind is going.
+LEADFEMALE:Oh, I know this little guy! You're, um UhUhUh d.j. d.j. ! That's right! Of course! d.j. ! All right, honey, you better run home now.
+OTHERFEMALE:We're gonna have our dinner.
+LEADFEMALE:Hi, nana Mary! Hello, little Betty! Oh, it's nice-uh It's nice to see her again.
+LEADFEMALE:She's cute.
+LEADMALE:Yeah.
+SUPFEMALE:Yeah, yeah, yeah.
+LEADMALE:Listen, um, her name is Becky, not Betty.
+SUPFEMALE:Yeah! And i'm not Jackie, i'm Roseanne.
+LEADMALE:Roseanne? Roseanne? Yes.
+LEADFEMALE:Jackie is the one that tried to Iron your neck when she was 4.
+LEADMALE:Oh, my achin' back.
+LEADMALE:That wasn't Jackie, that was you, Roseanne.
+SUPFEMALE:WellWhat's going on? Listen, i'm not senile.
+SUPFEMALE:I'm just having a little fun with your mother.
+LEADFEMALE:Wow.
+SUPFEMALE:That is so cool.
+LEADFEMALE:I'm gonna remember that for when i'm old And little Betty's all grown up.
+LEADMALE:I know.
+LEADFEMALE:Fred, um, this is my nana Mary.
+LEADFEMALE:Nice to meet you.
+LEADFEMALE:Nice to meet you, Fred.
+OTHERFEMALE:You're the guy that finally knocked up Jackie.
+SUPMALE:I hear that you busted right through the condom.
+SUPMALE:I don't think I should sit too close to him, huh? Is this too close? I see Fred is here.
+LEADMALE:How "with it" for our Jackie To invite the father of her child to thanksgiving.
+LEADMALE:No, she didn't invite him, I did.
+LEADFEMALE:What is wrong with the girl, Roseanne? I keep telling her that child needs a father.
+LEADFEMALE:Well, that's exactly what's wrong.
+SUPFEMALE:If you keep telling her that, she's never gonna do it.
+SUPFEMALE:So what should I do then? Just say nothing? No.
+LEADMALE:I mean, I would enjoy that, but You see, if you really want Jackie to get together with him Then you should tell her that you hate him.
+SUPMALE:That's ridiculous.
+OTHERFEMALE:No, it isn't.
+LEADFEMALE:Our whole lives we've done everything Just to disappoint you.
+LEADFEMALE:Why do you think I live like this? Fine, Roseanne.
+LEADFEMALE:If I have to lie in order to give advice to my daughter, Then so be it.
+LEADMALE:By the way, your cheekbone makeup is lovely! The more you use, the more I like it.
+LEADMALE:Mark! It's thanksgiving and you're a guy.
+SUPMALE:Your job is to be out there watching football.
+LEADMALE:I don't know anything about it.
+SUPFEMALE:I haven't cared about football Since I was about Well, just say what you know.
+LEADFEMALE:Dad will appreciate the effort.
+OTHERMALE:Or you could stay in here with us girls And talk about Jackie's hemorrhoids.
+SUPFEMALE:Standing's getting to be worse than sitting.
+LEADFEMALE:I don't know.
+SUPFEMALE:draw play, Barry Sanders.
+LEADMALE:Looking for running room.
+OTHERFEMALE:Turns to the right side.
+SUPMALE:To the 45 It's too bad about old brian piccolo, huh? Well, that wasn't too bad.
+LEADMALE:Hello? Oh, hey, Darlene.
+OTHERFEMALE:How's it going? Hello, Jackie.
+LEADMALE:Hi, mom.
+LEADFEMALE:You and nana Mary have a nice drive? Yes! Now she's in there entertaining FredHhmmph.
+SUPFEMALE:What's that supposed to mean? Oh, you want me in there entertaining Fred.
+LEADFEMALE:I told you before, mom, he's not my boyfriend.
+LEADMALE:No? Well, thank heaven! Him being here for thanksgiving and all, I was afraid he was.
+SUPFEMALE:Whew! You don't want him to be my boyfriend? Him? Eessh! Why not? Because he's not good.
+OTHERMALE:He's bad.
+SUPMALE:He's bad, that's why.
+LEADMALE:I just thought i'd let you know.
+SUPFEMALE:So, Fred We have a little time before dinner.
+SUPFEMALE:Do you ever wonder what sex is gonna be like with Jackie Say, in 50 years? Fred Even though you have a full beer in your hand, My guess is that you'd like To go to the kitchen right now and get another one.
+LEADMALE:You read my mind.
+SUPMALE:Hey, kid, rub my feet, will ya? Wait for me! Mother-[sighs]-What were you just trying to pull in there? Whatever are you talking about? Roseanne, you gotta hear this.
+LEADMALE:For three months now, she's been trying to get me to go out with Fred.
+LEADFEMALE:Now, all of a sudden, she doesn't like him anymore.
+LEADFEMALE:I don't think nana Mary is the only one around here losing her mind.
+OTHERFEMALE:Oh, Jenny, give it to her good.
+SUPFEMALE:By the way, when do we start hunting for the eggs? I haven't lost my mind.
+LEADMALE:Maybe i've just changed my mind.
+LEADMALE:No, I know what you're doing.
+LEADMALE:What, did you read about reverse psychology In ladies' home journal or something? Can you believe this, Roseanne? No, I don't believe it.
+SUPFEMALE:I don't believe it at all.
+OTHERMALE:God, mom, it's so lame! Try to give jackie a little credit.
+SUPFEMALE:It was her! It was all her! She made me do it! That's so ridiculous! Roseanne! I didn't say anything like that.
+LEADMALE:It's totally untrue.
+LEADFEMALE:You think I would do-All right, I did.
+OTHERFEMALE:I can't believe you would use mom to manipulate me.
+LEADFEMALE:Well, I applaud her efforts to get you two together.
+LEADMALE:You got pregnant, Jackie.
+LEADFEMALE:Now you must face the consequences and marry the father.
+LEADMALE:Oh, come off it, bev! You think everybody's gotta make the same stupid mistake you made? What? Mother.
+SUPMALE:So you got yourself knocked up with Roseanne And you had to get married.
+SUPFEMALE:That doesn't mean Jackie has to do it.
+LEADFEMALE:You were pregnant with me before you married dad? Damn right she was.
+OTHERMALE:We always lied about the day she got married.
+SUPFEMALE:She got married June 1952.
+LEADFEMALE:And you were born in November 1952.
+LEADFEMALE:Do a little math.
+LEADFEMALE:You are not senile, you're just mean! You promised me that you would never tell that! No one in this whole family cares about me! My children don't love me! You don't love me! I'm all alone! Alone! I'm going after her, Dan.
+SUPFEMALE:Release the dogs.
+SUPMALE:You okay, Jackie? Get out of my way, Fred.
+LEADMALE:I'm not missing this.
+LEADMALE:Yeah, Fred, we're quite a family.
+SUPMALE:Now that you've gotten one of us pregnant, It's too late to escape.
+LEADMALE:Dad, mom and Jackie are still chasing grandma.
+LEADMALE:So can you put the leaves in the table? Yeah, okay.
+LEADMALE:Mark will help you.
+SUPFEMALE:No, I can do it.
+OTHERFEMALE:Fine.
+LEADFEMALE:That's just great, dad.
+LEADFEMALE:You won't even let Mark help you with the table? It's not that big a job.
+SUPFEMALE:It's got nothing to do with that.
+LEADMALE:fine.
+LEADMALE:I'll let him help me with the table.
+SUPMALE:I know he's looking for work.
+SUPMALE:He keeps on trying to be nice to you, And you won't even be in the same room with him! Ow! Becky? Dad! What happened? I burned my hand! I'll get some ice.
+LEADMALE:What's the matter? It hurts! I burned my hand! Stick it under cold water.
+OTHERFEMALE:No, ice is better.
+OTHERMALE:She's all right! How did it happen? What's the difference how it happened? She burned herself! I'm putting ice on it! What the hell's wrong with you? Hey, you wanna help? Clean up the spill.
+LEADFEMALE:Everybody, let's mellow out! I can handle this, Dan! Yeah, you can handle it! What's that supposed to mean? It means you're living here! You handle things great! You told us to move in here! What's the problem now? My problem is my daughter married a guy That can't take care of her! What's going on? That's the first time you've acted like a man The whole time i've known ya! What in the hell is going on? Everything's fine, Rosie.
+LEADMALE:Dan! Bedroom! Mark hit dad, and then dad hit Mark real hard.
+LEADMALE:Man, Darlene, You picked the wrong year to miss thanksgiving.
+SUPFEMALE:Sorry, Roseanne, I know it was wrong.
+LEADFEMALE:What was it like to hit him? What? Was it great? Did you feel bone? Roseanne, this isn't a good thing.
+SUPFEMALE:It was stupid.
+OTHERFEMALE:I could have really hurt him.
+LEADMALE:Yeah, I know that.
+OTHERMALE:Of course I know that.
+LEADMALE:You're right.
+SUPFEMALE:Man, what a thanksgiving this turned out to be, huh? Mom runs away and then you beat up our son-in-law.
+SUPMALE:Did you draw blood? Oh, no.
+LEADFEMALE:You know, now that I got it out of my system, I feel pretty good.
+LEADMALE:Think i'm gonna calm down for a minute And go out there and apologize.
+SUPMALE:Hey, Dan I'm sorry for taking that first shot, you know? You okay? Yeah.
+SUPMALE:Are you? Yeah.
+LEADFEMALE:Nice right.
+OTHERFEMALE:Hey, you, too.
+OTHERFEMALE:I was, uh The other side.
+SUPFEMALE:Hey.
+OTHERFEMALE:wow! Men are amazing.
+LEADMALE:Just like, one shot, okay, You get it all out of your system, And now you're like buddies? Maybe you should hit him, too.
+SUPFEMALE:No, not after the fight's over.
+OTHERMALE:It would just seem mean now.
+LEADMALE:Uh, Roseanne? Your mother's out on the porch, And she absolutely does not want you to go out there and talk to her.
+SUPMALE:She told me to tell you that.
+LEADFEMALE:Hey, maybe it's time I become buddies with mom.
+LEADMALE:Puucchh! Mom, it's cold out here.
+LEADMALE:Come on.
+LEADMALE:Come back in the house.
+OTHERMALE:I'm too embarrassed.
+LEADFEMALE:I acted like such a fool.
+LEADMALE:Yeah, I know, but this time it was so extreme That we all felt really sorry for you.
+LEADMALE:I'm sorry I didn't tell you, Roseanne, But it was a different time.
+SUPFEMALE:People didn't talk about these things.
+SUPFEMALE:Okay, well, what about the last two decades? I'm an adult.
+SUPFEMALE:I could have handled it.
+OTHERFEMALE:I'm not sure I could have handled you knowing it.
+LEADMALE:Are you kidding me? This is, like, the coolest thing I've ever heard about you.
+LEADFEMALE:Really? Then you don't think less of me? No way, mom.
+SUPMALE:I guess I should have been honest With you girls about this years ago.
+SUPMALE:If I had, maybe Jackie wouldn't be Repeating my mistakes.
+SUPFEMALE:Oh, mom, jackie's kid isn't born yet.
+LEADFEMALE:She hasn't even begun to repeat your real mistakes.
+LEADFEMALE:WellThis wasn't nearly as bad As I thought it was gonna be.
+SUPMALE:Mm, well, wait a minute, mom.
+LEADMALE:I'm not done talking about this yet.
+LEADFEMALE:All right, I guess you have a right To ask me a few questions.
+LEADMALE:If you hadn't got pregnant with me Would you still have married dad? Well, no.
+SUPFEMALE:Do you think that's why he was mad all the time? You know, you think that's why he treated Me and Jackie like he did? Oh, Roseanne, you know your father loved you.
+LEADFEMALE:You think that's why? Well I don't know.
+SUPFEMALE:Okay, i'm gonna ask you one more question, okay? All right.
+SUPFEMALE:Was dad the only guy that you were, You know, sleeping with, Or is it possible That you've been lying to me my whole life About who my real father is? Of course he was the only one! Damn.
+LEADFEMALE:Okay, d.j. , our dinner's ready too.
+LEADFEMALE:What? No, I don't want to hear nana mary snoring.
+SUPMALE:Okay.
+OTHERFEMALE:Bye.
+OTHERMALE:I feel kind of bad that we're not there.
+LEADMALE:Why? They're not even your family.
+LEADMALE:I know.
+LEADMALE:I still feel bad.
+LEADMALE:Don't you miss 'em? No, i'm fine here.
+LEADFEMALE:Not at all? No, just shut up.
+LEADFEMALE:Want some dinner? I'm carving.
+SUPMALE:Sure.
+SUPMALE:You want light or dark? You burnt the macaroni? No.
+LEADFEMALE:Most of it's okay.
+LEADMALE:Darlene, the fact that we're having Macaroni and cheese on thanksgiving Is like cool and nonconformist, right? I mean, it's not pathetic or anything, is it? Are you kidding? This is totally cool.
+SUPMALE:Yeah.
+LEADFEMALE:Cool.
+LEADFEMALE:Well, i'm back.
+OTHERMALE:Hope no one missed me.
+LEADFEMALE:I always like to take a little walk before dinner.
+SUPFEMALE:If only we lived on the rim of a volcano.
+LEADFEMALE:You okay? Yeah.
+LEADFEMALE:You know, it's funny, But being unmarried and knocked up Is the first thing i've had in common with mom.
+SUPFEMALE:Well, yeah, that and the 'roids.
+SUPMALE:Dad, me and Mark, Jackie and Fred, nana mary Uh, don't sit Jackie next to Fred.
+LEADFEMALE:Okay.
+OTHERMALE:Thanks.
+LEADFEMALE:Yeah.
+LEADFEMALE:After having a talk with mom About her life and all the mistakes she made, I decided i'm not gonna push you To get together with Fred anymore.
+LEADFEMALE:'til after the holidays.
+LEADMALE:So, Becky, how's the hand? Oh, it's okay.
+LEADFEMALE:Well, why don't you go call everybody for dinner.
+LEADFEMALE:You go take all the glory, And i'll take over for you in here.
+LEADMALE:I said i'd do everything and i'll do it.
+LEADMALE:Oh, don't be a martyr, Becky.
+SUPFEMALE:You've been on your feet all day.
+LEADFEMALE:You deserve to sit with your husband and have a nice dinner.
+OTHERMALE:Thanks, mom.
+SUPMALE:Dinner's ready! God, I have to do everything around here.
+LEADMALE:More eating for me.
+LEADFEMALE:Well, Becky, your fist thanksgiving Is a total success.
+LEADFEMALE:Oh, bev, i'm sorry I upset you so much before.
+LEADMALE:I shouldn't have given away your little secret About how you got pregnant And had to marry Al.
+OTHERFEMALE:Mother, what are you talking about? Well, you didn't have to get so embarrassed nowadays.
+SUPMALE:I mean, you threw a tantrum And ran down the streets like a raving lunatic.
+LEADMALE:Mother, that was thanksgiving five years ago.
+OTHERMALE:What the hell are you talking about? No, it wasn't.
+LEADMALE:Was it? I know it's hard at your age, But try to stay with us.

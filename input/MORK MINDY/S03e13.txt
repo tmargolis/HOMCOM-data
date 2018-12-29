@@ -1,0 +1,396 @@
+LEADMALE:I love my new job.
+LEADMALE:I just wish the station would give me better assignments.
+SUPMALE:All I've been covering lately are grocery store openings and flower exhibits and that dumb dog show this afternoon.
+LEADFEMALE:Come on, are you kidding? Those dogs are great little performers.
+LEADMALE:I wonder why that guy got mad when I tried to wind up his toy poodle.
+LEADFEMALE:Oh, yeah.
+OTHERFEMALE:- Hi, it's me.
+LEADFEMALE:- Oh, hi.
+LEADFEMALE:I saw you come in.
+SUPFEMALE:You know how I hate to bother you two, but I'm having a very special lady over tomorrow night, Lorraine Sue Ruttenberg, and I'd like to borrow a few record albums.
+SUPFEMALE:- Oh, is this someone important? - Hopefully.
+LEADMALE:I'm bringing her all the way from Phoenix at enormous expense.
+SUPMALE:Do you realise how much bus fare is these days? Well, I'll get you the record albums.
+LEADFEMALE:You're probably looking to set the proper mood, eh? No, I'm looking for cheap thrills.
+SUPMALE:Oh, here's one of my favourites: Or a bat can go: I was thinking more along the lines of Perry Como.
+SUPFEMALE:All I have is his Christmas album.
+LEADMALE:Perfect.
+LEADMALE:''Little Drummer Boy'' works quicker than liquor.
+SUPMALE:Well, good luck, Bick, and thanks for coming by.
+OTHERFEMALE:You know, it's really-- Mork, if you don't mind, I'd like to take my hand back home with me.
+SUPFEMALE:Mork.
+SUPFEMALE:Come on, Mork.
+LEADMALE:Gee, Mr.
+SUPFEMALE:Bickley, it's too bad you have to run.
+LEADMALE:I don't think so.
+OTHERMALE:That boy's a little thin from the neck up.
+SUPFEMALE:No.
+LEADFEMALE:Bye.
+LEADMALE:Mork? Mork? Oh, no, now, what am I gonna do? Mork? Bye, Mr.
+OTHERMALE:Bickley.
+LEADFEMALE:Mork, what happened to you? You just spaced out.
+SUPMALE:I'm sorry, Mind, I got a call from Orson.
+LEADMALE:I had to put my body on hold.
+SUPFEMALE:- Oh, Mind, you'll never guess what.
+LEADMALE:- I never have yet.
+OTHERFEMALE:You'll never guess who's gonna grace us with his magnificent presence.
+LEADFEMALE:- Who? - Xerko.
+OTHERFEMALE:Xerko.
+SUPMALE:One of the Marx brothers? No, no, Mind.
+LEADMALE:No.
+LEADFEMALE:Oh, he's my hero, my idol.
+LEADFEMALE:He's the greatest Orkan that's ever lived.
+LEADFEMALE:He's coming here, Mind, he's coming here.
+LEADFEMALE:Why would this Xerox wanna come here? No, no, his name is Xerko, Mind, and there's no duplicating him.
+SUPMALE:I don't know why he wants to come here.
+LEADFEMALE:Orson didn't tell me, I guess he wanted to make it a surprise.
+OTHERFEMALE:Isn't it wonderful, though? Oh, boy, he's gonna love our little nest.
+SUPMALE:It's so warm and wonderful.
+LEADMALE:Oh, I've gotta clean up this pigsty.
+LEADMALE:It's filthy.
+SUPFEMALE:Xerko? Oh, Mork, nice to see you again.
+LEADFEMALE:It's been bleams, na-no.
+LEADFEMALE:Oh, sir, you remembered my insignificant, dirt ball name.
+OTHERFEMALE:Why of course, Mork.
+LEADMALE:My memory is impeccable.
+OTHERMALE:Oh, and the rest of us are merely peccable, sir.
+LEADFEMALE:Oh, sir, na-no.
+LEADFEMALE:Oh, it's been so long, sir.
+LEADMALE:I'm gonna have to have this hand bronzed.
+LEADMALE:Sir, sir, how was your journey? It was delightful, thank you.
+SUPFEMALE:Yes, I came via Air Ork's H-28 prototype beam.
+LEADMALE:Oh, travelling by beam.
+LEADFEMALE:I mean, who thought of that? Well, actually, Mork, I did.
+LEADFEMALE:What will I think of next? Oh, what a guy.
+LEADMALE:I mean-- Why are you here? Orson didn't tell me.
+LEADFEMALE:Wait a minute, did I win spend-a-day-with-a-hero contest? No, no, but we'll have plenty of time to talk about my mission later.
+LEADMALE:Mork, I admire very much, admire very much what you've done with this environment.
+LEADMALE:Oh, you admire something of mine, sir? You'll find that I admire many things of yours.
+LEADMALE:Oh, I see you have an Orkan landscape.
+LEADFEMALE:Oh, yes, it's a Van Yuch.
+LEADMALE:I have a good ear for paintings.
+LEADMALE:How nice.
+LEADFEMALE:I have the original, you know.
+LEADFEMALE:Van Yuch himself is hanging in my house.
+LEADFEMALE:I hope somebody remembers to feed him while I'm gone.
+LEADFEMALE:Mork, I wanna talk about your Earth reports.
+LEADFEMALE:Now, they've become so colourful that Earth is being considered an up-and-coming planet on the move.
+LEADMALE:We broke the top 40? - I mean, we're 1 6 with a bullet? - That's right.
+OTHERFEMALE:But it seems that the Earth people are so hungry for leadership.
+LEADFEMALE:They need someone to guide them into the next century.
+LEADMALE:And I know just the Orkan who can do it.
+LEADMALE:Thank you, sir, I'd better go hop in the shower.
+SUPFEMALE:Mork.
+OTHERMALE:Mork, silly misguided Mork.
+OTHERMALE:I was referring, of course, to myself.
+LEADMALE:Twinkle of eye, sparkle of teeth.
+SUPFEMALE:Oh, me, vacuous of head.
+OTHERFEMALE:I should have known better.
+OTHERMALE:I mean, you're the best there is in the whole universe.
+LEADFEMALE:I ought to know, I'm a Xerko groupie.
+OTHERMALE:See? Well, remind me to send you a Xerko lunchbox.
+SUPMALE:Sir, I mean, I can't believe this.
+LEADFEMALE:Why am I so lucky? Because, Mork, you are a key person in my plan for success.
+LEADFEMALE:Plan? What's your plan, sir, please? What's the plan--? Mork, you are so inquisitive.
+LEADMALE:Now, that's what sets us apart.
+LEADFEMALE:You ask and I know.
+SUPFEMALE:But you must be patient, my friend.
+LEADMALE:This also involves your Earthling, Mindy, as well.
+LEADFEMALE:I'd like to explain it to the two of you when you're together.
+LEADMALE:Oh, yes, sir.
+LEADFEMALE:Yes, sir.
+LEADMALE:I mean, once again, you're right, Your Everything.
+SUPFEMALE:I mean, I can wait just till morning, you know, that's: Morning already? Come, sir, let's go, come here.
+LEADMALE:Oh, wait.
+LEADFEMALE:Not necessary.
+SUPFEMALE:Oh, sir, even though Mindy's asleep, she's gonna be thrilled to meet you.
+LEADMALE:Well, who can blame her? Mind, wake up and come out and be filled with awe.
+LEADFEMALE:I hope she's wearing her bunny slippers, they're so cute.
+SUPFEMALE:- Hi.
+SUPFEMALE:- I thought you were asleep.
+OTHERMALE:Are you kidding? How could I sleep knowing I'm gonna have a guest from another galaxy? Is he here yet? Oh, I don't know, really, Mind, I really don't.
+LEADFEMALE:Mind, meet Xerko.
+LEADFEMALE:See him, feel him, touch him.
+LEADFEMALE:Well, hello.
+SUPMALE:Hello, Mindy.
+LEADMALE:This is indeed a pleasure.
+OTHERFEMALE:I've heard so much about you through Mork's reports to Orson.
+SUPMALE:I must say you're even more lovely.
+OTHERFEMALE:Oh, well, thank you.
+SUPMALE:Isn't he wonderful, Mind? Isn't he everything you ever dreamed of, especially compared to worm sweat like me? Welcome to Earth, or na-no, na-no, or whatever I'm supposed to say.
+LEADMALE:Say what you feel.
+SUPFEMALE:Are you sure you're an Orkan? Of course I am, but I've studied your ways and I find Earth a fascinating planet.
+LEADFEMALE:Very fascinating.
+LEADFEMALE:And you help make it that way.
+LEADMALE:Oh, well, shucks and wazoo.
+LEADFEMALE:Where have I heard that before? Mind, he's got a wonderful surprise to tell us.
+SUPMALE:He had to tell us when we're together.
+LEADMALE:- What's that surprise, Xerko? - I want your job.
+SUPMALE:Oh, shucks.
+LEADFEMALE:Mindy, what--? He wants my job.
+LEADMALE:What do you mean, you want his job? Well, after a mere formality, the ancient duel of the Hollitacker, I will become Ork's new observer here on Earth.
+LEADMALE:Wait a minute, you have everything.
+LEADMALE:Why do you want what I have? Your reports are becoming too popular and I can't have that.
+SUPMALE:Unless, of course, I'm giving them.
+SUPFEMALE:It would be a giant step in my illustrious career.
+LEADFEMALE:And I'm what he wants to step in.
+OTHERMALE:Oh, Mind, I don't have any chance against Xerko the Godlike.
+LEADMALE:You two will be very happy together.
+LEADFEMALE:Really, you really will.
+SUPFEMALE:Mork, you can't just give up.
+OTHERMALE:Yup, sure can.
+LEADFEMALE:Oh, yeah.
+LEADFEMALE:Well, if you'll excuse me, I'm going outside to re-carve that heart that's out on the tree outside to say: ''Xerko and Mindy.
+SUPFEMALE:'' Goodbye.
+SUPMALE:Oh, by the way, she likes her bologna sundaes without bologna.
+SUPFEMALE:Dad, I thought I could handle this myself, but-- You better sit down.
+LEADMALE:Another Orkan has come to replace Mork and live with me.
+LEADMALE:I better sit down.
+LEADMALE:Are you saying there's another Orkan in this house right now? Yeah, his name is Xerko.
+SUPMALE:And he and Mork are gonna have some kind of game called a Holliquacker or Tacker.
+LEADMALE:I don't know what it is.
+LEADMALE:What's that? Well, it's when one Orkan challenges another for his job.
+OTHERMALE:He's really trying to take over and I don't know what to do about it.
+LEADFEMALE:Honey, don't worry.
+LEADMALE:I'll have a talk with this Xerko.
+LEADFEMALE:It isn't that easy.
+SUPMALE:He's been here less than a day and he's already tuned up my Jeep, made all his own Earth clothes and scraped the bugs out of my ceiling lights.
+OTHERMALE:Well, I don't care what he's done.
+SUPMALE:He just can't come barging into other people's planets and take over.
+SUPFEMALE:Okay, little Bebo, we'll have tickle time again tomorrow.
+LEADMALE:Come on, little fellow.
+OTHERMALE:Now, listen, Mr.
+OTHERFEMALE:Zero.
+SUPMALE:Oh, you mean Xerko.
+LEADMALE:You must be Mindy's biological father.
+LEADFEMALE:How do you do, Mr.
+OTHERFEMALE:McConnell? It's a pleasure to meet you.
+LEADMALE:Oh, well, thank you.
+OTHERFEMALE:But I really think we should have a talk.
+SUPFEMALE:Oh, wonderful, wonderful.
+LEADFEMALE:Shall we all sit down? Please.
+LEADFEMALE:Oh, may I say how nice it is to see people dressing for dinner again.
+LEADMALE:He's dressed that way because he's the conductor for the Boulder Symphony Orchestra.
+SUPFEMALE:Well, what an honour.
+LEADMALE:May I ask you, Mr.
+SUPFEMALE:McConnell, do you enjoy Stravinsky? Stravinsky? How do you know about Stravinsky? Oh, we monitor all Earth broadcasts.
+LEADFEMALE:Now, I thought that Stravinsky reached his zenith during ''Rites of Spring'', until, of course, I heard his ''Firebird Suite''.
+LEADMALE:Do you agree? You know-- You know, you're right.
+SUPMALE:You must have quite a musical background.
+SUPMALE:Well, actually, I composed the Ork national anthem.
+LEADFEMALE:I wrote the song that made my whole world sing.
+SUPFEMALE:Really? That's quite impressive.
+OTHERMALE:Thank you, Mr.
+LEADMALE:McConnell.
+LEADFEMALE:- Call me Fred.
+LEADFEMALE:- Why, I'd like that.
+SUPFEMALE:I'd also like to see you conduct sometime.
+OTHERFEMALE:Well, as a matter of fact, I have a performance in less than an hour and I'm late.
+LEADFEMALE:- Oh, can I come along with you, Fred? - Of course.
+OTHERMALE:You'd enjoy it.
+LEADFEMALE:Tonight we're doing Schubert's ''Unfinished Symphony''.
+LEADMALE:Marvellous.
+SUPMALE:Maybe I can finished it for him.
+LEADFEMALE:Dad, remember Mork? Mork.
+LEADFEMALE:- Oh, yes.
+LEADFEMALE:Oh, now-- Now, Xerko-- - Here's your coat, Fred.
+LEADFEMALE:Oh, thank you.
+LEADMALE:Thank you.
+SUPFEMALE:Nice coat.
+SUPMALE:You don't happen to have the pattern, do you? And now, really, now listen, you just can't come down to Earth and move in like this.
+SUPMALE:Now, please, I understand your concern, but Mork's been here for a couple of years and you've had a chance to grow attached to him.
+LEADFEMALE:I'm sure, if given time, you'll grow attached to me too.
+SUPMALE:- Well, you like Stravinsky.
+SUPMALE:- Dad.
+LEADFEMALE:Oh, honey, Xerko seems like a civilised being.
+SUPFEMALE:I'm sure that I can reason with him.
+LEADMALE:Don't worry, honey.
+LEADFEMALE:Goodbye.
+LEADMALE:Remember, the Hollitacker's at midnight.
+LEADMALE:I want you there when Mork concedes, and wear something tight.
+SUPFEMALE:Well, Mork isn't gonna concede if I have anything to do with it.
+LEADMALE:He might not believe in himself, but I believe in Mork.
+LEADMALE:I love it when you're angry.
+LEADMALE:Who said you had to go to Disneyland to have fun on Earth? You're an E-ticket.
+LEADMALE:Mork, stop that packing.
+LEADMALE:You're not a quitter.
+LEADMALE:Look, I understand how you feel.
+OTHERMALE:When I was a little girl, there was this kid in school who was always the best at everything.
+OTHERFEMALE:She was class president and cafeteria monitor and teacher's pet.
+OTHERFEMALE:The one thing I was really good at in school was spelling.
+SUPFEMALE:But she was better.
+LEADFEMALE:Maybe we should get her to fight the Hollitacker, Mind.
+LEADMALE:Every year at the school spelling bee, there were only just two of us left on the stage, her and me.
+SUPFEMALE:And every year, she was always the last one standing on that stage.
+SUPFEMALE:But I kept trying, until one time it was just down between the two of us, and the word was hors d'oeuvres.
+LEADMALE:And she blew it.
+OTHERFEMALE:Oh, it was wonderful.
+SUPFEMALE:You mean, you beat her? You won? Yeah.
+LEADMALE:And I still have the ribbon to prove it.
+LEADFEMALE:See, you can do it if you try.
+OTHERFEMALE:How are you gonna know otherwise? Yeah.
+LEADMALE:Yeah, you're right, Mind.
+SUPFEMALE:- You really think I have a chance? - Sure, Mork.
+SUPFEMALE:If you want something, you'll find a way to get it.
+LEADMALE:- Yeah.
+LEADFEMALE:- I know you can do it.
+SUPMALE:Yeah, yeah.
+SUPMALE:Yeah, I can do it.
+SUPMALE:Yeah.
+LEADMALE:Whatever happened to that girl, Mind? I don't know.
+SUPFEMALE:I kind of lost track of her after she won the Nobel Prize.
+SUPFEMALE:Let the Hollitacker begin.
+SUPFEMALE:Mork, come down and be defeated.
+LEADFEMALE:Oh, Mindy, you look absolutely beautiful.
+OTHERFEMALE:After I win, I will present you with the fruits of my victory, Mork's ears.
+LEADMALE:Ears? Well, Mork told me this was a non-violent contest.
+LEADMALE:Oh, it is.
+LEADFEMALE:Orkan ears screw off.
+LEADFEMALE:Mork, do I take your continued absence to mean a forfeit? Never.
+LEADFEMALE:I'm just waiting till my knees to stop knocking.
+SUPFEMALE:Mork runs from no man.
+OTHERMALE:And tonight, I'm gonna try-- Try to do my best.
+LEADFEMALE:Well, maybe it's a good night to do my laundry, Mind.
+LEADMALE:Oh, Mork.
+SUPFEMALE:Remember, no matter what happens, you're a winner to me.
+OTHERFEMALE:Oh, thank you, Mind.
+SUPFEMALE:I brought the ribbon that I won at the spelling bee.
+OTHERMALE:I want you to wear it to remind you of a little girl who wouldn't give up.
+LEADMALE:- Oh, thank you, Mind.
+LEADMALE:- Okay? There you go.
+SUPFEMALE:Good luck, Mork.
+LEADMALE:Oh, thank you.
+LEADFEMALE:Oh, no, Mind.
+SUPMALE:Pardon me.
+OTHERFEMALE:- I'll try even though it does clash.
+LEADMALE:- Okay.
+LEADFEMALE:- Give him hell.
+LEADMALE:- All right, Mind.
+LEADFEMALE:The choice of weapons goes to the challenger.
+OTHERFEMALE:And I choose the Swords of Cletus.
+SUPFEMALE:I was hoping he'd opt for spatulas, Mind.
+LEADMALE:Take your pick.
+SUPMALE:Eenie, meenie, minie, Cletus, hope he doesn't try to cheat us.
+LEADMALE:This one.
+OTHERMALE:But I don't see anything.
+SUPFEMALE:Of course not.
+SUPFEMALE:The Swords of Cletus are invisible.
+LEADMALE:Observe.
+LEADMALE:Oh, I get the point.
+LEADFEMALE:Oh, that's nothing.
+OTHERMALE:You see that fly up there? Yeah, but it's still alive.
+LEADMALE:Yes, but wait till he tries to land.
+LEADFEMALE:Okay.
+OTHERMALE:All right, we all know the rules here, don't we? First man to push his opponent back through the goals wins the Hollitacker.
+LEADMALE:Now, I want a clean fight here.
+LEADFEMALE:And cross blades and may the second-best Orkan win.
+SUPFEMALE:Good luck, Mork.
+LEADMALE:You can do it.
+SUPMALE:Okay.
+OTHERMALE:Not now, not now.
+OTHERMALE:Begin.
+LEADFEMALE:Don't fall in.
+LEADFEMALE:It always looked easier from the stands, Mind.
+LEADFEMALE:All right.
+SUPMALE:Time out.
+SUPMALE:- Time in.
+LEADFEMALE:- Oh, time in? A little closer.
+OTHERMALE:Mind, your help, please.
+LEADFEMALE:If you find the sword, you'll recognise it.
+OTHERFEMALE:It's the only one you can't see.
+SUPFEMALE:My furniture.
+LEADMALE:It's all right, my dear.
+LEADFEMALE:When I move in, I'll redecorate.
+SUPMALE:Hello.
+SUPMALE:It's for you, Mind.
+OTHERMALE:We've been cut off.
+LEADMALE:- Mind.
+LEADMALE:- Oh, I think I've found it.
+SUPMALE:Can you try to hurry up, Mind? No pressure.
+SUPFEMALE:One, two, three.
+SUPMALE:- Here, catch.
+LEADFEMALE:- Mind.
+LEADMALE:Pick on me when I'm down, huh? Well, I'm not anymore.
+LEADFEMALE:I'm coming.
+OTHERFEMALE:Make way, Mind.
+LEADMALE:Don't make them like they used to.
+LEADFEMALE:- Quick, Mork.
+LEADMALE:- Not now, my sweet, have patience.
+LEADMALE:What's going on in there? Ixnay on the ollitackerhay.
+LEADMALE:What have you got against love? Lorraine Sue's heart was beating faster than the little drummer boy's stick and you have to start playing hide and go kinky.
+SUPFEMALE:And what's the situation now? Lorraine Sue is thumbing her way back to Phoenix and I'm left with my motor racing and no place to park.
+LEADMALE:Oh, and by the way, don't bother trying to explain this.
+SUPMALE:I'm sure I'll be filled in by the vice squad later.
+SUPMALE:All right, Mork, it's been fun, but all good things must come to an end.
+SUPFEMALE:Earth and Mindy are now mine.
+LEADFEMALE:Eat garlic.
+LEADMALE:- Please, Mork.
+LEADMALE:- You've got it in for you.
+LEADMALE:That's it.
+LEADMALE:You've gone too far now.
+LEADFEMALE:You've cut Mindy's ribbon.
+LEADFEMALE:And that, this is for Mindy.
+LEADMALE:That's for the couch, that's for the fly, that's for the candle and this is for-- I hope you didn't take anything I said seriously.
+SUPFEMALE:Heat of the battle and all that rot.
+LEADMALE:All right, Mork.
+LEADMALE:Enough is enough.
+SUPMALE:It's time to draw this to a close.
+LEADMALE:Not a bad little dueller.
+LEADMALE:Not a bad little dancer.
+SUPMALE:Goodbye, Mork.
+LEADMALE:You did it.
+LEADFEMALE:You won.
+SUPFEMALE:I don't believe it.
+LEADMALE:You won.
+LEADMALE:I didn't win.
+LEADFEMALE:It was your ribbon that really helped.
+LEADMALE:Congratulations.
+LEADMALE:You fought valiantly.
+LEADFEMALE:I've never lost anything before.
+SUPFEMALE:I just can't imagine being beaten by Mork.
+LEADMALE:Well, I think you've learned a good lesson.
+LEADMALE:On Earth, it's called humility.
+LEADMALE:Humility.
+LEADMALE:Yes, strange new stirrings within me.
+LEADMALE:I'm beginning to feel it.
+LEADFEMALE:Yes, thanks to you, Mork, I have acquired humility.
+LEADMALE:Now, I have everything.
+SUPMALE:I'll be the perfect leader for the next planet I decide to grace with my presence.
+SUPMALE:Well, goodbye.
+SUPMALE:Beam me up, Scotty.
+LEADFEMALE:Farewell, my flawed leader.
+LEADFEMALE:Well, Mork, I sure am proud of you.
+LEADFEMALE:Well, you know something, Mind, me too.
+LEADMALE:- Sorry the house is kind of torn apart.
+SUPMALE:- Yeah.
+SUPMALE:Well, I guess the most important thing is that you're back together again.
+SUPFEMALE:The very most important thing is that we're back together again, Mind.
+LEADFEMALE:You know, you never told me that Orkan ears unscrew.
+SUPFEMALE:Gee, I'm afraid to ask what else comes off.
+LEADMALE:You got me, Mind.
+SUPFEMALE:I've tried everything.
+LEADMALE:Mork calling Orson.
+SUPFEMALE:Come in, Orson.
+LEADMALE:Mork calling Orson.
+LEADMALE:Come in, Your Grand-Central-Stationness.
+SUPFEMALE:- Are you still there, Mork? - Oh, yes, sir.
+LEADFEMALE:l heard X erko challenged you to a Hollitacker.
+LEADMALE:He did, sir.
+SUPMALE:But I came, I saw, I conquered.
+SUPMALE:What? What? All right, sir, actually, I quivered, I ran, I squeaked by.
+OTHERMALE:Jizzix the Greek gave odds that you wouldn't even show up.
+LEADFEMALE:- I know that, sir.
+LEADMALE:- l'm out big bucks, Mork.
+LEADFEMALE:Me too, sir.
+SUPMALE:I lost 20 myself.
+LEADFEMALE:But I found something even more valuable, sir.
+LEADFEMALE:I learned that if you bet against yourself, you always lose.
+SUPMALE:A little proverb from Monty Hall.
+LEADMALE:But you wound up winning, Mork.
+SUPFEMALE:Doesn't that feel good? Oh, yes, sir.
+LEADFEMALE:But what makes me feel better is the fact that I tried.
+LEADMALE:You see, it's not what's in front of you that blocks your way, it's what's inside of you that holds you back.
+LEADMALE:The problem with you is what's inside of you is what's in front of you.
+LEADMALE:A little shot for betting against me.
+LEADMALE:Until next week, Your Green-Felt-Jungleness.
+LEADFEMALE:

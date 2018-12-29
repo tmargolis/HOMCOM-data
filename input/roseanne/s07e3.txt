@@ -1,0 +1,297 @@
+LEADMALE:Grape, grape.
+LEADFEMALE:Grape, grape, grape.
+OTHERFEMALE:Grape, grape.
+SUPFEMALE:Grape, grape, grape.
+LEADMALE:Grape, grape! Orange, orange.
+LEADMALE:Orange, orange, orange.
+OTHERMALE:Orange Hey, David.
+LEADFEMALE:How's it going? Great.
+LEADMALE:Uh This is about you and Darlene breaking up, isn't it? I mean, you didn't catch yourself in your fly, did ya? Uh, listen, David.
+LEADMALE:I know you're feeling a lot of feelings.
+LEADMALE:And that's good.
+LEADFEMALE:Feelings are good.
+LEADFEMALE:Even when they're bad.
+SUPMALE:Maybe I should go get Mrs.
+SUPMALE:Conner.
+SUPFEMALE:Why? Uh Well, because like you, Mrs.
+LEADFEMALE:Conner has a lot of feelings.
+LEADFEMALE:And she likes to talk about 'em.
+SUPMALE:I don't want to talk to her.
+LEADMALE:Oh, okay.
+SUPFEMALE:Well Listen, I don't think me and you should talk while you're crying, so why don't you just finish up there.
+LEADMALE:I don't mind if you're here.
+LEADMALE:I I just don't want to embarrass ya.
+LEADFEMALE:I'm not ashamed to cry.
+OTHERFEMALE:Well, of course not.
+LEADFEMALE:I mean, uh, crying's a sign of strength.
+LEADFEMALE:I mean Men who cry show a lot of courage.
+LEADMALE:A lot more than all the guys who are laughing at 'em.
+SUPFEMALE:I just feel like like my heart is just ripped out, you know? And I'm just empty.
+LEADMALE:Like a shell.
+SUPFEMALE:You understand, don't you? Yeah.
+LEADMALE:Shell.
+LEADFEMALE:I love her so much, Mr.
+LEADMALE:Conner.
+SUPMALE:Yeah, I know, and I'm sure she loves you too.
+SUPMALE:She used to.
+SUPMALE:Listen, David.
+LEADMALE:You know what? Best thing for you to do is just pick yourself up dust yourself off, and start all over again.
+LEADMALE:Thanks, Mr.
+OTHERFEMALE:Conner.
+SUPMALE:No problem.
+LEADFEMALE:What's wrong with me? Why can't she love me? Listen, David.
+SUPMALE:Everybody goes through something like this.
+LEADMALE:Yeah? You ever lose something you really wanted? I sure have.
+LEADMALE:Absolutely.
+LEADFEMALE:I remember, I was just about your age.
+LEADMALE:Regional playoffs, fourth quarter.
+LEADFEMALE:We're down by three.
+LEADFEMALE:I dive on a fumble, I had it in my arms, it was mine.
+SUPFEMALE:Some guy jumped on my back, and I lost it.
+SUPMALE:See? No.
+LEADFEMALE:I really wanted that ball.
+LEADFEMALE:My coach said something to really help me.
+LEADFEMALE:He said, "Conner, "walk it off.
+LEADMALE:" So that's your advice? Walk it off? Well, yeah.
+SUPFEMALE:And the thing about dusting yourself off and starting all over again.
+LEADMALE:Thanks, Mr.
+LEADFEMALE:Conner.
+LEADFEMALE:I'll try.
+SUPFEMALE:Thattaboy.
+SUPMALE:Oh Mom, where's my black coat? Well, that narrows it down.
+LEADMALE:My big black one.
+LEADMALE:It's in the hall closet.
+LEADFEMALE:What are you gonna do with it? I'm gonna take it to school.
+LEADMALE:Why don't you get it when you come home for Thanksgiving? Yeah, we kind of like having it around here, in case, you know, Johnny Cash shows up and he's cold.
+LEADMALE:I gotta take it now.
+SUPMALE:I probably won't be home for Thanksgiving.
+LEADFEMALE:Why not? I got this job, and I have to work holidays.
+LEADFEMALE:Work holidays? What kind of a job is it? Mrs.
+OTHERMALE:Dan Conner? It's at the radio station.
+LEADMALE:And if it works out, I'll get to work there next summer too.
+LEADFEMALE:Darlene, that's great! I remember my first summer away from home.
+LEADFEMALE:I was sick! I hated every minute.
+SUPFEMALE:What are you thinking of? Where are you going with that mug? I'm gonna pack it for school.
+SUPFEMALE:No way, that is your at-home mug.
+OTHERMALE:You're not taking that off to school.
+LEADMALE:That is to be used only in this house.
+LEADFEMALE:Mom, it's mine.
+SUPFEMALE:Oh, well, why don't we just go to Denny's and ask which one of us stole it in the first place? Let her have the mug.
+LEADFEMALE:If it makes you feel any better, honey, I'll take you out to dinner tonight.
+OTHERFEMALE:Bring your big purse.
+LEADMALE:Now this wouldn't have anything to do with that fact that your ex-boyfriend is living here, and you just don't want to come home and deal with him, does it? Mom, I don't need to use David as a reason not to come home.
+LEADFEMALE:I always have you.
+OTHERFEMALE:Things still a little tense around here, huh? Yeah.
+SUPMALE:Dan, get out of the fridge and go talk to him! I don't wanna go in there! He'll just cry on me again.
+LEADMALE:Well, that's tough.
+SUPFEMALE:You're drafted.
+SUPMALE:I'm putting on a dress and going to Canada like I did last time.
+LEADMALE:If you like, Roseanne, I could talk to the boy.
+SUPMALE:I have loved and lost.
+SUPFEMALE:I have loved and won.
+LEADMALE:Yeah, love's a crazy game.
+LEADFEMALE:You pays your money, you takes your chances.
+OTHERFEMALE:But that's all part of this cockeyedCockeyed caravan we call life.
+LEADFEMALE:What were we talking about? Never mind, Jackie.
+LEADMALE:I think he should have a man talk to him anyway.
+LEADFEMALE:Hey, Mark.
+LEADFEMALE:You know any men? I'm not going in there.
+LEADFEMALE:I'm not good with feelings.
+LEADMALE:You? You, whose poetry makes me weep? Get in there! All right.
+SUPMALE:Hey.
+OTHERMALE:I know what you're thinking about, man.
+LEADFEMALE:You can't get that picture out of your head.
+OTHERMALE:That other guy, climbing on top of her.
+SUPFEMALE:God, I never even thought about that.
+OTHERFEMALE:Sorry, man.
+OTHERMALE:I don't think you should be so bummed out.
+LEADFEMALE:You can get much hotter girls than Darlene.
+LEADFEMALE:Besides, she always pushed you around.
+OTHERMALE:She's a total bitch.
+LEADMALE:Leave me alone.
+LEADFEMALE:Nice! Believe me, she was just going to get much worse.
+LEADFEMALE:Oh, David, I know you don't want to believe me now, but, you know, you're going to feel better in time.
+LEADFEMALE:Look, I don't need your help.
+SUPMALE:I was perfectly happy when she was going out with me and Jimmy.
+OTHERFEMALE:If it wasn't for you, I never would have made her choose.
+OTHERFEMALE:Yeah, and the three of you would have made a lovely couple.
+LEADFEMALE:Maybe if I would have just waited, she would have gotten tired of Jimmy and come back to me.
+SUPMALE:Come on, David, that was not gonna happen.
+LEADMALE:Darlene felt it was time to move on.
+OTHERMALE:You don't know anything about her.
+LEADFEMALE:You have no idea what she does in Chicago.
+OTHERMALE:Well, I assume she's just a little ball of sunshine there same as she is here.
+LEADFEMALE:You don't know how she spends her time.
+LEADMALE:You don't know who her friends are.
+LEADFEMALE:You don't even know she does drugs.
+SUPFEMALE:What do you mean "drugs"? You name it, she does it.
+SUPMALE:But I guess you already knew that, right? Darlene, get up here now! Hey.
+OTHERMALE:Let's see if we can get her to pee in a cup without getting her suspicious.
+LEADFEMALE:How could our kid could have turned out so stupid? Maybe it's all that pot we smoked in high school.
+LEADFEMALE:Get David in here, too.
+LEADFEMALE:No.
+OTHERFEMALE:I don't want Darlene to know that he snitched on her.
+LEADFEMALE:He's suffered enough.
+SUPFEMALE:I don't care, where is he? He's upstairs in the witness protection program.
+SUPMALE:He answers to the name Steve now.
+LEADFEMALE:What? I'm packing.
+LEADMALE:Sit down, you got a lot of explaining to do.
+LEADMALE:Well, see first, I open the suitcase.
+OTHERFEMALE:ThenSit.
+SUPFEMALE:Cut the crap, Darlene.
+LEADFEMALE:Now I want the truth.
+SUPFEMALE:Are you using illegal narcotics? No.
+SUPMALE:Well, that's funny, 'cause I heard you were.
+LEADMALE:Who told you that, David? No.
+OTHERMALE:Not David.
+OTHERFEMALE:David! Get in here now! Yeah, 'cause you won't believe what we heard about Darlene! Why would you believe David over me? I'm your own daughter.
+OTHERMALE:Because we're familiar with your work.
+LEADFEMALE:Hey, Darlene, how's it going? Did you see Darlene use drugs? Yeah.
+LEADMALE:What kind of drugs? Uh, I know she smoked pot a few times, and she told me she tried speed, and twice I saw her drop acid.
+SUPFEMALE:You did acid? I tried it twice, okay? I just tried it.
+LEADFEMALE:I didn't like it and I'll never do it again, okay? No, it's not okay.
+SUPFEMALE:You tried it and you didn't like it? So then you went and did it again? Well, the first time I was on the floor in convulsions, so I couldn't tell if I liked it, so I tried it a second time.
+LEADMALE:If I was you, I'd get serious real fast, Darlene.
+LEADMALE:I'm sorry, I know it was a mistake.
+LEADFEMALE:But it was, like, months ago.
+LEADMALE:I haven't done it since and I don't plan to.
+OTHERMALE:I think you're lying.
+LEADFEMALE:I'm not lying.
+SUPFEMALE:Well, your father and I think you are, and you say you're not, so I guess we need an impartial third erson to settle this.
+LEADMALE:David, you're on our side, what do you think? I think she might.
+SUPFEMALE:Unbelievable.
+LEADFEMALE:Well, Darlene, your mother and I are going have to think long and hard about what to do about this.
+OTHERMALE:You are not going back to school.
+LEADFEMALE:What? That's it! End of discussion.
+SUPMALE:Well, we thought about it and we decided you're not going back to school.
+LEADMALE:I bet you're high now.
+LEADFEMALE:Does my face look all distorted? Yes, which just proves that I'm completely straight.
+LEADFEMALE:You know they told us at school, if you do drugs, you wind up all weird and really crazy.
+OTHERFEMALE:I love you, DJ.
+OTHERFEMALE:Hey! Hey, where you goin'? Where's your brother going? He's supposed to take out the trash.
+OTHERFEMALE:Oh, I'll do it.
+SUPMALE:Hey Dad, think fast.
+LEADMALE:What's this? You want to try some horse? The game, I mean.
+SUPMALE:No, thanks.
+LEADFEMALE:Oh, come on.
+OTHERMALE:It's been a while since we played ball.
+SUPFEMALE:This isn't going to work, Darlene.
+LEADFEMALE:You're not going back to school.
+OTHERMALE:Oh, come on, Dad.
+LEADMALE:Do you really think what I did was that bad? Yes.
+OTHERFEMALE:Give me a break.
+LEADFEMALE:You grew up in the '60's.
+SUPMALE:I've seen the photo albums.
+LEADFEMALE:I mean, those clothes had to have some pharmaceutical explanation.
+LEADMALE:Your mother and I smoked pot, and it was stupid, but not nearly as stupid as what you're into.
+SUPFEMALE:Dad, you know me, I mean, I'm not an idiot.
+LEADMALE:I worked too hard to get into school.
+LEADFEMALE:I'm not going to mess it all up by doing drugs.
+SUPFEMALE:Then why'd you try it? 'Cause I was curious.
+SUPMALE:I mean, now I know.
+LEADMALE:I'm not curious anymore.
+LEADFEMALE:You believe me, don't you, Dad? This matter is closed.
+OTHERFEMALE:Hey, DJ! Come on, you gotta take the garbage out! You do believe me.
+LEADMALE:You're just going along with Mom.
+OTHERMALE:Drop it.
+LEADMALE:You never stand up to her.
+SUPMALE:You know what, Darlene? You got a lot to learn about sucking up.
+OTHERFEMALE:Roseanne, what are you doing? Well, apparently Darlene didn't think I was serious about keeping her home from school, so I'm just helping her unpack.
+SUPMALE:You looking for drugs? No, I just want to make sure she doesn't take-off with one of our complimentary bathrobes.
+LEADFEMALE:What the hell is that? I told her she couldn't take that.
+SUPFEMALE:Listen, Roseanne? I'm real worried we're doing the wrong thing with Darlene.
+LEADFEMALE:I don't think she's lying.
+LEADFEMALE:I don't think she's going to do it anymore.
+LEADFEMALE:Well, Dan, if you feel that strongly about it, I guess I'll have to honor your instincts.
+SUPMALE:Good.
+LEADMALE:See, you can't even tell when somebody's lying right to your face.
+OTHERMALE:Jackie, could you excuse us.
+SUPMALE:Roseanne and I have to talk.
+OTHERFEMALE:No, this discussion's over.
+SUPMALE:You're not going anywhere.
+LEADFEMALE:She lied right to us, Dan.
+LEADMALE:She said she did it once and didn't like it? Come on, nobody doesn't like it.
+LEADFEMALE:And besides, David said she would do it again.
+OTHERMALE:Well you can't believe David, it's a jilted boyfriend.
+LEADMALE:Besides, pulling Darlene out of school right now's just gonna screw up any kind of future she might have.
+LEADMALE:What, to go on and run one of those huge drug cartels? Well, I could really use some fresh air.
+SUPMALE:No! You're not leaving.
+SUPFEMALE:He's leaving.
+SUPMALE:Leave.
+SUPFEMALE:You keep her in Lanford, you're just gonna drive her to drugs.
+OTHERFEMALE:And around here she won't have to pay those big-city prices.
+LEADFEMALE:She won't be doing any drugs around here.
+SUPMALE:Are you kidding, look around! Why wouldn't she? Hell, why don't we? She won't, because we are going to be watching her, and we won't, because we couldn't possibly be any happier than we are right now! Anybody need a popSit down! You're gonna keep an eye on her all the time? What are you going to do, quit your job, put her in a box, and watch her all day? No, Dan, I'm going to put her on top of the television so you can watch her all day.
+LEADFEMALE:I give up.
+SUPMALE:Can you believe him? His kid is on drugs and he's acting like she ate her school paste.
+SUPFEMALE:Well, I don't know, Roseanne.
+LEADFEMALE:Did you ever think that if you keep her home, you could be screwing up your relationship with her forever.
+LEADMALE:Who's side are you on? I'm on your side.
+SUPFEMALE:I'm just worried you might not be thinking clearly.
+SUPFEMALE:Not thinking clearly? I won a great big argument just then, didn't I? I just know that it is very hard for you every time that Darlene goes away to school, and now it seems even more permanent because she is taking her "at home" mug.
+SUPFEMALE:Are you out of your ever-loving mind? This has nothing to do about a stupid mug, okay? It has to do with my kid on dope! I don't think you understood the symbolism of the mug! Hi, Mrs.
+SUPFEMALE:Conner.
+SUPFEMALE:Hey.
+LEADFEMALE:Listen, I just want to tell you that I really think you're doing the right thing keeping Darlene home from school and if you want I can help keep an eye on her for you.
+SUPFEMALE:Thanks, and I'd like for you to use a variety of disguises.
+SUPMALE:I heard her talking on the phone and I think she might be planning on running away to Chicago and staying with some friends.
+SUPMALE:So, I called the radio station and they said she hasn't quit her job yet.
+LEADFEMALE:Plus, I think I know where she keeps her journal.
+OTHERMALE:That could help us a lot.
+OTHERMALE:Well, thanks for the beat from the street, Huggy Bear.
+OTHERFEMALE:What? Well, you've got it all figured out, don't you? Why are you mad at me? I'm just trying to help Darlene.
+LEADFEMALE:No, you're not.
+LEADFEMALE:If you were trying to help Darlene, why didn't you tell me she was using drugs before this? Because, I, I, I wasn't worried about her when I was around to protect her.
+SUPMALE:Mmm hmm.
+LEADFEMALE:And who knows the kind of people she's running around with now? Like that new guy she's dating.
+SUPFEMALE:He's definitely the type that does drugs.
+LEADMALE:Do you know that? Do you have proof of that? No, but, you know, it's a feeling.
+OTHERMALE:And, uh, that feeling wouldn't be posessiveness and selfishness, now would it, David? What did I do wrong here? You are mad at Darlene for dumping you.
+OTHERMALE:So you're desperate to keep her in the house.
+LEADMALE:And you're spying on her.
+LEADFEMALE:Which normally I like, but I don't like the way you're doing it.
+LEADMALE:I'm gonna go talk to her.
+LEADMALE:She's in the basement.
+LEADFEMALE:Boy, you just don't quit, do you? Darlene! Did you have fun looking through my things? Well, I always have.
+SUPMALE:Well, if you found something that looks like a stamp, don't lick it.
+SUPFEMALE:You know, Darlene, I would like nothing better than to believe you so I could let you go back to school.
+SUPFEMALE:You don't want to believe me.
+SUPMALE:I do so.
+SUPMALE:If you could just give me one little thing to hold on to.
+LEADMALE:I swear to god, with all my heart and soul, that I regret doing it.
+OTHERFEMALE:I mean, it was a stupid thing to do, and I'll never do it again, I swear to god.
+OTHERFEMALE:What else you got? Nothing, that's all I got.
+LEADMALE:All right.
+SUPMALE:Well, go to school.
+LEADFEMALE:Really? You believe me that I'm not gonna do drugs? I really don't know what to believe, Darlene.
+LEADFEMALE:But, you know, you're almost an adult now and I just have no choice but to just let you go and just take my chances.
+LEADFEMALE:Well, I'd feel better if you trusted me.
+LEADFEMALE:Yeah, I'd feel better if I trusted you, too.
+SUPMALE:You know, but if you want my trust, then you're going to have to work really hard to earn it back.
+LEADFEMALE:Mom, I'm telling the truth.
+SUPFEMALE:I only tried it because I was curious.
+LEADFEMALE:Well, I really hope that that's true.
+OTHERFEMALE:I hope you weren't doing it, for some reason, to, uh, rebel against me and your dad.
+SUPMALE:'Cause there's other ways to aggrevate us besides frying your brain cells.
+OTHERMALE:You know, look at Becky.
+LEADFEMALE:She never did drugs, she married Mark.
+SUPMALE:Well, there is a young Republican that I'm interested in.
+SUPFEMALE:There you go.
+LEADMALE:Now you're thinking.
+LEADFEMALE:Thanks, Mom.
+LEADFEMALE:But if I think that anything is up at all, I will yank your butt back here so fast that you'll think you're having a flashback.
+LEADFEMALE:Yeah, I got it.
+LEADFEMALE:And you're gonna call me every single hour on the weekends.
+SUPFEMALE:All right.
+SUPFEMALE:And I want you in this house for all the holidays, okay, Thanksgiving, Christmas and Black History month.
+LEADMALE:Well, what am I supposed to say to my job when they say I have to work? Just say no.
+SUPMALE:All packed up and ready to go to school, huh? You know, the great thing about this is, is that after all that's happened, we can stil talk like this.
+SUPFEMALE:Would it help at all if I told you I'm really sorry about what happened? Yeah, me too.
+SUPFEMALE:I'm sorry I didn't dump your ass sooner.
+OTHERFEMALE:It's okay, Mr.
+LEADMALE:Conner, I'm gonna be strong, I'm not going to cry.
+SUPFEMALE:Good.
+OTHERMALE:Okay, David.
+LEADMALE:Okay.
+SUPMALE:Just let me get the remote.
+LEADFEMALE:

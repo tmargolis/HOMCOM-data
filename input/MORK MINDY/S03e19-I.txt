@@ -1,0 +1,381 @@
+LEADMALE:Announcing the red-carpet treatment for Grandma's return home.
+OTHERMALE:All this is going to be the most exciting of parties since the inauguration.
+SUPMALE:Well, I'm celebrating too, but not quite as flamboyantly.
+OTHERMALE:I'm trying to make Grandma's favourite dessert, peach cobbler.
+SUPFEMALE:It looked so easy when she made it.
+SUPMALE:A peach cobbler.
+LEADFEMALE:Can he make me a little fuzzy pair of shoes, Mind? I know, that one was the pits, huh? I'm really looking forward to her visit.
+LEADMALE:I've got my bedroom all cleaned and ready for her.
+LEADMALE:Don't worry about that.
+SUPMALE:I've turned my armoire into a hospitality suite.
+OTHERFEMALE:If she can stand living with my moth collection.
+LEADMALE:Let me show you.
+OTHERMALE:Don't worry about that.
+LEADFEMALE:Come on down, sweetheart, let's fly.
+LEADFEMALE:Fly like the wind, fly like the wind.
+SUPFEMALE:Let me show you what I've got for her now.
+LEADFEMALE:First of all, I have a new trapeze to sleep on.
+LEADMALE:And to make her feel really at home, her favourite pinup boy Thank you, Judy and Cissy, for that lovely iguana dance of love.
+LEADFEMALE:Oh, Mork, that's really sweet, but I think Grandma would prefer to sleep horizontally.
+LEADMALE:Why, Mind? You said she joined a swinging seniors club.
+LEADMALE:This is not that kind of swinging.
+LEADMALE:See, it's a group of active older people who believe that life doesn't have to be dull after 60.
+LEADMALE:Oh, unless you watch Tom Snyder.
+OTHERFEMALE:Look who's here.
+OTHERFEMALE:- Grandma's back and you got her.
+OTHERFEMALE:- Oh, Gram, it's so good to see you.
+LEADFEMALE:Oh, me too, Gram, that goes double for me.
+LEADFEMALE:Mork, back off.
+LEADFEMALE:Well, hi, Mork, how's my favourite spaceman? Oh, wonderful, Gram.
+LEADFEMALE:Oh, bravissimo.
+OTHERFEMALE:Thank you very much.
+LEADFEMALE:Well, this is really a royal welcome.
+SUPMALE:A banner, a red carpet and peach cobbler? Yeah, the kind that Grandma used to make, I hope.
+OTHERMALE:Can you stay forever? Can you stay forever, please? Oh, that's sweet of you, Mork, but no.
+SUPMALE:I can only stay three days.
+OTHERFEMALE:And then I'm going on to Vegas.
+SUPFEMALE:My group is having a convention.
+LEADMALE:Yes, and it's her turn to pop out of the cake.
+OTHERFEMALE:I only do that for the Shriners.
+LEADMALE:Come on over here and tell us all about how you like living in Boston.
+LEADFEMALE:Well, Boston is really the best.
+LEADMALE:Here, you got a little something on your face.
+OTHERFEMALE:- There.
+OTHERFEMALE:- Oh, thanks.
+SUPFEMALE:But living with my little sister Mildred is never easy.
+SUPMALE:Well, you know how it is when they're that age.
+OTHERMALE:They think they have all the answers.
+OTHERFEMALE:Well, I suppose I was the same way when I was 70.
+SUPFEMALE:But enough about me, now tell me, what's the poop around here? Oh, let's scoop.
+SUPFEMALE:Oh, we'll dish till dawn.
+LEADFEMALE:First of all, Mindy got a job, I got a job, Carter lost a job.
+LEADFEMALE:I wondered why peanut butter was getting so expensive.
+LEADFEMALE:And Brooke Shields turned 40 on her 1 5th birthday, coleslaw's hard to reheat, and also, they put Walter Cronkite out to stud.
+LEADFEMALE:Watch out, Grandma.
+OTHERMALE:Well, you did ask what was new.
+LEADFEMALE:Grandma, we've planned a special luncheon for you tomorrow.
+LEADFEMALE:We've got a lot of new friends in town and we've told them all about you.
+OTHERMALE:Not all, dear.
+OTHERFEMALE:The best hasn't happened yet.
+LEADFEMALE:Well, dear, I do want to meet all your friends, yes, but, say, I'd better get out and bring in the rest of my things.
+LEADFEMALE:Can I carry your barbells? Yes, dear, if you're sure they're not too heavy for you.
+LEADMALE:You know, honey, your grandmother has been so sweet to me.
+LEADFEMALE:Not one insult all day.
+LEADFEMALE:I guess absence does make the heart grow fonder.
+SUPMALE:Well, Fredzo, are you going to give us a hand, or are you just going to stand there like a wiener? Well, and so I told him, I said, ''Take your hand off my knee, buster, or you'll land a half hour before the plane does.
+LEADMALE:'' Oh, Mindy, she's such a treat.
+LEADFEMALE:Where do you get your spunk? Oh, I go to a clinic for spunk shots.
+OTHERMALE:You know, Cora, you remind me of my grandmother.
+LEADFEMALE:Yeah, except you don't have a moustache.
+LEADFEMALE:- Oh, Remo, that's not nice.
+LEADFEMALE:- Would be if she'd wax it.
+OTHERFEMALE:Oh, look at her laugh.
+SUPMALE:Isn't she cute the way her little cheeks shake? Mindy tells me that you're off to Las Vegas for a convention of swinging seniors? - Yeah.
+LEADMALE:- I don't think I ever heard of them.
+LEADMALE:Well, we travel a lot to promote the rights of the retired.
+LEADMALE:It's something like the Grey Panthers, only we have leather shawls.
+LEADFEMALE:Our slogan is: ''Bert Parks lives.
+LEADFEMALE:'' Oh, gosh.
+SUPMALE:Hey, I feel just like one of the girls.
+LEADFEMALE:Excuse me.
+SUPFEMALE:Gee, Cora, you know, that sounds like a really fascinating group.
+LEADFEMALE:Yeah, it does.
+OTHERMALE:- It'd make a great subject for a story.
+OTHERMALE:- It would.
+OTHERMALE:Grandma, would you do an interview with me down at the TV station? - Me on television? - Yeah.
+SUPMALE:There'd be a lot of people out there who'd love to hear about you and your group.
+LEADMALE:Oh, Mindy, nobody's going to be interested in me.
+LEADMALE:Well, I'll have to get a new hat.
+LEADFEMALE:Mind? I looked through every nook and cranny and I couldn't find Granny.
+OTHERFEMALE:I just don't understand it.
+LEADFEMALE:She was just gonna go out and buy a new hat then come straight back here and get ready for the interview.
+LEADFEMALE:What are you doing? Listening for thundering beat of sensible shoes.
+SUPFEMALE:- I'd better just go look for her myself.
+LEADMALE:- Oh, let me go with you, Mind.
+SUPFEMALE:Grandma, are you all right? Oh, I guess so, but I never was so frightened in all my life.
+LEADMALE:Oh, here, sit down.
+OTHERMALE:- Look at my new hat.
+OTHERMALE:- Oh, what happened? Oh, children, it was dreadful.
+LEADMALE:Well, I was just walking through the park on my way home, and I was mugged.
+SUPFEMALE:Oh, that's awful.
+LEADMALE:Don't worry, Grams, you're home now.
+LEADFEMALE:Ma'am, we'll do our best, but don't get your hopes up.
+LEADFEMALE:- We can't be everywhere at once.
+LEADFEMALE:- I know.
+LEADMALE:You know, there's so many of them and too few of us.
+OTHERMALE:I'm sorry, but that's the way it is.
+SUPMALE:Good night.
+SUPMALE:- Thank you.
+LEADMALE:- Good night.
+SUPMALE:ls that what they call a cop-out, Mind? You know, that really ticks me off.
+LEADMALE:Three guys mug Grandma in broad daylight and the police can't even do anything about it.
+LEADMALE:Yeah.
+LEADFEMALE:Mindy, I hope you won't mind, dear, but I don't feel up to doing that interview tonight.
+LEADFEMALE:- Oh, I understand, Grandma.
+LEADMALE:- Yeah.
+SUPFEMALE:Listen, can I get you anything? How about a nice cup of tea? No.
+LEADMALE:No, thank you, dear.
+LEADMALE:Well, how about some Jell-O with corn? No.
+SUPFEMALE:No, dear, I think I'll just go and lie down for a while.
+LEADFEMALE:It just hasn't been my day.
+LEADMALE:Oh, Grams, if you don't like that one, how about some tapioca with peas? Mork, thank you, but no.
+LEADMALE:What's wrong with Grams? It's like they've let the air out of her life.
+LEADFEMALE:- Oh, Mork, mugging's a terrible thing.
+LEADMALE:- It's too bad it's not like on Ork.
+LEADFEMALE:There, mugging is when someone follows you and goes, ''Hey, mister:'' Well, on Earth, you get roughed up and robbed and it's really scary.
+LEADFEMALE:Why would they wanna do something like that to Granny, though? Well, it's much easier to pick on the elderly, Mork.
+LEADFEMALE:They're less likely to put up much of a resistance.
+SUPFEMALE:You know, this is the only planet in the universe that has no respect for its elders.
+LEADFEMALE:- That's not much to be proud of, is it? - No.
+OTHERFEMALE:Well, I gotta go to work.
+LEADFEMALE:Boy, I sure hate to leave Grandma after she's been through all this.
+SUPMALE:- Don't worry, I'll take care of her.
+LEADFEMALE:- Well, thanks.
+LEADFEMALE:I'll make sure she's well protected.
+SUPFEMALE:I've also realised one thing, Mind.
+SUPMALE:Granny's a member of an endangered species.
+LEADFEMALE:They're gonna expect me to fill the time with an interview at the station.
+OTHERFEMALE:- What are you gonna do? - I don't know.
+SUPFEMALE:Maybe I'll fill it with an editorial.
+SUPMALE:Yeah, and I think I have a real strong topic.
+LEADMALE:- Good luck.
+SUPFEMALE:- Thanks.
+OTHERMALE:Cora's still asleep, thank goodness.
+LEADFEMALE:What kind of planet are you running? If this happened back on Ork, we'd have those thugs recycled into bedpans.
+LEADMALE:Look, here's Mindy's spot.
+LEADFEMALE:The following is an editorial and does not necessarily reflect the opinions of KTNS television, or its management.
+LEADFEMALE:Oh, boy, wasn't she great? Good evening, everyone.
+SUPMALE:This is Mindy McConnell.
+SUPMALE:And tonight l had planned to interview one of Boulder's outstanding senior citizens.
+LEADMALE:However, she's unable to be here tonight because of a senseless, unprovoked crime.
+LEADFEMALE:She was mugged.
+LEADMALE:This incident occurred in broad daylight in a park where she has felt safe for over 50 years.
+LEADFEMALE:Crimes against the elderly increase every year in this country.
+LEADFEMALE:What is the value of a longer life expectancy if we're forced to spend it behind locked doors? Well, today my grandmother was a victim.
+LEADMALE:Tomorrow it could be you or yours.
+LEADFEMALE:l don't have any answers, but something has to be done about it now.
+LEADFEMALE:We must get involved and we have to do it now.
+SUPMALE:Thank you very much.
+LEADMALE:What a girl.
+LEADFEMALE:Boy, that should get some action.
+SUPMALE:Oh, you're not kidding, Pops.
+SUPMALE:Oh, you're not kidding there.
+LEADFEMALE:Yessiree, bobcat.
+LEADFEMALE:Boy.
+SUPFEMALE:I'm mad as hell and I'm not gonna take it anymore.
+LEADFEMALE:Oh, wait a minute.
+SUPMALE:What do you mean? No, sir, I don't have a mother.
+SUPMALE:That makes me mad too.
+LEADFEMALE:What do you mean my mother? Oh, that's it.
+LEADMALE:What happened? What's all that yelling? Oh, I'm sorry, Grams.
+LEADMALE:But Mindy just goosed my civic consciousness.
+LEADFEMALE:She was just on TV, Cora.
+SUPFEMALE:Mindy gave an inspiring editorial on protection for the elderly.
+LEADMALE:Oh, bless her heart.
+LEADMALE:But I don't know how much good it'll do.
+LEADMALE:It just is not safe outside.
+OTHERMALE:I'm scared.
+OTHERFEMALE:I'm going back to Boston.
+SUPMALE:Oh, but what about your swinging seniors? Well, they'll just have to swing without me.
+LEADFEMALE:I think I'd feel a lot better under my own roof.
+LEADFEMALE:Now, I know you both care, but But I just want to go home.
+LEADMALE:Well, if that's what you want, Cora.
+SUPMALE:But I wish you'd think it over.
+OTHERFEMALE:- Yeah.
+SUPMALE:- Look, I - I'm afraid I have to get to the concert.
+SUPFEMALE:- Okay.
+SUPMALE:Excuse me, Grams.
+LEADFEMALE:- Is there anything we can do? - I don't think so, Mork.
+SUPFEMALE:She's afraid and she doesn't feel safe.
+SUPMALE:Maybe a monthly cheque isn't the kind of social security she really needs.
+LEADFEMALE:You know, the money those muggers took can be replaced, but the thing that really burns me up is they stole her spirit.
+SUPMALE:And how do you get that back? Hey, Gram, now, come on, you can't leave.
+LEADFEMALE:That'd be like giving up.
+LEADFEMALE:And if you do that, I mean, then you'll be afraid to go anywhere.
+LEADFEMALE:Well, what can I do about it, Mork? You heard what that policeman said.
+LEADMALE:Oh, I wish those punks could be in my shoes and then they'd know how I felt.
+LEADMALE:Yeah.
+LEADFEMALE:Wait a minute.
+LEADFEMALE:Time out.
+LEADMALE:Raindrops falling on the fertile fields of fair play.
+OTHERMALE:Mork, what are you talking about? Well, Grandma, I think I have a foolproof plan.
+SUPMALE:I just hope I'm fool enough to pull it off.
+OTHERMALE:Come along, Clara.
+LEADMALE:Coming, Cora.
+SUPMALE:You know, dear, I just think I had a blowout in my Supp-Hose.
+LEADMALE:Oh, Mork, do you think this is a good idea? No, no, no, Cora, it's Clara.
+OTHERFEMALE:Now, don't let your mind wander, dear.
+LEADMALE:Don't let it check out with the baggage again.
+LEADMALE:Now, if we're gonna catch these rats, we're gonna have to spread out the Velveeta.
+LEADMALE:Come on now, dear.
+OTHERFEMALE:And try and act like an old lady.
+LEADFEMALE:Hello.
+OTHERMALE:Well, I'll try, but I must admit I am a little nervous.
+LEADMALE:In fact, I'm scared to death.
+SUPMALE:Oh, don't you worry.
+LEADMALE:Now, here, have one of these.
+LEADFEMALE:Have a little prune daiquiri.
+LEADMALE:- No, thank you, Mork-- Clara.
+OTHERFEMALE:- Kidding, just kidding.
+LEADMALE:Oh, dear, are you sure you can handle these muggers? No, dear, you're gonna handle them just like we planned.
+LEADMALE:Now, come along, honey, come along.
+OTHERFEMALE:I remember what my first husband Robert said to me before he died.
+LEADMALE:He said, ''Hon--'' My son, the doctor, he never writes me anymore.
+OTHERFEMALE:He just sends money.
+LEADFEMALE:Lots of cold, hard cash.
+OTHERFEMALE:You look tired, dear.
+SUPFEMALE:Shall we sit a spell? Oh, honey, let's do that.
+LEADFEMALE:Let's just sit.
+LEADMALE:Set right down.
+LEADMALE:Here we are.
+LEADFEMALE:Oh, this bag is so heavy.
+SUPFEMALE:Too bad I cashed all my T-bills today.
+LEADFEMALE:Sure is a shame to carry around this much money, you know.
+OTHERFEMALE:We're talking megabucks here.
+LEADFEMALE:I mean, enough to feed, like-- Oh, Mork, I think I see somebody coming.
+LEADFEMALE:I'm so scared.
+LEADMALE:Oh, don't be paranoid, dear.
+LEADMALE:Oh, it's a mini mugger, hold on to your bubble gum.
+LEADFEMALE:Don't you ladies know you shouldn't be out this late? Well, thank you for your concern, dear, but we're quite all right.
+SUPFEMALE:It's dangerous here.
+LEADMALE:I'd feel better if you let me walk you home.
+SUPFEMALE:Now, young man, don't you worry about a thing because my friend here has brass knuckles and I have an inflatable Doberman in here.
+LEADMALE:Now, take a hike.
+LEADMALE:- Well, all right, but you be careful.
+SUPFEMALE:- Oh, we will.
+OTHERFEMALE:I guess I'll have to get my merit badge in girl-scout watching.
+LEADFEMALE:Dear, this doesn't seem to be working out, Mork.
+LEADMALE:Maybe we'd better leave.
+LEADFEMALE:Now, Cora, Cora, Cora.
+OTHERFEMALE:We came here to get mugged and we're not leaving till we do.
+LEADMALE:- There they-- - Oh, my God.
+SUPFEMALE:Oh, look, it's the road company from Deliverance.
+LEADMALE:Hello, boys.
+SUPMALE:Squeal, hug.
+LEADFEMALE:Oh, you better hold on to your wallets, there are muggers about here, there really are.
+LEADFEMALE:Clara, dear, they are the muggers.
+LEADMALE:Hello.
+SUPMALE:Welcome to the park.
+LEADFEMALE:Come on, Granny, give me that purse.
+LEADMALE:No, no.
+OTHERMALE:Trust me, it doesn't go with your shoes.
+LEADFEMALE:Hey, isn't this the old lady from this afternoon? - Sic them away.
+LEADFEMALE:- What's the matter, you old frump? Didn't you get enough? Don't you worry, Grams.
+LEADMALE:Don't worry about a thing.
+LEADMALE:Give me the bag, you old bag.
+LEADFEMALE:Oh, all right, I have a little Orkan surprise for you in here.
+LEADMALE:What's wrong with me? I feel like I'm a hundred years old.
+LEADMALE:- Me too.
+LEADFEMALE:- What? - Mork, they sound so old.
+OTHERFEMALE:- Well, they are, Cora.
+LEADMALE:You see, I put them in an Orkan age warp.
+LEADFEMALE:That way, on the outside they're young, but on the inside, they're celebrating the bicentennial.
+OTHERMALE:Grab them, you guys.
+LEADMALE:Oh, I gotta sit down.
+LEADFEMALE:Well, you just take a little nap and we'll wake you up when the Republicans revoke your pension.
+SUPFEMALE:No, no.
+LEADFEMALE:Don't you dare.
+LEADMALE:No, no-- - One down.
+SUPFEMALE:- Hand over the watch, Granny.
+OTHERMALE:Oh, no, no, no, please, not that.
+SUPFEMALE:My husband gave me that.
+OTHERMALE:Come on, Grams.
+OTHERFEMALE:You don't have to give them anything.
+LEADMALE:Remember, they're in your shoes now.
+OTHERMALE:Now, what was I saying? Oh, yes, I said let's have the watch.
+SUPFEMALE:Stick it in your nose and blow it out your ear.
+LEADMALE:Gram, now you-- That-- - Gram, I didn't know you knew karate.
+LEADMALE:- Well, I don't, but I love Bruce Lee movies.
+LEADFEMALE:Oh, Enter the Granny.
+OTHERMALE:I don't know what you've done to us, but you're gonna pay for it.
+SUPMALE:All right, here's a down payment, sucker.
+LEADMALE:Pick on helpless people, will you? Somebody grab her purse.
+SUPMALE:And then carry me to the car.
+SUPFEMALE:You hear that, darling? They want your purse.
+OTHERMALE:Why don't you just give it to them, dear? Well, you're absolutely right, Clara.
+SUPMALE:How rude of me.
+LEADMALE:No, no, no, honey, take mine, it's industrial strength.
+SUPFEMALE:Look, we got them.
+SUPMALE:We gotta quit now.
+OTHERFEMALE:There they are, officer.
+SUPFEMALE:Slap the cuffs on them and throw the book at them.
+LEADMALE:- Oh, you're a good Boy Scout there.
+SUPFEMALE:- Come on, let's go.
+LEADFEMALE:Officer.
+LEADMALE:Officer, these men mugged me this afternoon.
+LEADMALE:- They did? - Yeah.
+SUPMALE:Looks like they picked on the wrong lady.
+LEADFEMALE:Straighten up.
+SUPFEMALE:- Sure, that's easy for you to say.
+OTHERFEMALE:- You really roughed them up.
+OTHERMALE:Oh, we did it in a ladylike fashion though.
+OTHERMALE:You ladies will have to file a report later.
+LEADFEMALE:You got it, blue eyes.
+LEADMALE:Young man, you deserve a very special merit badge.
+LEADMALE:Who needs merit badges? For this, I'll make the cover of Boys' Life.
+LEADMALE:Let's go.
+OTHERFEMALE:- Well, Clara.
+SUPFEMALE:- Well, Cora.
+LEADMALE:Shall we head on home? Well, honey, let's just take a hike ourselves.
+SUPMALE:All right.
+LEADFEMALE:You know, what a day this has been.
+SUPMALE:Oh, I better get this girdle back to Mindy, it's starting to ride up a little.
+OTHERFEMALE:Come on, everybody, let's get going.
+LEADFEMALE:Cora, we gotta get to the airport or you're gonna miss that shuttle to Las Vegas.
+LEADFEMALE:Oh, hold your water, Fredzo.
+LEADMALE:''Fredzo.
+LEADFEMALE:'' I'm gonna miss that.
+SUPMALE:Oh, I'm so glad to have my wallet back again.
+LEADMALE:You know, they didn't even wrinkle that picture of Willie Nelson.
+LEADFEMALE:Oh, I'm gonna miss you, Gram.
+OTHERFEMALE:Next time you're just gonna have to stay longer.
+LEADFEMALE:- Three days is not long enough.
+LEADFEMALE:- No.
+SUPFEMALE:Well, I promise, dear.
+LEADFEMALE:Good.
+SUPMALE:Come on, Mork, we're ready to go.
+LEADMALE:What are you doing in that outfit? It's not the same outfit, Mind, it's a bolder print.
+LEADMALE:Stunning.
+LEADMALE:Oh, you're just jealous because you don't have legs like that.
+SUPFEMALE:- Mork, enough is enough.
+OTHERMALE:- Oh, I know, Mind, I know.
+OTHERFEMALE:I should've worn the pink because it would've gone better with the blue hair.
+SUPFEMALE:Now, Mindy, don't be hard on Mork.
+LEADFEMALE:After all, if it hadn't been for his dressing up to look like me, I'd still be in a blue funk.
+OTHERMALE:We owe him a lot.
+SUPFEMALE:Well, I guess you're right.
+LEADFEMALE:We do owe you a lot, Mork.
+OTHERFEMALE:After all, you did help Grandma get her spirit back.
+LEADMALE:But, Clara, dear, would you please change the dress for me? All of you, I just want you to know that I have a date with a very wonderful gentleman caller this evening.
+SUPFEMALE:- You do? - Yeah.
+LEADFEMALE:- Oh, coming, darling.
+OTHERFEMALE:- Oh, no.
+SUPFEMALE:Don't spoil it, don't spoil it.
+LEADMALE:Hi, Clara, you ready? Oh, yes, darling.
+LEADMALE:Now, we're gonna be crossing a very, very wide street, so don't wait up.
+OTHERFEMALE:Why don't you tell me more about your grandfather? Mork calling Orson.
+LEADMALE:Come in, Orson.
+LEADMALE:Mork calling Orson.
+LEADMALE:Come in, Orson.
+LEADMALE:Oh, don't fail me now.
+SUPMALE:Oh, yeah.
+SUPMALE:Mork calling Orson.
+LEADFEMALE:Come in, my main mammoth.
+LEADFEMALE:Mork, now what's gotten into you? Oh, spirit's got a hold of me, sir.
+OTHERMALE:Gonna make me dance.
+SUPMALE:Oh, yeah, oh, yeah.
+SUPFEMALE:Come on, Beebs.
+LEADMALE:You'd be a better dancer if you had feet, but let's go.
+LEADFEMALE:y ou've been warned about Earth spirits.
+OTHERMALE:Are you possessed again? Oh, no, sir.
+LEADMALE:I'm just dancing to the beat of life.
+LEADMALE:This week I learned, sir, that without the right spirit, you don't stand a ghost of a chance.
+LEADFEMALE:How do you get the right spirit, Mork? Well, most earthlings are born with it, sir, but the hard part is to keep it.
+LEADFEMALE:- How do people lose it? - Well, in this case, sir, old people are sometimes ignored, or they're pushed aside, and most of all, sir, they're targets of abuse.
+LEADFEMALE:They don't really lose it as much as it's stolen from them.
+OTHERMALE:- That's criminal.
+SUPMALE:- I know, sir.
+LEADFEMALE:It's my theory, sir, that old people have made a major contribution to society and they deserve a better return than just half-price at the movies.
+LEADMALE:If we really wanna make their years golden I think we should pay them with our gratitude and respect.
+OTHERMALE:Until next week, sir.
+LEADFEMALE:

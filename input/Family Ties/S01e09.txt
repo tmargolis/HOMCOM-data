@@ -1,0 +1,476 @@
+SUPMALE:hi, Mr.
+LEADMALE:adler.
+SUPMALE:Oh, hello, Alex.
+LEADMALE:How are you? I'm fine.
+LEADFEMALE:I'm sorry I'm late.
+SUPFEMALE:You're not late.
+LEADFEMALE:I am.
+SUPFEMALE:I'm eight minutes late.
+LEADMALE:Eight minutes is not late.
+LEADFEMALE:A week is late.
+SUPMALE:If you put in a time clock like I suggested, you can keep track of the comings and goings of your employees.
+LEADMALE:You're my only employee, Alex.
+LEADFEMALE:It's the principle, Mr.
+SUPMALE:adler.
+LEADFEMALE:You should be angry at me for being late.
+LEADFEMALE:All right.
+LEADFEMALE:Where were you for eight minutes? I had a meeting of the young entrepreneurs' club.
+SUPMALE:Is that what you do with your time after school? You should be in little league.
+LEADMALE:I'm 17 years old, Mr.
+SUPMALE:adler.
+OTHERMALE:Little league only goes up to 12.
+LEADFEMALE:So? You'd be the best one.
+OTHERMALE:Excuse me.
+SUPFEMALE:Where are the olives? What do you want olives for? Is it required that I tell you? Nah, I'm just curious.
+OTHERMALE:I can't eat them myself.
+SUPMALE:Heartburn.
+OTHERMALE:Well, thank you for sharing that with me.
+SUPMALE:So, where are they? Oh, usually I get the pains right here.
+SUPFEMALE:No, no, no, no, no, no, no, no.
+LEADMALE:The olives.
+SUPFEMALE:Oh, well, if we have any, they'll be on the other side of the store somewhere.
+LEADFEMALE:Olives are at the end of aisle 2, second shelf from the bottom.
+SUPFEMALE:We got a few of the regular ones left, and we also have the pimiento-stuffed ones.
+LEADFEMALE:$1.
+SUPMALE:39 a small jar, $2.
+LEADFEMALE:14 for the large.
+LEADFEMALE:He's good, isn't he? So, how's business today, Mr.
+SUPFEMALE:adler? Business? Why do you bring up business, Alex? I don't know.
+LEADFEMALE:Seemed like the appropriate place.
+SUPMALE:Today business stunk.
+LEADMALE:It stunk yesterday, too.
+OTHERMALE:In fact, business has stunk since 1957.
+SUPFEMALE:It was right after that sputnik thing.
+SUPFEMALE:Sputnik goes up, business goes down.
+LEADFEMALE:Go figure.
+LEADFEMALE:I keep telling you, Mr.
+LEADFEMALE:adler, you could have a real moneymaker here.
+OTHERFEMALE:You just got to be more aggressive.
+LEADMALE:You know, the building next door's for lease.
+LEADMALE:You could rent it out, knock out the wall in between, and double the size of your store.
+LEADMALE:Alex, if I knocked down that wall, where would I hang up my coat? You got to think big, Mr.
+LEADFEMALE:adler.
+LEADFEMALE:You got to be more competitive.
+LEADFEMALE:Oh, that reminds me.
+LEADMALE:There's gonna be a beautiful sunset today.
+LEADFEMALE:I want you to take off early to watch it.
+LEADMALE:Mr.
+LEADMALE:adler, do you ever hear a word I say? No.
+SUPFEMALE:But I like the sound of your voice.
+SUPMALE:All set, Mrs.
+LEADMALE:crenshaw? Well, yes.
+SUPMALE:Except for one thing.
+LEADFEMALE:I don't mean to complain, but is the milk supposed to be frozen? Alex, the cooler broke.
+LEADMALE:All the milk froze.
+OTHERMALE:Yeah, okay.
+SUPMALE:I'll take care of it.
+OTHERMALE:Watch what I do this time, Mr.
+LEADMALE:adler, so you can fix it if it happens when I'm not here.
+LEADMALE:Okay, first, turn the thermostat to low.
+SUPMALE:Then shut this valve on the side all the way off.
+LEADFEMALE:Then open it up again real quick, and then turn it once.
+OTHERMALE:Wait for four seconds.
+LEADMALE:Open the valve back up again.
+OTHERFEMALE:Turn the thermostat back up again.
+LEADMALE:And if that doesn't work Do that.
+SUPMALE:I'm surprised I didn't think to do that myself.
+LEADMALE:He's a good boy.
+SUPMALE:Oh, he's the best.
+LEADMALE:You know, he's the president of the young entrepreneurs' club.
+LEADMALE:I'm not the president.
+SUPMALE:I'm the vice president.
+SUPFEMALE:A heartbeat away.
+LEADMALE:Hello, Alex.
+SUPFEMALE:How you doing, Mr.
+LEADFEMALE:adler? Hello, skippy.
+LEADMALE:Mr.
+OTHERMALE:adler, is it okay if I open up this box of ice-cream sandwiches? I just want one.
+SUPMALE:You can't do that, skippy.
+SUPFEMALE:No one is gonna want to buy an open box of ice-cream sandwiches.
+SUPFEMALE:Alex, let him have his ice cream.
+SUPFEMALE:Thank you, Mr.
+LEADMALE:adler.
+SUPMALE:You're screwing up our inventory, you know.
+LEADFEMALE:You're gonna have that on your conscience.
+LEADFEMALE:Alex, I happen to be your neighbor.
+OTHERFEMALE:I think you could be just a little bit more polite to me.
+LEADMALE:The fact that we're neighbors, skippy, is nothing more than an unfortunate geographical accident.
+OTHERMALE:And I don't think I should be punished further by having to talk to you.
+LEADMALE:Well, uh, how's Mallory? She's fine.
+LEADFEMALE:You know, uh, she's really pretty.
+SUPFEMALE:Thank you, skippy.
+OTHERMALE:Doe she talk about me much? Yeah.
+SUPMALE:Sometimes late at night, she cries out your name.
+SUPFEMALE:You mean it? Look, I'm working here, skippy.
+OTHERFEMALE:Do you mind? Okay, okay.
+SUPFEMALE:I'm going.
+SUPMALE:Oh, Alex, they're advertising for a new stock boy down the street at the big shop-a-lot supermarket.
+SUPFEMALE:Well, why don't you go and apply for it? Why should I do that? Because it's a big place and they pay more and they give promotions.
+LEADMALE:And if you get it, then I could have your job here.
+SUPFEMALE:Forget it, skippy.
+OTHERFEMALE:I like it here.
+LEADMALE:Alex I always thought you wanted to be a big success in life.
+LEADMALE:Were those just idle words, or do you practice what you preach? Skippy, remember when we were little kids and I accidentally ran over you with my bicycle? Yeah.
+LEADFEMALE:I drive a car now.
+SUPMALE:Mom, I'm absolutely positive that Brad hunter wants to ask me out.
+LEADMALE:How are you so sure, Mallory? Well, he came up to me today after homeroom, and he asked me if I had a nice weekend.
+LEADMALE:That's it? That's it.
+LEADFEMALE:I think we missed something.
+LEADFEMALE:And what did you say to him? Well I told him I had a terrible, boring weekend.
+SUPFEMALE:What else? You had a wonderful weekend, Mallory.
+OTHERFEMALE:I know, mom, but if Brad knew that, he'd think I had an active, fulfilling social life, and he wouldn't ask me out 'cause he'd think I already had plans.
+LEADFEMALE:How did we overlook the obvious? Hi, sweetheart.
+LEADMALE:Hi, kids.
+SUPMALE:Hi.
+LEADFEMALE:Hi.
+LEADMALE:How was work? Oh, crazy.
+LEADFEMALE:We were swamped with phone calls over that installment of "madame bovary" we showed last night.
+LEADFEMALE:A lot of people took offense at the bedroom scene.
+SUPFEMALE:Can you believe how prudish some people are? They objected to the bedroom scene? Yep.
+SUPFEMALE:That scene was so mild, dad.
+LEADMALE:Well, I know.
+LEADMALE:That Wait a minute.
+LEADFEMALE:What were you doing watching that? Uh I wanted to see if it was as good as the book.
+SUPFEMALE:Hello.
+OTHERMALE:Hi.
+SUPFEMALE:Alex, you're an hour late.
+OTHERFEMALE:Well, I'm sorry, mom.
+LEADFEMALE:But it was worth it.
+OTHERMALE:As of today, I have taken the first step on the path to riches.
+LEADFEMALE:My foot is poised on the bottom rung of the corporate ladder.
+SUPMALE:I've set the ball rolling.
+LEADFEMALE:I've put the wheels in motion towards my future wealth and prosperity.
+LEADMALE:My shoulder is firmly against the grindstone of economic success.
+LEADMALE:Try it with a few more metaphors this time, Alex.
+LEADFEMALE:Well, I stopped by that new shop-a-lot on the way home from work.
+LEADFEMALE:Yeah.
+OTHERFEMALE:See, skippy handelman told me that they had an opening for a new stock boy.
+SUPFEMALE:So I gave them my rÃ©sumÃ©, I had a brief interview, and I think they're impressed by me.
+LEADFEMALE:Remind me never to shop there.
+LEADMALE:Wait a minute.
+SUPMALE:What about your job at adler's? Well, I'd, uh I'd have to give that up.
+OTHERMALE:I thought you loved working for Mr.
+SUPFEMALE:adler.
+LEADMALE:Well, I do.
+LEADFEMALE:Mr.
+LEADMALE:adler's a great guy.
+OTHERFEMALE:But I'm stagnating there.
+LEADFEMALE:Let's face it, dad.
+LEADFEMALE:My work at adler's is done.
+SUPFEMALE:It's time for me to move on.
+OTHERFEMALE:What are you The lone ranger? Wait a minute, Alex.
+OTHERMALE:Shouldn't you give this a little more thought? I mean, to just leave like that after the way Mr.
+SUPFEMALE:adler's treated you? Well, don't worry, mom.
+SUPMALE:I've thought it through.
+LEADMALE:Mr.
+LEADFEMALE:adler will understand.
+LEADFEMALE:I'm not being impetuous.
+OTHERFEMALE:What's "impetuous"? It's when you do something without thinking it through.
+LEADMALE:Like when you decided to have Alex? The opening is for a junior-stock-boy trainee.
+SUPMALE:It's in the pet supplies department.
+LEADMALE:I would be in charge of cat toys.
+LEADMALE:Cat toys.
+SUPMALE:See, you're in over your head, Alex.
+LEADMALE:You mean your entire job would revolve around cat toys? Mom, you make it sound so unimportant.
+LEADFEMALE:Do you realize how many different kinds of cat toys there are? There are the little plastic balls with the bells inside and the little furry birds and the chew toys that remove tartar and plaque from the teeth.
+SUPMALE:I could go on forever.
+OTHERMALE:Please don't.
+LEADFEMALE:Alex, there's just a lot of factors involved here, a lot of things to consider.
+LEADMALE:Hello.
+LEADFEMALE:Yes, he is.
+SUPMALE:Who's calling? Alex, it's for you.
+OTHERFEMALE:It's a Bobby Cahill from the shop-a-lot.
+LEADFEMALE:Hello, Mr.
+SUPFEMALE:Cahill.
+LEADMALE:Yeah, okay.
+SUPMALE:Bobby.
+LEADMALE:Oh, wow.
+OTHERFEMALE:That's great.
+OTHERFEMALE:That's very flattering.
+LEADFEMALE:Thanks a lot.
+SUPMALE:Well, I got the job.
+LEADFEMALE:Well, uh, congratulations.
+LEADFEMALE:And Bobby says it's conceivable that within a year, I could be assistant manager of pet supplies.
+LEADMALE:Dare to dream, Alex.
+SUPFEMALE: Okay, Mr.
+LEADMALE:adler.
+SUPMALE:Try and remember this time, okay? Thermostat, valve, wait Valve.
+LEADFEMALE:Kick.
+SUPMALE:Got it? Maybe it would help if you set it to music.
+LEADMALE:thermostat, valve, wait, valve, kick I give up.
+LEADFEMALE:Oh.
+LEADMALE:You want a nectarine? Uh, no, thanks.
+LEADMALE:Listen, Mr.
+LEADFEMALE:adler, I have something I have to tell you.
+LEADMALE:You're sure you don't want a nectarine? They're in season now.
+SUPMALE:No.
+LEADMALE:I'm sure.
+LEADMALE:Listen Well, take a plum, then.
+LEADMALE:No, I don't want any produce, thank you.
+LEADFEMALE:Isn't the rain remarkable, Alex? What do you mean? Well, it's the completion of a cycle.
+SUPFEMALE:Everything is in motion, and yet all things return to their original source.
+LEADFEMALE:Very poetic.
+LEADFEMALE:It's also wet.
+OTHERFEMALE:That's true.
+OTHERMALE:Mr.
+SUPFEMALE:adler.
+OTHERFEMALE:What is it? There was an opening for a stock boy at shop-a-lot supermarket.
+LEADMALE:I took the job.
+OTHERFEMALE:I start next week.
+LEADFEMALE:Do you think you can handle both jobs? No, I don't.
+SUPFEMALE:Why do you burden yourself, Alex? Did this come out of that entrepreneurs' club stuff? Mr.
+LEADFEMALE:adler, you don't understand.
+SUPMALE:See, I'm not gonna be working here anymore.
+SUPFEMALE:Oh.
+LEADMALE:I see.
+LEADMALE:You're going to work there instead of working here? Well, yeah.
+LEADFEMALE:But don't worry.
+LEADMALE:I'm not gonna leave you shorthanded.
+LEADFEMALE:I've been breaking in skippy handelman.
+OTHERMALE:He's gonna take over for me.
+LEADMALE:Alex, if you need more money, I could probably No, no, it's not the money, Mr.
+SUPFEMALE:adler.
+LEADMALE:I mean, sure, they pay a little bit more, but that's not why I took the job.
+LEADFEMALE:Then why? Because it's a great opportunity.
+LEADMALE:I'm gonna be in charge of the entire cat-toy operation.
+SUPFEMALE:They make toys for cats? Sure.
+LEADFEMALE:Why do cats need toys? They're pets.
+LEADMALE:They're not under any pressure.
+SUPFEMALE:Mr.
+SUPMALE:adler, you don't understand.
+LEADMALE:See, this shop-a-lot is a terrific place.
+LEADMALE:It's virtually on the cutting edge of creative supermarketing.
+LEADFEMALE:They got 21 aisles.
+LEADFEMALE:They're open 24 hours.
+SUPMALE:They've got camping, sporting goods, shoe trees.
+OTHERFEMALE:They've even got an automatic sprinkler system for the vegetables.
+LEADFEMALE:If I was a younger man I'd take the job myself.
+SUPMALE:You're not upset with me, are you? It's nothing personal.
+SUPFEMALE:Well, I'll see you.
+LEADFEMALE:Good night.
+OTHERFEMALE:And, uh, thanks for everything.
+OTHERFEMALE:You know, Alex, if cat toys mean so much to you, we could sell them here.
+LEADFEMALE:I took the job, Mr.
+OTHERMALE:adler.
+LEADMALE:I see.
+OTHERFEMALE:Good night.
+LEADFEMALE:Oh, uh, just a minute, Alex.
+LEADFEMALE:I don't want you to catch a cold.
+LEADMALE:Well, mom, I was right.
+LEADMALE:About what? About Brad hunter.
+LEADFEMALE:He asked me out today for Friday night.
+SUPFEMALE:Oh.
+SUPMALE:Ah.
+SUPFEMALE:That's wonderful.
+LEADMALE:You know, to be honest, I thought you should have been more straightforward with him, but I guess you knew what you were doing.
+LEADFEMALE:So, where is he taking you Friday night? No.
+OTHERFEMALE:I told him I was busy.
+LEADFEMALE:You're not busy Friday night.
+LEADFEMALE:Of course not, mom.
+LEADFEMALE:But I can't let Brad think I was just waiting for him to ask me out.
+LEADFEMALE:Oh, Mallory.
+LEADFEMALE:Why don't you just deal honestly with Brad and let fate take its course? There's no talking to you sometimes, dad.
+LEADMALE:Alex, put away your homework at the dinner table.
+SUPMALE:I got an oral report for history class tomorrow, dad.
+LEADFEMALE:I don't care if you're testifying before a congressional committee.
+LEADMALE:Study after dinner.
+SUPFEMALE:I can't.
+SUPMALE:I've got to go to the shop-a-lot tonight.
+LEADFEMALE:I'm getting picked up in a few minutes.
+OTHERMALE:Now, just a minute.
+OTHERFEMALE:You've worked every afternoon and evening for the past two weeks.
+LEADFEMALE:Well, I know, mom, but this isn't work.
+LEADMALE:Well, not technically.
+SUPFEMALE:It's a special evening training program for the new stock boys.
+SUPFEMALE:Tonight we have a meeting on the creative monitoring of canned-goods inventory.
+LEADFEMALE:Boy, you don't want to miss that, Alex.
+LEADFEMALE:Well, I can't miss it.
+SUPMALE:I got to attend all the evening meetings to be eligible for my first promotion.
+SUPMALE:Ah, it's probably skippy.
+LEADFEMALE:He's having some problems at Mr.
+LEADMALE:adler's.
+LEADFEMALE:He wants to talk to me.
+LEADMALE:Alex, this time you really got to help me out.
+LEADMALE:Oh, hi, Mr.
+SUPFEMALE:and Mrs.
+SUPFEMALE:Keaton.
+SUPFEMALE:Hi, Jennifer.
+LEADMALE:Hi, skippy.
+SUPFEMALE:Oh! Hello, Mallory.
+LEADFEMALE:Those are lovely sneakers you're wearing.
+LEADMALE:They sure do flatter your feet.
+LEADFEMALE:Skippy, try to keep your hormones under control for about five minutes, okay? I'm doing the best I can, Alex.
+SUPFEMALE:She's really pretty.
+LEADMALE:Yeah.
+SUPFEMALE:What do you need to know? I got to get going in a few minutes.
+SUPFEMALE:Oh, uh, first of all, we're all out of disposable diapers.
+OTHERMALE:I looked all over.
+LEADMALE:I couldn't find them.
+OTHERMALE:Look again.
+LEADFEMALE:They're in the storeroom behind the cling peaches in heavy syrup.
+SUPMALE:Don't toy with me, Alex.
+LEADFEMALE:They're not there! They're in the storeroom, skippy.
+LEADMALE:No.
+OTHERFEMALE:No, no, no, no.
+SUPFEMALE:Not the storeroom.
+LEADMALE:Don't make me go in there, Alex.
+LEADMALE:The place is a jungle.
+OTHERMALE:I can't find anything in there.
+SUPFEMALE:Alex, I can't handle this job.
+LEADMALE:Get a grip on yourself, skippy.
+SUPMALE:Look, I'll draw you a map of the storeroom, and I'll show you where everything is, all right? Okay.
+LEADFEMALE:Maps are good.
+LEADMALE:Just draw neat.
+OTHERMALE:Anyway, mom, I'm sure Brad will ask me out again.
+OTHERMALE:Next time he does, I'll just say yes.
+LEADFEMALE:But now you don't have a date for Friday night.
+OTHERMALE:So I don't have a date for this Friday.
+SUPFEMALE:It's not the end of the world.
+SUPMALE:I'll find something to do, no matter how stupid.
+LEADMALE:I'm free on Friday night.
+LEADFEMALE:Not that stupid.
+SUPMALE:I'll get it.
+OTHERFEMALE:I'll get it.
+LEADFEMALE:Hi, Bobby.
+SUPMALE:Come on in.
+LEADMALE:How you doing, 28? Fine.
+LEADFEMALE:Uh, Bobby, these are my sisters.
+SUPMALE:These are my parents.
+OTHERMALE:Uh, this is skippy handelman.
+SUPFEMALE:How does skippy fit in? He doesn't.
+SUPMALE:Everybody, this is Bobby Cahill.
+LEADMALE:He's the senior stock boy in charge of my training.
+LEADMALE:Bobby, nice to meet you.
+SUPMALE:So, uh, well, how's he working out down there? Are you kidding? Number 28 here is really coming along.
+OTHERMALE:We have high hopes for him down at the market.
+LEADMALE:Well, I'm junior stock boy number 28 down at the store.
+LEADFEMALE:You must be very proud of him.
+LEADMALE:Yes, I am.
+LEADFEMALE:And I know that my wife here, Mrs.
+OTHERMALE:28, feels the same way.
+LEADMALE:Well, you should.
+LEADMALE:He's got a real knack for cat toys.
+LEADMALE:Really really taken the place by storm.
+OTHERFEMALE:Well, the cat toys are calling.
+LEADMALE:See you later.
+SUPFEMALE:Nice meeting you.
+LEADMALE:Pleasure, Bobby.
+LEADFEMALE:Bye-bye.
+OTHERMALE:So, uh, Mallory, can I wash your dishes for you? You can wash mine.
+LEADMALE:Wouldn't you be more comfortable in your own bed? Oh, hi, mom.
+OTHERMALE:I was just studying.
+LEADMALE:Interesting method.
+LEADFEMALE:Yeah, well, I guess I'm pretty tired.
+SUPMALE:Why don't you go upstairs and go to sleep? Can't.
+OTHERMALE:Got to prepare this oral report for history class tomorrow.
+LEADFEMALE:I just got back from the store.
+SUPFEMALE:How was work? Fine.
+SUPFEMALE:Did you know that ongoing computerized inventory control is 71% more efficient than weekly checks? I've always suspected it.
+LEADMALE:You want some warm milk? Sure.
+LEADFEMALE:How are you enjoying it Your new job? Well, it's fine, I guess.
+LEADMALE:Most of the people seem pretty nice.
+LEADMALE:Except for 17 and 24 They're a little standoffish.
+SUPFEMALE:Higher numbers are usually easier to get along with.
+SUPMALE:The truth is I don't talk to anybody when I'm working.
+LEADMALE:But they look like nice people.
+OTHERMALE:Anyway, I'm going on the assumption that they're nice.
+LEADFEMALE:That's strange.
+LEADMALE:What? The milk from adler's is frozen.
+LEADFEMALE:Oh, I told skippy about that.
+SUPFEMALE:The cooler breaks down, and the milk freezes.
+LEADFEMALE:Remind me to yell at him tomorrow.
+SUPFEMALE:Oh, Alex, you are so tense.
+LEADMALE:I'm not tense.
+SUPFEMALE:Anyway, mom, I told you.
+SUPMALE:I have to work these hours at shop-a-lot.
+OTHERFEMALE:If I don't, I'm gonna stay junior stock boy number 28 forever.
+LEADMALE:No advancement, no promotions.
+LEADFEMALE:But is it worth it, making yourself miserable? Of course it's worth it.
+SUPMALE:Every time I take a package of furry mice out of the carton or or stamp the price on a box of buzzy balls or put a catnip punching bag up on the shelf, I know I'm one step closer to the executive suite.
+LEADFEMALE:I guess the road to success is paved with kitty litter.
+LEADMALE:Don't misunderstand what I'm gonna say, Alex.
+LEADMALE:I mean, I don't want to tell you how to live your life or what kind of person you should be.
+LEADMALE:Just just think of this as food for thought.
+LEADFEMALE:Maybe I shouldn't say it.
+LEADMALE:No.
+LEADFEMALE:Say what? Your father and I have made specific career choices over the years.
+LEADFEMALE:Your dad could be managing a network affiliate station instead of a pbs station and earning a lot more money.
+LEADFEMALE:I could be working at a big architectural firm instead of working independently.
+OTHERFEMALE:Do you understand why we made the choices that we've made? No, but it's your life.
+LEADMALE:Okay, let's say that all your hard work pays off and you get your promotion and you're made assistant manager of cat supplies.
+OTHERMALE:What then? Well, then I work towards becoming manager of pet supplies.
+LEADFEMALE:But where does it end, Alex? I don't know.
+SUPMALE:Chairman of the cat toys? I guess what I'm trying to say is this.
+LEADFEMALE:Do you ever envision yourself reaching a point where you're intrinsically satisfied with the work that you're doing? Where you're no longer working to get ahead but simply because you enjoy it? I don't know, mom.
+OTHERMALE:I just can't make that a priority right now.
+SUPMALE:I mean, if I wanted to be enjoying what I was doing, I might as well still be working at Mr.
+SUPFEMALE:adler's.
+LEADFEMALE:That didn't come out right.
+LEADFEMALE:Hi, Mr.
+SUPMALE:adler.
+OTHERFEMALE:Alex? How are you? I'm fine.
+LEADMALE:How are you? Fine.
+LEADFEMALE:Fine.
+LEADFEMALE:Uh, listen, I accidentally wore my apron home the last time I worked.
+LEADMALE:My mom washed it.
+SUPFEMALE:Uh, there it is.
+SUPFEMALE:Thank you.
+LEADFEMALE:I just thought I'd bring it by in case you might need it.
+LEADFEMALE:I realize you have two other ones, but, um, one of them has a big stain in the front, and the other one's missing the "g" in "grocery.
+OTHERMALE:" It just says "adler's rocery.
+LEADFEMALE:" Well, good, good.
+LEADMALE:Fine.
+LEADFEMALE:I mean, we wouldn't want to throw people off.
+LEADFEMALE:This definitely is the best apron out of the three.
+OTHERFEMALE:Thank you.
+LEADFEMALE:So, how's your new job, Alex? Oh, it's great.
+SUPFEMALE:It's, uh, really great.
+SUPMALE:I like it a lot.
+OTHERMALE:I'm glad to hear that.
+LEADFEMALE:So, anyway, I brought that apron back for you.
+LEADFEMALE:My best one.
+LEADFEMALE:Well, I'd better get going.
+LEADFEMALE:Take care of yourself, Alex.
+LEADMALE:Yeah, you too.
+OTHERFEMALE:Excuse me.
+LEADFEMALE:Do you carry any non-dairy creamer? Non-dairy creamer? Yeah.
+LEADMALE:All your milk is frozen.
+LEADMALE:Well, do you have any, huh? About the non-dairy creamer.
+LEADFEMALE:Mr.
+LEADFEMALE:adler, you know what I do all day at the shop-a-lot? I unload boxes of cat toys.
+SUPMALE:And then after I unload them, I stamp the prices on them.
+LEADMALE:And then after I stamp the prices on them, I put them on the shelf.
+SUPMALE:I hate cat toys.
+LEADFEMALE:So don't play with them.
+LEADFEMALE:And it's not just the cat toys, either.
+SUPMALE:I hate working in a place where I'm known only as 28, and nobody talks to anybody else, and where the human factor is filtered out of almost every aspect of the business.
+LEADFEMALE:They call you 28? Even cats have names.
+LEADFEMALE:I don't suppose you'd consider giving me my old job back, would you? Give him his old job back, please.
+LEADMALE:I got to get home.
+LEADFEMALE:What about skippy? I think this job has skippy on the verge of a nervous breakdown.
+LEADMALE:You know, Alex, this place is no shop-a-lot.
+LEADFEMALE:You're not kidding.
+SUPFEMALE:I can't shop at all.
+OTHERFEMALE:You weren't happy here before.
+LEADMALE:What makes you think you're gonna be happy here now? No, see, I was happy here.
+SUPMALE:I just didn't know it.
+OTHERMALE:I guess I just got carried away.
+OTHERFEMALE:When they opened those big, automatic doors for me over there, well, I guess, for one brief, shining moment it was shop-a-lot.
+OTHERMALE:I missed you, Alex.
+LEADMALE:Skippy's okay, but we're running out of ice cream.
+SUPMALE:So, when can you start? Don't hug, okay? I'm a sensitive man.
+LEADFEMALE:I'd like not to get emotionally involved here.
+LEADMALE:That's $4.
+OTHERMALE:64.
+SUPMALE:I want you two to know I'm canceling my other errands.
+LEADFEMALE:They'd be anticlimactic.
+LEADMALE:You know, I think I'm going to close up a few minutes early and watch the sunset.
+LEADMALE:Are you interested? The sunset? Do you realize how much work I have to do? I'll bet skippy set this place back 30 years.
+SUPFEMALE:Oh, great.
+LEADMALE:Business was good 30 years ago.
+LEADMALE:I'm serious.
+LEADFEMALE:So am I.
+SUPFEMALE:I am gonna watch the sunset.
+LEADMALE:Are you coming? Yeah, I'm coming.
+LEADMALE:Will you at least consider getting a new cooler? Don't start.
+LEADMALE:

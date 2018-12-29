@@ -1,0 +1,342 @@
+LEADFEMALE:No.
+LEADMALE:Go back in the basement Till I tell mom and dad about you.
+SUPMALE:Stay.
+SUPMALE:I'll go get you some food.
+SUPFEMALE:Morning, d.j. Can I have the car tonight? Where are you going? Mother, I'm 17.
+LEADMALE:You don't have to be overprotective.
+LEADMALE:Yes, I do.
+LEADMALE:I love that car.
+SUPFEMALE:Roseanne, remember the poker game's here tonight.
+LEADMALE:Why can't you have it at Chuckie's house? It's my turn.
+OTHERMALE:What's this? Dan, we shouldn't have let d.j. have that chemistry set.
+SUPFEMALE:What have you got to say for yourself? Can I have a dog? We're not keeping it.
+SUPFEMALE:That thing is disgusting.
+SUPMALE:I'll take care of him.
+OTHERMALE:Honey, that's what you said About the frog and turtle And the goldfish and the mouse, And they're all in heaven now, Aren't they, honey? Mom, the dog stinks worse than d.j. He does not.
+SUPFEMALE:You guys leave the room While dad and me talk to d.j. Don't screw this up, mother.
+LEADMALE:Remember the frog, the turtle-Well, this one's too big to flush.
+SUPFEMALE:Did he follow you home from school or something? No.
+LEADFEMALE:I traded Kenny my comic books for him.
+LEADMALE:Does Kenny's mom know he traded his dog? She gave me the dog food.
+LEADFEMALE:Well, I'm sorry, d.j. , But you're going to have to take him back, honey.
+LEADMALE:Why? Because it's a big responsibility, d.j. Your sisters aren't going to help you.
+SUPMALE:Me and daddy are busy, And last time your dad made that rule.
+LEADFEMALE:No more pets.
+SUPMALE:Mmm.
+LEADMALE:Aroo! Dan, would you like to explain your no more pets rule Or keep kissing the dog? Your mom's right.
+LEADMALE:Kenny's mom has to pick up the dog.
+SUPFEMALE:Take him outside.
+SUPFEMALE:It's not fair.
+LEADFEMALE:He is cute.
+LEADMALE:Yeah, well, you just fall in love With anything that licks your nose.
+OTHERFEMALE:No.
+SUPFEMALE:It was the way you kicked your leg When I scratched your tummy.
+SUPMALE:Hello, Lorraine, it's Roseanne Conner.
+SUPFEMALE:Yeah.
+SUPMALE:Yeah, your dog's here.
+LEADMALE:No, I don't blame you at all.
+LEADFEMALE:You had to take a shot, So when can you come and pick him up? Ok.
+OTHERMALE:I'll see you then.
+LEADFEMALE:Thanks.
+OTHERFEMALE:Bye.
+LEADMALE:I Feel sorry for that dog.
+LEADFEMALE:Nobody wants him.
+SUPMALE:It's pitiful.
+LEADFEMALE:That reminds me.
+LEADFEMALE:I need to call Jackie.
+LEADFEMALE:I'm kind of worried about her 'Cause she called here last night all freaked out from the lobo lounge.
+SUPFEMALE:She ran into Gary and his brand-new fiancee.
+LEADMALE:Gary's getting married? Yeah.
+LEADMALE:She was drunk, so I called her a cab To get her home.
+SUPFEMALE:Come on, sis.
+LEADFEMALE:Answer the damn phone.
+SUPFEMALE:Hello? Hello? What in the Oh, my What did I do? Listen, I dropped my car keys down your toilet.
+SUPMALE:You'll have to drive me home.
+LEADMALE:Aah! Come on, Jackie, answer the damn phone.
+SUPFEMALE:Still no luck, huh? No.
+SUPMALE:She doesn't even have her answering machine on.
+SUPFEMALE:You know, this is so like her.
+SUPMALE:She gets upset and goes into hiding.
+OTHERMALE:I'm the same way, Roseanne.
+LEADFEMALE:When I'm feeling down, I don't want to see anyone I don't want a talk to anyone.
+SUPFEMALE:Well, see now that's where we differ.
+SUPFEMALE:When I'm in a bad mood, I can't wait to spread it around.
+LEADMALE:Hey, Leon.
+OTHERFEMALE:Hi, Dan.
+SUPFEMALE:Hello, wife.
+SUPMALE:Hello, friend of wife.
+SUPMALE:Hey, Danny.
+SUPMALE:What are you doing here? I thought we'd go catch a movie.
+OTHERFEMALE:Yeah? Cool.
+LEADMALE:Ok.
+LEADMALE:Well, I'll go get my coat.
+LEADMALE:What happened to your poker game? Davey canceled, and we're a guy short.
+LEADMALE:Besides, I'd rather be with my baby.
+OTHERMALE:If you need another player, I love poker.
+OTHERMALE:Baby, the game's back on.
+SUPMALE:What happened to being with my baby? We can go to the movies any time.
+LEADMALE:Yeah, but we don't.
+SUPMALE:We could.
+LEADMALE:Don't expect me to sit there watching you play poker.
+SUPMALE:Bonnie, want to go to the movies or something? Sure.
+OTHERMALE:Ok.
+LEADMALE:I'll get Jackie and see who else wants to go.
+LEADFEMALE:Great.
+SUPFEMALE:So, don't expect me to make any stupid sandwiches For your poker game.
+LEADFEMALE:Oh, Leon, house rules-The new guy brings the sandwiches.
+SUPMALE:No problem.
+LEADFEMALE:We're in a restaurant.
+SUPMALE:Roseanne-No.
+LEADMALE:Bonnie-No way.
+LEADFEMALE:Let's just pick up a pizza on the way over.
+LEADMALE:I don't want Leon in my house, Dan.
+LEADMALE:Why not? Because he's my boss.
+LEADMALE:Bosses aren't supposed to be in your house.
+OTHERFEMALE:It's wrong.
+LEADMALE:Don't you see? He's only going to be here a couple of hours, lose a lot of money then leave.
+LEADMALE:Don't let him look in the refrigerator.
+LEADFEMALE:He'll see everything I swiped from the restaurant.
+LEADMALE:Mom, the dog ate my slippers, Destroyed my brand-new sweater, And now look what he's using as his chew toy.
+LEADMALE:I hope he bought you dinner first.
+OTHERFEMALE:Just get rid of him, please.
+LEADMALE:I'll take care of it.
+LEADFEMALE:Did you call Lorraine? I'm calling.
+LEADMALE:It's my fourth time today.
+LEADMALE:Hi, Lorraine.
+LEADFEMALE:It's Roseanne.
+SUPMALE:When are you going to come and get this dog? Oh, a kitchen fire.
+LEADFEMALE:Ok.
+LEADMALE:Well, call me up later, then.
+LEADFEMALE:A kitchen fire? Yeah.
+LEADMALE:You wouldn't believe the day Lorraine's had.
+SUPFEMALE:First her car breaks down And now a kitchen fire.
+LEADFEMALE:Man, the way her luck is going, I wouldn't be surprised if some irate mother of three jams a skanky dog down her throat.
+SUPFEMALE:Hi.
+LEADFEMALE:Hey.
+SUPMALE:Is Roseanne ready? Oh, she's getting changed.
+LEADMALE:She told me about Gary.
+LEADMALE:I'm really sorry.
+LEADFEMALE:Aw, jeez, Dan, no.
+LEADMALE:I broke up with him months ago.
+LEADFEMALE:I mean, I dumped the guy, So, if he's seeing somebody else, that's his business.
+SUPFEMALE:I wish him all the luck in the world.
+LEADFEMALE:Do you have any vodka? The place is ours.
+OTHERMALE:Let's eat.
+LEADFEMALE:This is great! Apple pie.
+OTHERFEMALE:Roseanne, I could lose my job If anybody found out I let you in here.
+LEADMALE:Gordon, if you get fired, It'll be because of those parties you have In the mattress department.
+SUPMALE:Ooh, Gordon! Since the guys have their game, every week, How about we do this every week? Yeah.
+OTHERFEMALE:Girls night out.
+OTHERFEMALE:We could go bowling.
+LEADFEMALE:We could play bingo.
+LEADFEMALE:Awesome.
+OTHERMALE:Great.
+LEADMALE:Yeah.
+LEADMALE:Oh, yeah, that's just great.
+LEADMALE:No, it ain't.
+SUPMALE:Uh-oh.
+LEADMALE:Jackie.
+OTHERFEMALE:Jackie, you're sucking the fun out of this party.
+LEADMALE:I'm having fun.
+LEADMALE:No.
+SUPMALE:You're sitting there Like a great big lump of death.
+SUPFEMALE:I'm having a good time.
+OTHERFEMALE:So, you're upset about Gary.
+SUPFEMALE:No, I'm fine about Gary.
+LEADFEMALE:What is it, then? I can't-It's personal.
+LEADFEMALE:I'll tell you later.
+LEADMALE:Jackie, these are my closest friends.
+OTHERMALE:Whatever you tell me in confidence I'll eventually tell them anyway.
+LEADMALE:Thanks, Roseanne.
+SUPFEMALE:Well, that's just how I feel.
+LEADFEMALE:I say if we can't share our feelings with one another, We might as well be men.
+LEADMALE:Hear, hear! No, I can't.
+LEADMALE:Oh, Jackie.
+LEADFEMALE:You don't have to tell us.
+LEADMALE:If you want to, we're here for you.
+LEADFEMALE:Oh, god.
+SUPMALE:Ok.
+LEADFEMALE:All right.
+SUPFEMALE:I do need to talk about it.
+OTHERMALE:I guess.
+LEADMALE:Have you ever done something That you're really ashamed of? No.
+LEADFEMALE:Never mind.
+LEADFEMALE:Oh, well, I have.
+LEADFEMALE:Uh, well Well, ok.
+SUPMALE:Wh-when I was a senior in high school, I voted for myself for homecoming queen.
+SUPFEMALE:I thought you were going to tell that story About when you wanted to look really popular, so you gave yourself a hickey with the vacuum cleaner.
+LEADMALE:Oh, Roseanne.
+SUPMALE:I--I would have never told that story, Roseanne.
+LEADMALE:Oh, whatever.
+LEADFEMALE:Ok.
+SUPFEMALE:All right.
+LEADMALE:How about this? The first time I did it with Chuck, I told him I wasn't a virgin, but I really was.
+OTHERMALE:Why would you lie about something like that? I didn't want him strutting around Like he was christopher columbus.
+OTHERMALE:Oh, like they do.
+SUPMALE:That's what they do.
+SUPFEMALE:Yes, they do.
+SUPFEMALE:Ok.
+OTHERMALE:Uh, this one time, I, uh, wrote this bad check To the, uh, Jerry Lewis telethon, Um, just so I could hear him say my name On television.
+SUPFEMALE:Oh, Roseanne, you didn't do that.
+OTHERFEMALE:Oh, no.
+LEADMALE:Oh, Jackie, ok, well, I think I got something a little more on the lines of, um, what you'd call shame.
+LEADFEMALE:Back when duke and I were drinking, We kind of like were short on cash, So, uh, we robbed a liquor store.
+SUPMALE:Whoa.
+SUPFEMALE:Well, I--I guess you really were desperate.
+LEADMALE:Oh, for god's sake, people rob liquor stores all the time.
+OTHERFEMALE:I slept with Arnie.
+OTHERMALE:Aah! Aah! What? Oh, Jackie.
+LEADFEMALE:You slept with Arnie? Yeah.
+OTHERMALE:It's out in the open.
+LEADFEMALE:So, where's all the supportive stuff? What the hell were you thinking? I was thinking that I just lost A great guy like Gary, And now he's gone, and I'll never find another great guy.
+LEADFEMALE:I'm 36 years old, I've got flabby arm and pelican neck, All my house planets are dead and no one loves me, But what difference does that make? Everything in my life sucks.
+OTHERFEMALE:Oh, well, that's still no excuse.
+LEADMALE:Uh--I Oh-oh, I--I I was drunk, I I made a mistake.
+OTHERMALE:A mistake? A mistake.
+SUPMALE:Jackie! Do I have to remind you That when we were in high school We all took a blood oath That this man would never be given the chance to breed? Come on.
+OTHERMALE:Come on, guys.
+LEADFEMALE:I thought you were going to be there for me.
+SUPFEMALE:Well Give us a minute.
+SUPMALE:Oh, my god.
+LEADFEMALE:Do you realize When everybody in this town sees me, They're going to say, "There goes the sister of the woman who slept with Arnie.
+LEADMALE:" People forget, Roseanne.
+SUPFEMALE:Don't beat yourself up over this.
+LEADMALE:You couldn't have seen this coming And last card down and dirty.
+LEADFEMALE:Speaking of down and dirty, You guys want to hear what happened last night? No.
+OTHERMALE:No.
+LEADMALE:No.
+SUPMALE:Anybody want another beer? Me.
+SUPFEMALE:Your bet.
+LEADFEMALE:Quarter.
+LEADMALE:It's really incredible.
+LEADFEMALE:I can't believe what happened.
+SUPFEMALE:Last night.
+LEADFEMALE:To me.
+LEADFEMALE:Quarter to you, Arnie.
+LEADFEMALE:Well, well, well.
+LEADMALE:A gallon of mayo, a gallon of pickle chips, and, yes, it looks like a tub of rodbell's famous cole slaw.
+LEADFEMALE:Just like my refrigerator at home.
+LEADFEMALE:Ok, I'll tell you, guys.
+LEADMALE:I'll tell you.
+SUPFEMALE:Last night, this really gorgeous chick Came on to me.
+LEADFEMALE:What was she this time, Arnie? A model, a movie star? No.
+LEADMALE:This time she was real.
+LEADMALE:You mean that thing with you and Kathleen Turner on the monkey bars never really happened? I'm not kidding.
+SUPFEMALE:Of course not.
+OTHERMALE:Listen, Dan, I'm new here.
+OTHERFEMALE:Should I treat him like an idiot, too? We don't stand on ceremony, But it is considered polite.
+SUPMALE:Doesn't anyone want to hear? Cut it out, Arnie.
+OTHERMALE:Yeah, like you'd cheat on Nancy.
+LEADFEMALE:I did.
+SUPFEMALE:You're not kidding.
+LEADFEMALE:No.
+SUPMALE:What is the matter with you? You just got Nancy back.
+OTHERMALE:Well, this woman wanted me And you guys know that never happens.
+LEADMALE:Arnie, you're engaged.
+LEADMALE:You just don't do it.
+OTHERFEMALE:Nancy's been real good to you.
+SUPFEMALE:Don't act like I'm a criminal.
+LEADFEMALE:You guys would have done the same thing.
+LEADFEMALE:No way.
+SUPMALE:No.
+SUPFEMALE:You're saying that Because you're married and you're whipped.
+LEADMALE:He's got you there, Chuckie.
+LEADFEMALE:Leon, you're not married.
+SUPMALE:Help me out here.
+LEADMALE:Let's say Melanie Griffith wants you bad.
+SUPFEMALE:Are you going to tell her no? Actually, I'd say no.
+LEADFEMALE:The hell you would! You lying dog! Guys, I'm serious.
+LEADFEMALE:Sure, you are, Leon.
+SUPFEMALE:Didn't Roseanne tell you? Tell me what? That I'm gay.
+LEADMALE:Ha ha ha ha ha.
+SUPFEMALE:Yeah, right.
+LEADMALE:Jeez, I-I thought you knew.
+LEADMALE:No.
+SUPMALE:No, I mean, you know, it's ok.
+SUPFEMALE:It happens.
+SUPFEMALE:Yeah.
+OTHERMALE:It did.
+SUPFEMALE:Well--well, you know, um I--I know a gay guy.
+LEADMALE:Uh, his name's Bill.
+OTHERFEMALE:He--he lives in Chicago M-maybe you know him.
+OTHERFEMALE:Yeah.
+SUPMALE:Yeah, sure, I know him.
+LEADMALE:From Chicago-gay Bill.
+LEADMALE:Smooth, Chuckie.
+SUPFEMALE:What? Nobody else is saying anything.
+OTHERMALE:I've got an idea.
+LEADMALE:Let's play cards.
+SUPMALE:Thank you.
+LEADFEMALE:Who's next? Ok, Leon.
+LEADFEMALE:Forget about Melanie Griffith.
+LEADFEMALE:Let's say Andy griffith hits on you.
+LEADMALE:Are you telling me you'd say no? Hey listen, Dan, you know you guys are right.
+SUPMALE:Nancy and I got something special going, And for me to do what I did-I've never sunk so low.
+LEADMALE:Ok.
+SUPFEMALE:For the sake of argument.
+SUPFEMALE:I'm making some changes.
+LEADMALE:You're going to see a new Arnie.
+LEADFEMALE:You're going to tell Nancy? Hell, no.
+SUPMALE:The new Arnie wouldn't rat out the old Arnie.
+LEADMALE:Well, hi, Arnie.
+SUPMALE:I gotta go.
+SUPMALE:I'll walk you to the door.
+LEADFEMALE:I insist.
+OTHERFEMALE:You took advantage of my sister, And for that, you must die.
+LEADFEMALE:Rosie No one took advantage of anybody.
+LEADFEMALE:She was drunk and depressed.
+LEADFEMALE:Women are like that around me.
+OTHERMALE:Did you tell anybody? Did you tell Dan? No, I swear.
+LEADFEMALE:If you breathe a word to anybody in this town, I'm going to tell Nancy.
+LEADFEMALE:Don't do that, please.
+SUPFEMALE:You stay away from my sister.
+LEADFEMALE:Did you clear that with her? Get out! Hey, honey.
+OTHERMALE:How come you didn't tell me Leon was gay? What difference does it make? You're all pigs.
+LEADFEMALE:Ah.
+OTHERFEMALE:It's open.
+LEADMALE:Hey! Are you alone? Yeah, why? Who do you think is going to be here? God knows.
+LEADMALE:Sorry.
+LEADMALE:How are you doing? Ok.
+LEADFEMALE:Yeah? Uh Are you mad at me? Why? Well I figure, you know What you did with Arnie, That was kind of like a cry for help.
+SUPMALE:More like a scream.
+SUPMALE:Yeah, and I wasn't listening, And I want to apologize For being a jerk last night.
+SUPFEMALE:I'm the jerk, Roseanne.
+LEADFEMALE:I screwed up my own life, And I can't blame you or mom, Or Arnie or Gary, or anybody.
+OTHERMALE:Well, mom? I've got to figure out what's wrong with my life and fix it.
+LEADFEMALE:First off, I'm going to stop thinking my life won't be complete unless I find a man.
+SUPMALE:Good for you.
+SUPFEMALE:I figured out what I'm going to do about a job.
+LEADFEMALE:Something I can be proud of, like when I was a cop.
+SUPFEMALE:What? Well, it sounds a bit crazy but There's a school, over in Elgin? You're going back to school? I think that's great.
+LEADFEMALE:It's a trucking school, Roseanne.
+OTHERMALE:I want to learn how to drive the big rigs.
+LEADMALE:The big rigs? I--I never thought of that.
+OTHERFEMALE:Yeah.
+OTHERMALE:You're your own boss, You make great money, you travel Well, go for it.
+SUPFEMALE:I wanted to give it more thought Not just dive right into it-You want to do it--do it.
+OTHERMALE:Really? Yeah, really.
+SUPMALE:Elgin is only like an hour from here.
+LEADMALE:Let's go.
+LEADFEMALE:Now? Yeah, now.
+OTHERMALE:We'll go and get you signed up.
+LEADFEMALE:I'll drive.
+OTHERMALE:You think? Yeah, I think.
+OTHERMALE:Let's go.
+LEADFEMALE:Oh, Roseanne.
+LEADFEMALE:Thanks.
+LEADFEMALE:Oh, god.
+LEADFEMALE:Right.
+LEADMALE:A trucker? God! Hello, Lorraine, it's Roseanne.
+OTHERFEMALE:Don't give me that no habla ingles crap.
+LEADFEMALE:I know it's you.
+SUPFEMALE:Why didn't you come and get this dog? Oh, right.
+LEADMALE:Like Kenny has the mumps.
+LEADMALE:I really believe that.
+LEADMALE:And stop making like it's a bad connection.
+LEADFEMALE:I know it's you.
+SUPMALE:I'm bringing this dog over to your house And drop him off, And you'd better not do what you did before.
+SUPFEMALE:I Knew you were home.
+LEADFEMALE:As soon as I reached the door, The lights went off.
+LEADMALE:They are not security lights.
+SUPMALE:Security lights don't go out When someone comes up to the door.
+SUPFEMALE:Lorraine! Lorraine! Lorraine! 

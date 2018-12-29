@@ -1,0 +1,319 @@
+LEADFEMALE:Ah, Santa's workshop.
+SUPMALE:Can I go in on something with you this year for Mom? God, that's who I forgot.
+SUPFEMALE:You owe me 29 cents.
+LEADFEMALE:Hi, David.
+LEADFEMALE:Hi, Dinah.
+SUPMALE:Hey.
+SUPMALE:We're just bringing my stuff up to d.j. 's room so Darlene can have the basement when she gets home.
+LEADFEMALE:Hey, Dinah.
+OTHERMALE:Looks like someone's in the kitchen with ya.
+OTHERFEMALE:Well, yeah, you are.
+SUPMALE:* Strumming on the old banjo * Why couldn't Dinah have married Mark? Then I wouldn't have to know either one of them.
+OTHERMALE:You're the one that pushed David to start dating again in the first place.
+LEADMALE:You can't go slamming his first attempt.
+LEADFEMALE:I'm not gonna slam her.
+LEADMALE:I'm just gonna let Darlene sniff around at her for a while, and then I'll let go of the leash.
+SUPFEMALE:Hey, hey! Don't you have something to tell me? Oh, yeah.
+SUPMALE:I love you, Mom.
+LEADMALE:No, not that.
+LEADMALE:Your teacher, Mrs.
+SUPMALE:Holmes, called, and she wants to see me and your dad at school.
+SUPFEMALE:I really love you, Mom.
+SUPMALE:Bye! Why didn't you just tell me she was gonna call? I coulda done that no hablas englais bit.
+LEADFEMALE:Hey, you guys.
+OTHERMALE:Now I'm in the kitchen with you.
+LEADMALE:I tried to explain it to her.
+LEADFEMALE:Hold on, Roseanne.
+LEADFEMALE:You're doing great.
+LEADMALE:Hey, I'm home! Oh, Darlene, I can't wait 'til you see what I got you for Christmas.
+LEADFEMALE:In fact, it's kind of a present for both of us.
+OTHERMALE:I love what you've done with the place.
+LEADFEMALE:It's a real pit.
+LEADMALE:Oh, now, Darlene, no need to insult the house.
+LEADMALE:We have a guest.
+SUPMALE:Hey, David.
+OTHERFEMALE:Hey, Darlene.
+LEADMALE:How's Jimmy? Good.
+LEADFEMALE:Great.
+SUPMALE:This is Dinah.
+LEADMALE:Hey, Darlene, Dinah here's a cheerleader.
+OTHERMALE:What do you think of that, huh? Cool.
+SUPMALE:Yeah, we have to-We have to finish bringing my stuff up to d.j. 's room.
+LEADMALE:Now.
+LEADMALE:Well, Darlene, it was nice meeting you.
+LEADFEMALE:I'll see you later.
+LEADMALE:Bye.
+LEADFEMALE:You were so sweet.
+LEADFEMALE:Who taught you to behave that way to company? Well, what, would you rather I was mean to her? Well, yeah, somebody has to be.
+LEADMALE:And I'm the Mom, so it can't be me.
+LEADFEMALE:Well, I'm glad David's with her.
+LEADMALE:I mean, it makes me not have to feel guilty.
+OTHERFEMALE:I'm not gonna be mean to her just for your sake.
+SUPMALE:Well, you are one selfish little girl, Darlene.
+LEADMALE:** Hi.
+SUPFEMALE:We're Roseanne and Dan Conner.
+SUPMALE:Thank you both for coming.
+LEADFEMALE:I'm sorry to have to pull you away from work.
+SUPFEMALE:Hey, nothing's more important to me than my son's education.
+OTHERMALE:So is d.j. acting up, Mrs Teacher? Oh, d.j. 's behavior is wonderful.
+LEADFEMALE:But I'm afraid he's not progressing as well as we'd hoped with his homework assignments.
+LEADMALE:Oh, well Dan and I would like to help him out more, but there's just so many great things on TV these days.
+OTHERFEMALE:Every day, I choose one of the students to put his homework answers on the board, and whenever I pick d.j. , he says he didn't understand the assignment.
+SUPFEMALE:I think we should consider the possibility that your son is, shall we say, special.
+LEADMALE:Uh, do you mean special as in "The sporting goods store is having a special on dumbbells?" That's not what I said, Mrs.
+LEADFEMALE:Conner.
+LEADMALE:I'm just saying that your son might need a little more attention.
+LEADMALE:Perhaps after the holidays, we could try putting him in our "Explorer" class.
+LEADFEMALE:Explorer, huh? What are they exploring? Coming in out of the rain? d.j. can't be dumb.
+LEADMALE:He's the only one in the family that can keep score in bowling.
+LEADFEMALE:I've seen this sort of thing before.
+LEADMALE:If we don't do something soon, it could create serious self-esteem problems for him.
+SUPFEMALE:Gee.
+LEADFEMALE:Sounds serious, Dan.
+LEADFEMALE:Well, forget about it.
+LEADFEMALE:He's just being lazy.
+LEADFEMALE:Don't worry about it.
+SUPMALE:From now on, he'll be hitting the books or the books'll be hitting him.
+SUPMALE:Wrong, Dan.
+OTHERFEMALE:We're not gonna punish him.
+LEADFEMALE:We're gonna support him.
+LEADFEMALE:And for a lot longer than we thought.
+LEADFEMALE:Uh, just so I know, and I gonna have any say in how we handle our kid? Oh, yeah.
+LEADMALE:We'll split up the tasks like we always do.
+LEADMALE:I'll handle it, and you'll make sure there's fresh batteries in the remote control.
+SUPFEMALE:Perhaps you'd like to discuss this-Oh, there's nothing to discuss, here.
+OTHERFEMALE:We always do things her way.
+LEADMALE:I knew there was no reason for me to be here.
+LEADMALE:I'm sorry about this, Mrs.
+LEADMALE:Conner.
+LEADMALE:Don't worry about it.
+LEADMALE:That's what you get when you marry an explorer.
+LEADFEMALE:No, she was serious.
+SUPMALE:The teacher's totally convinced that d.j. is stupid.
+LEADFEMALE:I guess she's never seen his mashed potato castles.
+OTHERMALE:That's weird.
+LEADMALE:How are you guys gonna handle it? Excuse me, I can see I'm just in the way, here.
+SUPMALE:I'll just leave.
+LEADMALE:Well, make sure you send a check every month.
+LEADMALE:You oughta go easy on him, Roseanne, 'cause he was talking to Fred down at work, and I think he's really pretty upset.
+LEADMALE:About what? Evidently, the whole thing that you guys went through with the pregnancy and the way you boxed him out of that decision made him feel like he doesn't have an equal say with the kids.
+LEADFEMALE:Well, that's stupid.
+LEADMALE:They're not even the same thing.
+LEADFEMALE:You know, when the kid's in my body, I make all the decisions, but you know me.
+LEADMALE:As soon as I drop it out on the table, they're up for grabs.
+SUPMALE:That's not true.
+OTHERFEMALE:Why not throw him a bone and let him handle this one? Dan needs to know that you have faith in him.
+LEADMALE:Oh, all right, yeah.
+LEADFEMALE:He can handle it.
+SUPMALE:He is a wonderful father.
+LEADMALE:How'd that sound? Dan! Hey, Dan.
+LEADMALE:I was thinking, uh-Well, I think you should handle this d.j. and school thing.
+LEADFEMALE:Oh, really? Well, that's not what you said this afternoon.
+SUPMALE:Well, a lot of stuff has changed since this afternoon.
+LEADFEMALE:You know, like, I realize he's not my little boy anymore.
+LEADFEMALE:He's getting to be a man.
+LEADMALE:Except for that plastic sheet on his bed.
+OTHERMALE:Okay, I'll talk to him.
+LEADMALE:Well, that's great, 'cause I know you'll do a great job.
+SUPMALE:Yeah? Yeah.
+LEADMALE:You mean it? Yeah.
+SUPMALE:Hey, I've got an idea.
+SUPFEMALE:Why don't you bounce off me what you're gonna say to d.j. ? You know I'm sure it will be fine, and everything, but maybe this way, I could learn something, okay? Okay, I'll be d.j. Okay.
+LEADMALE:Well, Deej, uh, being a student is really important because someday soon, you're gonna be out in the real world, and you're gonna wanna be smart enough to know when you're getting hosed by your wife.
+LEADFEMALE:Come on, Dan-Don't interrupt me, son.
+LEADFEMALE:Dan.
+SUPMALE:And I think you're a little young to be calling your father Dan.
+SUPMALE:Aw, shove it.
+SUPMALE:Ah ha! I can still take you over my knee, young man.
+SUPMALE:He'll do fine, Roseanne.
+LEADMALE:Yeah, I guess he can't do d.j. any harm.
+SUPFEMALE:And if he does, well, there's plenty more where he came from.
+SUPMALE:Man, these Christmas lights are pretty tangled.
+LEADFEMALE:Dan, why don't you just buy a new string this year? Well, that'd be a fairly large investment, Fred.
+LEADFEMALE:Geez, Dan, why didn't you just take a little time last year and put those things away carefully when you took them down? Yeah, like that's how I want to spend my Easter Sunday.
+OTHERMALE:Guys, let me ask you something.
+LEADMALE:Did you ever have any trouble in school? Yeah, you know.
+SUPMALE:Every once in a while.
+LEADFEMALE:How come? Well, d.j. 's slacking off, and his teacher thinks he's stupid.
+LEADFEMALE:And I made this big stink to Roseanne about how I could handle it.
+SUPMALE:Yeah? So? Now it's like this big test, and if I blow it, she'll never let me hear the end of it.
+OTHERMALE:Look, I talk to the kid, and I know what his problem is.
+LEADFEMALE:Well You know what his problem is.
+LEADFEMALE:I need to know what his problem is.
+LEADMALE:Impasse.
+OTHERFEMALE:What? Well, d.j. told me that his teacher makes them write their stuff on the board.
+SUPFEMALE:And he can't stand up because he's, uh Well, he's embarrassed.
+SUPMALE:You're losing me here, Mark.
+OTHERFEMALE:Well, he can't stand up because, you know, people will see.
+LEADFEMALE:And you know, he's 13 now, and sometimes things, you know Sometimes things happen.
+LEADFEMALE:So you're trying to say that d.j. 's at that age where he wants to go up to the blackboard, but little d.j. won't let him.
+OTHERFEMALE:Oh, you mean he's at that age where, on a sunny day, he could be laying on his back and tell time without a watch.
+LEADMALE:No, man, it's nothing to do with telling the time.
+LEADFEMALE:The kid's getting erections.
+SUPMALE:So I told him just to sit there and pretend he didn't know anything, and that way he wouldn't get called up to the board.
+LEADFEMALE:Oh! What a relief.
+LEADFEMALE:Hell, I can handle this.
+LEADMALE:Here, I was worried about d.j. being stupid.
+LEADFEMALE:Turns out it's just you.
+LEADFEMALE:Well, what was I supposed to say to the kid, Dan? Well, it's not that difficult a problem, Mark.
+LEADMALE:We've all been there.
+LEADFEMALE:We've all figured out how to deal with this when we were his age.
+SUPMALE:I always found that nobody was any the wiser if I just kept my shirt untucked.
+SUPMALE:Oh, an untucker, were you? I occasionally employed that device, myself.
+LEADFEMALE:Usually, however I took the more scholarly approach.
+LEADMALE:Put a book in front of it.
+SUPMALE:Yeah, a book was good.
+LEADFEMALE:If you didn't have a book, you just had to stick your hands in your pockets.
+LEADMALE:That's usually how mine started.
+LEADMALE:You know, back at that age, it didn't even have much to do with girls.
+LEADFEMALE:Damn thing'd pop up and say, "Howdy-do" for any reason.
+LEADMALE:You know what usually set me off was the vibrations on the school bus.
+LEADMALE:All through junior high, I dreamed of being a bus driver.
+SUPFEMALE:You sure d.j. 's gonna be okay with you talking about all this? Oh, I'm sure he will.
+LEADFEMALE:Hey, it was kind of fun for us, wasn't it? That's the nice thing about those coveralls at work, you know? Hey, David.
+LEADFEMALE:I like that Dinah girl.
+LEADFEMALE:She was nice.
+LEADFEMALE:I broke up with her.
+SUPFEMALE:Why? I really don't want to talk about it.
+LEADMALE:Well, what was wrong with her? Is there some guy already living in her parent's basement? She wasn't right for me.
+LEADMALE:And I'm not interested in dating just anybody.
+LEADMALE:Oh, come on, David.
+OTHERFEMALE:You get bucked off one cheerleader, you gotta just climb right back up on another.
+LEADFEMALE:I think I've been spoiled.
+LEADMALE:I mean, I know there are other women out there that I could really connect with, so I think I should just hold out.
+LEADFEMALE:Well, every relationship's not gonna be like you and me.
+LEADFEMALE:I mean, you have to get over me.
+SUPMALE:What makes you so sure that I'm talking about you? Fine, then, who are you talking about? Nobody.
+LEADFEMALE:Just leave me alone.
+LEADFEMALE:No, I mean, come on.
+LEADFEMALE:If there's another girl, great.
+LEADFEMALE:Are you gonna ask her out? No.
+LEADMALE:Well, why not? Because she belongs to somebody else, and I can't have her.
+LEADFEMALE:You have to stop torturing yourself.
+LEADFEMALE:I mean, you got to get over me for the sake of both of us.
+SUPMALE:Hey, what are you guys doing? Just a few seconds ago, we blew this whistle that only dumb blondes can hear.
+SUPFEMALE:Fine.
+SUPMALE:Hey, we still on for coffee later? Yeah.
+LEADFEMALE:Is 8:00 okay? Sure.
+LEADFEMALE:Oh, and I read that book you gave me.
+LEADFEMALE:I can't wait to talk to you about it.
+LEADMALE:What book? Horton Hears a Who? This is between me and David.
+LEADMALE:You and Becky? Oh man, I don't believe this.
+OTHERMALE:I don't care what you believe.
+LEADMALE:Oh, but you should.
+LEADFEMALE:I mean, your little plan has worked.
+LEADMALE:It's like, now I feel like I have to keep up with her.
+LEADMALE:In fact, I'm gonna get the meat suck out of my head and injected into my breasts.
+LEADMALE:You know, you don't even know your sister.
+LEADMALE:She's a much cooler person than you realize.
+OTHERMALE:Oh, David, cut the act.
+LEADFEMALE:I'm not buying it.
+LEADMALE:This is not an act.
+LEADFEMALE:I like spending time with Becky.
+OTHERMALE:And if you ever gave her a chance, you'd learn she has some very interesting things to say.
+SUPMALE:Boy, does she ever.
+LEADFEMALE:Just yesterday, she said to me, "Life is like a box of chocolates.
+LEADMALE:" I can't get the stain off this plate.
+LEADMALE:Let me see it.
+SUPMALE:Well, this is a Christmas plate.
+LEADFEMALE:You scrubbed off the last wise man.
+SUPFEMALE:* Walking through the house, looking for a beer * * Open up the ice box door * * Oh, my! There's one right here * What are you so happy about? Happy? Me? Never.
+LEADFEMALE:Well, so? Did you talk to d.j. ? I mean, I know you did, but did ya? Yes.
+LEADMALE:Suffice it to say, your son is not stupid, and the problem has been solved.
+SUPFEMALE:By me.
+LEADFEMALE:That's all that I am at liberty to divulge.
+LEADMALE:You better tell me, Dan.
+LEADMALE:Don't make me get out the dental tools.
+OTHERFEMALE:It seems as though d.j. was getting in class, at least Well, probably other times as well, I'm sure, but definitely in class, d.j. was getting-What, picked on? Pushed? Stabbed? d.j. was getting erections.
+LEADMALE:God, why couldn't he just be stupid? Now, it's no big deal.
+LEADFEMALE:He's 13.
+LEADFEMALE:It'll go away by the time he's in his 30s.
+LEADMALE:Trust me.
+SUPFEMALE:Well, he better not be having that problem around here.
+LEADFEMALE:Well, of course not.
+LEADMALE:Not with his mom around.
+LEADMALE:You're the antidote.
+LEADMALE:You think boys were having that problem when we were in school? Uh, no, Jackie, this must be a new problem.
+OTHERFEMALE:God, this is serious, Dan.
+LEADMALE:He must be feeling really scared and confused.
+LEADMALE:What'd you say to him? Never fear.
+LEADFEMALE:I just gave him one of the great secrets that's been passed down from father to son since the invention of the printed word.
+LEADFEMALE:Told him to put a book in front of it.
+LEADMALE:Well, that is great.
+OTHERMALE:Idn't that great, Roseanne? Oh, absolutely.
+OTHERFEMALE:It's about time he got some use out of them schoolbooks.
+LEADMALE:I take it you approve? Oh, yeah, I think you did great.
+LEADMALE:You're a great father, Dan.
+SUPMALE:You are the mother of all fathers.
+OTHERFEMALE:Thank you, thank you, thank you.
+SUPFEMALE:Now if you'll excuse me, I'm gonna go read the paper, check Dear Abby for errors.
+SUPFEMALE:Way to go, big fella.
+SUPMALE:Now, Roseanne, he tried.
+LEADMALE:He did the best that he could.
+OTHERFEMALE:Well, his best was very, very bad.
+LEADMALE:You know, I'm sure this is a big emotional thing for d.j. What do you say to a kid that has that problem? Well You look him in the eye, and nowhere else, and, uh You tell them that puberty's just a really rough time in their life.
+LEADMALE:And their body's going through a lot of changes, and they're not a freak.
+LEADMALE:Okay, well, tell that to Dan.
+LEADMALE:Let him talk to d.j. again.
+LEADMALE:No, I'm not gonna risk that.
+LEADMALE:What if he screws up even worse? d.j. will wind up climbing a tower with a big book in front of his rifle.
+LEADFEMALE:Oh, there you are.
+LEADFEMALE:Haven't seen you all day.
+LEADMALE:What'cha doing? Well, I'm watching this Christmas movie with Jimmy Stewart.
+LEADFEMALE:Okay, yeah.
+OTHERMALE:They would be better off without him.
+LEADMALE:Well, so You're sure growing up.
+LEADFEMALE:And that's great, because that is what kids do.
+SUPFEMALE:They grow up.
+SUPFEMALE:Nothing to be ashamed of.
+LEADFEMALE:I know.
+OTHERMALE:You know, uh When I was 13, something really embarrassing happened to me.
+OTHERMALE:You know, I never thought I would get over it.
+LEADFEMALE:What? Well You know, the junior high had a dance, and, uh your grandma had bought me this real pretty white dress and in the middle of the dance, I looked down at the dress, and there was a, uh-very noticeable stain.
+SUPFEMALE:What was it? Well, d.j. , it seems that I was going through what all the girls were going through at a certain age.
+LEADFEMALE:I was having my first period.
+SUPMALE:Oh, my God! I don't want to hear it! I don't want to hear it! Whoa, what's going on? Mom told me a story I don't want to hear anymore! Well, that's no reason for you to go running out of the room screaming like a maniac.
+LEADMALE:It was about her having her period! As you were.
+SUPFEMALE:What are you doing? I was just trying to let him know he's not the only that had an embarrassing moment.
+LEADFEMALE:Oh, no, not the white dress story.
+SUPMALE:I was trying to help him with his problem.
+LEADFEMALE:I helped him.
+LEADMALE:Look, he's doing his homework.
+SUPMALE:You made him feel ashamed.
+SUPFEMALE:I don't want him to be emotionally scarred.
+LEADMALE:Well, you're right, it was just I couldn't think of anything that would send him screaming from the room like you did.
+LEADFEMALE:I just thought that you might have screwed things up.
+LEADMALE:You never did have any faith in me.
+SUPMALE:You lied to me.
+SUPMALE:All right, I lied to you.
+OTHERFEMALE:What do you want me to do, say I'm sorry? Okay, I'm sorry.
+LEADFEMALE:I wanted you to handle the d.j. thing so you would get over feeling left out as a parent.
+OTHERFEMALE:I--I did a horrible thing.
+SUPMALE:I lied and I'm sorry.
+LEADMALE:Oh, to hell with that.
+SUPMALE:I want to hear you say that your way was wrong and my way was right.
+LEADMALE:Girl story, bad.
+LEADFEMALE:Book, good.
+SUPMALE:Yeah, well, whatever.
+LEADFEMALE:No, no, no, no, no, noooooo.
+LEADFEMALE:Say it.
+OTHERFEMALE:Okay.
+SUPMALE:You did way better than I thought your would have.
+LEADMALE:Better than you.
+LEADFEMALE:Better than most.
+LEADFEMALE:Better than you.
+LEADMALE:Okay, you did better than me.
+SUPFEMALE:Are you happy, now? Why, if were any happier, I'd need a book.
+LEADMALE:Oh, come on, Neil, give us a break.
+LEADFEMALE:It's just a normal, everyday biological function, We have to call it something.
+SUPFEMALE:I'm sorry, Roseanne.
+LEADFEMALE:None of these expressions are acceptable on network television.
+LEADFEMALE:Okay, well, what about "pitching a trouser tent?" No.
+LEADFEMALE:"Booting up the hard drive?" No.
+SUPFEMALE:"Charming the anaconda?" What the anaconda? Charming.
+LEADMALE:No.
+LEADFEMALE:Uh, "raising the drawbridge?" No.
+LEADMALE:"Popping a wheelie?" No! "Standing up for democracy?" No! "Waving to your chin?" No.
+SUPFEMALE:There's absolutely, positively no way any of these are gonna get on the air.
+LEADMALE:Too late.
+SUPFEMALE:Is that on? Aw,

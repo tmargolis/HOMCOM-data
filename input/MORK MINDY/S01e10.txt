@@ -1,0 +1,349 @@
+SUPMALE:Nanu-nanu.
+LEADFEMALE:Shazbot! MAN: Say, I like your place.
+SUPMALE:Mmm thanks You know, I wasn't sure you'd ever want to see me again.
+OTHERMALE:Now, Dan, do I look like the type of girl who would hold a little thing like a broken engagement against you? You have the right to remain silent.
+LEADMALE:Anything you do say will be held against you Mindy, Mindy, I didn't mean to hurt you.
+SUPMALE:I just wasn't ready to settle down.
+LEADFEMALE:Then why did you ask me to marry you? Well, I was young.
+LEADMALE:I didn't know what I wanted.
+OTHERMALE:I have to admit I was surprised that you called.
+SUPFEMALE:I thought that you were probably out sowing your wild oats.
+LEADFEMALE:Well, now I think I'm more interested in rice.
+LEADMALE:Uh, which reminds me, there's a new Japanese restaurant I'd like to try for lunch tomorrow.
+LEADMALE:How does that sound to you? I'd love it.
+SUPFEMALE:Good.
+SUPFEMALE:I'll, uh, pick you up at noon.
+LEADMALE:Okay.
+SUPMALE:Then noon it is.
+SUPFEMALE:Thanks for goin' out, Mindy.
+SUPFEMALE:Well, thanks for asking me out, Dan.
+LEADFEMALE:It was fun.
+SUPMALE:It always was.
+SUPMALE:Tomorrow.
+LEADFEMALE:Bye.
+SUPFEMALE:( whistles ) Mindy! Mork! How was your mating? Dating! That's dating.
+SUPMALE:Oh.
+SUPFEMALE:And it was wonderful.
+LEADMALE:Dan took me to this great Danish restaurant.
+LEADMALE:Sounds interesting.
+LEADMALE:What do great Danes eat? And he's taking me to lunch tomorrow, too.
+OTHERFEMALE:What is it about this earthling that makes you so hungry? Well, Dan and I are old friends.
+SUPFEMALE:As a matter of fact, our relationship had gotten pretty serious at one time.
+LEADMALE:Serious.
+SUPFEMALE:Ah, sounds like you need cheering up.
+SUPFEMALE:Come see my apartment.
+OTHERFEMALE:I've just redecorated the attic, and it's scamp city and totally taste-free! Come on! ( speaking Orkan ) ( yells like Tarzan ) ( speaking Orkan ) What do you think? Well, what can I say except it's you? You like my bed? You sleep on that? Oh, it's not bad once you get the hang of it.
+LEADMALE:( honking bark ) What's this? Oh, it's a hide-a-bed for houseguests.
+OTHERMALE:Now, I must say, I've never seen a lamp sticking out of the wall quite like that.
+LEADMALE:I like to read in bed.
+LEADFEMALE:Well, Mork, this place certainly is designed for your kind of living.
+LEADFEMALE:What an interesting wall covering! It's grass.
+LEADMALE:Mork, why do you have grass on your wall? Oh, the plants kept falling off.
+SUPFEMALE:Can I get you something to sit on? Here, here's my footstool.
+LEADFEMALE:Now, that's a great idea! A footstool shaped like a foot.
+LEADFEMALE:Wait'll you see the end tables I've ordered.
+LEADMALE:Well, Mork, I think you've done a fabulous job.
+LEADMALE:It looks really good.
+LEADMALE:( buzzing sound ) What's this? It looks like some sort of a calculator or something.
+LEADMALE:Oh, no, it's not a calculator.
+LEADFEMALE:It's an Orkan Age Machine.
+OTHERMALE:A what? Actually, it's a small computer designed to alter our brain waves so we can achieve any age we want.
+SUPFEMALE:Uh, why would you want to do that? Well, if you're suffering from tension or feeling uptight, you set it for a certain age, set that, and it's like a vacation, kinda like our version of Fantasy Island.
+LEADFEMALE:You know, "Boss, the plane has landed.
+SUPFEMALE:" You're kidding.
+SUPMALE:Ah, "kidding", no.
+LEADFEMALE:That would be button 3.
+SUPMALE:Give it a go! Okay.
+LEADMALE:( as a child ): No, I don't want your cooties.
+LEADFEMALE:( computer buzzing ) ( as teen-ager ): Wow! Come on! All the other kids are in hyperspace.
+SUPMALE:I just want the keys to the egg.
+LEADMALE:It'd be really right on.
+LEADMALE:Where's Dave? ( computer buzzing ) ( chants in Orkan ) ( computer buzzing ) Whoa, I didn't know it went that far back.
+LEADMALE:Well, thanks for taking me to lunch, Dan.
+LEADMALE:How about dinner? Do you realize how many restaurants we've been to in these last three weeks? Uh, I see you're on to me.
+OTHERMALE:You've figured out that I'm trying to get at your heart through your stomach.
+LEADFEMALE:( laughing ) Maybe that's why I like you so much.
+LEADFEMALE:Most guys immediately want to take the scenic route.
+SUPFEMALE:Hi, Dan.
+SUPFEMALE:Hi, Mr.
+LEADFEMALE:M.
+LEADMALE:Uh, pick you up at 8:00? Okay, I'll be ready.
+LEADFEMALE:All right, uh good-bye.
+SUPFEMALE:Excuse me.
+LEADFEMALE:I'd turn sideways, but I haven't got one.
+LEADFEMALE:Hi Mindy! How are you? Oh, Sally! Well, I see you're still hangin' in there! Yeah.
+LEADMALE:I feel just like the Post Office.
+SUPMALE:Neither of us deliver on time.
+LEADMALE:Well, hello, Sally, dear.
+LEADFEMALE:Can we do anything for you? Yeah, you could tell me if my shoes match.
+LEADMALE:Well, have you put in your request for a boy or a girl? Well, Cora, what difference does it make? With a mother like Sally that baby's gonna be beautiful either way.
+LEADFEMALE:Oh, what a lovely thing to say.
+LEADFEMALE:Just for that, if it's a boy, I'm gonna name him after you.
+LEADMALE:Fascinating! A boy called Weiner! Oh, Cora Uh, nice to see you, Sally.
+SUPFEMALE:You, too.
+SUPMALE:Listen, you wouldn't happen to have The Little Engine That Could? I don't know.
+LEADFEMALE:Let me check in the children's section.
+LEADMALE:Oh, good.
+LEADMALE:You know, Sally, you look absolutely radiant.
+LEADFEMALE:Oh, come on.
+SUPFEMALE:You do.
+LEADFEMALE:I don't think I've ever seen you look this good.
+LEADMALE:It's motherhood.
+LEADMALE:You oughta try it sometime.
+SUPFEMALE:Well, maybe I will sometime.
+LEADFEMALE:I like kids, but I don't think I'm ready to be a mother yet.
+LEADMALE:Oh Mindy Oh, who's your fat friend? Mork! Oh, parallel universe! What a coincidence! My name's Mork, too.
+LEADMALE:Na-nu, na-nu! Um, Sally Freeman, this is my friend, Mork.
+OTHERMALE:And Sally isn't fat; she's pregnant.
+SUPMALE:Oh, that's wonderful.
+LEADFEMALE:What's pregnant? Didn't your parents ever tell you anything? I don't have any parents.
+LEADFEMALE:I'm a test tube baby.
+LEADMALE:( laughing ) That's Mork.
+OTHERMALE:Always with the jokes.
+LEADMALE:( honking bark ) I just felt a kick! Somebody kicked you? Must have been hit-and-run.
+LEADMALE:Mork, her baby kicked her.
+SUPFEMALE:Why, what did she do to it? She didn't do anything to it.
+LEADFEMALE:A baby always kicks when it's inside its mother.
+SUPMALE:There's a baby in there! You're tryin' to jive my socks off! There's a real live ( makes baby sounds ) Whoa, shazbat! Kids get in the darndest places.
+SUPFEMALE:SALLY: I can't wait till he's born so I can see what he looks like.
+OTHERFEMALE:I'll bet he's round.
+OTHERFEMALE:Sally, do you think that you'll go back to work after you have the baby? No, Mindy, I want to do all that hokey stuff.
+SUPMALE:You know, I want to build blocks and play peek-a-boo and take him for walks in the park, watch him grow up.
+OTHERFEMALE:That's gonna be my career.
+LEADFEMALE:Oh, that's really nice.
+OTHERFEMALE:Well, here's your record.
+LEADFEMALE:It's on the house.
+LEADMALE:It's, uh, a birthday present.
+LEADFEMALE:Oh, thanks a lot.
+LEADMALE:I'll see you later, Mindy.
+LEADMALE:Oh, good luck.
+LEADMALE:So long, Mork.
+OTHERMALE:Good-bye.
+OTHERFEMALE:Good-bye.
+SUPMALE:Oh Whew Oh, you know, Mork, I really envy Sally.
+OTHERMALE:She really knows what she wants.
+LEADMALE:And I envy her baby.
+LEADFEMALE:You envy her baby? Why? It has something I never had a mother.
+LEADMALE:Oh Good night, Mindy.
+SUPFEMALE:Good night, Dan.
+LEADMALE:Bye.
+LEADFEMALE:What are you doing up so late? Something was bothering me.
+LEADFEMALE:I couldn't sleep.
+SUPMALE:So I decided I'd relax by soaking in a hot tub.
+SUPFEMALE:Oh.
+SUPMALE:Yeah, that's what I always do.
+SUPMALE:Oh, Mork, is there anything you want to talk about? Mork, what are you doing? ( Mork talking underwater ) Mork! On Earth you don't soak your head in a tub like that.
+SUPFEMALE:You soak your feet! Are you kidding? If I soak my feet in there, I wouldn't last five minutes! Well, do you want to tell me what the problem is? All right.
+OTHERFEMALE:Come on.
+LEADMALE:Sit down.
+LEADMALE:Ever since I met your friend Sally, I I always thought I was raised in the best possible way.
+OTHERFEMALE:Oh, how were you raised? By a computer.
+LEADMALE:Computer! Oh, yes.
+SUPMALE:Her name was Nannivac 30.
+SUPMALE:But all the 8,000 kids in our warehouse used to just call her "Nanny.
+LEADMALE:" Every bleem she'd wash me, feed me, burp me, take care of all my needs.
+LEADFEMALE:Did she change you, too? Well, I'm a better person for having known her.
+SUPMALE:But somehow after seeing Sally and how happy she was, I feel like I'm missing something.
+SUPFEMALE:Oh, Mork, you missed being loved.
+SUPMALE:But Nanny was always there.
+LEADFEMALE:Every morning I'd roll past her on the conveyer belt.
+OTHERFEMALE:She'd pick me up in her warm little metal claws, tickle me under the chin with a high-intensity laser and sing in that soft little voice ( hums melody from Close Encounters of the Third Kind ) If that's not love, what is it? Factory servicing.
+LEADFEMALE:Doesn't an Earth mother do the very same thing? Well, yeah, but she does it because she wants to, not because she's plugged in.
+LEADMALE:Oh, I see.
+LEADFEMALE:On Earth then, a mother's a very important job, too.
+OTHERFEMALE:Oh, yeah.
+LEADFEMALE:I don't know a job more important.
+LEADMALE:Do you want to have babies someday? Well, you know, I I didn't think I did, but I think I might, yeah.
+LEADMALE:How about tomorrow? Mork, it isn't that easy.
+LEADFEMALE:I'll help.
+SUPFEMALE:Mork, I think there's something that you and I should talk about.
+LEADFEMALE:Oh, if it's about having babies, I know all about that.
+LEADFEMALE:First the bird lands and adds the pollen.
+LEADFEMALE:No.
+SUPMALE:You see, Mork, Dan has asked me to be his wife.
+LEADFEMALE:Dan! That guy you've been eating around with? Did you say yes? No Whew hey But I think I'm going to.
+LEADMALE:Oh I'm very happy for you.
+SUPMALE:MORK: Mindy, what's on your brain? I'm about to be married and I I feel like I just might be biting off more than I can chew.
+LEADMALE:Ooh, sounds like a marriage on Alpha Centauri.
+OTHERMALE:There the bride and the groom eat the best man.
+LEADMALE:They eat the best man? Ah, but it's done in good taste, though.
+SUPFEMALE:I'm sure it is.
+LEADMALE:Oh, Mork, I I'm worried.
+SUPFEMALE:I just don't know what it would be like to have a child.
+LEADFEMALE:Yeah, and I'm sad because I don't know what it would be like to have a mother.
+SUPFEMALE:Well, at least I've got a way of finding out.
+LEADMALE:Wait.
+LEADFEMALE:( orkan humming ) I have a way we both can find out.
+SUPFEMALE:I'll set my age machine for three years old ( beeping ) for ten minutes.
+SUPMALE:( beeping ) That way I'll be your baby ( beeps ) and you'll be my ( computer bleeps ) ( baby voice ): Mommy! Mommy, hold me! Hold me! Yeah! Yeah! Yeah! That was fun.
+SUPFEMALE:Let's do it again.
+OTHERFEMALE:No, No, Mork, you're too heavy for that.
+LEADFEMALE:Me Morky, you Mommy.
+SUPFEMALE:No, me Mindy.
+SUPFEMALE:Oh, this is ridiculous.
+LEADMALE:Aha.
+LEADMALE:Look here.
+SUPMALE:I know where my belly button is.
+SUPMALE:Oh, that's that's nice.
+SUPMALE:Can I see yours? No! Come on, Mork, now give me your age machine.
+LEADFEMALE:No, it's mine! ( blows raspberry ) ( laughs ) Now, Morky, Dan is gonna be here any minute and it'll be embarrassing to have a giant three- year-old running around, so give me your age machine.
+SUPFEMALE:No, no! Can't get it! Can't get it! Na, na, weiner, weiner, weiner! Now, come on.
+LEADFEMALE:Now you listen, young man, you give me that age machine right now.
+LEADFEMALE:( laughs ) ( doorbell rings ) That's Dan.
+SUPFEMALE:Morky, Mommy has company so why don't you take a nice nap? No.
+LEADFEMALE:Morky not sleepy.
+LEADMALE:I wanna stay up all night and drive Mommy shazbot.
+OTHERMALE:Nyah, nyah, n-nyah! If Morky takes a nap, Mommy'll make him his favorite treat, and he knows what that is.
+SUPFEMALE:A baloney sundae! Yay! ( doorbell rings ) Oh, nice toys.
+SUPMALE:Nice toys.
+OTHERFEMALE:Gimme, gimme, gimme, gimme, gimme.
+SUPMALE:Shh.
+SUPFEMALE:I'll let you play with these if you promise to be quiet.
+SUPFEMALE:Promise? Yeah.
+LEADMALE:Okay, you be good.
+LEADFEMALE:Shh.
+LEADMALE:Shh.
+LEADMALE:Shh.
+LEADMALE:Shh.
+OTHERMALE:( cackles ) ( doorbell rings ) Hi.
+LEADFEMALE:Let's go.
+SUPFEMALE:Hi.
+OTHERMALE:What's the rush? The movie doesn't start for an hour.
+OTHERFEMALE:Oh.
+OTHERMALE:Sure, come on in.
+SUPMALE:Oh Oh, is that for me? Uh, no, that is for our firstborn.
+LEADMALE:Dan, that's a little premature.
+LEADMALE:I haven't even made my mind up yet.
+LEADFEMALE:Oh, you will.
+LEADFEMALE:( Mork singing baby Orkan-talk ) Did you hear that? ( clunking ) It's probably squirrels.
+OTHERFEMALE:Oh.
+LEADFEMALE:Anyway, when we get married, it is going to be so great.
+LEADMALE:I can hardly wait to hear the pitter-patter of little feet.
+SUPFEMALE:( loud, clunking pitter-patter ) ( Mork singing baby Orkan-talk ) Say, uh, are you sure we're alone? Well, yes.
+SUPFEMALE:Oh, no, uh there's a plumber in the attic.
+LEADMALE:( beads clicking ) ( baby talk ) It, uh looks like your plumber broke his necklace.
+LEADMALE:( chuckles nervously ) Yeah, well, I sure am glad he got those out of the pipes.
+OTHERFEMALE:Uh, I'll just go up and see if he found the earrings, too.
+LEADFEMALE:Mork.
+SUPFEMALE:Mork ( singsongy ): Morky, where are you? ( shrieks ) ( laughs ) That is not funny.
+SUPFEMALE:Now come out of there.
+OTHERMALE:You broke my pearls and rolled them all down the stairs.
+LEADFEMALE:Not all.
+OTHERFEMALE:Now, Mork, you promised to be quiet.
+LEADMALE:( loud ): But I am being quiet! Shh! No, you're ( blows raspberry ) No, you're not.
+LEADFEMALE:Yes, I am! Yes, I am! Yes, I am! Shh! So there.
+OTHERMALE:Besides I have nothing quiet to do and I'm not a mime.
+LEADMALE:Why don't why don't you just play? Can I play dress-up? DAN: Mindy? Uh, coming, Dan.
+SUPFEMALE:I don't care what you play but just play quiet.
+LEADFEMALE:Yay! A dog for a day, yay! Mork, just play quiet.
+LEADMALE:Okay? Okay? Answer me.
+LEADMALE:( loudly ): You said be quiet! Shh! Just play quiet.
+OTHERFEMALE:Now, shh.
+SUPFEMALE:Shh.
+LEADFEMALE:Shh.
+OTHERFEMALE:Shh.
+LEADMALE:( spits, bead tinkles ) ( laughs loudly ) Kids.
+LEADFEMALE:Is everything fixed? Well, uh, no, but everything will be back to normal in about, uh, six minutes.
+LEADFEMALE:( clinking ) You know, it sounds like you've got a plumber that's not too experienced.
+LEADMALE:Oh, he isn't.
+SUPFEMALE:But only the young ones will make house calls.
+OTHERMALE:Here, I picked up your pearls.
+LEADMALE:You know, when we have kids you can't leave those laying around.
+OTHERFEMALE:They'll put them in their mouths.
+LEADMALE:I've heard.
+SUPFEMALE:You know, I think I want about ten.
+OTHERFEMALE:Ten kids?! That's inconceivable.
+SUPMALE:No, no, kids are great.
+LEADMALE:They are so much fun.
+OTHERMALE:Just a joy to have around.
+SUPMALE:( crashing ) ( Mork crying ) The, uh, plumber is crying? Oh, uh, he brought his kid with him because he, uh, couldn't find a baby-sitter, so, uh, just wait here.
+LEADFEMALE:( Mork crying loudly ) ( crying ) Oh, what happened? Mommy, hurt.
+SUPMALE:Boo-boo.
+LEADFEMALE:Oh There, there.
+SUPFEMALE:No.
+LEADFEMALE:No.
+SUPFEMALE:Here, here.
+OTHERMALE:( cries ) Oh It's gonna be all right.
+LEADFEMALE:It'll be all right.
+LEADFEMALE:Tell me what happened.
+SUPFEMALE:Moo-moo bit me! And then he came down, he attacked my knee.
+SUPFEMALE:Bad! ( crying ) Oh, you're right.
+OTHERMALE:Bad moo-moo for hurting Morky.
+OTHERFEMALE:There, Moo-Moo won't hurt you anymore.
+LEADMALE:Mommy, Mommy, you're protecting me against a bad moo-moo.
+LEADMALE:Yeah, now come over here and sit down.
+LEADFEMALE:I'll find something to dry your tears.
+LEADMALE:Morky Mommy can't dry your tears if you're sitting on them.
+OTHERFEMALE:There, there.
+SUPFEMALE:( blows nose ) There.
+LEADFEMALE:Now everything's okay.
+SUPFEMALE:Will you always protect me and take care of me? Well, I will until you're old enough to take care of yourself.
+SUPMALE:Which will be in about one minute.
+LEADMALE:Uh, now, Mommy has to go downstairs if you're all right.
+SUPMALE:I'm all right.
+OTHERMALE:I'm a big boy.
+SUPFEMALE:Okay, now, you be good.
+LEADFEMALE:Yeah.
+OTHERFEMALE:I gotta go potty.
+SUPFEMALE:Number three.
+LEADFEMALE:The plumber's okay now.
+LEADFEMALE:I mean, I cheered up his kid.
+SUPMALE:Say, you're a real plumber's helper.
+LEADMALE:MORK ( as baby ): Oh, humor.
+LEADMALE:Aah, aah.
+LEADMALE:He has a well-developed sense of humor.
+OTHERMALE:Well, he's kinda old for his age.
+OTHERFEMALE:Let's go.
+LEADFEMALE:Mommy! ( baby talk ) Oh, toys.
+LEADFEMALE:Mommy! ( car engine starts ) ( crying ) ( cries ): Good-bye, Mommy.
+SUPFEMALE:Good-bye, Mommy.
+LEADFEMALE:( computer beeping ) ( normal voice ): Good-bye, Mindy.
+LEADMALE:( door opens ) Well, good night, Mindy.
+LEADFEMALE:Well, good-bye, Dan.
+LEADMALE:( TV playing ) ( TV music stops ) ( mumbles ) Oh, good-bye.
+LEADFEMALE:You must've fallen asleep while watching TV.
+SUPFEMALE:If I was asleep, then the TV was watching me.
+OTHERFEMALE:How was your movie? We didn't go to the movies.
+LEADFEMALE:We just, uh, talked.
+LEADFEMALE:Actually, Dan talked, I listened.
+LEADFEMALE:I told him I'm not gonna marry him, Mork.
+OTHERFEMALE:Bummer.
+OTHERFEMALE:I guess you'll have to rent babies then.
+LEADFEMALE:No, that was just the point.
+OTHERMALE:All night long Dan just kept talking about babies and then I realized that he never talked about us.
+LEADFEMALE:He wasn't into having a wife as much as he wanted a family.
+LEADMALE:And I want to be a couple before I'm a group.
+SUPMALE:I'm sorry you lost your husband.
+SUPMALE:Did my becoming a child affect your decision? Well, I have to admit it opened my eyes.
+LEADFEMALE:It's hard to be a mother.
+LEADFEMALE:Yeah, it's pretty tough being a kid, too.
+LEADFEMALE:But you made it easy.
+LEADMALE:You know something? You're gonna make a terrific mother.
+LEADMALE:Oh, Mork.
+SUPMALE:A toast.
+LEADFEMALE:To motherhood? Maybe.
+SUPFEMALE:To chickens with lips.
+LEADFEMALE:Mork calling Orson Come in, Orson.
+OTHERMALE:Mork calling Orson Mork calling Orson.
+SUPFEMALE:Come in, Orson.
+OTHERMALE:What did you learn about Earth this time, Mork? For one thing, on Earth, babies aren't grown in test tubes.
+SUPFEMALE:They're grown in something wonderful called a mother.
+OTHERFEMALE:That's the old- fashioned way, Mork.
+SUPFEMALE:did it up here, too, as part of a nostalgia craze.
+OTHERMALE:Sometimes I think the old way is the best way, Orson.
+LEADMALE:Nap, nap.
+SUPMALE:Our method is much more efficient.
+LEADMALE:Orson, when you were a baby, don't you remember being held and cuddled, taken for walks? Nannivac 26 did that.
+LEADFEMALE:But on Earth, a mother does it.
+SUPFEMALE:And she does all sorts of other nice things for her children for her entire life.
+OTHERFEMALE:Aw, it's a warm and wonderful thing.
+SUPFEMALE:How much does she get paid? Nothing.
+SUPMALE:Is it because her work is considered of no real value? Oh, no, it's because it's considered priceless.
+LEADMALE:Good night, Mork.
+SUPFEMALE:Orson, one more thing.
+SUPMALE:Can you tell me a bedtime story? I don't know any.
+LEADMALE:Too bad.
+SUPMALE:Good night, Your Immense-ness.
+OTHERFEMALE:See you next week.
+LEADFEMALE:Nanu-nanu.
+SUPMALE:

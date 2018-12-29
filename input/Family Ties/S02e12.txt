@@ -1,0 +1,323 @@
+SUPMALE:don't be silly, Barbara.
+SUPFEMALE:I told you yesterday he'll be no trouble at all.
+LEADMALE:Ok, I'll see you Saturday.
+LEADFEMALE:Bye-bye.
+SUPMALE:Who was that? That's my cousin Barbara.
+OTHERMALE:She and dick are going out of town on Saturday.
+LEADMALE:They wanted to know if we could baby-sit for little Kenneth.
+LEADFEMALE:Why, are all the reform schools closed for the weekend? Steven, he's a perfectly well-behaved little boy.
+LEADMALE:Elyse, we're talking about a kid who needed a police escort to nursery school.
+SUPMALE:Come on, Steven, it will be fun.
+SUPFEMALE:Alex and Mallory will be out of town.
+SUPFEMALE:We'll have plenty of room.
+LEADFEMALE:Elyse, I have some very important work to get done on Saturday, plus I'm planning on watching the big Ohio state-Iowa game.
+LEADFEMALE:Steven, don't worry.
+LEADFEMALE:Jennifer and I will keep him out of your way.
+OTHERFEMALE:I promise.
+LEADMALE:I just wish you'd consult me on these things first.
+SUPMALE:I will from now on.
+SUPMALE:I promise.
+SUPMALE:It's not fair to impose on me.
+LEADMALE:I mean, it is the weekend.
+LEADMALE:You're absolutely right.
+LEADMALE:I'm wrong.
+LEADMALE:I'm sorry, ok? Ok.
+LEADFEMALE:I hope I wasn't too rough on you.
+OTHERMALE:I hope Kenneth finds something in here he likes.
+LEADFEMALE:This is all I could find out of Alex's old toys.
+LEADFEMALE:He used to have a whole closet full.
+SUPFEMALE:I think he sold the rest to an orphanage.
+SUPMALE:Mom, will you talk to Alex, please? He says I can't go to Princeton with him this weekend.
+SUPMALE:No, no, no.
+LEADFEMALE:I did not say that.
+LEADFEMALE:All I said was that if she insists on tagging along to visit Jeff, she's going to have to abide by my rules.
+LEADFEMALE:What rules? He told me I had to ride in the freight car.
+LEADFEMALE:It is not a freight car.
+SUPFEMALE:It's a baggage car.
+LEADFEMALE:Alex! Look, I went to a lot of trouble to set up this interview with the Dean of admissions.
+SUPMALE:This interview is pivotal to my future as a collegian.
+LEADFEMALE:It is not a vacation junket for your personal amusement.
+LEADMALE:Alex, we understand how important this interview is to you, but I think you ought to ease up on your restrictions a little bit.
+LEADFEMALE:Alex, I promise I will not annoy you for the entire weekend.
+LEADMALE:How can I be so sure of that? You've never gone that long without annoying me before.
+SUPMALE:I've never tried before.
+LEADMALE:Look, Alex, I won't bother you.
+SUPMALE:You won't even know I'm there.
+OTHERMALE:Ok.
+LEADMALE:What should we wear on the train? Something collegiate! Yo, Jeff! Wow, 305 This is the place.
+OTHERMALE:Wow! This is great! I love college.
+LEADMALE:"Alex, I'll be back about 2:00.
+LEADMALE:Make yourself comfortable.
+LEADFEMALE:Jeff.
+SUPMALE:" Alex, Jeff is going to be so surprised to see me.
+LEADFEMALE:Are we going to wait here for him? No, are not going to do anything, Mallory.
+SUPMALE:I am going to get settled here, walk around the campus, then go to my interview.
+OTHERMALE:I got to get mentally prepared.
+LEADFEMALE:I don't even want to see you until after the interview is over.
+SUPFEMALE:Is that clear? I saw a poster for a dance tonight.
+SUPMALE:I wonder if Jeff will take me to that.
+LEADFEMALE:Do you think he will? You're really starting to get on my nerves, Mallory.
+OTHERMALE:I brought a nice dress with me just in case.
+LEADMALE:Oh, Alex! This is so exciting! Mallory Listen, Mallory.
+LEADMALE:I would very much like to be alone right now, ok? Why don't you go downstairs? Find what room you're going to be in.
+LEADFEMALE:Get yourself settled.
+SUPFEMALE:I should be gone by the time you get back.
+LEADMALE:Mallory Please, I beg of you.
+LEADMALE:Go away.
+LEADMALE:Ok, I'll go.
+LEADFEMALE:Oh, listen, if Jeff comes back, don't tell him I'm here.
+OTHERMALE:I want to surprise him.
+OTHERFEMALE:How's it going? Uh Fine.
+LEADFEMALE:Where's, uh You know The little prince? Kenneth is outside playing quietly with Jennifer, just where he's been since he first got here.
+SUPFEMALE:Ok, don't rub it in.
+SUPFEMALE:He's behaving very well.
+LEADFEMALE:I'm sorry I overreacted the other day.
+OTHERFEMALE:I guess the memory of Kenneth's last visit was still fresh in my mind.
+SUPFEMALE:Steven, Kenneth's last visit was uneventful.
+LEADMALE:The fire department didn't think so.
+SUPMALE:Relax, get your work done.
+SUPMALE:Pretty soon you'll just forget he's even around.
+LEADMALE:Ah! Gotcha! What happened? Kenneth shot me.
+OTHERFEMALE:What? He was playing, and he snuck up on me, and he zapped me with a toy space gun! Oh, honey.
+LEADFEMALE:Should I take you to the pretend hospital? Mom, can we go now? Go where? Don't you remember? Today's mother's day at my ballet school.
+LEADFEMALE:All the mothers will be there.
+LEADMALE:Don't go! I mean, uh Can't you go some other time? Tomorrow? I forgot all about it, but I promised her, honey.
+LEADFEMALE:I have to go.
+SUPMALE:I'll go get my stuff.
+SUPMALE:Well, if you must go, would you please take Kenneth with you? What would Kenneth do at a ballet class? The same thing he does here Cause misery and human suffering.
+LEADMALE:That's enough, Steven.
+SUPFEMALE:You are overreacting to the whole situation.
+OTHERMALE:Ok, you're right.
+LEADMALE:I'm sorry.
+SUPFEMALE:Let's go, mom.
+LEADFEMALE:Ok, I'll see you in a little while, honey.
+LEADMALE:Let's hope.
+SUPMALE:Bye, dad.
+LEADFEMALE:Bye, honey.
+LEADMALE:Kenneth! Hi, cousin Elyse.
+SUPFEMALE:Kenneth, I have to take Jennifer to ballet class.
+SUPMALE:You play nicely while I'm gone? Don't worry about me.
+SUPFEMALE:I'll be fine here with good old cousin Steven.
+LEADFEMALE:Good-bye.
+SUPMALE:Bye.
+SUPFEMALE:Cousin Steven? Yes, Kenneth? I'm sorry for scaring you with the space gun.
+OTHERMALE:I accept your apology, Kenneth.
+SUPMALE:I know you have a lot of work to do, so I won't bother you anymore, ok? Thank you.
+OTHERFEMALE:I appreciate it.
+LEADFEMALE:I'll go outside and play with some of those toys.
+SUPFEMALE:Maybe when I'm done here, I'll come out, and we can toss the softball around.
+SUPFEMALE:How does that sound? Great! I'll go warm up! See you later! I swear Yum dum dum bum bum bum bum take me out to the crowd buy me some peanuts And cracker Jacks Alex! Hey, Jeff! How you doing, buddy? Good to see you! Great to see you! Try to stay off my roommate's side.
+SUPMALE:Things can get a little dangerous over there.
+LEADMALE:Yeah.
+SUPFEMALE:Uh-huh.
+OTHERFEMALE:So When's your interview? Half an hour.
+OTHERMALE:I'm so excited.
+LEADFEMALE:Who's it with? One of the deans.
+LEADFEMALE:Dean memminger.
+SUPMALE:Memminger? Alex, he's tough.
+LEADFEMALE:What do you mean tough? Well, he's from the old school, likes the old values.
+LEADMALE:He wasn't happy when the school went coed.
+LEADFEMALE:He thinks girls interfere with the manly pursuit of higher education.
+LEADFEMALE:So do I.
+SUPMALE:Listen, Jeff, I was going to take a little walk around the old campus before my interview.
+LEADFEMALE:You want to come? I can't.
+SUPMALE:I've got a friend coming over in a few minutes.
+SUPMALE:Ok.
+LEADFEMALE:Well, I'll see you later.
+LEADFEMALE:Good luck.
+SUPMALE:Thanks.
+LEADFEMALE:Hi.
+SUPMALE:Hi.
+LEADMALE:Did your friend Alex get here? Yeah.
+LEADMALE:He just went off to have his Interview.
+LEADFEMALE:Have you told his sister about me yet? Not yet.
+LEADMALE:I feel funny doing it in a letter.
+LEADMALE:I'm going to wait till the next time I go back home so I can tell her in person.
+SUPFEMALE:Good.
+SUPFEMALE:Jeff? Mallory! What are you doing here? I came up with Alex To surprise you.
+LEADFEMALE:Well, it worked! So I really think I'm top Princeton material.
+SUPMALE:My overall g.
+LEADFEMALE:P.
+LEADFEMALE:A.
+LEADMALE:Is 3.
+LEADMALE:9874, and I scored in the top 3% nationwide on the s.
+SUPFEMALE:A.
+LEADFEMALE:T.
+LEADMALE:S.
+LEADFEMALE:I was also editor of the school newspaper, and I lettered in soccer for the past 3 years.
+LEADMALE:That's very impressive.
+LEADMALE:You certainly seem like Princeton material to me.
+SUPMALE:Well, uh, thank you.
+LEADFEMALE:Well, take care.
+LEADMALE:Mr.
+OTHERFEMALE:Keaton? Yes, sir.
+LEADMALE:That's me.
+LEADFEMALE:Keaton, Alex p.
+LEADMALE:Dean memminger, no middle initial.
+LEADMALE:Well, that's not your fault, sir.
+OTHERFEMALE:I mean, hello! It's a pleasure to meet you, sir.
+LEADFEMALE:I'm not quite ready for you yet.
+LEADFEMALE:Be right back.
+LEADFEMALE:Allow me, sir.
+LEADFEMALE:Please wait inside my office.
+SUPMALE:I'll join you in a few minutes.
+LEADFEMALE:Yes, sir.
+LEADMALE:I'll just wait inside your office then, sir.
+LEADMALE:You'll be back in a few minutes.
+LEADMALE:So far, so good.
+SUPMALE:Whoa.
+LEADFEMALE:Yes, Dean memminger.
+LEADMALE:I certainly do want to attend Princeton.
+LEADMALE:I have always had a certain Oh, shall we say lust No, not lust.
+OTHERMALE:An admiration for the Ivy league.
+LEADFEMALE:Alex! Mallory, what are you doing here? Um, um, I saw Jeff What about Jeff? I saw Jeff and, and, and the desk, uh, kissing.
+LEADFEMALE:Jeff was kissing the desk? No, he was leaning against the desk.
+LEADFEMALE:He was, um He was kissing, um A girl.
+SUPMALE:Oh, boy.
+OTHERMALE:I want to go home.
+SUPFEMALE:Let's go home, ok, Alex? Mallory, are you crazy? I got my interview now! Mallory, I've got to talk to you! Go away, Jeff! I don't want to see you! Let me explain! Mallory, let him explain.
+LEADMALE:Jeff, why don't you take her out for dinner.
+OTHERFEMALE:Here's a couple of bucks.
+LEADMALE:Mallory, I had every intention of telling you about Sandy.
+LEADFEMALE:Sandy! Did you hear that, Alex? Her name's Sandy! Here's some more money.
+LEADFEMALE:Take Sandy with you.
+LEADMALE:I'm sorry you had to find out like this, but don't forget we did agree to see other people.
+LEADMALE:Say, that's right.
+LEADFEMALE:Well, I guess this is settled, huh? Just go away, ok, Jeff, 'cause I don't want to talk about it anymore.
+LEADFEMALE:Mallory! Jeff.
+SUPFEMALE:Alex! Ahem! Has there been a coup? Well, hello, Dean memminger.
+LEADFEMALE:I was just wishing Alex good luck.
+LEADFEMALE:I think you'll really like him.
+LEADMALE:He's a swell kid.
+SUPMALE:Well, that's good enough for me.
+LEADFEMALE:Congratulations.
+SUPMALE:Welcome to Princeton.
+LEADFEMALE:We'll talk later, Mallory.
+LEADMALE:Well, so long.
+LEADFEMALE:And who is this? Hi.
+LEADMALE:She was just leaving.
+SUPMALE:I want to go home right now, ok, Alex? Mallory, please be reasonable, ok? Just wait outside.
+LEADFEMALE:I'll be done here in a few minutes.
+LEADFEMALE:Ok.
+LEADMALE:I'll wait out here.
+LEADFEMALE:Good.
+OTHERFEMALE:And try to keep your mind off Jeff.
+SUPMALE:Ok.
+LEADFEMALE:I'm ready.
+LEADMALE:Are you sure? Yes, sir.
+SUPFEMALE:This interview has not got off to a good start, Mr.
+SUPFEMALE:Keaton.
+OTHERMALE:If there is any further interruptions, I may have to hold it against you.
+OTHERFEMALE:Yes, sir.
+OTHERMALE:I'd do the same thing if I were in your shoes.
+LEADFEMALE:By the way, did I tell you how much I liked your shoes? Sit down, Mr.
+LEADMALE:Keaton, please.
+LEADMALE:Yes, sir.
+LEADFEMALE:I must say, I'm very impressed with your application.
+LEADMALE:Very impressed, indeed.
+LEADMALE:I can always spot sincerity and commitment in an application.
+LEADMALE:Well, thank you, sir.
+SUPMALE:I tried to throw a lot of both in there.
+OTHERFEMALE:Dean memminger, as you could probably tell, I regard Princeton as perhaps the finest Educational in Ever since I was a young lad of about, oh, I don't know, six or eight months of age Excuse me.
+LEADMALE:Hello.
+OTHERFEMALE:It's for you.
+SUPMALE:Thank you.
+LEADMALE:Hello.
+LEADFEMALE:Mallory, would you please Look! I know you want to go home right now, but I can't! Now, Mallory, don't leave without me.
+LEADFEMALE:No, don't leave the building.
+LEADMALE:I repeat, do not leave the building! Do you think she'll call again? No.
+SUPMALE:No, that's it.
+LEADFEMALE:Fine.
+SUPMALE:Then we can get on with this interview.
+LEADFEMALE:Please.
+LEADFEMALE:Alright, Mr.
+SUPFEMALE:Keaton, could you tell me what unique qualities you possess which might enrich the Princeton community.
+LEADMALE:Well, sir, I'm glad you asked that.
+SUPFEMALE:How much time have you got? Ha! Well, sir, at the risk of sounding immodest, you see before you a young man without a flaw.
+SUPFEMALE:Unless, of course, you find me immodest, in which case, I have one flaw.
+LEADMALE:I see that you're very involved in extracurricular activities.
+OTHERFEMALE:Oh, yes, sir.
+LEADFEMALE:You see correctly.
+LEADMALE:As a matter of fact, if I may speak extracurricularly for a moment If you can, please do.
+LEADFEMALE:Well, sir, I, uh She's leaving.
+SUPFEMALE:Huh? Just a second.
+OTHERMALE:Mallory, come back here will you?! What is going on here? Dean memminger, is there any possibility of rescheduling this interview? Maybe later today or tomorrow? There'll be no rescheduling of this interview.
+OTHERMALE:I'm sorry to hear that, sir, because I really have to go.
+SUPMALE:What? Look.
+LEADFEMALE:That's my sister out there.
+LEADMALE:She came up to Princeton with me to surprise her boyfriend, and she saw him with another girl.
+LEADFEMALE:She's very upset, and I should probably go talk to her because I am her brother.
+SUPFEMALE:So, I got to go.
+SUPFEMALE:Sir, I hope my record can stand on its own because I really do want to attend Princeton.
+SUPMALE:I love this place.
+LEADFEMALE:I love everything about it.
+SUPFEMALE:I have Ivy growing on my bedroom walls.
+SUPFEMALE:Go tigers! Beat Yale! I mean that.
+LEADFEMALE:The buckeyes call time-out.
+SUPFEMALE:It's a long shot, folks, but they're still in this one.
+SUPMALE:I'm bored, cousin Steven.
+LEADMALE:When's Jennifer getting back? Very soon.
+SUPMALE:Isn't there something you can do until she gets back? Like what? What have you been doing up till now? Burning ants with a magnifying glass.
+LEADMALE:So keep doing that! Can I go through your drawers and closets again? No, I'd really rather you What do you mean, again? Teams retake the field for what well could be the final play of the game.
+LEADFEMALE:The buckeyes are down 16 to 12.
+LEADMALE:Oh, can I watch dippy dog? Kenneth, no.
+SUPMALE:Kenneth Please.
+LEADMALE:This is the last play of the game.
+SUPFEMALE:I bet I could get picture to come in better.
+LEADFEMALE:Kenneth, it's fine! Fine, really.
+LEADMALE:The buckeyes line up in the power I formation.
+LEADMALE:Stopwood calls the signals.
+LEADMALE:Kenneth! Stopwood fades to pass.
+SUPFEMALE:He's in trouble.
+LEADFEMALE:He laterals to sobrenko.
+LEADMALE:I'm gonna be over here! Sobrenko's at the 40! He breaks a tackle! At the 30! The 20! He's got one more man to beat! Go, go, go! Not you, Kenneth! Oops.
+LEADFEMALE:Hey, I got you something to eat.
+OTHERFEMALE:Oh, thanks, I'm not hungry.
+LEADFEMALE:How are you feeling? I want to die.
+OTHERFEMALE:I guess you're not up for a game of gin rummy then, huh? What a weekend.
+OTHERFEMALE:I ruined your interview, I lost my boyfriend, I made a complete fool of myself in the process.
+LEADFEMALE:Never before have I acted so stupidly and so selfishly.
+LEADFEMALE:Come on, Mallory.
+LEADMALE:Sure you have.
+LEADMALE:I'm kidding.
+SUPMALE:I'm just kidding.
+LEADMALE:Come on, cheer up, will you? So, uh How did you and Jeff leave things? Well, there wasn't a whole lot we could say to each other.
+LEADMALE:I mean, we did agree to see other people.
+LEADMALE:It was stupid of me to go up there this weekend.
+SUPMALE:Why didn't you try to stop me? What? Kidding.
+LEADFEMALE:I'm just kidding.
+LEADMALE:It's good that you can laugh about it.
+SUPMALE:Despair does funny things to a woman.
+OTHERMALE:Listen, uh Mallory You lost a boyfriend today, a good one, and I know you're upset, but let me tell you something.
+LEADMALE:You're a very special person.
+SUPFEMALE:You got a good heart, you got a good sense of humor, you're attractive, and, uh You're a lot smarter than I usually give you credit for.
+LEADMALE:So, uh Don't you worry, Mallory.
+OTHERMALE:There are a lot of guys out there who'd consider themselves lucky to even meet someone like you.
+LEADMALE:It's true, Mallory.
+LEADFEMALE:I don't know what in the world just possessed me to say all that, but, uh It is true.
+SUPFEMALE:Alex, I don't understand it.
+LEADMALE:I mean, I'm surprised you're not angry with me after what I did to you today.
+LEADMALE:Mallory, what would be the point in getting angry at you now? You were broken-hearted.
+SUPFEMALE:You were in a weakened state.
+OTHERFEMALE:I'll wait till you feel better.
+SUPMALE:Then I'll really let you have it.
+LEADMALE:No, I'm serious, Alex.
+OTHERMALE:I ruined your college interview.
+OTHERMALE:I mean, I practically destroyed your chances of getting into Princeton.
+SUPFEMALE:What I did today may have damaged the course of your entire life.
+LEADMALE:Because of me! Mallory, listen, I'm not angry now.
+SUPFEMALE:But if you keep this up, I'm going to throw you off the train.
+LEADFEMALE:But it's true.
+LEADFEMALE:I don't understand it myself.
+LEADMALE:All I know is when I was up there in Dean memminger's office, and I saw you wandering across the campus delirious with grief, it really got to me.
+OTHERMALE:All of a sudden, getting into Princeton didn't seem as important as helping you out.
+SUPFEMALE:I think you're changing, Alex.
+LEADFEMALE:You may be right, Mallory.
+LEADMALE:I really learned a lot about myself today.
+LEADFEMALE:What? I always thought that I knew myself, you know, what I wanted, how I wanted to get it, but apparently, I was wrong.
+LEADMALE:I am just going to have to face the cold, hard truth that underneath it all, like it or not, I'm just a helluva nice guy.
+SUPMALE:Shut up and deal the cards.
+LEADMALE:All right.
+LEADFEMALE:How about a game of hearts? Alex.
+SUPFEMALE:Old maid? 
+LEADFEMALE:

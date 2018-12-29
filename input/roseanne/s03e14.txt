@@ -1,0 +1,322 @@
+LEADMALE: I ordered chicken, not salmon.
+LEADFEMALE:Who eats salmon at a wedding anyway? I'll tell you who-not us, that's who.
+OTHERMALE:Now I got 60 people coming.
+SUPFEMALE:65.
+SUPMALE:My cousin Trudy and her family can come after all.
+LEADMALE:Ok, so it's chicken for 65 people.
+LEADFEMALE:It's no big deal.
+LEADFEMALE:You just add another bucket.
+LEADFEMALE:Roseanne, thank you for handling these wedding preparations.
+LEADFEMALE:I told you a thousand times, Crystal, I'm happy to do it.
+LEADMALE:Where were we? What is going on? Grandpa wanted to race us from the car.
+SUPFEMALE:He bet us each a buck he could win.
+LEADMALE:Are we just going to let him lie there? Oh, my god! Ed! Are you ok? It's nothing a plastic hip won't fix.
+SUPFEMALE:You should save some of that energy for your honeymoon.
+LEADFEMALE:That's some good advice.
+LEADFEMALE:Geez Check out the cool stuff grandpa got us.
+LEADFEMALE:I got a bracelet.
+LEADMALE:And look at this.
+SUPMALE:That's a chemistry set.
+LEADMALE:Every boy should have one.
+LEADMALE:You shouldn't have done that.
+LEADMALE:We could just turn on the gas and blow ourselves up.
+SUPMALE:It's perfectly harmless.
+LEADFEMALE:We'll see.
+LEADFEMALE:Lonnie, why don't you show them what I got you.
+SUPFEMALE:A Walkman.
+SUPMALE:That's wonderful.
+LEADFEMALE:You've been wanting one for the longest time.
+SUPFEMALE:And now I have one.
+LEADMALE:He wouldn't take one of those little TV's.
+LEADFEMALE:Yeah, Lonnie.
+LEADMALE:You got to get into this.
+SUPMALE:You got a guy here trying to buy your affections.
+SUPMALE:Let him.
+LEADFEMALE:Aren't they just the sweetest little things? I admit I'm kind of a softie when it comes to grand-kids, but Lonnie's going to be my son.
+LEADFEMALE:And you got to be tough with your boys.
+LEADFEMALE:Right, Lonnie-roo? So, did you pick up your bridesmaids' gowns? Yeah.
+SUPMALE:We got them yesterday.
+LEADMALE:We're really honored you asked us, but we'd understand if you'd rather honor your adult friends.
+SUPFEMALE:Don't be silly.
+SUPFEMALE:Why would you think such a thing? Because those gowns are so dorky, they make us want to retch.
+LEADMALE:They're very nice.
+LEADFEMALE:They're just not us.
+SUPFEMALE:Yeah.
+LEADFEMALE:They're more for people who get an allowance.
+LEADFEMALE:Hey, Beck, let's go try those on.
+LEADMALE:Women, huh? Hey.
+LEADFEMALE:Oh-ho.
+LEADFEMALE:I'll bet you got a lot of questions about women.
+LEADFEMALE:I guess.
+OTHERMALE:Could we go now, mom? Roseanne and I aren't done with the seating plan.
+LEADFEMALE:That's fine, Crystal.
+OTHERMALE:I can finish it.
+LEADFEMALE:You don't know half the people.
+SUPFEMALE:That'll make it go faster.
+SUPMALE:Please.
+LEADFEMALE:Take the boy home, Crissy.
+LEADMALE:You can do that later.
+LEADFEMALE:Well, if you both think so.
+OTHERFEMALE:You see, Lonnie.
+LEADFEMALE:I'm in there pitching for you.
+SUPMALE:Right.
+LEADFEMALE:Thanks.
+SUPMALE:Bye.
+LEADMALE:I'll see you both later.
+LEADMALE:Lonnie and I are going to have a wonderful relationship when we get over this hurdle.
+LEADFEMALE:The one where he thinks you're the beast from hell? That's the one.
+LEADMALE:He'll come around.
+LEADMALE:He and Crissy have been alone for a long time.
+SUPFEMALE:Now there's this new guy.
+LEADFEMALE:I've got to try harder.
+OTHERFEMALE:I don't think that's possible.
+OTHERMALE:You want some coffee? No thanks.
+SUPMALE:I've got to pick up my tux.
+OTHERFEMALE:Hey, Danny boy.
+LEADFEMALE:Hey.
+LEADFEMALE:Don't worry.
+LEADMALE:He's not talking to me either.
+LEADFEMALE:Why does he hate me so much? I wasn't such a bad father.
+LEADFEMALE:I kept his belly full-way full.
+OTHERMALE:Between him and Lonnie, I got two boys who won't give me the time of day.
+SUPFEMALE:Maybe you'd do better with daughters.
+LEADMALE:I got a couple you can have for a nice price.
+LEADMALE:How much you asking? Oh, cool! I thought I had to pay you.
+SUPMALE:Your car's out in the front.
+LEADMALE:I'll just walk around.
+LEADFEMALE:It's cold out there.
+OTHERMALE:Even colder in there.
+SUPFEMALE:Good morning, starshine.
+LEADFEMALE:Don't you think you should, like, lighten up, Dan? You betrayed me, Roseanne.
+SUPMALE:Don't you think that's a tad harsh? I mean, I'm ordering cocktail weenies for 60.
+LEADFEMALE:I'm not turning you over to the Nazis.
+LEADMALE:You know I'm opposed to this wedding.
+SUPFEMALE:Yes.
+SUPMALE:You've made that quite clear.
+LEADMALE:You're ordering all this stuff like what I say means nothing.
+OTHERFEMALE:The wedding's going to go no matter who plans it.
+LEADFEMALE:And Crystal's my best friend.
+SUPMALE:I'm your husband.
+SUPFEMALE:I outrank her.
+LEADFEMALE:You're supposed to back me up.
+OTHERFEMALE:Remember-richer, poorer, sickness, health, death, part? I never took any vow to back you up when you're acting stupid.
+LEADMALE:This wedding is a joke, and you know it.
+LEADFEMALE:No.
+LEADFEMALE:I do not know that.
+SUPFEMALE:Crystal's happy, and your dad's happy.
+OTHERMALE:That's what wedding's are about.
+LEADFEMALE:Fine.
+OTHERFEMALE:Have a good time.
+LEADMALE:You've got to go.
+LEADFEMALE:You're the best man.
+SUPMALE:Your whole family's going to be there.
+LEADFEMALE:Your aunt Mildred's going to dance with the band, and uncle Pete's going to pull a quarter out of his nose like he always does.
+SUPMALE:You're not leaving me alone with those people.
+LEADMALE:Forget it.
+LEADMALE:You're on your own.
+LEADMALE:There's going to be cake.
+LEADFEMALE:Ok, that's from me.
+LEADFEMALE:You slut.
+LEADMALE:I could never wear this.
+OTHERFEMALE:What would Ed think? There won't be enough blood left in his brain to think anything.
+LEADFEMALE:He's a pig.
+LEADFEMALE:All men are pigs.
+LEADMALE:Jackie, you're just saying that because you don't have a date for the wedding, and everyone else does.
+LEADMALE:What's your point, Crystal? Simply that you don't have to be so bitter.
+SUPMALE:I'm not bitter.
+LEADFEMALE:Oh, no.
+LEADFEMALE:Of course not.
+SUPFEMALE:If you excuse me, I have to use the ladies' room.
+SUPMALE:That's like the eighth time, Crystal.
+SUPFEMALE:We ought to move this shindig into the John.
+LEADFEMALE:Oh, Roseanne.
+LEADFEMALE:I am not bitter.
+LEADFEMALE:Give it a rest, Jackie.
+LEADMALE:I'm looking forward to spending time with Becky and Darlene.
+LEADFEMALE:Becky and Darlene have dates.
+SUPFEMALE:Darlene? Darlene has a date? Now, I'm bitter.
+OTHERMALE:Anne Marie! You made it! Of course.
+SUPMALE:Your parties were legends when we were kids.
+LEADFEMALE:I got more boring friends now.
+LEADFEMALE:Don't keep your hopes up.
+LEADFEMALE:Anne Marie! Hey, Crystal! Congratulations! I'm so glad Roseanne ran in to you.
+LEADMALE:How long's it been? Since high school.
+LEADMALE:What you been up to? Well, after graduation, there was this party at Sarah Foster's house where I met Rusty, who became my first husband.
+LEADFEMALE:But not until July of that year.
+LEADFEMALE:By August the spark had flickered.
+LEADFEMALE:So we split up, and I married Travis.
+LEADMALE:He was a whole other can of worms.
+LEADMALE:He was an arc welder.
+OTHERFEMALE:And when we divorced, he cut the trailer in half.
+OTHERFEMALE:But you know, we remain friends Do something.
+SUPMALE:Oh, I know what let's do.
+LEADFEMALE:Let's play "who knows Crystal best.
+LEADFEMALE:" Ok, I'll say the first question.
+SUPFEMALE:UmWhat was Crystal's nickname in high school.
+SUPFEMALE:Oh, too easy.
+LEADFEMALE:Right.
+LEADFEMALE:That was it.
+SUPFEMALE:That's not true.
+LEADMALE:I got one.
+SUPFEMALE:I know! What was playing on Gilbert Coswell's car radio the night Crystal did it for the first time? Jackie! Jackie! That was told to you in the strictest of confidence! Hey! You got a man in your life, and I don't, so throw me a bone! Ok.
+OTHERFEMALE:Any guesses? You don't mean that Rusty wasn't her first? Yes, he was.
+LEADFEMALE:Yes, he was! This game isn't fun anymore.
+LEADFEMALE:Ok, was it Stairway to Heaven? No.
+OTHERMALE:Crystal blue persuasion? How about my sweet lord? Well, that wasn't coming from the car radio.
+LEADFEMALE:I know what it was! Roseanne, don't you dare! Oh, Crystal.
+SUPFEMALE:My baby does the hanky panky my baby does the hanky panky my baby does the hanky panky Ok.
+SUPFEMALE:Ok! Thank you for sharing my secrets with the whole wide world, Roseanne and Jackie blabbermouth.
+SUPFEMALE:Uh-oh.
+SUPFEMALE:Well, I'll be back.
+OTHERMALE:We're just killing time till the stripper gets here, right? Oh, Crystal.
+LEADFEMALE:We were just kidding around.
+SUPFEMALE:We're sorry.
+LEADMALE:Yeah.
+OTHERFEMALE:We're sorry, ok? Ok.
+LEADFEMALE:Let's go back in there.
+LEADFEMALE:Just a moment.
+LEADFEMALE:What's the matter, Crystal? I'm not in the mood for a party now.
+LEADFEMALE:Something wrong? I'd rather not say.
+SUPMALE:Oh, come on, Crystal.
+LEADMALE:You can trust us.
+SUPFEMALE:With the big stuff.
+OTHERMALE:I suppose I have to tell someone.
+SUPMALE:Roseanne, Jackie I'm pregnant.
+LEADFEMALE:Are you sure you're not just late? I don't think so.
+SUPMALE:I got the signs.
+SUPFEMALE:I've been nauseous and eating like crazy.
+LEADFEMALE:And my doctor said I'm pregnant.
+LEADFEMALE:Well, so, uh, are we happy or sad? Well, happy.
+LEADMALE:I think it's great! We're happy for you, Crystal.
+LEADMALE:Geez, oh, wow.
+LEADFEMALE:Does Ed know? Of course.
+SUPFEMALE:Do you want a boy or a girl? I've dreamed of having a girl.
+LEADFEMALE:What if it's a boy? Simple operation.
+LEADMALE:Oh, Roseanne.
+SUPMALE:I can't find my bowling ball.
+LEADFEMALE:Do you know where it is? Yes, it's in the bedroom closet, where it always is.
+LEADFEMALE:Aw, Roseanne, I'm so sorry.
+LEADMALE:You two are hardly talking, and it's my fault.
+LEADMALE:That's pretty much how I see it, too.
+LEADFEMALE:Maybe if I tell him about the baby, he won't be so upset about the wedding.
+LEADFEMALE:I don't think so.
+LEADMALE:Well, well, maybe it'll help.
+LEADMALE:No, don't do that.
+LEADFEMALE:Dan, listen.
+OTHERMALE:Your father and I, we've been-we were going to tell-uh She's pregnant.
+LEADMALE:I told you not to tell him.
+OTHERMALE:Door's open.
+OTHERMALE:Danny boy.
+OTHERMALE:Come on in.
+LEADMALE:Just throwing myself a little bachelor party here.
+LEADMALE:Usually the best man makes the party, but you do with what you got.
+SUPMALE:What are you doing? What's it look like? I'm nursing this beer, and I'm watching a dirty movie through all those little squiggly lines.
+LEADMALE:Why don't you just pay the 4 bucks? They'll unscramble it.
+OTHERMALE:Then they'll know I'm in here watching a dirty movie.
+LEADFEMALE:Grab a beer.
+SUPFEMALE:You'll need it.
+LEADFEMALE:In two minutes, you'll have a hell of a headache.
+LEADFEMALE:So, to what do I owe this great honor? Dad, I know Crystal's pregnant.
+LEADFEMALE:Oh.
+LEADFEMALE:Heh heh.
+LEADMALE:She wasn't supposed to tell anybody till after the wedding.
+SUPFEMALE:Are you doing this because you have to get married? No, no.
+LEADFEMALE:Oh, that's gross.
+OTHERMALE:Danny, you're right.
+LEADFEMALE:I have to get married.
+OTHERMALE:Because Crystal's the best thing that's happened to me in a long time.
+OTHERMALE:And what about the baby? He's fine with this.
+LEADMALE:You're making a mistake, dad.
+LEADFEMALE:What am I supposed to do, cancel this wedding? Let Crystal raise a kid alone? No.
+LEADMALE:What are you saying? Maybe you should wait.
+SUPFEMALE:Wait for what? You got no business raising a kid.
+OTHERMALE:Why? You know damn well why.
+OTHERMALE:I don't want to watch it again.
+LEADMALE:You're gonna be on the road.
+LEADMALE:He'll grow up just like I did.
+SUPMALE:Without a father.
+LEADMALE:Crystal will suffer like Mom did.
+LEADFEMALE:It's not about Crystal and our baby.
+SUPMALE:It's about you and me.
+LEADMALE:How I screwed up your life.
+LEADFEMALE:Look at you.
+LEADFEMALE:You got a nice family, you own a business.
+LEADFEMALE:How can you forgive me? Name one thing you did for me that took time instead of money.
+LEADMALE:Fine, I am a rotten father! I am a rotten father! Ok? Dan, I'm tired of this! Ok, I made mistakes, with you and with your mother, but I got a second chance.
+LEADFEMALE:I thought that you would want to help.
+SUPFEMALE:But you don't.
+SUPFEMALE:Crystal and I will do it by ourselves.
+OTHERMALE:And I'm not going to apologize to you anymore, because you'll never let me off the hook.
+SUPMALE:Now, if you don't mind You're bringing my party down.
+LEADFEMALE:Ready.
+LEADFEMALE:Oh, I know.
+SUPFEMALE:Jackie, get on that table.
+OTHERMALE:I'll get up here.
+LEADMALE:Crystal, just walk under here and stick your arms through.
+SUPMALE:Roseanne, I just want you to know how grateful I am for all your help.
+OTHERMALE:Jackie, I appreciate your help, too, but not as much.
+SUPFEMALE:You're welcome, Crystal.
+LEADMALE:Oh, I'm sorry, Jackie.
+OTHERMALE:It's just I'm so nervous.
+SUPMALE:So, Roseanne, did you speak to Dan this morning? No.
+LEADMALE:I was sleeping when he left.
+LEADMALE:Just won't be the same without him.
+LEADFEMALE:Crystal, you look beautiful.
+SUPMALE:You look absolutely radiant.
+LEADFEMALE:Uh-oh.
+LEADMALE:What? I have to use the potty.
+SUPFEMALE:Can't believe we have to wear this crud.
+LEADMALE:It's only a few hours.
+LEADFEMALE:You'll live.
+LEADMALE:But we can't duck the photographer the whole time.
+LEADMALE:There's a photographer? Come on, d.j. This is not a race.
+OTHERFEMALE:Nice tux.
+LEADFEMALE:Ready? Nice tux.
+LEADMALE:Yeah, I've been getting a lot of compliments on it lately.
+LEADMALE:I feel so bloated.
+LEADMALE:Who could have foreseen, decades ago, when a younger Ed met a 12-year-old Crystal, that years later, they would be standing here, ready to enter into holy matrimony.
+LEADMALE:You didn't foresee that, right? Good.
+OTHERMALE:Then let's proceed.
+LEADMALE:What is marriage? You probably think you're better than me 'cause you're married.
+OTHERMALE:Well, you're not.
+LEADMALE:I could be married if I wanted to be.
+OTHERMALE:There's far more to life than being married.
+LEADFEMALE:Marriage is one more way for men to enslave women.
+LEADFEMALE:So get out of the cave, Crystal.
+LEADMALE:This is the 20th--what? Oh, ok.
+SUPMALE:You're going to throw the bouquet now! Come on.
+LEADFEMALE:Wait up.
+LEADMALE:Wait.
+SUPFEMALE:Oh.
+LEADMALE:Oh.
+SUPFEMALE:Congratulations, daddy and mommy.
+LEADMALE:I hope you're as happy together as Rosey and me.
+SUPMALE:Now say something nice.
+OTHERFEMALE:I'm real happy about my little brother.
+SUPMALE:He can use any of my toys, except for my Lincoln logs and Jerry Mahoney dummy.
+SUPFEMALE:But really, um I'll be there for you, dad.
+LEADFEMALE:I'll always be there for you.
+LEADFEMALE:Cake! 2, 3.
+LEADMALE:Congratulations, Crystal and grandpa.
+LEADFEMALE:And Crystal.
+OTHERFEMALE:We love you guys.
+SUPFEMALE:Well, first I'd like to say congratulations, uh, you guys.
+LEADMALE:And, uh, Crystal, you're part of our family now.
+LEADMALE:You're like my mother-in-law, so you got to call before you come over so I can clean up.
+LEADMALE:Don't come over that often.
+SUPMALE:But seriously, though, I'm really happy for you guys, and, you know, I'm happy for you.
+LEADFEMALE:Congratulations.
+LEADMALE:Ok, cut.
+OTHERFEMALE:That's good, that's good.
+SUPMALE:I don't have anything else to say.
+SUPFEMALE:Congratulations.
+SUPFEMALE:Ok, there, I said it.
+LEADMALE:Anyways, congratulations, Crystal and Fred.
+SUPFEMALE:What? No, his name's Fred.
+LEADMALE:It's Fred.
+LEADFEMALE:Are you sure? Anyways, congratulations, Crystal and Ed.
+OTHERFEMALE:Embarrassing.
+SUPFEMALE:Crystal, this is dedicated to you.
+LEADMALE:Here it comes.
+LEADMALE:My baby does the hanky-panky my baby does the hanky-panky my baby does the hanky-panky Are we going to let her lie there?
+SUPFEMALE:

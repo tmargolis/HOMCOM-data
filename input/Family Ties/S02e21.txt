@@ -1,0 +1,386 @@
+LEADFEMALE: well, Jen, you're all set.
+OTHERMALE:You've got your stuffed animals, your clock radio, and your baseball cards.
+OTHERMALE:Is there anything else we can get you before we go? Yeah.
+OTHERFEMALE:Get me out of here! I don't want to have my tonsils out.
+OTHERFEMALE:Honey, we've been through this.
+SUPFEMALE:Having your tonsils out is a very simple procedure.
+SUPMALE:There's nothing to worry about.
+OTHERFEMALE:Have you had yours out, mom? Wha no.
+LEADFEMALE:Dad? Uh, let's see Uh.
+LEADFEMALE:No, I-I've still got mine.
+LEADFEMALE:Mallory? I wanted to.
+LEADMALE:Nice chatting with you Uh, no, you don't.
+OTHERMALE:No, come on.
+SUPMALE:Come on, sweetheart.
+LEADFEMALE:I apologize if he isn't, but is this person related to you? Why does everybody always ask us that? This is our son, Alex.
+SUPFEMALE:See? Will you let go of me now, please? With pleasure.
+LEADMALE:Alex, why are you in a white coat? He's been making rounds.
+LEADMALE:I was making an informal survey of the quality of care in this institution.
+LEADMALE:My sister is gonna be up there on that table tomorrow, and I want to make sure everything is okay.
+LEADFEMALE:By the way, I think Mrs.
+LEADMALE:ferguson in 104 could use another Alex! You're going to have to leave now.
+LEADFEMALE:Visiting hours are just about over.
+SUPFEMALE:Please don't tell anyone he's my brother.
+SUPFEMALE:They might take it out on me when I'm unconscious.
+SUPMALE:Don't worry, young lady.
+LEADFEMALE:We are professionals.
+LEADFEMALE:We don't let our personal feelings interfere with our work.
+LEADMALE:A pox on you! Don't worry, Jennifer.
+SUPMALE:Everything's gonna be fine.
+LEADFEMALE:Honey, just relax and try and get some rest.
+OTHERFEMALE:Okay? I'll try.
+OTHERMALE:Don't worry, Jen.
+LEADFEMALE:You'll be back in your own bed tomorrow night.
+SUPMALE:Sleep well.
+LEADFEMALE:Bye.
+SUPFEMALE:Bye.
+LEADFEMALE:You know, Jen, if I were you, I would stretch this thing out, you know? I mean, have one tonsil out tomorrow, have another one out in a month or so.
+LEADFEMALE:You double your sympathy.
+LEADMALE:Come on, Dr.
+OTHERFEMALE:Keaton.
+LEADMALE:Yeah, I promised Mrs.
+LEADMALE:ferguson I'd check on her.
+SUPFEMALE:Bye.
+LEADMALE: Dear diary Well, here I am in the hospital.
+OTHERFEMALE:I'm not scared.
+SUPMALE:Well, maybe a little.
+LEADMALE:Okay, I'm petrified.
+LEADMALE:What if something happens to me? What if I never see my family again? I know I complain a lot to you about them, but I love 'em.
+LEADMALE:What if I never get to say I'm sorry for all those bad things I've done? I don't know why I've been acting so childish lately.
+LEADMALE:Maybe it's because I'm a child.
+SUPMALE:Mallory and I used to have so much fun together when we were younger.
+LEADMALE:Now she's a lot more interested in boys and clothes than she is in me.
+LEADMALE:I guess I'm jealous.
+OTHERFEMALE:I could understand being interested in clothes, but the part about boys, I just don't get it.
+OTHERMALE:Mallory, do you want to play checkers tonight? Do I look like I'm dressing for checkers, Jennifer? No, I'd say that's more of a parcheesi outfit.
+SUPFEMALE:Mallory, you promised you'd play with me.
+LEADFEMALE:I got everything all ready.
+SUPFEMALE:Jennifer, I don't have time for childish games.
+SUPFEMALE:I have a date tonight.
+LEADFEMALE:Do I look all right? Your cheeks are uneven.
+SUPFEMALE:What do you mean? I mean there's more red stuff on one side than the other.
+SUPFEMALE:I don't have any red stuff on.
+LEADMALE:Wow, then you're really in trouble.
+LEADFEMALE:Jennifer, you're making me nervous.
+SUPFEMALE:You're always nervous before a date.
+SUPFEMALE:No, I'm not.
+OTHERFEMALE:Then why'd you brush your teeth seven times in the last hour? Maybe she's going out with a dentist.
+LEADFEMALE:I happen to be going out with Kevin Jenkins.
+LEADMALE:I've had a crush on him since the beginning of the year.
+OTHERMALE:Do you mind, Alex? No, I don't mind.
+SUPFEMALE:How does Kevin feel about it? He doesn't know.
+LEADFEMALE:Oh.
+OTHERFEMALE:That's Kevin.
+LEADMALE:I'm not ready.
+LEADFEMALE:What should I do? We'll, uh We'll entertain him while you're making yourself presentable.
+LEADMALE:Okay.
+SUPFEMALE:We'll, uh We'll set him up in the guest room.
+LEADFEMALE:Yo.
+LEADMALE:Come on in.
+SUPFEMALE:You must be Kevin.
+LEADMALE:You must be Alex.
+SUPFEMALE:Yeah, yeah.
+LEADMALE:Guess, uh Guess Mallory's told you a lot about me, huh? Yeah.
+SUPMALE:How'd your shock treatments work out? Fine.
+SUPMALE:Uh, just Fine.
+LEADFEMALE:Good.
+LEADFEMALE:Hi.
+LEADMALE:I'm Jennifer.
+LEADMALE:You're Jennifer? You know, from the way Mallory described you, I thought you were just a baby.
+LEADMALE:Ha ha Ahem.
+LEADFEMALE:Uh, that that's funny, isn't it? Yeah.
+LEADMALE:Goo-goo.
+LEADMALE:Tell me, Kevin, how is it that you, uh That you know our dear sister? I sit in front of her in biology.
+LEADMALE:Mallory's had a crush on you for a long time.
+LEADFEMALE:Uh, Jennifer I didn't know that.
+OTHERMALE:I don't think you were supposed to.
+LEADFEMALE:Oops.
+LEADMALE:Silly me.
+LEADMALE:You know how us babies are.
+LEADMALE:So Uh, where are you two young people off to tonight? Well I thought we'd go see the, um The nuclear-disarmament film.
+LEADFEMALE:Mallory said she loves documentaries.
+SUPMALE:Did she? She's also said that she's interested in a lot of the same causes that I am Disarmament, protecting our natural resources, improving diplomatic relations with third-world nations.
+SUPFEMALE:That's our Mallory.
+SUPMALE:So, Kevin, can I interest you in some swampland in Florida? Kidding.
+SUPMALE:Joking.
+SUPMALE:Well, I got another shock treatment.
+LEADMALE:I gotta go.
+SUPMALE:They, uh, double the voltage if you're late.
+SUPMALE:Are you saying that Mallory just pretended to be interested in those things because I am? You got it.
+LEADFEMALE:You mean, she wouldn't be interested in a documentary on nuclear disarmament, then? She might be interested in what the protesters are wearing.
+OTHERMALE:I think I get the picture.
+SUPFEMALE:Hi, Kevin.
+LEADFEMALE:Love your sweater.
+OTHERFEMALE:See what I mean? Well, uh, Mallory, suppose you tell me where you want to go since you don't like documentaries.
+SUPMALE:But I love documentaries.
+LEADFEMALE:That's not what I hear.
+LEADFEMALE:Jennifer, what have you been telling Kevin? Just making small talk.
+OTHERFEMALE:And what kind of movies does Mallory really like, Jennifer, huh? Why are you asking her what I like? Because maybe she'll tell me the truth.
+LEADFEMALE:What is that supposed to mean? Well, Jennifer's been telling me quite a lot.
+LEADMALE:Oh, really? Well, maybe you'd like to bring her along with us on the date.
+OTHERFEMALE:Maybe I would.
+LEADMALE:I'll get my coat.
+LEADFEMALE:Maybe you'd rather not go out at all.
+LEADFEMALE:Well, maybe you'd rather not go.
+LEADFEMALE:Fine.
+LEADMALE:Let's not go.
+SUPFEMALE:I have to wash my hair tonight anyway.
+LEADMALE:Me too.
+LEADMALE:I mean, I have to shave Again.
+SUPFEMALE:Well See you around.
+LEADFEMALE:Yeah.
+LEADMALE:We'll see you.
+LEADMALE:Ready for checkers? That was really horrible, Jennifer.
+LEADFEMALE: I knew I was being horrible.
+SUPMALE:But I just couldn't stop myself.
+LEADMALE:I wanted Mallory to stay home and play with me like she used to.
+LEADFEMALE:I wish I'd grow up already.
+SUPFEMALE:Then maybe I wouldn't do so many stupid things, like the way I blew up at dad when he wouldn't let me have my way.
+LEADMALE:It started like any other day.
+LEADFEMALE:Mom was late, Mallory was looking in the mirror Alex was being pompous.
+LEADFEMALE:Hi, kids.
+LEADMALE:Bye, kids.
+LEADFEMALE:I will see you tonight.
+OTHERMALE:Whoa, wait a minute.
+LEADMALE:Wait a minute.
+LEADFEMALE:What is it, Alex? Ma, don't you know that the key to a successful day is a good breakfast? Girls, make your mother some breakfast.
+OTHERMALE:Frankly, I just don't have time today.
+LEADMALE:Mom, can I go to the movies with Chrissy tonight? Now, honey, you went to the movies with Chrissy last night.
+LEADMALE:That was Chrissy's birthday.
+LEADMALE:It was an exception.
+LEADFEMALE:I don't like you going out on a school night two nights in a row.
+LEADFEMALE:Well, if dad says yes, can I go? No.
+LEADFEMALE:And I don't want you to ask him.
+LEADMALE:I don't like it when you do that.
+SUPMALE:Now I got to run, honey.
+LEADMALE:Mom.
+LEADFEMALE:I worry about you.
+SUPFEMALE:I know the feeling.
+SUPFEMALE:Hey.
+LEADMALE:Morning, dad.
+OTHERFEMALE: Hi, dad.
+LEADFEMALE:Oh, hi, Alex.
+LEADFEMALE:Hi, sweetheart.
+SUPMALE:Hi, daddy! Oh, sweetheart.
+LEADFEMALE:Gee, don't you look very handsome today.
+LEADMALE:Well Thank you, Jennifer.
+SUPMALE:No, I mean it.
+LEADMALE:You know, the way a man dresses tells us a lot about him.
+LEADMALE:That tie, for example, says that you're an open-minded individual.
+LEADFEMALE:That's what they say.
+LEADFEMALE:One tie is worth a thousand words.
+OTHERMALE:That's very funny, dad! Did you guys hear that? Say it again, dad, please.
+LEADMALE:One tie is worth Dad We heard it.
+SUPMALE:Hey, take it easy, dad.
+SUPFEMALE:My side hurts from laughing.
+SUPFEMALE:Ooh.
+SUPFEMALE:Daddy, I was thinking of going to the movies with Chrissy tonight.
+SUPFEMALE:You know Chrissy The one who thinks you're such a wonderful man.
+LEADMALE:I got to get out of here.
+LEADMALE:Uh What did your mother say? Mom? I know she was talking about how happy she is being married to a man like you.
+SUPMALE:I can't take it, either.
+SUPMALE:Jennifer You went to the movies last night.
+SUPFEMALE:It was Chrissy's birthday.
+SUPFEMALE:It was an exception.
+OTHERFEMALE:I don't want you going out two school nights in a row.
+OTHERMALE:Do you and mom rehearse? Jennifer.
+LEADMALE:Okay, we'll compromise.
+SUPFEMALE:If you don't want me going to the movies on a school night I won't go to school tomorrow.
+SUPFEMALE:All right.
+LEADFEMALE:That sounds reasonable Wait a minute! No way, j Cut it out! I thought you guys were supposed to be so Liberal, so open-minded.
+SUPFEMALE:Sure had me fooled.
+LEADMALE:Jennifer, I thought I made myself clear.
+SUPFEMALE:This discussion is over.
+LEADMALE:You can't go.
+LEADMALE:Come on, dad.
+OTHERMALE:Chrissy's father said she could go.
+LEADFEMALE:Well, I'm not Chrissy's father, I'm your father.
+LEADFEMALE:Too bad for me, isn't it? Hol a minute ago, I was father of the year.
+SUPMALE:Yeah?! Well, things change fast around here, buster! And I'll tell you another thing That tie Is right-wing! 
+SUPMALE:Dear diary Guess who.
+LEADMALE:Good guess.
+LEADFEMALE:I keep waking up.
+LEADFEMALE:I guess it doesn't matter if I'm tired in the morning 'cause they're just gonna put me to sleep again.
+OTHERMALE:I sure hope my surgeon's getting a good night's sleep, though.
+SUPMALE:I just dreamt that I went home after the operation, and nobody recognized me without my tonsils.
+LEADMALE:There was another girl living in my room who looked just like me, but she was a lot nicer than I am.
+LEADMALE:She didn't argue with anyone, not even Alex.
+LEADMALE:You remember Alex, don't you, diary? Sure, you do.
+SUPMALE:How could you forget him? Girls, girls.
+SUPMALE:I need your help.
+LEADMALE:I need you to rehearse with me.
+LEADMALE:I'm trying out for a part in the school play.
+OTHERFEMALE:Now, what I'd like you to do Mallory.
+OTHERMALE:Yo, Mallory.
+LEADMALE:Uh, where you going? Aren't you gonna help me? No, Alex.
+LEADMALE:I have too much respect for the theater.
+LEADMALE:Besides, "gilligan's island's" on now.
+LEADMALE:Alex, why the sudden interest in the theater? I have always been interested in the theater.
+LEADMALE:Jennifer, the theater happens to be a link to the past.
+LEADFEMALE:It's an art form as old as man himself A continuum of judeo-Christian amusement as we know it.
+LEADMALE:Besides, Melanie Parker's playing the female lead.
+OTHERFEMALE:Say no more.
+LEADMALE:Uh, look, the, uh The play we're doing is called "a streetcar named desire.
+LEADFEMALE:" I'm trying out for the role of Stanley Kowalski.
+LEADFEMALE:It's a part that calls for raw, unbridled manly passion.
+LEADMALE:Maybe they'll let you work the lights.
+LEADMALE:Jennifer, can you put down the apple, please? Why? Well, because you can't read lines and chew at the same time.
+SUPFEMALE:Brando could do it.
+SUPMALE:You're not Brando.
+LEADFEMALE:That makes two of us.
+LEADFEMALE:All right? Hey, there, Stella, baby.
+LEADFEMALE:All right.
+LEADMALE:Okay, all right.
+SUPMALE:Why you laughing? Your accent.
+LEADMALE:You sound like deputy dawg.
+SUPFEMALE:I happen to have a perfectly acceptable Southern accent.
+LEADFEMALE:Susie sperber's from Virginia, and she doesn't talk like that.
+SUPMALE:I'm not doing susie sperber.
+LEADMALE:I'm doing Stanley Kowalski.
+LEADFEMALE:Look, Jennifer, this is very important to me.
+SUPMALE:Okay.
+LEADMALE:Okay, all right.
+LEADFEMALE:Listen I'm gonna go outside and pretend I'm calling you from the street.
+SUPFEMALE:I want you to stand right here and pretend you're answering me from the balcony.
+SUPMALE:Gotcha, Stanley.
+SUPMALE:Okay.
+LEADMALE:Hey, there, Stella, baby.
+SUPMALE:Stella-a? Hey, Stella! Jennifer! Hey, Jennifer! 
+SUPFEMALE:Alex didn't get the part Or Melanie Parker.
+LEADMALE:Why did I give him such a hard time? Sure, he's not a normal person, but he's a good brother.
+SUPFEMALE:Stella! 
+OTHERMALE:He always helps me when I need it.
+SUPMALE:Mom says I should be nicer.
+LEADFEMALE:She's right.
+LEADMALE:I think I feel worst of all about the way I treated her.
+SUPFEMALE:It's not easy for her going back to work after all these years.
+LEADFEMALE:I haven't made it any easier.
+OTHERMALE:I hope you like this.
+LEADMALE:I've never made soufflÃ© before.
+LEADFEMALE:No kidding.
+SUPFEMALE:Is there a power saw in the garage? I'm i-I'm sure we'll love it, uh Won't we, kids? Well, I suppose it's within the realm of possibility.
+SUPFEMALE:Ahh.
+SUPMALE:Well, what do you think? Uh, Jennifer, can you pass me the water, please? Sure.
+LEADMALE:Thank you.
+SUPMALE:I think you went a little overboard on the pepper, Mallory.
+LEADMALE:I only put in a cup.
+LEADFEMALE:Boy, if mom keeps working through dinner, we're all gonna lose a lot of weight.
+LEADFEMALE:I'm gonna get some leftovers from the fridge.
+LEADMALE:Jennifer, your mom's working very hard now.
+SUPFEMALE:I'm sure she'd rather be home for dinner.
+SUPMALE:But it's a new job, and there's a lot for her to learn.
+OTHERMALE:Yeah, Jennifer.
+LEADFEMALE:Once she knows her job is secure, she can slack off.
+OTHERMALE:You know, Mallory, in your own unwitting fashion, you just explained why socialism can never work.
+LEADMALE:I wish mom were home more often.
+LEADMALE:I keep forgetting what she looks like.
+LEADFEMALE:That's her, Jennifer.
+SUPMALE:Hi.
+LEADMALE:What a day! The computer kept printing out football standings instead of floor plans.
+LEADMALE:And then on the way home, Steven, the car started acting up.
+SUPFEMALE:Will you take a look at it, please? It's in the engine But it's spreading.
+OTHERFEMALE:We're having leftovers tonight, mom.
+LEADMALE:I kind of ruined dinner.
+SUPMALE:But I'll make it up to you when I cook breakfast tomorrow.
+LEADFEMALE:Did I mention I'm having breakfast in Europe tomorrow? Looks like somebody forgot to do the breakfast dishes.
+LEADMALE:Whose turn was it? Mine.
+SUPMALE:Oh.
+LEADFEMALE:Why didn't you do them? Guess I forgot.
+SUPFEMALE:Oh.
+LEADFEMALE:It's your responsibility to remember.
+SUPMALE:What's the difference? You're gone all day.
+LEADFEMALE:Who's gonna notice? Well, just because I'm working doesn't mean you can shirk your responsibilities here at home.
+SUPMALE:Why not? You do.
+LEADMALE:Uh, Mallory? I think this would be a good time for you and me to be anywhere but here.
+LEADMALE:Alex, for once in our lives, I agree with you.
+OTHERMALE:I think I'll go with them.
+SUPMALE:Not until you tell me what's going on.
+SUPFEMALE:I'm just tired of doing so many chores all the time.
+SUPFEMALE:Well, nobody likes chores, but everybody has to do them.
+SUPMALE:Alex and Mallory didn't have to do so many when they were my age.
+SUPMALE:We're not talking about Alex and Mallory.
+LEADMALE:We're talking about Jennifer.
+LEADMALE:Since when did you care about Jennifer? What do you mean? Mom, if you cared about me, you wouldn't have had me last! Jennifer! Well, it's true.
+LEADMALE:When Alex and Mallory were young, you were always home for them.
+LEADFEMALE:I hardly ever see you.
+OTHERMALE:W-why didn't you tell me you felt like this before? Because you were too busy.
+SUPMALE:Oh, it looks like we have a real problem.
+SUPFEMALE:Look, why why don't you sit down sit down, and we'll talk? Oh, I don't have time.
+SUPFEMALE:I have to do my chores.
+LEADMALE:You know, mom, ever since you started working, it's been no fun around here.
+SUPFEMALE:Hope you're happy.
+LEADMALE:Oh! 
+LEADMALE:Poor mom.
+LEADFEMALE:She got stuck with a spoiled soufflÃ© and a spoiled brat.
+LEADFEMALE:How could I be so selfish? I'm so proud of her for going back to work, and being so good at it.
+SUPMALE:I want to be just like her when I grow up, except for one thing.
+OTHERMALE:I want a nicer daughter than me.
+SUPMALE:Well, diary, I know one thing If I make it through this operation okay Which I probably won't, the first thing I'm gonna do is tell everyone in my family how sorry I am for all those selfish things I did to them.
+SUPMALE:Oh, sure, Mallory, go ahead and laugh.
+OTHERFEMALE:I am never gonna be able to show my face in this hospital again, and you think it's funny.
+LEADFEMALE:I'm sorry, Alex.
+SUPMALE:It's just I've never seen a man faint before.
+SUPFEMALE:Well, keep it down.
+SUPFEMALE:There's nothing to be ashamed of, Alex.
+LEADMALE:It happens to a lot of people when they give blood.
+LEADFEMALE:Yeah, those two old ladies in front of me looked really woozy.
+LEADFEMALE:Great.
+OTHERFEMALE:The next time the family gives blood, just drop me off at the nearest quilting bee.
+LEADFEMALE:I think she's waking up.
+SUPFEMALE:Jen, you okay? No Shh.
+SUPMALE:Don't try and talk.
+SUPMALE:The doctors want you to save your throat.
+OTHERMALE:Don't worry, your voice will be back in a day or two.
+SUPMALE:The operation went just fine, Jennifer.
+LEADMALE:The doctor said it was so easy, he could have done it blindfolded.
+OTHERMALE:In fact, he wore Steven! I'm just What a trouper! I think she wants to play charades.
+LEADMALE:Uh, writing, writing a book.
+SUPMALE:A book, a book title "from here to eternity.
+LEADMALE:" 
+SUPMALE:No.
+SUPMALE:Uh, no.
+SUPMALE:Uh, no "no, no, nanette"! You know, I think maybe she wants a pencil and paper.
+LEADFEMALE:Honey.
+LEADFEMALE:I didn't know you kept a diary, Jennifer.
+LEADMALE:I thought I was the only one who did.
+SUPFEMALE:No, no.
+LEADMALE:Yours is the only one we read.
+OTHERFEMALE:"You would have been a great Stanley.
+SUPMALE:" Uh, thanks, Jennifer.
+SUPFEMALE:I think I make a pretty good Alex.
+LEADFEMALE:What is she talking about, Alex? I don't know, dad.
+SUPFEMALE:Is she still under sedation? "You look very pretty when you go out on dates.
+OTHERFEMALE:" Yeah.
+SUPMALE:Definitely still under sedation.
+SUPMALE:Thank you, Jennifer I'm afraid you'll have to leave now.
+LEADMALE:Our patient needs her rest.
+LEADFEMALE:Okay.
+SUPFEMALE:See you later, Jen.
+LEADFEMALE:Oh I heard about your little mishap at the blood bank.
+LEADMALE:I hear you dropped like a stone.
+OTHERMALE:Great.
+LEADMALE:No, honey.
+SUPMALE:No, no.
+OTHERFEMALE:No more games.
+SUPMALE:Just listen to the nurse and try and get some rest, honey.
+LEADMALE:We'll be back later, okay? 
+LEADFEMALE:Bye-bye.
+SUPFEMALE:It's okay.
+SUPMALE:Bye.
+LEADFEMALE:Hon, time for a nap.
+LEADMALE:You trying to tell me something, dear? Oh.
+OTHERFEMALE:I see.
+SUPFEMALE:You want to play charades.
+OTHERMALE:Oh.
+LEADFEMALE:You want me to read this.
+SUPMALE:"I love you.
+LEADMALE:" Well, isn't that sweet, dear? I love you, too.
+LEADFEMALE:Oh, I see.
+SUPMALE:This is for them.
+LEADFEMALE:Well, I'm sure they know you love them.
+LEADMALE:Now you try to get some sleep.
+LEADMALE:We love you, too, darling.
+OTHERFEMALE:That's my girl.
+SUPFEMALE:She's right.
+LEADMALE:Yeah.
+LEADMALE:

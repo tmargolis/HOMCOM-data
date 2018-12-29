@@ -1,0 +1,357 @@
+LEADFEMALE:Come on, Alex, can't you give us a hand? Sorry, Mom, it just seems kind of silly to clean up before company comes.
+LEADMALE:I mean, it's just gonna get messy again.
+LEADMALE:Come on, your cousin June hasn't been here in three years.
+SUPMALE:I don't want her coming into a messy house.
+OTHERFEMALE:Why? It was messy when she left.
+LEADFEMALE:I just got off the phone with Jennifer.
+LEADMALE:She's still at Adam's house doing the science project.
+OTHERFEMALE:She said she'll be here soon.
+LEADFEMALE:I wonder what's taking them so long.
+SUPFEMALE:They should've finished that science project by now.
+LEADMALE:Yeah, well, they're trying to get fruit flies to mate and it's taking longer than they thought.
+SUPMALE:You know, I'm a little offended by that project.
+LEADFEMALE:I mean, I think Jennifer should learn about fruit flies on the street like I did.
+OTHERMALE:I wish she'd hurry because your father and June should be back from the airport any minute now.
+OTHERMALE:They probably stopped off for a good ol' American hamburger.
+LEADFEMALE:You know, that English food's pretty disgusting.
+LEADFEMALE:That's a very narrow view, Alex.
+OTHERMALE:Just because English food is different than ours doesn't mean it's terrible.
+LEADMALE:Come on, Ma, how would you characterize a place that serves ox tails and kidney pies for breakfast? Disgusting.
+SUPFEMALE:I mean "different," hey.
+LEADMALE:I'm so excited that June's coming.
+LEADFEMALE:I can't imagine what it's like to study in England.
+OTHERFEMALE:You don't even know what it's like to study in America.
+SUPFEMALE:Hey, look who's here.
+OTHERFEMALE:Hi, hi! - Hi, June, hi! - Hi.
+LEADFEMALE:How are you? - Hey.
+SUPMALE:There she is.
+SUPMALE:Hi, June.
+LEADFEMALE:Hi.
+LEADMALE:Sorry, we're late we stopped off for hamburgers.
+LEADMALE:Yeah, I couldn't wait English food is disgusting.
+SUPMALE:Nah, it's just different.
+OTHERMALE:June, you look great.
+SUPMALE:Come on.
+LEADMALE:Oh, thanks.
+SUPMALE:All you do, too.
+LEADMALE:The baby.
+LEADFEMALE:Oh.
+SUPMALE:Is that Andrew? - Yeah.
+LEADMALE:Hi.
+LEADMALE:Oh, he's so cute.
+LEADMALE:Where's Jennifer? - Oh, she'll be here soon.
+LEADMALE:She's at her boyfriend's house studying.
+SUPFEMALE:Oh, I'm so excited you're here.
+LEADFEMALE:Oh, are you kidding? You think I'd miss a chance to brag all about my trip? Well, sit down and brag.
+LEADFEMALE:Come on, what was London like? Yeah, did you take advantage of the strong dollar? Did you meet the queen? Yeah, I love monarchies.
+LEADFEMALE:Hey, come on, come on, give her a chance to answer.
+SUPMALE:Thank you, Steven.
+SUPMALE:Uh, I brought some pictures and I'm anxious to tell you all about my trip.
+LEADMALE:Great, we want to hear all about it.
+SUPMALE:Well, a lot of things happened in three years.
+SUPMALE:Mm, you're telling us.
+LEADFEMALE:I don't know where to start.
+LEADMALE:Well, how about the boys? Well, I did meet a couple of cute boys.
+LEADFEMALE:And I got their pictures right here.
+SUPMALE:I knew it.
+OTHERMALE:Did you date any princes or dukes or anything? - No, just commoners.
+LEADFEMALE:Oh.
+SUPFEMALE:You know, it's funny.
+SUPMALE:When I got to England, I wasn't that interested in boys, but, uh, now they're not so bad, you know? Thanks, we try.
+SUPMALE:Well, I guess we're all changing.
+LEADFEMALE:I mean, here we are and Jennifer's out with a boy.
+SUPFEMALE:I guess she's really growing up, huh? Well yes and no.
+LEADMALE:Jennifer! Good evening, Scott.
+SUPFEMALE:I thought I'd join you.
+LEADMALE:Mallory! How nice to see you.
+LEADFEMALE:Hi, Jen.
+OTHERFEMALE:Jennifer, why are you dressed this way? I'm a woman of many moods, Scott young and playful one moment, sophisticated and deadly serious the next.
+LEADMALE:Hey! Uh Jennifer, this is a table for two.
+SUPMALE:I'm sure you can make room for your sister.
+LEADMALE:Well, Scott, what do you recommend? The last time I was here, I found the pizza with bologna very much to my liking.
+LEADFEMALE:Shall I go for it again? I don't get it is this a joke or something? I'm deadly serious, Scott, pizza with bologna or not? Jen, we already ordered.
+LEADFEMALE:Mallory, Scott needs his strength.
+SUPFEMALE:He has "mormons" coursing through his veins.
+SUPFEMALE:What? They'll be no talking about baseball tonight, Scott.
+SUPMALE:Know what I mean? Not really.
+LEADMALE:You'll find tonight that I can be as soft as the next girl.
+LEADFEMALE:Buy you a drink? Uh All right, Jen, uh, come here for a minute.
+SUPMALE:Mallory, you're making a spectacle of yourself.
+LEADFEMALE:Hey, listen, I think we ought to take you home now.
+LEADFEMALE:I don't need you to take me home.
+LEADMALE:Jennifer - Stop Are you okay, little girl? I'm fine, and I'm not a little girl.
+LEADMALE:Waiter, my bike.
+OTHERMALE:Yeah, she was really embarrassed.
+SUPFEMALE:Ah, poor kid.
+OTHERMALE:I had to convince her that making a fool out of yourself is part of life when you're growing up.
+LEADMALE:It's even part of life after you've grown up.
+SUPFEMALE:Yeah, I know I matured a lot over the years.
+LEADFEMALE:When I think back Uh, June, why don't you just show us the pictures and tell us about your trip? Let's face it, I mean, maturity and I are no strangers.
+LEADMALE:Alex, who are you kidding? I'm the mature one.
+SUPMALE:You? You don't even know - Oh, come on, guys.
+SUPFEMALE:June's trying to tell us about her trip.
+LEADFEMALE:Right.
+LEADMALE:Sorry.
+SUPFEMALE:Anyway, the more I was on my own, I found that I think Mom and Dad know that they don't have to worry about my being responsible even when they're not home.
+LEADFEMALE:That's because I'm in charge when they're not home.
+LEADMALE:Oh, yeah, and he always does a great job.
+SUPMALE:So, uh, nobody else is home, then? Nope, just you and me.
+LEADFEMALE:Maybe I should leave.
+LEADFEMALE:I don't think so.
+LEADMALE:Mallory.
+LEADFEMALE:I made her do it, Alex I'm an animal.
+LEADMALE:I don't deserve to live.
+LEADMALE:Where's Jennifer? I thought she was with you.
+LEADFEMALE:I got caught up in the moment.
+SUPMALE:I-I couldn't control myself.
+SUPMALE:Jeff.
+LEADMALE:I'm not usually like this but when I'm around Mallory, I go crazy.
+SUPMALE:Jeff, calm down, we've got other problems here.
+SUPFEMALE:I lost Jennifer.
+SUPFEMALE:I thought you took her to the card game with you! I-I did, but-but while I was playing, she just wandered off.
+SUPMALE:Oh, no.
+LEADMALE:Mom and Dad came to the card game to get her.
+SUPFEMALE:Oh, no.
+LEADMALE:They're right behind me.
+LEADFEMALE:I had to drive on the sidewalk to beat them home.
+LEADMALE:Maybe Jennifer came home and she's upstairs sleeping.
+OTHERMALE:I hope you're right.
+LEADFEMALE:I'll look.
+LEADFEMALE:Um, I kind of told my parents that Jennifer was with you, so I'd appreciate it if-if you'd Lie.
+SUPFEMALE:That about says it, yeah.
+SUPFEMALE:Sure, Alex, if you want me to.
+SUPFEMALE:Look, if Jennifer's not home, maybe you and I should go look for her.
+OTHERMALE:We both got cars.
+SUPFEMALE:Good idea.
+OTHERFEMALE:Jeff, thank you for your support.
+SUPMALE:I'm glad you're here.
+LEADFEMALE:Not at all.
+LEADFEMALE:Well, you're certainly not the two I expected to see on the couch.
+LEADFEMALE:Yeah, that was real responsible, Alex.
+LEADFEMALE:Losing Jennifer in a card game? I had a straight flush I mean, what would you do? All right, okay, I got a little carried away.
+OTHERMALE:I believe June was trying to tell us about her trip.
+LEADFEMALE:What trip? Oh, right, right, well.
+OTHERFEMALE:Well, the second day I was there, I met this terrific guy.
+LEADFEMALE:I've got his picture right here, he's so Okay, all right, I admit I should've been thinking a little more about Jennifer, but it was a momentary lapse.
+SUPMALE:I mean, I matured a lot since then.
+LEADMALE:In fact, in some ways I'm so mature that I've outgrown a lot of people my own age.
+OTHERFEMALE:You've been wondering about my age all evening, haven't you, Alex? Oh, no, your age? No, your age never-never entered my mind.
+LEADMALE:How old do you think I am? Oh, I don't know, uh I'd say about years old.
+LEADFEMALE:I'll be 40 in July.
+SUPMALE:I'll be 29 in March.
+LEADFEMALE:My, my and still in high school.
+SUPFEMALE:Well, I'm a veteran, you know.
+OTHERMALE:Okay, I'm-I'm 17.
+LEADMALE:But they've been 17 very full years.
+SUPMALE:Alex, chronological age means nothing to me.
+LEADMALE:I like that in a woman.
+SUPMALE:Hey, you want to dance? I thought you'd never ask.
+LEADFEMALE:Hey, you're good.
+LEADMALE:Thank you.
+SUPMALE:No, thank you.
+OTHERFEMALE:No, thank you.
+LEADFEMALE:Oh, Mom, Dad.
+SUPFEMALE:Alex, uh, where's your, um Uh, uh, I-I mean is Is this your Who's this? Oh, I'm-I'm sorry.
+OTHERFEMALE:Mom, Dad, this is, uh, Lorraine Ferrar.
+LEADMALE:My date.
+LEADMALE:She's his date, Steven.
+LEADMALE:Hello.
+LEADMALE:Yes, it-it certainly is nice to meet you.
+LEADMALE:Yes, I'll say.
+SUPFEMALE:Hey, hey, you kids want to dance? We'll just roll back the rug.
+SUPFEMALE:Nope.
+LEADMALE:I don't think so.
+LEADMALE:Do you think so, Steven? Are you talking to me? Oh, no, uh, no, uh, no, no-no dancing for us.
+LEADFEMALE:No, no, um Good night.
+SUPFEMALE:Yeah, that's good.
+SUPFEMALE:Good night.
+SUPFEMALE:Good night.
+SUPMALE:What ever happened to Lorraine, Alex? Ah, Lorraine and I kind of lost track of each other.
+OTHERMALE:Maybe I should give her a call.
+LEADMALE:Forget it, Alex.
+SUPMALE:Ah, that could be her now.
+SUPMALE:Hello? Oh, yes, Jennifer, June's here.
+LEADFEMALE:Uh All right, I see.
+LEADFEMALE:All right.
+LEADMALE:I'll tell her.
+SUPFEMALE:Bye-bye.
+LEADMALE:That was Jennifer.
+LEADFEMALE:She sends you her best, June.
+LEADMALE:She'll be here just as soon as she can.
+LEADMALE:Apparently the female fruit fly is not in the mood.
+OTHERMALE:What are they going to do, put on some Johnny Mathis records? Chances are.
+OTHERMALE:Look, June, why don't you show us some more pictures? Well, I do have some beautiful shots of Florence.
+OTHERFEMALE:Florence who? Mallory, Florence is a city in Italy.
+LEADMALE:It's not a person.
+SUPFEMALE:Actually, Alex, Florence is a person.
+LEADMALE:Florence Weldon.
+LEADFEMALE:See, Alex, Florence is not a city in Italy.
+OTHERFEMALE:Florence and I went to Paris, and we stayed in this really cute bed-and-breakfast.
+SUPMALE:What's a bed-and-breakfast? A bed is something you sleep in.
+SUPFEMALE:Breakfast is something you have in the morning.
+LEADMALE:It's like a small hotel, Mal.
+OTHERMALE:In Europe, a lot of people rent out rooms in their houses.
+SUPMALE:Oh, we were there during the tourist season, so, I mean, it got pretty wild.
+LEADFEMALE:Some nights, we had 50 people staying in the house.
+SUPFEMALE:Whoa.
+LEADMALE:I guess that doesn't happen too much here in Ohio.
+LEADMALE:Oh, I don't know about that.
+SUPFEMALE:I hope you don't mind.
+SUPFEMALE:I invited a few people.
+SUPMALE:Uh, mind? As a matter of fact All right, okay.
+LEADMALE:Hey, what are you doing? We did it.
+OTHERFEMALE:We captured the other team's mascot.
+SUPMALE:We got the Crawford Kangaroo.
+LEADFEMALE:Uh Can you believe this? They captured the Crawford Kangaroo.
+SUPMALE:This is a day we will never forget.
+LEADMALE:I'm home.
+LEADFEMALE:Hi, Dad.
+OTHERFEMALE:How was your trip? It's so nice to see you.
+LEADFEMALE:What is going on here? Now, Dad, uh don't go jumping to any conclusions.
+OTHERFEMALE:Whoa! Alex, Parents are conditioned to accept a a-a few, uh, minor problems when they leave their children alone at home spilled milk on the rug, a broken dish.
+SUPFEMALE:There was a kangaroo in my living room.
+LEADMALE:It was just here for the party, Dad.
+LEADMALE:Then I guess I'm overreacting.
+LEADFEMALE:Dad, if you just give us a chance, we can explain everything.
+SUPFEMALE:Oh, can you? Can you explain the valet parking in the driveway? The flashing vacancy sign in front of the house? The billboard on Route 41? Look, Dad, I just, I-I just lost my head, you know? When the when the money started rolling in, I got out of control.
+LEADMALE:I-I could smell it.
+SUPMALE:I could taste it.
+LEADFEMALE:I could hear it, calling me at night, saying, "Alex, at last we'll be together.
+OTHERFEMALE:" Dad, I-I guess you could just say that I-I kind of became a a money-holic.
+LEADFEMALE:Dad, I need help.
+LEADFEMALE:Dad, uh, you left me in charge, and I let you down in every possible way.
+OTHERFEMALE:I was immature, I was irresponsible, and, uh, and I was greedy.
+LEADFEMALE:I'm sorry.
+OTHERMALE:He's coming around.
+SUPFEMALE:For months Steven would wake up in the middle of the night screaming about kangaroos.
+OTHERMALE:Well, Pop, I-I bet you look back on that whole incident now and laugh.
+LEADMALE:Uh, I think we've all become a lot more responsible since then.
+LEADMALE:It's because your father and I have set such a good example.
+LEADMALE:Yes, we've taught you to think clearly and rationally before you act.
+OTHERFEMALE:I'm Ruben Tedesco.
+SUPFEMALE:Your children call me Mr.
+SUPFEMALE:Tedesco.
+LEADFEMALE:I think you should, too.
+SUPFEMALE:I teach European literature.
+LEADFEMALE:If you don't belong in this classroom, don't worry.
+SUPFEMALE:Neither do most of your children.
+SUPFEMALE:I'd like to make this an open forum.
+LEADMALE:I'll answer any intelligent questions you may have.
+SUPMALE:Well, I was wondering - Hands please.
+OTHERFEMALE:Yes, the lady in the front row.
+OTHERFEMALE:Mr.
+LEADMALE:Tedesco - Not you.
+LEADFEMALE:The one next to you, the old bag.
+LEADMALE:Why do you give out so much homework? I said intelligent questions.
+OTHERFEMALE:Next.
+SUPMALE:Yes, you.
+LEADFEMALE:My son, he says you pick on him.
+OTHERFEMALE:You call him names.
+OTHERMALE:Who's your son? Larry Morgan.
+SUPFEMALE:Larry the Loser? Madame, your son is an insipid pimple-faced liar.
+OTHERMALE:Anyone else? Please identify yourself.
+OTHERMALE:I'm Mrs.
+LEADFEMALE:Binney.
+SUPFEMALE:My daughter, Mindy, so enjoyed reading The Little Prince.
+OTHERMALE:Is there anything else you'd recommend for her? Yes, I'd recommend she lose 40 pounds.
+LEADFEMALE:You could lose 30 yourself.
+LEADFEMALE:Next? My, my, such an inquisitive bunch.
+LEADFEMALE:I have something to say.
+LEADMALE:Mr.
+LEADFEMALE:Tedesco, I think you owe Mrs.
+LEADMALE:Binney and everyone else in here an apology.
+SUPFEMALE:Yes.
+OTHERMALE:You-you've been terribly rude and insulting to us all.
+LEADMALE:Mrs.
+LEADFEMALE:Keaton, it's clear that your son does not get his intelligence from you.
+LEADMALE:If you feel I'm being insulting, fine.
+LEADFEMALE:I won't insult anyone anymore.
+LEADMALE:This little get-together is over.
+LEADFEMALE:I'm leaving.
+LEADMALE:Sorry, the game is over.
+SUPFEMALE:Let me through.
+LEADFEMALE:Don't push me.
+LEADMALE:Move it, Grandma.
+SUPFEMALE:You can't do that.
+SUPFEMALE:Who's gonna stop me? I came to apologize for my wife's behavior.
+LEADMALE:She feels terrible about the whole thing.
+OTHERMALE:She's really sorry.
+LEADMALE:We both are.
+LEADFEMALE:I could sue, you know.
+LEADFEMALE:Look, uh, look, let-let-let-let's try to gain some perspective on the situation here.
+SUPFEMALE:Uh, haven't you ever done something without thinking, something you regretted later? Yes, I showed up for parents' night.
+LEADFEMALE:Look, look, I know you're upset and you have every right to be.
+SUPFEMALE:But you're obviously a very intelligent, civilized person who can recognize this incident for what it is.
+SUPMALE:An aberration.
+LEADMALE:And I hope you'll forgive and forget.
+LEADMALE:Fortunately, Mr.
+OTHERMALE:Keaton, your son inherited your rational temperament.
+LEADMALE:For his sake, I will allow myself to be appeased by your words.
+LEADMALE:I am nothing if not civilized.
+SUPFEMALE:Well, I can see that.
+LEADFEMALE:Your wife, however, is an Amazon.
+SUPMALE:Part Irish, part French, no Amazon.
+LEADMALE:You know what I mean, Keaton.
+LEADFEMALE:She's primal.
+LEADMALE:Not fully evolved.
+OTHERMALE:You must have a tough time keeping her in line.
+LEADMALE:Tell me, do whips ever enter the picture? I think I'll be going now.
+SUPFEMALE:No, I'm curious, what's it like to live with that kind of unbridled she-devil? Good-bye, Mr.
+SUPFEMALE:Tedesco.
+SUPFEMALE:No wait, just one more question.
+SUPFEMALE:Does she ever, uh Why, you Now, now, June, I don't want you to get the idea that-that we condone violence.
+OTHERMALE:No, no, not at all.
+LEADMALE:Yeah, just don't make any sudden moves.
+LEADFEMALE:You'll be all right.
+SUPFEMALE:Oh, Andy.
+SUPMALE:What's wrong, honey? We've been doing all the talking.
+OTHERMALE:I guess he feels left out.
+LEADFEMALE:I know how he feels.
+SUPMALE:You know, if Andrew could talk, I bet he'd have a story or two to tell you.
+LEADFEMALE:Hey, your wife's on television.
+LEADFEMALE:She sure does.
+SUPMALE:This is my favorite part.
+OTHERFEMALE:Wait till you hear the way she hits this one note.
+LEADFEMALE:Oh! Oh! Wow, she really nailed it that time.
+SUPFEMALE:Don't stop, Elyse.
+SUPMALE:Why did she stop? I'm sorry.
+LEADMALE:I think I'm going into labor.
+LEADMALE:Oh, well, that-that explains it.
+SUPMALE:Labor? Steven, are you watching? Of course I am.
+LEADMALE:This is it.
+LEADFEMALE:Uh, Steven, if you're watching, meet me at the hospital.
+LEADMALE:Elyse, I'll be there in 15 minutes.
+OTHERFEMALE:Be there in ten minutes.
+SUPMALE:Ten minutes, and I'll get your suitcase.
+LEADMALE:And don't forget my suitcase.
+LEADMALE:Stop nagging.
+LEADMALE:I'm coming.
+SUPFEMALE:Steven! - Come on, Dad.
+SUPFEMALE:Come on, Dad.
+LEADFEMALE:Go! - Hurry.
+OTHERMALE:Steven! Okay, now, let's give June a chance.
+SUPMALE:We've been doing all the talking ourselves.
+LEADMALE:Yeah, I really do want to see what London looks like.
+LEADMALE:Oh, well, it's pretty much what you would expect, except that people drive on the wrong side of the street.
+LEADMALE:Hey, Mal, you'd fit right in.
+LEADFEMALE:June, we're all going to be quiet now, so you can tell us about your trip.
+SUPFEMALE:Yes.
+SUPMALE:Go ahead.
+LEADFEMALE:Well, okay, when I first got to London, - it was really foggy.
+LEADFEMALE:Hi, June.
+SUPFEMALE:Hi, honey.
+LEADFEMALE:Jennifer, hi.
+LEADMALE:It's nice to see you.
+OTHERMALE:Oh, it's good to see you, too.
+LEADFEMALE:Well, you look great.
+OTHERMALE:Oh, so do you.
+LEADFEMALE:Did I miss much about your trip? Oh, no, not a word.
+LEADMALE:Well, I want to hear everything.
+LEADFEMALE:Okay.
+LEADMALE:Okay, now, no more interruptions.
+LEADFEMALE:Well, anyway, as I was saying, when I first got there, I met this really terrific guy.
+SUPMALE:Oh, well, you should meet this guy Adam.
+LEADMALE:He's really smart and cute and funny.
+LEADMALE:Jennifer, Jennifer, we don't want to hear about it, okay? I want to hear about Margaret Thatcher.
+LEADFEMALE:By the way, how did how did Adam do with the
+LEADMALE:

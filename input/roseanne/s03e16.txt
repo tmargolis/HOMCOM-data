@@ -1,0 +1,328 @@
+LEADMALE:Junk.
+SUPMALE:Junk.
+SUPMALE:Something from a charity.
+LEADFEMALE:Oh, cool.
+LEADMALE:How much did they send us? I'll put that in the "later" pile.
+OTHERMALE:Gas bill.
+OTHERFEMALE:Later.
+SUPFEMALE:Electric bill.
+OTHERMALE:Later.
+SUPFEMALE:Oh! Ed McMahon! Ooohh, hoo hoo hoo! Open that sucker up.
+LEADFEMALE:You do it.
+LEADMALE:I can't.
+LEADMALE:My hands are trembling from the excitement.
+SUPFEMALE:What's this? Something from Darlene's school.
+LEADMALE:Well, there's one way to spice up the afternoon.
+OTHERFEMALE:Darlene, we got you nailed.
+LEADFEMALE:What? Letter from your school.
+SUPMALE:Darlene's in trouble Darlene's in trouble ah-Dee ah-Dee ah-Dee Want to tell us right away before we find out anyhow? I cut Spanish class because Meryl forgot to wake me up after biology.
+LEADMALE:You got dishes for an extra week then, young lady.
+OTHERMALE:"Dear Mr.
+SUPFEMALE:Conner, the Lanford Board of Education "invites you to share your career skills with our students.
+LEADFEMALE:If you are interested," la Dee da Dee da.
+SUPFEMALE:Doesn't say anything about skipping Spanish class.
+OTHERMALE:Well, I guess that makes me a moron.
+OTHERMALE:Guess so.
+LEADFEMALE:Hi.
+LEADMALE:Darlene, you're wearing my shirt! Get off my back.
+SUPFEMALE:I got bigger problems.
+LEADFEMALE:What's happening? Career day at school.
+LEADMALE:They want Dad to speak.
+OTHERFEMALE:Oh, bummer, Darlene.
+LEADMALE:He's too cool to do it.
+LEADMALE:That's me, Ice-D.
+LEADMALE:Too cool for school.
+SUPMALE:You know what makes me mad about this? How come it's automatically made out to you and not me? Honey, I am the professional in the family.
+OTHERMALE:Oh, right.
+OTHERMALE:I forgot about your master's in drywalling.
+LEADFEMALE:You know, the real reason is just 'cause you're a man.
+SUPFEMALE:Oh, god, she's going feminist on me.
+OTHERMALE:Like I'm not good enough for their little junior high school career day? Like some housewife doesn't have anything important to say? It's an outrage, mom.
+SUPMALE:I say go show them how tough your job really is.
+SUPFEMALE:Well, maybe I will.
+LEADMALE:Thank you, Becky.
+LEADFEMALE:Well, maybe next time, you'll keep your grubby little paws off my stuff.
+LEADFEMALE:Mom, you're not going to let some blond bimbette tell you what to do.
+LEADMALE:What's your problem? Are you embarrassed of your mother? Don't get offended, mom.
+OTHERMALE:I'm just as embarrassed of Dad.
+LEADMALE:Aw, you're just saying that.
+SUPFEMALE:Hello.
+LEADFEMALE:Hi.
+LEADFEMALE:d.j. What's, uh, in the bag? Nothing.
+SUPMALE:Thanks for bringing him home.
+OTHERMALE:I suppose you want a free dinner now.
+LEADFEMALE:You're welcome.
+SUPMALE:Uh, Roseanne, can I alk-tay with ou-YAY in ivate-pray? O-Kay-do-Kay.
+LEADMALE:Duh.
+OTHERMALE:I don't understand what they're talking about, do you? So what's up? This is in the strictest of confidence.
+LEADFEMALE:d.j. Has a little problem.
+LEADFEMALE:Huh.
+LEADMALE:Yeah.
+LEADFEMALE:Where you been, Jackie? No.
+OTHERMALE:I mean there's some bully at school threatening to beat him up unless he brings him a Twinkie every day.
+SUPMALE:Are you sure? Yes.
+LEADMALE:He made me buy a whole box.
+LEADFEMALE:That's what's in that bag.
+LEADMALE:Remember, this is just between you and me.
+SUPMALE:Right.
+LEADMALE:d.j. ! Don't, Roseanne.
+SUPFEMALE:I promised him I wasn't going to tell anybody.
+LEADFEMALE:Well, you lied.
+LEADMALE:Yeah? What's this about your having some problem at school with some bully? Deej, I'm sorry.
+OTHERFEMALE:She forced it out of me.
+SUPMALE:Wuss.
+LEADMALE:Deej, what's going on? It's ok.
+SUPFEMALE:If I give Kevin Morgan two Twinkies every day, he won't beat me up.
+LEADFEMALE:No.
+LEADMALE:You can't go through life giving in to bullies.
+LEADMALE:But I want to live! I'm going to call the school.
+SUPMALE:You can't do that.
+LEADMALE:Everyone will think he's a squealer.
+LEADMALE:Yeah.
+SUPMALE:Then he'll really get the cream cheese kicked out of him.
+OTHERMALE:Then I'll call this kid's parents.
+SUPMALE:Don't do that! He's going to beat me up! What am I supposed to do? I'll have to teach him to fight.
+LEADFEMALE:Come on, Dan.
+OTHERMALE:d.j. 's just a little, tiny boy.
+LEADFEMALE:You know, size isn't really the issue here, Roseanne.
+SUPMALE:Uh, back when I was on the force Here we go.
+SUPMALE:No.
+LEADMALE:I'm just saying, if you know what you're doing, anybody can take out anybody.
+SUPMALE:I could put Dan on the floor if I wanted to.
+LEADFEMALE:Yeah, yeah.
+LEADFEMALE:Then you could sprout little pink wings and fly away.
+LEADFEMALE:What, you don't think I can? Dan, I was a cop.
+LEADMALE:Take your best shot, officer.
+LEADFEMALE:Yaah! Aah! Ow, ow! She pulled a hair out.
+LEADFEMALE:See? I'll go teach the kid how to take care of himself.
+LEADMALE:You know if d.j. Tries to fight, he'll just get hurt.
+OTHERFEMALE:Don't worry.
+OTHERFEMALE:I'll make it clear that fighting isn't the answer Unless you're sure you can win.
+LEADFEMALE:Meantime, I'll just keep him stocked up in Twinkies.
+SUPFEMALE:I guess I'll get this place cleaned up for you.
+SUPFEMALE:I'll start by tossing this letter from the school.
+LEADFEMALE:Might as well, I guess.
+OTHERFEMALE:Well, all right, mom.
+SUPMALE:What's the matter? Darlene having problems at school? Not yet.
+LEADMALE:All right, everybody, listen up! Today we are very lucky to have as our guest speaker a woman who chose to make home economics her life.
+LEADMALE:I want you all to welcome Mrs.
+SUPMALE:Roseanne Conner.
+LEADFEMALE:Here.
+SUPMALE:Kill me.
+LEADMALE:Mrs.
+LEADMALE:Conner has been a wife and a mother for 17 years, and she's come to us today to present a sort of common-sense approach to home economics.
+SUPFEMALE:Mrs.
+LEADMALE:Conner.
+SUPFEMALE:Ok.
+LEADMALE:Well Um, ok.
+SUPMALE:Well, ok.
+LEADMALE:You know how a lot of people don't think that being a housewife is important, but, ok, a lot of people depend on you, and you got to be really smart and dedicated.
+LEADMALE:Well, it's kind of like being a doctor, only, you know, um, the hours are longer and you don't get any pay and, um It's way bloodier, so It's probably not like being a doctor at all.
+LEADMALE:Well, anyway, any questions or Yes, Darlene.
+SUPMALE:May I be expelled? No, Darlene.
+SUPFEMALE:You got a question? What did you really want to do with your life? Well, I tried, you know, lounging on the beaches of Europe, but somehow that just left me empty.
+LEADFEMALE:Believe this or not, I really wanted to have a family.
+LEADMALE:Maybe not the one I got, but You know.
+SUPFEMALE:What's your favorite soap opera? Well I don't do that.
+LEADFEMALE:Is that what you think, that you just watch soap operas and all that? You know, raising a family, well, it's a career.
+LEADFEMALE:Ok? It's kind of like managing a factory.
+SUPFEMALE:Now she manages a factory.
+LEADMALE:This will be way better than the doctor thing, trust me.
+LEADFEMALE:Way better.
+LEADMALE:Ok.
+SUPMALE:Like, I think of my kids like they're the product, right? And if I can get them out there on the market without them getting returned defective Then I done my job.
+LEADMALE:But what could you teach us that we couldn't learn here? Well What are you learning here? Oh, well, yesterday we baked a quiche Lorraine.
+OTHERMALE:No, really? Yes.
+LEADMALE:We think it's very important to learn how to follow a recipe.
+LEADFEMALE:And we've learned how to make our own clothes.
+LEADFEMALE:Oh.
+LEADFEMALE:Well, how very Little House on the Prairie.
+LEADMALE:I don't know anything about that kind of home economics.
+SUPFEMALE:What I know about is, like, cleaning and shopping and cooking for a family of five on a really tight budget and still having money left over to buy that all-important aspirin.
+LEADMALE:Well, I don't even know if I could teach it in class here.
+LEADMALE:I think we ought to go on a field trip.
+LEADFEMALE:I think that's a great idea, so why don't you get permission from your parents to spend an afternoon with Mrs.
+LEADFEMALE:Conner? Oh, mom! Oh, no, that's ok, Darlene.
+LEADFEMALE:You can go.
+SUPFEMALE:Didn't this class have some boys? They think shopping's a girl thing.
+LEADMALE:Get used to that.
+LEADFEMALE:Can we get this over with? Come on now, Darlene, this can be fun.
+LEADMALE:Here, honey.
+OTHERFEMALE:You can ride in the seat.
+SUPFEMALE:Aw.
+SUPMALE:Aw.
+SUPMALE:Aw.
+LEADFEMALE:It's just the buy-n-bag.
+LEADMALE:We've been here a million times.
+LEADMALE:It's not just the Buy-n-Bag, Darlene.
+SUPMALE:A supermarket is the very blood and guts of home economics, and besides, it's what makes our country great.
+OTHERFEMALE:Where else in the world are you going to find frozen pizzas, microwave pizzas, French bread pizzas, thick crust pizzas, pizza puffs, pizza rolls, pizza squares, pizza tarts? Did I tell you you should never shop when you're really hungry? All right, girls.
+LEADFEMALE:The mission is meat.
+OTHERFEMALE:You're making dinner for five people, and you're on a really tight budget.
+LEADMALE:Uh, what's your name? Meryl.
+SUPFEMALE:Step up to the meat counter and pick a meat.
+SUPFEMALE:Any meat.
+SUPMALE:All right, let's see.
+SUPFEMALE:There's a lot of meat in here.
+SUPFEMALE:Some veal, some chicken.
+LEADMALE:Yeah, but you got four loads in the laundry and a sink full of dishes, and your husband gets cranky if he has to wait for his dinner.
+SUPMALE:Move! Move! Move! All right, here! God! So, girls, let's see what Meryl picked.
+LEADFEMALE:New York steak, hmm? What does your dad do for a living? He's a dermatologist.
+LEADMALE:Oh, then that would be a good choice.
+LEADFEMALE:Anybody here who doesn't have a trust fund? Darlene, what are we going to have for dinner? Well, I'm eating at Meryl's house.
+SUPMALE:Who wants to see a picture of Darlene dressed up like a tulip for her third-grade play? Aw.
+LEADMALE:Yeah.
+LEADMALE:Aw.
+LEADMALE:Oh, not me.
+SUPMALE:Where's that ground garbage? Here you go.
+LEADMALE:Yes, girls, ground beef The stuff that gives meat loaf its bulk.
+LEADMALE:But meat's supposed to be bad for you.
+SUPMALE:So are Kool-pops, but you got to draw the line somewhere.
+LEADFEMALE:Let's roll.
+OTHERMALE:Darlene, you stay here with Mommy.
+SUPMALE:Why? Because I've decided you're going to be teacher's pet.
+LEADFEMALE:So all right, there we go.
+SUPMALE:Corn flakes, girls The most important ingredient in tonight's entree.
+SUPFEMALE:Why do we need that? How else you think we're going to turn 2 pounds of ground beef into 11 pounds of mouth-watering meat loaf? And the leftovers stay crunchy in milk.
+SUPMALE:All right, suck-up, hand me a box there.
+LEADFEMALE:Oh, nay.
+LEADMALE:That's the name brand.
+SUPFEMALE:Here, Meryl.
+LEADMALE:Bon appetit.
+SUPFEMALE:We have to go for the generic.
+LEADFEMALE:Why, it's nothing but second best for our family.
+LEADMALE:Wait.
+LEADMALE:My cereal at home is the name brand.
+SUPMALE:No.
+SUPMALE:See, it's just the name brand box.
+LEADFEMALE:I've been refilling it with the cheap stuff Since 1985.
+LEADMALE:You mean I've been eating generic Frankenberries? I'm sorry you had to find out this way, sugar.
+LEADFEMALE:So anyways, all right, we got our hamburger, our corn flakes, our potatoes.
+LEADFEMALE:I say we roll, huh? What about a vegetable? Ketchup.
+SUPMALE:Darlene, go pick up a couple of boxes of Twinkies over there.
+LEADFEMALE:How do they save you money? They're for my brother.
+OTHERFEMALE:Cheaper than karate lessons.
+SUPMALE:Excuse me.
+LEADMALE:We're going to go check out.
+LEADFEMALE:Do you all have your coupons? Yes.
+SUPMALE:Yeah.
+LEADFEMALE:Did you rub off the expiration date like I said? Yes.
+LEADFEMALE:Yeah.
+SUPFEMALE:Ok, we're on a tight schedule.
+LEADFEMALE:Let's roll.
+OTHERFEMALE:Yes, girls, this here is the check-out line.
+LEADMALE:This is where you'll spend the majority of your adult life.
+LEADFEMALE:And this is where they really try to get you.
+LEADFEMALE:It's all about impulse buying, but you got to try to resist the impulse.
+LEADMALE:You got to say, "I do not need anything here.
+SUPFEMALE:" I do not need anything here.
+LEADMALE:Except for these here tootsie rolls.
+LEADMALE:Do you believe this? That woman's on every cover of every one of these papers.
+LEADFEMALE:Look.
+SUPFEMALE:She put a voodoo curse on her ex-husband.
+LEADMALE:She's a damn good singer, though.
+LEADFEMALE:Look what this here guy's buying Vodka, Mallomars, and a TV Guide.
+LEADMALE:I'm thinking, "single and staying that way.
+OTHERMALE:" Ma'am, you have more than 10 items here.
+LEADFEMALE:I got, like, 12.
+SUPFEMALE:Give me a break.
+LEADFEMALE:Move to another line.
+LEADFEMALE:Come on! Those are the rules.
+LEADMALE:All right.
+OTHERFEMALE:I got 12 girls, 12 items.
+LEADFEMALE:I'll give each one an item, we'll be here for 12 years.
+LEADFEMALE:Anybody in a hurry? Ok, ok.
+LEADMALE:I count 10 items.
+LEADMALE:That's why it's called the express line, girls.
+LEADMALE:You get to express yourself.
+SUPFEMALE:Price check on aisle three.
+SUPFEMALE:That's $1.
+LEADMALE:29.
+SUPMALE:Thank you.
+LEADMALE:I don't think it's worth more than that, do you? Aah! Well, girls, this is some of what you're going to be feeding.
+LEADMALE:Are you sure we bought enough? In the kitchen.
+LEADMALE:Roseanne.
+LEADFEMALE:What's going on? Who are all those girls? They're ours, dearest.
+LEADFEMALE:Don't you remember? My god.
+SUPFEMALE:How long have I been asleep? All right, all right, you girls.
+LEADMALE:This is where we're going to turn all these fine and dandy ingredients into a lovely meal that'll make your family look you in the eye and say, "Let's eat out.
+SUPFEMALE:" You, write this down.
+SUPFEMALE:Ok, take that meat and the corn flakes and the tomato sauce, garlic salt, salt, and a couple eggs.
+LEADMALE:Mush them all up and everything.
+LEADMALE:And then put it right here in this cake pan with the brown and black stains on the bottom and cook it at 375.
+LEADFEMALE:All right, girls, there you have it A nutritious meal for five plus two lunches for only 12.
+LEADFEMALE:73.
+LEADMALE:Cheaper than fast food, faster than cheap food, and that is what I call home economics.
+LEADMALE:How long do we cook it? Till the oldest kid comes down and whines, "oh, god, not meat loaf again!" Call me when you're ready.
+LEADFEMALE:Wait.
+LEADMALE:I don't see why I have to be stuck in this kitchen cooking dinner for this family.
+SUPFEMALE:Yeah! Yeah! Yeah, why? This is a proud, proud, proud moment for me, girls.
+OTHERFEMALE:Now you're sounding like real housewives.
+OTHERMALE:I can't believe they're in there cooking us dinner.
+LEADMALE:Could they tune up the truck for extra credit? I suppose that depends on how nice you're going to be to the teacher.
+LEADMALE:Mmm, mmm, mmm.
+SUPFEMALE:Excuse me.
+LEADFEMALE:What kind of salad dressing would you like, Mr.
+SUPMALE:Conner? I don't know.
+SUPFEMALE:Nobody's ever asked me that before.
+SUPFEMALE:Oh, you're just confusing him now, Susie.
+LEADMALE:Orange or red, Dan? Oh, orange.
+SUPFEMALE:It's the Thousand Island in the door of the fridge.
+SUPFEMALE:Now, where were we, my pet? Appetizers.
+LEADFEMALE:Oh, nobody needs to see that! Someone just pulled in our driveway.
+LEADMALE:Who? I don't know.
+LEADMALE:He looked angry.
+LEADMALE:You want to get that? Ok.
+LEADFEMALE:Jeez.
+LEADMALE:Conner? Possibly.
+LEADFEMALE:I'm Jim Morgan, Kevin Morgan's father.
+OTHERMALE:That's the kid that's beating up on d.j. That's not what I heard.
+OTHERMALE:Kevin came home with a fat lip today.
+LEADMALE:Said if he doesn't bring d.j. Two Twinkies tomorrow, he'll get it again.
+LEADMALE:You're saying d.j. Was beating up your kid? That's terrible! d.j. , come on down here now! Yeah, step on it, killer! No sudden moves.
+OTHERMALE:We don't want to rile him.
+SUPFEMALE:Yeah? Come over here.
+LEADFEMALE:This is the kid? d.j. , uh, this is Kevin Morgan's dad.
+LEADFEMALE:Uh-oh.
+SUPFEMALE:He says you've been beating on his kid.
+LEADMALE:Is it true? Wait.
+OTHERMALE:Something's wrong.
+LEADFEMALE:Kevin could take this kid apart.
+OTHERFEMALE:d.j. , what's going on? Kevin was picking on me, so I got somebody else to pick on him.
+LEADMALE:I hired a bodyguard.
+SUPMALE:It cost me one Twinkie every day.
+SUPFEMALE:My god, Dan.
+LEADFEMALE:It's the famous Twinkie defense.
+OTHERFEMALE:I don't buy it.
+LEADFEMALE:Why wouldn't he just tell me about this bodyguard? Who's the bodyguard, Deej? Maxine Spencer.
+LEADFEMALE:Ah.
+LEADMALE:Well, enough said, huh, Morgan? That is one twisted little kid you got there.
+LEADFEMALE:That twisted little kid was just defending himself.
+LEADFEMALE:Your kid started the whole thing.
+LEADFEMALE:I want you to call this off.
+LEADFEMALE:Not until you call your kid off.
+OTHERMALE:You don't tell me what to do.
+OTHERFEMALE:Settle down, or I'll give my wife a doughnut to kick your butt.
+LEADFEMALE:I'm out of here.
+SUPMALE:All right, Einstein! Dan.
+OTHERMALE:What? Don't encourage him.
+SUPFEMALE:Kid's a genius! He's an extortionist.
+LEADMALE:So, what, now I'm buying Twinkies for Maxine instead of Kevin? No.
+LEADFEMALE:I told Kevin I'd call Maxine off if he gives me two Twinkies every day.
+LEADMALE:Then I give one to Maxine and eat the other one.
+SUPFEMALE:Doesn't cost you anything.
+OTHERMALE:He is a genius.
+LEADFEMALE:What are you doing out here? I just wanted to tell you I learned something important today.
+SUPMALE:Your job is important, and it's tough.
+OTHERFEMALE:I'll marry a rich guy so I don't have to do any of it.
+OTHERMALE:Aw.
+SUPMALE:The student surpasses the teacher, grasshopper.
+LEADMALE:Oh, god, not meat loaf again! It's ready! After you, godfather.
+LEADMALE:Rose? Rosie? Honey! Rose? Arrggghh! I told you, Dan.
+SUPMALE:Size means nothing! Rosie? Aah! Grrrr.
+SUPFEMALE:Urghhh.
+LEADFEMALE:If you start to black out, tap me twice.
+SUPFEMALE:Want a beer, Jack? Not right now.
+LEADMALE:You give up? You give up? Ahh.
+SUPFEMALE:Ohh! No! Aah!
+LEADMALE:

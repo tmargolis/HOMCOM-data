@@ -1,0 +1,506 @@
+LEADMALE:No, don't touch a thing.
+SUPMALE:Don't do anything until I get there.
+SUPMALE:I've gotta go home.
+LEADFEMALE:We've got major plumbing problems.
+LEADFEMALE:Oh, Steven, I don't want you to miss my song.
+LEADFEMALE:Don't worry.
+SUPFEMALE:I'll only be gone a little bit.
+LEADFEMALE:There's plenty of time before you go on.
+OTHERMALE:Gus, I'll be back in a few minutes.
+LEADFEMALE:Well, I guess I'll rehearse.
+OTHERMALE:Okay, Elyse.
+LEADMALE:You're on after the magician.
+SUPFEMALE:Well Well, I don't wanna sing if Steven's not here.
+OTHERMALE:We'll clap really loud no matter how bad you sing.
+LEADMALE:Hey.
+LEADFEMALE:Your wife's on television.
+OTHERMALE:Ahh! Ahh! Ahh! Wow.
+OTHERFEMALE:She really nailed it that time.
+LEADFEMALE:I think I'm going into labor.
+LEADFEMALE:Labor? Steven, if you're watching, meet me at the hospital.
+LEADMALE:Elyse, I'll be there in 15 minutes.
+OTHERMALE:Be there in ten minutes! Ten minutes, and I'll get your suitcase.
+SUPFEMALE:A- and don't forget my suitcase! Stop nagging.
+LEADMALE:I'm coming.
+SUPMALE:## I'll bet We've been together ## ## For a million years ## ## And I'll bet We'll be together ## ## For a million more ## ## Ooh, it's like I started breathin' ## ## On the night we kissed ## ## And I can't remember ## ## What I ever did before ## ## What would we do, baby ## ## Without us? ## ## What would we do, baby ## ## Without us? ## ## And there ain't No nothin' ## ## What would we do, baby ## ## Without us? ## ## Sha-la-la-la ## I thought I'd anticipated every possible situation.
+SUPMALE:Prepared for every contingency.
+LEADFEMALE:But I never expected my wife would go into labor on television.
+LEADMALE:Well, that's the one most people overlook.
+SUPFEMALE:Oh.
+LEADMALE:Come in.
+LEADMALE:Oh, Mr.
+LEADFEMALE:Keaton.
+LEADMALE:Ah, boy.
+SUPFEMALE:Were you watching TV just now? Yes, Skippy.
+SUPFEMALE:I saw the whole thing.
+LEADMALE:Was it not amazing? A mid-court shot at the buzzer.
+SUPFEMALE:Phew! Skippy, what are you talking about? The basketball game.
+LEADFEMALE:What are you talking about? Mrs.
+LEADFEMALE:Keaton just went into labor! Oh.
+OTHERMALE:Heh.
+OTHERFEMALE:Imagine that.
+LEADMALE:We were talking about two completely different things.
+SUPMALE:Mrs.
+SUPMALE:Keaton's going into labor! Wait a minute.
+SUPFEMALE:That means she's gonna have the baby! Who are you? I'm the plumber.
+OTHERFEMALE:Shouldn't you be a doctor? I'm not here to deliver a baby.
+SUPFEMALE:I'm here to fix the plumbing.
+SUPMALE:You're doing a nice job.
+LEADFEMALE:So, uh, tell me, where's Mrs.
+LEADFEMALE:Keaton? Mrs.
+LEADFEMALE:Keaton just went into labor down at the TV station.
+LEADMALE:That's where Mr.
+OTHERFEMALE:Keaton is going now.
+SUPMALE:Now? Oh it's really snowing outside.
+LEADFEMALE:Why doesn't he just stay home here with us and watch it on TV? All right! I think I have 
+LEADFEMALE:ChapStick, towels, lollipops, a fan, uh, two tennis balls and a bottle of champagne.
+OTHERFEMALE:Where you going, Club Med? Bud, you do whatever you need to do to fix this plumbing.
+LEADMALE:We're gonna have a baby! So who won the basketball game? I don't know.
+OTHERFEMALE:It went into overtime.
+SUPFEMALE:So what do you wanna do? You wanna watch the basketball game, or you wanna watch Mrs.
+OTHERMALE:Keaton giving birth? We'll flip back and forth.
+SUPFEMALE:Oh.
+LEADMALE:The damn car is stuck in the snow.
+SUPMALE:Skippy, Bud, you mind giving me a hand pushing it out? Oh, sure.
+SUPFEMALE:Yeah.
+OTHERMALE:Yeah.
+SUPFEMALE:Uh-oh.
+LEADFEMALE:What? You don't have tire chains in that Lamaze bag of yours, you're not going anywhere.
+LEADMALE:You want me to check? What do you mean, Bud? I didn't know it was snowing that hard out.
+LEADMALE:You'll never get your car out of there.
+SUPMALE:Well No.
+OTHERFEMALE:This is terrible.
+SUPFEMALE:All right.
+LEADFEMALE:Mr.
+LEADMALE:Keaton, we'll take my bike.
+LEADFEMALE:No.
+LEADFEMALE:We'll take my truck.
+OTHERMALE:I got chains on.
+SUPFEMALE:And besides, I never get stuck.
+LEADMALE:Good.
+SUPMALE:All right.
+OTHERFEMALE:Come on, kid.
+LEADFEMALE:You better come with us in case we get stuck.
+SUPMALE:But you said you Shut up, kid.
+LEADMALE:Shotgun! Skippy! I got shotgun.
+LEADFEMALE:Okay.
+LEADMALE:All right, Mom.
+LEADMALE:All right.
+OTHERFEMALE:Just stay calm, okay?! The important thing here is thatyoustay calm! I can, uh, handle everything.
+SUPFEMALE:Well, I can't handle everything.
+LEADFEMALE:But if youstay calm, we're okay.
+SUPFEMALE:Alex, why don't you stay calm? Okay, fair enough.
+OTHERFEMALE:That's a start.
+LEADMALE:We should stop standing around and get Mom to the hospital.
+LEADFEMALE:Hospital.
+LEADFEMALE:Hospital.
+SUPMALE:Good.
+LEADMALE:Uh, Jen.
+SUPFEMALE:Uh, let's get the coats.
+LEADMALE:All right.
+SUPMALE:Does it hurt, Mom? No.
+SUPMALE:No, it's not bad.
+LEADMALE:Just a little twinge now and then.
+LEADFEMALE:You know, it's funny.
+LEADMALE:I could've sworn this wouldn't be till next month.
+LEADFEMALE:Um, is there anything I can do to help? Yeah, start thinking of names.
+LEADMALE:We don't have one.
+LEADMALE:Um, how about "Early" Keaton? How you feeling, Elyse? Well, I'll tell you, Gus, I don't think I'm gonna finish my song.
+SUPFEMALE:Oh, boy, boy, boy.
+SUPMALE:Those pledges have been pouring in like crazy.
+LEADFEMALE:I mean, that audience really got excited when you went into labor.
+SUPFEMALE:Man, we should do this every year.
+SUPMALE:Don't look at me.
+OTHERFEMALE:Oh, oh, oh, oh.
+OTHERFEMALE:Jackie, Jackie, Jackie.
+LEADMALE:Listen, Elyse has gone into labor.
+SUPMALE:Now, she can't finish her song.
+OTHERMALE:You've gotta go back on, okay? This is my big chance.
+LEADMALE:My big break.
+LEADFEMALE:Oh, thank you, Mrs.
+LEADFEMALE:Keaton.
+LEADMALE:Thank you.
+SUPFEMALE:Anytime.
+LEADFEMALE:Okay, Mom.
+LEADFEMALE:All right.
+LEADFEMALE:Let's go.
+LEADMALE:I'll drive.
+SUPMALE:Uh, you ready? I couldn't be readier.
+LEADMALE:All right, let's go.
+LEADMALE:Okay.
+LEADFEMALE:Ah.
+SUPFEMALE:Ah.
+LEADMALE:Oh.
+SUPFEMALE:There she goes, ladies and gentlemen.
+SUPMALE:Huh? You know, I love new babies, 'cause they're the only people who haven't heard my jokes.
+SUPFEMALE:Hey, uh, any new babies in the audience? Huh? Raise your rattles.
+OTHERMALE:Ha-ha.
+OTHERMALE:Hey, how many of you babies are from out of town, huh? Hey, that was fast.
+SUPMALE:Was it a boy or a girl? Well, uh We can't leave.
+LEADMALE:The guard said the roads are impassable.
+LEADFEMALE:We're, uh, gonna have to try again in a little while, Mom.
+SUPFEMALE:I'm afraid not.
+LEADMALE:Things are happening a lot faster than I thought.
+LEADFEMALE:I'm not going anywhere.
+SUPMALE:Ah, Mom, will you just control yourself? I'm doing the best I can.
+LEADFEMALE:Ah Ah, Gus, what are we gonna do? I'm not sure.
+LEADMALE:But just don't panic, okay? Right.
+OTHERFEMALE:Okay.
+LEADMALE:Don't panic.
+SUPMALE:Don't panic.
+SUPFEMALE:Don't panic.
+LEADFEMALE:Is there a doctor in the house?! Anywhere! That's a good question.
+LEADFEMALE:Is there a doctor here? Because if there is, I've got this Uh, no.
+LEADFEMALE:Jackie.
+OTHERMALE:thing in my back No.
+LEADFEMALE:Please, is there a doctor in the house? Yeah.
+SUPFEMALE:Uh, maybe I can help you.
+LEADMALE:I'm Dr.
+LEADFEMALE:Witt.
+LEADMALE:What? Witt.
+LEADFEMALE:Wow.
+SUPFEMALE:Mom, we have a doctor.
+SUPFEMALE:Right here.
+LEADFEMALE:Oh, thank God.
+LEADFEMALE:Uh, I j You're the one who's pregnant, right? Yeah, I Are you an obstetrician? A botanist.
+LEADFEMALE:A botanist? Yeah.
+LEADMALE:Plants.
+OTHERMALE:Hubert Witt, Ph.
+OTHERFEMALE:D.
+OTHERMALE:You mean you're not a real doctor? I resent that.
+OTHERMALE:Uh, look, no offense.
+SUPMALE:It's just that we need somebody to help us deliver a baby.
+LEADMALE:But how different can it be, you know? A bee carries pollen from flower to flower.
+LEADFEMALE:A man, a woman Uh, no.
+OTHERMALE:Thanks.
+SUPMALE:Thank you.
+LEADMALE:Boy, you try to help people and Dr.
+LEADMALE:Witt, ladies and gentlemen.
+LEADMALE:The plant doctor.
+OTHERMALE:Mom, what are we gonna do? I Mom, couldn't you and Dad have planned this little event for the summer? Maybe next time.
+LEADMALE:Next time? Look.
+LEADMALE:We have no choice.
+LEADFEMALE:I think we're gonna have to have the baby here.
+OTHERMALE:And we'll be back with that baby in just a few minutes.
+OTHERFEMALE:Uh, excuse me.
+LEADFEMALE:My name is Erwin Handleman.
+LEADFEMALE:We're having a baby.
+OTHERFEMALE:He's carrying low.
+LEADMALE:Not Not me.
+LEADFEMALE:Him.
+LEADMALE:Hi.
+SUPMALE:I'm Steven Keaton.
+OTHERFEMALE:I'm his neighbor.
+OTHERMALE:And I'm his plumber.
+LEADFEMALE:Well, that's everyone we need.
+SUPMALE:Let's get you three into delivery.
+LEADMALE:My wife is the one who's having the baby.
+SUPMALE:She's already here.
+LEADMALE:Her name is Elyse Keaton.
+LEADMALE:One moment.
+LEADFEMALE:That's with a K.
+LEADMALE:Well, I'm sorry, Mr.
+SUPMALE:Keaton, but your wife isn't registered in this hospital.
+SUPMALE:That's impossible.
+LEADMALE:She's in labor.
+LEADFEMALE:And thisis our hospital.
+SUPMALE:Uh, she's probably in Delivery right now.
+SUPMALE:Probably took her right in Uh, Mr.
+SUPFEMALE:Keaton I'm sorry, sir, but no Elyse Keaton has been admitted.
+SUPMALE:Thanks for your help, Don.
+LEADFEMALE:They should all go as well as that one did.
+SUPFEMALE:Oh Dr.
+SUPMALE:Alexander? Hi.
+LEADMALE:Steven Keaton.
+LEADMALE:How is she? Oh.
+OTHERFEMALE:Hi, Steven.
+LEADFEMALE:Oh, she's fine.
+LEADMALE:Just fine.
+SUPFEMALE:And the baby? A 7-pound girl.
+SUPFEMALE:Congratulations, Mr.
+LEADFEMALE:Keaton! Congratulations.
+LEADFEMALE:Wonderful.
+LEADFEMALE:A girl.
+LEADMALE:Can I Can I see her now? I didn't know you knew the Dorfmans.
+SUPMALE:Th The The Dorfmans? Uh, n Not Elyse? No.
+LEADMALE:Is Elyse here? She was down at the station.
+LEADFEMALE:I was at home checking on the plumbing, and I saw her go into labor on television.
+LEADMALE:Hm.
+LEADFEMALE:We'd better get down there.
+SUPMALE:I'll go get my things.
+SUPMALE:But she She could be on her way over here.
+OTHERFEMALE:I'd better call, see what's going on.
+SUPMALE:Nice hospital, kid.
+LEADFEMALE:Were you born here? Me? Oh, I- I don't know.
+OTHERMALE:I was adopted so I wasn't at my birth.
+SUPMALE:Uh Look.
+SUPMALE:Uh, Mr.
+LEADMALE:Keaton.
+LEADFEMALE:Look there on the TV.
+OTHERFEMALE:Not now, Skippy.
+SUPMALE:I'm trying to call my wife.
+LEADMALE:ELYSE Steven, if you're watching, I couldn't make it to the hospital.
+OTHERFEMALE:I'm still here at the station.
+OTHERFEMALE:Don't go to the hospital.
+LEADFEMALE:But I'm already at the hospital.
+LEADMALE:Come right to the station, Steven.
+OTHERFEMALE:Are you out th That was Elyse Keaton, ladies and gentlemen, who is in labor at this very moment.
+SUPFEMALE:Now, tell me, when was the last time you saw something like that on commercial television? So let's keep those pledges coming in.
+LEADMALE:Yeah.
+SUPMALE:Uh, Steven, if you If you can hear me, I- I-I'm at the station.
+OTHERFEMALE:Don't go to the hospital.
+LEADFEMALE:Now, that number is All right.
+SUPMALE:Try that number.
+SUPFEMALE:Tell her I'm on my way.
+LEADFEMALE:Doc! Bud! Skippy! Come on! those phones are just Oh! ringing off their hooks.
+LEADMALE:Thank you for your generosity.
+OTHERMALE:And if that line is busy please keep trying.
+SUPFEMALE:Okay, Mom.
+SUPFEMALE:Now, just relax.
+LEADMALE:Okay.
+LEADFEMALE:It's dark in here.
+LEADFEMALE:Oh, no.
+LEADMALE:The power's out.
+LEADFEMALE:Mom, what are we gonna do? It's back on.
+LEADFEMALE:What a break.
+OTHERMALE:Okay, Mom.
+LEADMALE:Just take it easy.
+LEADMALE:Just relax.
+LEADFEMALE:We'll handle everything.
+SUPMALE:Okay.
+SUPMALE:You just gotta tell us one thing What? Tell us what to do.
+OTHERMALE:Well, uh, for now, all we can do is keep track of the contractions.
+SUPFEMALE:See how far apart they are.
+LEADFEMALE:And that'll let us know how soon the baby's gonna come.
+LEADMALE:I got it, Mom.
+LEADMALE:I bet these are the first contractions ever to be timed on a Duran Duran watch.
+LEADMALE:It's same as any other watch, Mallory.
+LEADFEMALE:See, when the big Duran's on the 9 and the little Duran's on the 8 Here, Elyse.
+LEADFEMALE:I brought you ice water.
+SUPFEMALE:Oh, thank you, Gus.
+LEADFEMALE:Oh, Elyse.
+OTHERFEMALE:Thanks to you, we've set an all-time record for pledges.
+SUPMALE:Over $70,000.
+OTHERFEMALE:You know, Robert Mathison says he'll pledge $1,000 if you'll have a boy.
+LEADFEMALE:What do you think of that, huh? Well, I I'll do my best.
+LEADFEMALE:Oh, thank you.
+OTHERFEMALE:But I've gotta get back.
+LEADMALE:Mom.
+LEADFEMALE:H-how can you be so calm? You are about to have a baby in a In a nonmedical, nonprofessional nonprofit environment.
+LEADFEMALE:Well, it It could be worse, honey.
+LEADFEMALE:It If I-I'm in a familiar setting, I I'm surrounded by my family.
+LEADFEMALE:Sure, my husband's not here, but got a picture of him.
+OTHERFEMALE:Oh.
+OTHERFEMALE:C-contraction.
+LEADFEMALE:Uh, Mallory, Jennifer, how How far apart are they? Uh, about 3 feet.
+OTHERMALE:No.
+LEADFEMALE:I meant the contractions.
+SUPFEMALE:They're about Oh! Ten minutes! Uh, 10 minutes! Mom.
+SUPMALE:Do you know what this means? What does this mean? Alex, listen.
+SUPMALE:Please.
+LEADFEMALE:I'm depending on you.
+LEADMALE:I need you, all right? All right.
+LEADMALE:Jennifer, Mallory, find Gus.
+SUPMALE:Tell him we need some blankets, sheets, towels and hot water.
+OTHERMALE:Oh, and, uh, they do a medical show, right? Oh On stage 2? They got a gurney down there.
+LEADMALE:Find some guys in the crew and bring it up here, okay? Okay.
+OTHERFEMALE:Hey, you could use this to time Mom's contractions.
+LEADMALE:See, when the big Duran's on the 8 and the little Duran's on the 7 Jennifer.
+LEADFEMALE:and the Je Uh, I'll use my own watch, okay? It's got numbers.
+OTHERMALE:Okay, Mom I'm gonna stay here with you.
+LEADMALE:Now, that's more like it.
+LEADMALE:I'm calm.
+SUPFEMALE:We're organized.
+SUPFEMALE:I feel better already.
+OTHERMALE:Okay.
+SUPMALE:Changed your mind yet? Need an expert? Well, I I think I'm well within my rights not to be examined by a botanist.
+SUPMALE:Young lady, the reproductive processes can be remarkably similar in totally different species.
+LEADMALE:When were you last watered? Uh, doc Uh, doc, thanks Thanks very much for your concern.
+SUPFEMALE:And, uh, we appreciate it, but we really don't think there's anything you can do to help.
+SUPMALE:Okay, okay.
+LEADMALE:I'm leaving.
+LEADFEMALE:Good luck, Mrs.
+LEADFEMALE:Keaton.
+SUPFEMALE:Try to keep her near the window.
+LEADFEMALE:Make sure she gets plenty of sunlight.
+LEADFEMALE:Hello? Oh, honey, thank goodness you called! Where are you? I need you! You are? Well, uh I'll I'll do my best, but they're You will? Okay, sweetheart.
+LEADFEMALE:I love you.
+LEADMALE:Okay, bye.
+SUPFEMALE:Who was that? That was your dad.
+SUPMALE:Oh.
+LEADFEMALE:He's on his way here with Dr.
+LEADFEMALE:Alexander.
+LEADFEMALE:A- and Skippy and the plumber are with him.
+LEADMALE:Oh, what a relief.
+LEADFEMALE:For a second there, I thought the plumber wasn't gonna make it.
+LEADMALE:I'm not even sure that they'll make it.
+SUPFEMALE:He He called from a payphone.
+LEADFEMALE:He said that the traffic and that the storm is terrible.
+LEADMALE:Well, uh, here.
+OTHERMALE:Well, I'm I'm here with you, Mom.
+LEADFEMALE:I gotta admit it, Alex.
+LEADMALE:I'm getting a little scared.
+LEADMALE:Yeah.
+SUPMALE:Well, uh, Mom I know exactly how you feel.
+LEADMALE:Well, not exactly.
+LEADFEMALE:But, uh I know this can't be easy for you.
+LEADFEMALE:This is not the way it's supposed to be.
+LEADMALE:There's supposed to be a doctor here.
+SUPMALE:There's supposed to be a husband here.
+SUPMALE:There's supposed to be a hospital here.
+LEADFEMALE:Uh, look, Mom I'm sorry that I panicked earlier.
+LEADMALE:It It's just that I don't know, whenever there's a problem or Or a crisis of some kind, it's always you or Dad who handle it.
+SUPFEMALE:I mean, this is a new world for me.
+SUPFEMALE:Well, it suits you, honey.
+SUPMALE:Thanks, Mom.
+LEADMALE:Well, uh, you've done this birth thing before, so you just tell me what you need.
+LEADMALE:Well, for now, uh all I need is for you to be supportive, comforting and strong.
+SUPMALE:And if there's time, go to medical school.
+LEADFEMALE:Bud, when do you think we'll get there? Well, Mr.
+LEADFEMALE:Keaton, we're doing 2 miles an hour.
+LEADMALE:The next exit is three miles down the road.
+LEADFEMALE:By my best calculations, we should get there, uh Thursday Friday by the latest.
+LEADFEMALE:Ah.
+OTHERMALE:Oh, great.
+SUPMALE:Now we're not even moving.
+LEADMALE:Dr.
+LEADMALE:Alexander, what if we can't get there in time? All I can say, Steven, is I mean, it's not ideal, but billions of women have given birth without a doctor's aid.
+OTHERFEMALE:It's a completely natural function, and your wife is a very healthy woman.
+SUPMALE:There's every reason to believe that she'll be fine.
+LEADMALE:Thank you, doc.
+LEADFEMALE:I feel better.
+SUPFEMALE:Clear the road! We're having a baby! It's no use.
+SUPMALE:Oh, Mr.
+LEADMALE:Keaton, you gotta calm down.
+OTHERMALE:You heard what the doctor said.
+OTHERMALE:Mrs.
+LEADMALE:Keaton's gonna be fine.
+LEADFEMALE:Everything's gonna be okay.
+LEADMALE:Your wife don't need you hanging around while she's having that kid.
+SUPFEMALE:Yeah.
+SUPFEMALE:Heck, my wife had six kids without me.
+LEADMALE:Well, you know what I mean.
+LEADFEMALE:Bud, I I know it's possible for her to have a baby if I'm not there.
+LEADFEMALE:But Elyse and I are a team.
+OTHERMALE:We, uh wanna bring this baby into the world together.
+OTHERFEMALE:After all, moments like this don't happen every day.
+SUPFEMALE:This'll probably be the last baby we ever have.
+SUPMALE:I I just wanna be there with her.
+LEADMALE:Clear the road! Get out of the way! Get out of the way! Okay, Mom.
+LEADFEMALE:Got everything.
+LEADFEMALE:Got the towels, the sheets, the hot water.
+SUPFEMALE:I asked around for lollipops, but the best I could do was a six-pack of Bud and some chewing tobacco.
+LEADMALE:I'll take the tobacco.
+LEADMALE:Is there anything else, Mom? Well Okay, I'd really like to lie down now.
+LEADFEMALE:Could you check on the gurney? Well, I'll get it, Mom.
+LEADMALE:Uh, Jen, why don't you and, uh, two Durans come with me.
+LEADMALE:Hey.
+SUPFEMALE:Try not to have the baby until I come back.
+OTHERMALE:Okay, Mom? All right.
+SUPFEMALE:You're gonna do great.
+SUPMALE:I know you are.
+SUPFEMALE:Thank you, honey.
+LEADFEMALE:Uh Oh.
+SUPFEMALE:You're really having the baby.
+OTHERMALE:Yeah.
+LEADMALE:You know, for the first time, it's starting to seem real to me.
+LEADFEMALE:You're not the only one.
+LEADFEMALE:You know, when I think of having babies myself someday, I get real nervous.
+LEADMALE:What makes you nervous? Oh.
+LEADMALE:I don't know.
+LEADFEMALE:Everything about it.
+SUPMALE:I mean, how do you know what to do when the baby won't fall asleep? Well, you just You follow your instincts.
+LEADFEMALE:Well, how do you know what to do when the baby won't stop crying? Well, you'll know when it happens.
+LEADFEMALE:I mean, I don't even know what to say when your baby tells you she's old enough to stay out past midnight.
+LEADMALE:Forget it, Mallory.
+LEADMALE:Thought I could slip that by you.
+SUPMALE:No.
+LEADFEMALE:Oh, Mom, you're gonna be a terrific mother for this baby.
+LEADFEMALE:Mm.
+OTHERFEMALE:And I know that if I have kids someday, if I turn out to be a great mother, it's 'cause I had a great mother like you.
+LEADMALE:Thank you, sweetheart.
+SUPFEMALE:Here you go, Elyse.
+SUPFEMALE:Everything you need to become a new mother.
+LEADFEMALE:Except the baby.
+LEADMALE:You have to supply that.
+LEADFEMALE:Okay, now, let's, uh Let's get you onto this bed.
+LEADMALE:Ah, yeah.
+LEADMALE:Yeah, thanks.
+LEADMALE:Mom, grab around my neck there.
+OTHERMALE:All right.
+LEADMALE:Let me try it another way.
+LEADFEMALE:Uh Uh Okay.
+OTHERFEMALE:Okay.
+LEADFEMALE:Oh, yeah.
+OTHERMALE:Thank you, that's better.
+OTHERMALE:It's the least we could do, Mom.
+OTHERFEMALE:Oh, hi! Oh, honey.
+LEADMALE:I'm sorry we're late.
+LEADFEMALE:We stopped for a bite to eat.
+SUPFEMALE:Good going, Elyse.
+OTHERFEMALE:We're almost there.
+LEADMALE:Oh, thank God.
+LEADMALE:Well, you're doing fine, Elyse.
+SUPMALE:Thank you, Steven.
+LEADFEMALE:I'm so glad you're here.
+LEADFEMALE:Oh, me too.
+SUPFEMALE:Wouldn't seem right having the baby without you.
+LEADMALE:Oh, it wouldn't have felt right to me if you weren't here.
+OTHERMALE:Oh! Oh! Here it comes! push! Here it comes! Push.
+LEADFEMALE:Good girl, Elyse.
+LEADFEMALE:Here it comes.
+LEADFEMALE:Push! Push! Go, baby.
+SUPMALE:Come on.
+OTHERMALE:Oh.
+OTHERMALE:We did it.
+LEADFEMALE:You have a beautiful baby boy.
+OTHERMALE:Oh, Steven.
+LEADFEMALE:Oh.
+LEADFEMALE:A boy, Elyse.
+LEADMALE:A boy! Now we have two of each.
+LEADMALE:Now, wait a minute.
+LEADMALE:Let me see.
+LEADFEMALE:One, two Yeah, two of each! Two of each.
+LEADMALE:You wanna go for the tiebreaker? Not tonight, honey.
+OTHERMALE:I had a long drive.
+LEADMALE:Oh.
+LEADFEMALE:Oh.
+LEADMALE:Oh, he's beautiful.
+LEADFEMALE:Like his mother.
+LEADMALE:Oh, no, Steven.
+LEADFEMALE:Look, he has your eyes.
+LEADFEMALE:Maybe those are my eyes, but that is your nose.
+LEADMALE:I'd know it anywhere.
+SUPMALE:You were great, Elyse.
+LEADMALE:Oh, thank you, love.
+SUPFEMALE:Oh, so were you.
+SUPMALE:Can we come in? We heard a baby.
+OTHERFEMALE:Uh, we thought it might be yours.
+SUPMALE:Come on in.
+SUPMALE:Oh, wow.
+LEADMALE:It's a boy.
+SUPFEMALE:Thank you! Oh.
+LEADMALE:Thank you.
+OTHERMALE:Thank you.
+SUPMALE:Thank you.
+LEADFEMALE:Oh! Oh.
+LEADMALE:If we could handle Alex, we can handle him.
+SUPMALE:No problem.
+SUPMALE:Wow.
+LEADMALE:Oh, wow.
+SUPMALE:It's a boy.
+SUPFEMALE:Oh.
+SUPFEMALE:Aww Congratulate me, Bud.
+LEADFEMALE:I'm a neighbor for the fourth time.
+LEADFEMALE:Bud, I never would have gotten here in time if it weren't for you.
+SUPFEMALE:Think nothing of it, Mr.
+SUPFEMALE:Keaton.
+LEADFEMALE:I'm not even gonna charge you for the overtime.
+LEADFEMALE:Come on, neighbor.
+LEADFEMALE:Come on, plumber.
+LEADFEMALE:Let's leave this family alone for a while.
+LEADFEMALE:Oh, he's so cute.
+LEADFEMALE:Yeah.
+SUPFEMALE:He looks just like me.
+SUPFEMALE:Oh! Oh, great.
+LEADMALE:

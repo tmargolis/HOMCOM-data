@@ -1,0 +1,351 @@
+SUPFEMALE:Thanks for dinner, Mrs.
+SUPFEMALE:Keaton.
+LEADFEMALE:Everything was delicious.
+SUPMALE:Yes, my, uh My wife has a way with seaweed.
+LEADMALE:Oh.
+SUPFEMALE:What's this over here? That's cooked lawn.
+LEADMALE:Tsk.
+LEADFEMALE:I mow it.
+LEADFEMALE:I rake it.
+SUPMALE:And I cook it.
+SUPMALE:Come on, Elyse.
+SUPFEMALE:Uh, we better get going.
+OTHERFEMALE:The car dealers close in an hour.
+LEADMALE:What kind of car you thinking of buying? A sports car.
+SUPFEMALE:A station wagon.
+SUPFEMALE:Mallory, the whole reason for buying a new car is to have more room for the baby.
+LEADMALE:What would be the point of buying a sports car? I'd look great in one.
+LEADFEMALE:Come on, Mallory, they'd be crazy to let you drive the new car, anyway.
+LEADMALE:I happen to be a good driver, Alex.
+SUPFEMALE:I passed my road test on the third try, and I almost passed on the second try.
+OTHERMALE:And she could have if the examiner hadn't been thrown from the car.
+SUPFEMALE:Personally, I don't care what kind of car we buy, What are you guys gonna do tonight? Well, Alex and I are gonna interview some students for our new business, the Jarrett and Keaton Tutorial Service.
+LEADFEMALE:That's right Wait a minute.
+LEADMALE:Wait a minute.
+OTHERFEMALE:You mean, the, uh, Keaton and Jarrett Tutorial Service.
+LEADFEMALE:Keaton and Associates.
+LEADFEMALE:Why not just Keaton? All right.
+OTHERMALE:Okay.
+OTHERFEMALE:Have it your way.
+LEADFEMALE:Who would come to you guys to be tutored anyway? We could get rich off your friends alone, Mal.
+SUPMALE:Well, I think it's nice to see you guys cooperating for a change.
+LEADMALE:Well, what doesthatmean, Mom? Oh, come on.
+LEADFEMALE:You two are the most competitive guys I know.
+LEADMALE:Us? Compete? What do we ever compete over? Okay, Elyse, you ready to go? Yeah, I'm all set.
+LEADFEMALE:Uh, Jen, you'll look after the, uh The baby? I think Alex will be okay on his own, Mom.
+SUPMALE:Oh, you mean, the other baby.
+LEADFEMALE:Yeah.
+LEADMALE:Yeah, I'll stay.
+LEADFEMALE:We'll see you later.
+LEADMALE:Yeah, hopefully, in a Maserati.
+LEADMALE:Bye-bye.
+SUPFEMALE:Good night.
+LEADMALE:Okay, let's get this place cleaned up.
+SUPMALE:We are professional tutors now.
+LEADFEMALE:We gotta make a good impression on our tutees.
+SUPMALE:We are gonna have a very successful business, andwe're gonna be providing a service for the college community.
+LEADFEMALE:And we're gonna be rich! Right.
+OTHERMALE:And we're gonna split everything down the 
+SUPMALE:54, 46.
+SUPMALE:Keaton, I recognize that look in your eye.
+LEADFEMALE:What look? That competitive look, like when we were teammates in that bicycle race and you kept trying to ride away from me off in your own direction.
+LEADFEMALE:Come on, Jarrett, I saw a shortcut.
+SUPMALE:We were on a tandem bike.
+LEADFEMALE:And so basically, what we offer is a biweekly tutorial on those subjects you're not performing up to your top standards in.
+SUPFEMALE:That's great, but what I really need help in is my schoolwork.
+LEADFEMALE:Well, that's what "tutorial" means, William.
+LEADFEMALE:Oh.
+LEADFEMALE:Okay, well, I'll see you guys Tuesday, then, huh? Hey, by the way, where do I go? Uh, well, the tutorial will take place here, William.
+LEADMALE:I mean, where do I go now? Go home.
+OTHERFEMALE:Go home.
+SUPFEMALE:See you Tuesday, William.
+LEADMALE:Whoo! Okay.
+LEADMALE:Hey, we did it! We bought the Wagonmaster.
+LEADFEMALE:We pick it up next week.
+LEADFEMALE:Whoa! Congratulations.
+SUPFEMALE:Yeah, it's It's economical, it's well-built, it's roomy It's ugly.
+LEADFEMALE:It looks like a refrigerator on wheels.
+LEADMALE:I wanted to get the Panther 4000 Turbo XK.
+SUPMALE:It does zero to 100 in two seconds.
+LEADFEMALE:Mallory, I don't like buying a car that requires a parachute to slow down.
+LEADMALE:I heard the Wagonmaster's a real nice car, Mr.
+LEADFEMALE:Keaton.
+SUPFEMALE:Oh, it is a beauty, James.
+LEADFEMALE:The salesman says it seats eight comfortably and, uh, ten uncomfortably.
+SUPMALE:I'm gonna go check on Andy.
+SUPFEMALE:It's time for his bath.
+LEADFEMALE:Oh, I'll come with you, Elyse.
+SUPFEMALE:I, heh I want to show him these dice.
+SUPFEMALE:Heh-heh.
+SUPMALE:Okay.
+SUPFEMALE:So who's next? Uh, just one more.
+SUPFEMALE:Uh, Robin Green.
+OTHERMALE:I spoke to her on the phone.
+SUPFEMALE:She sounded pretty dull.
+SUPMALE:Hey, if we can tutor William, we can tutor anyone.
+LEADMALE:Hi.
+LEADMALE:I'm, uh I'm Alex Keaton.
+SUPMALE:Robin Green.
+OTHERFEMALE:Nice to meet you.
+OTHERFEMALE:Nice to meet you.
+LEADMALE:Uh, this is my partner, uh, uh, James Jarrett.
+LEADMALE:Hi.
+SUPFEMALE:Uh, come in, come in, come in.
+LEADMALE:Thank you.
+OTHERFEMALE:Would you like something to drink? No, thanks.
+LEADFEMALE:Can I take your coat? All right.
+LEADFEMALE:Uh, please, sit down.
+LEADMALE:Have a seat.
+LEADFEMALE:Have a seat.
+LEADFEMALE:This is a beautiful coat.
+SUPMALE:Thank you.
+LEADMALE:Am I in the right house for the tutoring? Well, uh, William, that just about wraps up today's session.
+SUPFEMALE:How am I doing so far? Not bad.
+LEADFEMALE:You'll do even better next time if you bring your books.
+LEADMALE:Bring books! Bring books! Okay, uh, we'll see you Thursday.
+SUPFEMALE:Right, William? Okay.
+LEADFEMALE:Okay, now, remember, that's this Thursday, the 31st.
+LEADFEMALE:Thirty days has Thursday, April It's a good thing we don't offer a money-back guarantee.
+SUPMALE:Okay, who's next on the schedule tonight? Uh gee.
+SUPFEMALE:Uh, who's next? Uh, Eddie Fenton canceled, so it's just, uh Robin.
+LEADFEMALE:Robin.
+LEADFEMALE:Yeah.
+LEADMALE:Robin.
+LEADFEMALE:Right! Robin! Alex, let's be honest with each other.
+LEADFEMALE:I think it's safe to say that Robin is a girl that one might consider to be attractive.
+OTHERMALE:Really? Yeah, okay, now that you mention it, I I can see how one might find her attractive Sensuous Incredibly erotic.
+LEADFEMALE:Though, personally, I hadn't noticed.
+SUPMALE:I hadn't either, but, you know, if two guys are trying to run a business and they were to compete over something like, say, a girl Oh, pfft! It could destroy the whole foundation of their partnership.
+LEADMALE:Of course it could, so, uh So they shouldn't compete.
+LEADMALE:Right.
+SUPFEMALE:So let's not.
+OTHERMALE:Right.
+OTHERMALE:Let's, uh Let's remain cool.
+LEADMALE:Detached.
+OTHERMALE:Professional.
+SUPFEMALE:Professional.
+LEADMALE:Right.
+LEADMALE:Professional.
+SUPMALE:Right.
+SUPMALE:Hello.
+SUPFEMALE:Robin! Gee, I had completely forgotten it was your night tonight.
+LEADFEMALE:Enter.
+LEADFEMALE:Enter.
+OTHERMALE:Well, I brought my economics and my poetry books.
+LEADFEMALE:Who's gonna tutor me first? I am.
+LEADFEMALE:Well, it doesn't matter to me.
+LEADFEMALE:All I know is that when I study, whatever I do last stays with me best.
+LEADFEMALE:Then, uh Then do poetry first.
+SUPFEMALE:Do poetry, take your time.
+LEADMALE:I'll be, uh, back in, what, roughly 40 minutes.
+LEADMALE:James, that is really funny.
+OTHERMALE:See, I bet you never thought that Aleksandr Pushkin was such an amusing poet.
+OTHERFEMALE:Ooh, but I always suspected it.
+LEADFEMALE:Forty minutes.
+SUPMALE:Time's up.
+LEADMALE:Alex, that could not have been 40 minutes.
+SUPMALE:You guys run a tight ship here.
+OTHERFEMALE:Evidently, though we seem to be a little lacking in professional courtesy.
+SUPFEMALE:Oh, hey, hey, hey, hey.
+OTHERFEMALE:I'm professional, buddy.
+LEADFEMALE:I don't giggle when I tutor.
+LEADFEMALE:You know, James is really wonderful.
+SUPMALE:He is? He is one of the brightest and most interesting people I've met since I've been at Leland.
+LEADFEMALE:Yeah, well, uh Yeah.
+SUPMALE:He does make a good first impression, in a superficial sort of way.
+OTHERFEMALE:Although I-I think you'll find that I'm pretty bright and amusing in my own right, only with more depth.
+LEADFEMALE:I'm sure I will.
+LEADMALE:Uh, uh, Robin, uh would you like to go out with me tomorrow night? That's really nice of you to ask, Alex, but James already invited me to a poetry reading tomorrow night.
+OTHERFEMALE:I can't believe him! Great! Great.
+LEADFEMALE:Excuse me.
+SUPMALE:Alex, can I use the phone in the other room? Sure.
+LEADFEMALE:Go Go ahead.
+LEADMALE:Forgot a book.
+OTHERMALE:How could you? I just forgot it, that's all.
+LEADMALE:Nah, nah, nah.
+LEADMALE:You forgot more than a book.
+LEADMALE:You forgot our agreement.
+LEADMALE:You asked her out! And so did you! How did you know? I was listening at the door.
+LEADMALE:Oh.
+SUPMALE:How dare you.
+LEADMALE:That's it, Jarrett.
+LEADMALE:That's it.
+LEADFEMALE:Our partnership is over.
+OTHERFEMALE:Suits me just fine.
+OTHERFEMALE:Ah It was an ant.
+OTHERMALE:"And make certain to unfasten your seat belt beforegetting out of the car.
+LEADMALE:" Dad, how much longer do we have to do this? There's only one more section to go.
+LEADMALE:Ah.
+SUPMALE:"Your trunk and welcome to it.
+OTHERMALE:" Oh, Steven! Dad! Dad! That's it.
+OTHERFEMALE:I cannot handle it anymore.
+LEADMALE:Now, where are you going? Thought I'd drive the new car over to Chrissie's house.
+SUPMALE:Oh, she's kidding.
+OTHERFEMALE:It's Mrs.
+LEADFEMALE:Ohlbeck! She got the new Panther Turbo.
+SUPFEMALE:I can't believe it.
+SUPMALE:I specifically set aside this time to play with the baby, and he's asleep.
+LEADMALE:Hey, Mom, I love that kid, but he's inconsiderate.
+LEADFEMALE:Alex, you've been in a bad mood all day.
+SUPMALE:What's your problem? It's you, Mallory.
+LEADMALE:Nah, I'm sorry.
+LEADMALE:It's not you.
+OTHERFEMALE:It was just a reflex.
+LEADMALE:It's James.
+SUPMALE:What happened? Oh, Dad, you're not gonna believe this when you hear it.
+OTHERFEMALE:I mean, are you ready for this? He invited Robin Green to a poetry reading.
+SUPFEMALE:And he always seemed so nice.
+SUPFEMALE:No, no, Dad, you don't understand.
+LEADFEMALE:You see, she's one of our tutees.
+SUPMALE:Who's your other T? Ah Anyway You see, James and I are both attracted to this girl.
+LEADMALE:So we made a gentleman's agreement not to ask her out.
+SUPFEMALE:Why? It's obvious, Elyse, without such a contract, they might compete for her and destroy their friendship in the process.
+SUPFEMALE:That's ridiculous.
+SUPFEMALE:They should be stronger than that.
+SUPMALE:Well, Elyse, the male ego is a very fragile thing.
+SUPMALE:Oh, that's stupid.
+LEADMALE:I'm hurt.
+LEADFEMALE:Alex, I'm surprised that James would do such a thing.
+OTHERMALE:Yeah, me too, but he did.
+SUPFEMALE:Well, now, how did you find out about this? Well, because, uh, she told me when I asked her out for tonight.
+OTHERFEMALE:Well, if you asked her out, then you are just as guilty as James.
+SUPFEMALE:No, no.
+OTHERFEMALE:That's not true, Mom.
+LEADFEMALE:You see, I only asked her out because I suspected that James had asked her out, which he had.
+LEADFEMALE:I- it was entirely a defensive move on my part.
+SUPFEMALE:And had we gone out, it It would have been purely a A preemptive tactical date.
+SUPMALE:How romantic.
+SUPFEMALE:Hey, hey, no way! I'm tired.
+OTHERMALE:I don't wanna play now.
+LEADMALE:Coming, Andy.
+SUPFEMALE:Wait.
+LEADFEMALE:Mom, Mom.
+LEADFEMALE:Dad.
+SUPFEMALE:Mallory, uh, Mallory, listen.
+LEADMALE:You gotta help me out with something.
+LEADFEMALE:You're, uh, sort of a girl.
+SUPFEMALE:James and I are both attracted to the same girl.
+LEADMALE:Now, what would you do if you had two good-looking, intelligent guys interested in you? What's that got to do with you and James? Come on, Mallory.
+LEADMALE:All right.
+LEADMALE:Look, if a guy was interested in me, I'd wanna know about it.
+LEADFEMALE:Really? Look, all you can do is express how you feel.
+LEADMALE:And if you and Robin are meant to be together, it'll happen naturally.
+OTHERFEMALE:Just be yourself.
+SUPMALE:Okay.
+SUPFEMALE:See, that's a That's a very sensitive, perceptive point, Mallory.
+LEADFEMALE:Thanks.
+LEADMALE:I read it inCosmopolitan.
+OTHERFEMALE:Well, well! Robin, James.
+LEADFEMALE:What a surprise.
+OTHERFEMALE:Hi, Alex.
+LEADFEMALE:It's good to see you.
+LEADFEMALE:Yeah, well, I never miss a poetry reading.
+LEADFEMALE:I have season tickets.
+LEADMALE:May I have your attention, please.
+OTHERMALE:This evening, the poetry club is pleased to have with us the Horace Newton award-winner for poetry, Zane Axelrod.
+LEADMALE:Mr.
+LEADFEMALE:Axelrod is one of the best, the most incomprehensible poets of his generation.
+SUPMALE:Where are the chairs? Just sit on the floor, Alex.
+SUPMALE:Right.
+OTHERFEMALE:The floor.
+LEADMALE:Bohemians.
+OTHERFEMALE:Mr.
+LEADMALE:Axelrod.
+OTHERMALE:"The Nuclear Holocaust and You," a Christmas poem.
+SUPMALE:Intercontinental ballistic missiles, assembled in the silos of our soul, multiple warheads.
+LEADMALE:The fragments of our unfulfillment.
+SUPMALE:Boom! Boom! Boom! Bomb shelters Whatever happened to "Hickory Dickory Dock"? Shh! This is art, Alex, something you obviously know nothing about.
+LEADFEMALE:Oh, hey, hey, hey.
+LEADMALE:Don't, uh Don't Don't pretend to be Mr.
+SUPMALE:Culture.
+LEADFEMALE:You're only here for one reason, and you know it.
+SUPMALE:Born pure and tarnished by distrust, or born tarnished, searching for a shine? Boom.
+OTHERMALE:Boom.
+SUPMALE:Sha-boom.
+LEADFEMALE:I can't believe you'd be so low as to just barge in on my date.
+OTHERMALE:Ah! A date! A date.
+LEADFEMALE:So you admit it's a date.
+LEADMALE:I admit nothing.
+LEADFEMALE:Why don't you get lost, Keaton.
+OTHERMALE:Oh, yeah? Who's gonna make me? I am! No, I am.
+OTHERFEMALE:Hey, this is a private discussion, so, uh, you want to just stick to your stupid poetry? Oh, yeah? Well, I'm rubber and you're glue.
+SUPFEMALE:Whatever you say bounces off me and sticks to you.
+LEADFEMALE:This guy's good.
+LEADFEMALE:What is it with you two? A few weeks ago, you seemed so mature.
+OTHERFEMALE:And now you've turned into a couple of third graders.
+LEADMALE:He did first! Oh, did not! Look, Robin, we both obviously like you a lot, and I think the ball is in your court now.
+LEADMALE:Look, Robin, you can settle this whole thing right now by just saying which one of us you like better.
+SUPFEMALE:I never had the chance to find out! I hardly know either of you, and And all of a sudden I'm in the middle of some kind of tug of war.
+LEADMALE:I don't enjoy being the object of some adolescent competition, and until the two of you grow up, I don't want to spend any more time with either of you.
+LEADFEMALE:I still haven't got the baby seat in.
+LEADMALE:I wanna swing by the hardware store and get an acetylene torch and a power wrench.
+LEADMALE:I have to take out the back seat.
+LEADFEMALE:Steven, that's ridiculous.
+LEADMALE:Bet we wouldn't have this problem with the Maserati.
+LEADFEMALE:Hey, everybody.
+LEADFEMALE:Hey, Alex, I'm glad you're here.
+LEADFEMALE:We need the Volvo to go shopping.
+LEADMALE:Oh, Dad, uh, still hasn't figured out the new car yet, huh? You got it.
+LEADMALE:All set, let's go.
+LEADMALE:Oh, Alex, he, uh Andrew needs to be changed.
+OTHERMALE:All right.
+LEADFEMALE:Wa No! Mom, Mom, wait a minute.
+SUPFEMALE:Don't do this to me, Mom! I've only had one lesson, Mom All right.
+SUPMALE:Okay.
+LEADMALE:Andy, it's just you and me.
+OTHERFEMALE:Bear with me.
+SUPFEMALE:Okay.
+OTHERMALE:I know this seems like a great deal to you, but, uh you know, you're gonna have to give it up sooner or later.
+LEADFEMALE:Yeah, hold on.
+LEADFEMALE:Just try and stay in that position.
+SUPMALE:Oh, it's you.
+LEADMALE:What do you want? I just came by to pick up some of my books.
+LEADFEMALE:Well, come in and get 'em.
+LEADFEMALE:What are you doing? I'm gardening.
+SUPFEMALE:What does it look like I'm doing? I'm changing Andrew.
+OTHERMALE:Oh.
+LEADMALE:Need any help? No, I don't need any help.
+LEADMALE:I am perfectly capable Could you, uh, hold this leg and, uh, grab a diaper? How could you bust up my date like that? Aw, hey! You shouldn't have been on that date in the first place.
+LEADMALE:Gimme the powder.
+OTHERFEMALE:Here's the powder, and you shouldn't have asked her out either.
+LEADMALE:Hey, I only asked her out because I knew you were gonna ask her out, which you did.
+LEADMALE:Pins.
+SUPFEMALE:And I only asked her out because I knew you were going to.
+LEADMALE:And you did.
+LEADMALE:Here are the pins.
+LEADMALE:Yeah, well, uh, thanks to you, I made a fool of myself.
+SUPFEMALE:I made a fool out of myself too.
+LEADFEMALE:Okay, uh all done here.
+LEADFEMALE:There you go.
+LEADFEMALE:That doesn't look right.
+LEADMALE:No, let's try again.
+SUPMALE:You know, Alex, when I left the poetry reading, I took a walk down Foxwood Road past the Little League field.
+LEADFEMALE:Remember that team we used to play on? Wilson's House of Fine Lingerie? We had the nicest uniforms in the league.
+SUPFEMALE:Lace cuffs.
+LEADFEMALE:See-through jerseys.
+LEADMALE:When I was standing there, I thought of all the stuff we've been through 
+LEADFEMALE:all the Cub Scout meetings, the camping trips, the low-interest loans you've given me.
+OTHERMALE:We're supposed to be friends, Alex.
+LEADMALE:Why are we always competing? Competition is the backbone of our relationship, James.
+LEADMALE:I mean, we just push each other to do better.
+LEADFEMALE:Whoa, okay.
+LEADMALE:Moment of truth.
+SUPMALE:You want to put your finger right there? Here? Yeah.
+LEADFEMALE:Right.
+LEADFEMALE:And got it.
+LEADFEMALE:Oh Okay.
+SUPMALE:All right.
+LEADMALE:Okay.
+LEADMALE:There you go.
+LEADFEMALE:All right! Mwah.
+LEADFEMALE:There you go.
+LEADMALE:Well, we're still a great team.
+SUPMALE:Yeah, you know, this could be our new 
+LEADMALE:uh, Keaton and Jarrett, Tutoring and Diapering.
+LEADMALE:No, you mean, Jarrett and Keaton, Diapering and Tutoring.
+LEADMALE:No, that's not what I said.
+SUPFEMALE:I said That's what I meant to say.
+OTHERFEMALE:And I meant to say what you said.
+LEADFEMALE:It's gonna be a great business.
+LEADMALE:"We'll keep your grades high " "And your babies dry.
+OTHERFEMALE:

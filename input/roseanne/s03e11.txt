@@ -1,0 +1,298 @@
+LEADFEMALE:1 What kind of theater is this? You're in Camelot but have no lines? I got a line "Enter, Lancelot, the queen awaits.
+OTHERMALE:" That's it? I don't say it, he don't come on, there's no play.
+LEADFEMALE:Oh, you know Phil Hanley? From Hanley's sporting goods? Yeah.
+LEADFEMALE:He's Lancelot.
+SUPMALE:He's backstage with Shirley Clemens.
+OTHERMALE:From Tastee Freeze? Yeah.
+LEADFEMALE:Queen Guinevere.
+SUPFEMALE:Anyway, they don't know I'm there.
+LEADFEMALE:They're into some serious tongue jousting.
+SUPFEMALE:I thought he was doing it with that girl in the Quik-Foto booth.
+LEADMALE:I hear they almost knocked that sucker over.
+LEADMALE:You want to know something else? Bill Cheevers, who's done make-up the last 10 years Lives with his mother? I know all about him.
+SUPFEMALE:Totally straight.
+LEADMALE:Get out of here.
+SUPMALE:Hetero from the word go.
+LEADMALE:Hold that thought.
+LEADFEMALE:Got to yell at the girls.
+LEADFEMALE:I said if you came home late I'd kick your butt! Think you're big enough? Let's go.
+LEADFEMALE:Come on! Come on! Come on! What's going on? The girls are late.
+LEADFEMALE:Why do we bother setting any curfew? They just come home when they want.
+SUPFEMALE:They're just a little late.
+SUPFEMALE:An hour late, and they don't even care that we're worried sick about them.
+OTHERFEMALE:Gin.
+SUPMALE:Yeah, you're real worried.
+LEADMALE:We're setting rules, and they're ignoring us.
+SUPFEMALE:And it's for their own good.
+LEADFEMALE:A lot can happen to two teenage girls an hour after the mall closes.
+LEADFEMALE:That's why we want them here.
+SUPFEMALE:We just don't want them out there.
+OTHERMALE:You want some coffee, Dan? Sure.
+SUPMALE:Run! Whoa, whoa, whoa! Where the hell you been? We're really sorry.
+OTHERFEMALE:About what? That you didn't come home when we said to, that you never learned how to use a phone? Or that you may never see the light of day again? That'd be the one.
+LEADMALE:It's only 10:00.
+SUPMALE:Meaning you're an hour late.
+LEADFEMALE:You're always an hour late.
+LEADMALE:Well, then We're on time.
+SUPMALE:We said 9:00, we meant 9:00.
+LEADFEMALE:Yeah, 'cause we have this really crazy idea that you actually listen when we speak.
+OTHERMALE:When you're late, we figure there's a reason.
+LEADMALE:If we're not hearing that reason from you, we make up our own reason, like you're laying in a ditch somewhere.
+LEADMALE:We would have called, but there was no phone in the ditch.
+OTHERMALE:Ha ha? You're grounded.
+OTHERFEMALE:Ha ha.
+OTHERFEMALE:And you're home tomorrow night, and you're very, very sorry.
+LEADMALE:Am I right? Yes.
+LEADMALE:We didn't mean to make you worry.
+LEADFEMALE:It'll never happen again.
+LEADMALE:All right.
+SUPFEMALE:Get upstairs.
+SUPFEMALE:Boy, you grounded them real good that time.
+LEADMALE:Thank you, thank you.
+LEADMALE:Think it'll work? As good as it did the last 12 times.
+OTHERFEMALE:Maybe you should try something else.
+LEADFEMALE:I mean it.
+SUPFEMALE:You should talk to them like they're adults.
+LEADMALE:They're people.
+LEADFEMALE:They can listen to reason.
+SUPFEMALE:Honey, Jackie's still here.
+LEADFEMALE:Just smile and nod.
+OTHERFEMALE:Come on! This is good advice.
+SUPMALE:Hey, what-cha doing? I'm packing d.j. 's duffel bag.
+LEADFEMALE:He's staying over at Warren's house tonight.
+LEADMALE:You think that's a good idea? Didn't Warren tie all those squirrels together? No! That was d.j. Little Warren just stunned them.
+OTHERFEMALE:Honey, get that, would you? Sure.
+LEADMALE:Why not? I have nothing else to do, god knows Except for trying to pack a bag for d.j. You come in like you're going to say "jump," and I'm supposed to go, "how high?" Mrs.
+OTHERFEMALE:Conner? Yeah? Flowers for you.
+SUPFEMALE:What's the catch, I have to buy something? No.
+LEADFEMALE:You just take them.
+OTHERMALE:Ok.
+LEADMALE:Did you send me flowers, Dan? No.
+LEADMALE:Why would I do that? Right.
+SUPMALE:Like, you'd never be romantic enough to do something like that for no reason.
+LEADFEMALE:"Dear Roseanne, I lied.
+SUPMALE:They're from me.
+LEADMALE:Love, Dan.
+LEADMALE:" You scum! I love you, too, dear.
+SUPMALE:Why'd you do this? Let me paint the picture.
+SUPFEMALE:20 years ago today, I picked you up in my dad's El Camino, a little Zeppelin on the eight-track, a little Boone's Farm Apple warming up in the glove compartment.
+SUPFEMALE:Our first date.
+LEADFEMALE:No.
+SUPMALE:Our first date was a motorcycle in the A&W drive-in.
+SUPFEMALE:This is the anniversary of our first Time.
+LEADFEMALE:Our second date! No! As I recall, I was able to fend you off just a little bit longer.
+LEADFEMALE:I remember driving to that quaint little restaurant.
+SUPMALE:The Blue Swan cafe.
+LEADFEMALE:Yes.
+SUPFEMALE:Nestled in the heart of the Blue Swan motel out there on highway 72.
+LEADMALE:I had a New York steak.
+LEADMALE:You had the shrimp cocktail and chicken Parmesan.
+SUPFEMALE:I thought that was so chic.
+SUPFEMALE:The guy said, "for the lady.
+LEADMALE:" He meant me, and I was really excited about that.
+LEADFEMALE:That was the night I asked you to be my girlfriend.
+LEADFEMALE:You said you'd make me the happiest girl in the whole USA.
+LEADMALE:Mom, the toilet's broken.
+SUPMALE:Liar.
+OTHERMALE:Anyhow, remember how we said we'd be more crazy and spontaneous? Well, tonight I booked two dinner reservations at the Blue Swan cafe.
+SUPMALE:Oh, how romantic! I hope we get that same booth, the one with the view of the interstate.
+LEADFEMALE:And just the scent of diesel in the air.
+OTHERFEMALE:It's getting so's I can hardly smell a truck anymore without thinking of you.
+LEADFEMALE:Bye.
+SUPMALE:Hi.
+LEADFEMALE:Where you going? You're grounded.
+LEADMALE:No.
+LEADMALE:We were late on Thursday, so we were grounded last night.
+SUPMALE:Tonight, we are free.
+SUPFEMALE:Ok, so where you going? Me and Dana are going to the mall.
+LEADMALE:They're taking me to Marcy's.
+OTHERFEMALE:Ok, since it's Saturday, you've got till 11:00.
+SUPFEMALE:We'll be home early to check, so One minute late, and we'll have your butts in a sling.
+LEADMALE:You look real nice, mom.
+LEADFEMALE:Thank you.
+LEADMALE:11:00.
+LEADFEMALE:Not nice, thin! Thin! Tell me about the first time you ever saw me.
+SUPFEMALE:You were coming out of study hall, and you were wearing those tight corduroys, and they were making this sound like they were calling my name.
+LEADFEMALE:"Dan Conner, "Dan Conner, Dan Conner.
+LEADFEMALE:" Steak for you Chicken Parmesan for you.
+LEADFEMALE:45 minutes for a rare steak.
+SUPFEMALE:I'd ask for steak sauce, but I got to be at work Monday morning.
+OTHERMALE:It's 10:30.
+LEADMALE:We won't be home till after 11:00.
+LEADFEMALE:Call home.
+SUPMALE:Tell the girls we'll be late.
+OTHERMALE:Ok.
+LEADFEMALE:No.
+LEADFEMALE:What do you mean, no? Well, this grounding stuff doesn't seem to be working, so let them worry about us for a while.
+LEADMALE:I'll tell Jackie to freak them out for a while.
+LEADMALE:Later she can tell them what's really going on.
+LEADFEMALE:Lady, you have an evil mind.
+SUPMALE:And a body to match.
+LEADFEMALE:What was the second thing you noticed about me? What, what, what? Oh, those big brown eyes, like two chained dobermans waiting to rip your leg off.
+SUPFEMALE:Good, good, good.
+SUPMALE:Keep going.
+LEADMALE:Uh-uh.
+SUPMALE:It's your turn.
+SUPMALE:What did you like about me? The fact that you asked me out.
+LEADMALE:What else? That's about it.
+LEADFEMALE:So if Tommy Jorgensen would've asked you out, you'd be Mrs.
+LEADMALE:Tommy Jorgensen? Like Tommy Jorgensen would've ever asked me out! Get off the sympathy wagon! Plenty of guys were standing in line for you to treat them like dirt.
+OTHERFEMALE:I was just the lucky one.
+LEADMALE:Now I remember what I liked about you You could spread it on so thick.
+LEADFEMALE:Come on, Roseanne, what about me made you quiver? I'd have to say it was the forearms.
+SUPFEMALE:Really? Yeah.
+LEADFEMALE:There were the biggest, manliest, meatiest hunks of flesh I ever laid eyes on.
+SUPMALE:The pythons, huh? I remember sneaking looks at you in class, and you'd start rolling your sleeve up slow just to tease me.
+LEADFEMALE:It was all I could do to keep from climbing over all those desks and just throwing you to the floor.
+LEADMALE:You know, since we're not rushing home, maybe after dinner we could see if they got our old room vacant.
+SUPMALE:Oh! I never thought I'd say this, Dan, but let's skip dessert.
+LEADMALE:Darlene! 10 minutes isn't much! Don't sweat it.
+SUPFEMALE:They're not home.
+OTHERMALE:Then I'm not late, right? Don't worry, Darlene.
+LEADFEMALE:I wouldn't rat on you.
+LEADMALE:You know, now that you mention it, though, it is kind of strange they're not back yet.
+OTHERFEMALE:I didn't mention it.
+LEADFEMALE:I wonder where they could be.
+LEADFEMALE:You want some ice cream? Sure.
+LEADMALE:What are you doing here? A load of laundry.
+OTHERMALE:Nah.
+SUPFEMALE:I'm sure they're ok.
+LEADMALE:Ow! Ooh! Ow! Oh, they're not home yet.
+LEADFEMALE:Oh.
+OTHERMALE:Cool.
+OTHERMALE:Roseanne? Oh, Becky.
+LEADMALE:Yeah.
+LEADMALE:Hi.
+LEADFEMALE:Hi.
+LEADFEMALE:What's she doing here? Laundry.
+SUPMALE:Don't worry, she won't tell.
+LEADMALE:It's weird they're not here.
+LEADFEMALE:After that whole deal about curfew, I thought I'd be grounded before opening the door.
+OTHERMALE:This is the stuff they live for.
+SUPMALE:Here you go.
+OTHERMALE:Thanks.
+LEADMALE:You're not having any? No.
+LEADMALE:I'm Not really hungry all of a sudden.
+LEADFEMALE:So, you girls have fun tonight? Yeah.
+LEADFEMALE:It was ok.
+LEADMALE:What did you do? Well, I I'm going to go make a phone call.
+SUPMALE:Crystal? Hi.
+LEADMALE:Yeah, I know it's late.
+LEADFEMALE:I'm sorry.
+LEADMALE:Uh, have you heard from Roseanne? Yeah.
+LEADFEMALE:Ok.
+LEADMALE:Sure.
+LEADFEMALE:Yeah, thanks.
+LEADMALE:Bye-bye.
+LEADMALE:Crystal says hi.
+LEADMALE:Aunt Jackie, what's going on? It's not like your folks to be this late.
+LEADMALE:Maybe their car broke down again.
+LEADMALE:Yeah.
+LEADFEMALE:That's probably it.
+LEADMALE:Yeah.
+LEADMALE:Yeah.
+SUPMALE:Oh, boy, this is the kind of night that cops hate.
+SUPFEMALE:A lot of accidents.
+LEADMALE:But I'm sure they're ok.
+SUPFEMALE:I wonder what's taking them so long.
+LEADMALE:You don't think there's a problem, do you? So, what do you want to do now? What did we do 20 years ago? Let's see.
+OTHERMALE:You were in the bathroom putting on a fresh coat of white lipstick.
+LEADMALE:And you were out on the pay phone bragging to your buddies.
+LEADMALE:I still do that.
+LEADMALE:I remember we filled up that huge bathtub and played voyage to the bottom of the sea.
+LEADFEMALE:Yeah! You kept going, "Ow-oo-gah! Ow-oo-gah!" Let's do that again.
+LEADFEMALE:Ok.
+LEADMALE:This time I get to be Captain Nemo.
+LEADMALE:Heave-ho! No towel-snapping.
+SUPFEMALE:I'm not making any promises.
+LEADFEMALE:Say, would you look at that? Boy, that tub got a lot smaller.
+OTHERFEMALE:It's really icing up out there.
+OTHERFEMALE:Why are they out so late? You getting worried? No.
+SUPFEMALE:You? No.
+LEADFEMALE:How long could it take to eat dinner? If they were going to be this late, how come they didn't call? This is so weird, 'cause they were just saying they worry when we're late.
+SUPMALE:And here we are worrying about them.
+SUPFEMALE:Incredible coincidence or a lesson for the kiddies? You make the call.
+LEADFEMALE:Aunt Jackie's doing laundry at 11:30 on Saturday? But there's no laundry.
+SUPFEMALE:Oh, well, I just can't believe that one.
+LEADMALE:Isn't this just a little bit too cutesy for them? They've been watching too much TV.
+OTHERFEMALE:So aunt Jackie is just here to make sure we worry.
+LEADFEMALE:Well, we can't let her down now, can we? Still no sign of them, eh? Mm-mmm.
+LEADFEMALE:I got to admit, guys, I'm starting to get worried.
+SUPMALE:That's it.
+LEADFEMALE:I'm calling the police.
+LEADFEMALE:No, no.
+SUPMALE:We can't do that.
+LEADMALE:Why not? You'd have to say it was a missing persons thing, and they don't like that.
+SUPMALE:But maybe mom and dad are missing.
+LEADMALE:Well, they're not missing enough.
+LEADMALE:They have to be missing for 24 hours before the cops will do that missing person thing.
+OTHERMALE:If they're not missing, then what are they? I mean, even mom and dad can't eat dinner for four hours.
+SUPMALE:Oh, my god! They could be dead! Let's not go crazy here.
+LEADFEMALE:They're dead! They're big giant street pizzas, and they're out on the highway all squishy! Those 18 wheels running over them Squish! Squish! Mommy, daddy! Are we done now? But we're so worried.
+LEADMALE:You are rotten, rotten kids, and I can't even believe I'm related to you two! Oh, does that mean you won't adopt us? What will become of us, Darlene? We'll be orphans.
+LEADFEMALE:The sun will come out tomorrow You two are very funny.
+SUPMALE:Bet your bottom dollar Knock it off! So your mom's little idea didn't work.
+OTHERMALE:That's fine.
+SUPFEMALE:Why don't we discuss this curfew thing as adults, ok? All right.
+SUPFEMALE:Um Let's see.
+LEADMALE:All right.
+SUPFEMALE:First of all, don't think of curfew as a punishment.
+LEADFEMALE:See, your parents don't think of it that way.
+LEADMALE:To them, it's a way of showing their concern.
+OTHERFEMALE:So, think of curfew as your parents' way of saying I love you.
+LEADFEMALE:I curfew, Darlene.
+LEADMALE:Well, I curfew, too, Beck.
+LEADFEMALE:All right, that's it.
+SUPFEMALE:Upstairs! You're grounded.
+SUPFEMALE:You're rotten, rotten, rotten, rotten kids! Tomorrow tomorrow What are you doing? You took extra cheese.
+SUPMALE:Cheese fell off my slice.
+LEADFEMALE:I put it back on.
+LEADFEMALE:It pulled cheese off this piece.
+SUPMALE:Eat the other piece.
+OTHERFEMALE:I want the one with the brown bubble on it! You're not getting my cheese.
+LEADFEMALE:Dan.
+LEADMALE:What? Well, we could be having this argument at home, and it wouldn't cost 14 bucks an hour.
+LEADMALE:What, you want to go home? I don't know.
+OTHERMALE:Do you? No! We can't go home yet.
+LEADFEMALE:This is a romantic thing.
+SUPFEMALE:We're celebrating a great moment in our life.
+LEADFEMALE:Ok.
+LEADMALE:Hey, Bonanza's on! No.
+LEADFEMALE:But that was the one where Hoss finds the leprechauns.
+SUPFEMALE:We're not watching TV.
+OTHERMALE:Well, what do you want to do? Hey.
+LEADMALE:The vibrating bed.
+LEADMALE:Oh, yeah.
+SUPFEMALE:I forgot how much I used to love that.
+OTHERMALE:Remember? We couldn't get enough of it and we only had two quarters? And one was for the wine.
+LEADMALE:Only the best for my baby.
+LEADMALE:Should I crank it up? Crank away, my bishop of love.
+LEADFEMALE:Yee-hee! Ride 'em, cowboy! Whoo! This is awesome! Dan? Yeah? I'm going to throw up! Hurry! Let's go home.
+SUPFEMALE:Maybe we're getting too old for this.
+LEADMALE:No, no.
+SUPFEMALE:It was great, honey.
+LEADFEMALE:Great as the last time? Better.
+LEADFEMALE:Do you know why? 'Cause this time we're in love.
+OTHERFEMALE:I was in love the other time.
+LEADMALE:Me, too.
+SUPMALE:Thanks for walking me to my door, Mr.
+SUPMALE:Conner.
+LEADFEMALE:You're welcome, miss Harris.
+LEADMALE:Are you ever going to call me again, or is it just "wham, bam, thank you, Roseanne"? Don't say that.
+OTHERFEMALE:You're my girl.
+LEADFEMALE:I want to tell you something I never told anybody before.
+SUPFEMALE:This was my first time.
+LEADFEMALE:I know.
+LEADFEMALE:How about a good night kiss? Oh, maybe one.
+SUPFEMALE:One more.
+LEADFEMALE:Oh, ok.
+LEADMALE:Remember that night when we played one more kiss for about half an hour? The door opened, and it was my dad? In his underwear.
+LEADFEMALE:He was reading us the riot act.
+SUPFEMALE:Daddy's not here now.
+LEADMALE:Where have you been? Do you know what time it is? Couldn't you pick up a phone? We thought you were dead in a ditch.
+LEADFEMALE:I don't think our ploy worked, dear.
+LEADMALE:I know let's try something new.
+LEADMALE:You're grounded! Do we have to Hey, hey! Let us in! Hey, come on! It's cold! That's what we needed all along.
+LEADFEMALE:Now they can't wait to come home.
+LEADMALE:Let us in! Come on! Come on! Let us in! 
+LEADMALE:

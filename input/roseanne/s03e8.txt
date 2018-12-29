@@ -1,0 +1,283 @@
+OTHERMALE:1 Today's the day.
+LEADMALE:24 hours of hell.
+LEADFEMALE:All right, I must clear my mind.
+SUPFEMALE:The bed is cold.
+LEADMALE:She probably has a good half hour on me.
+LEADMALE:Got to get out.
+LEADMALE:Got to stay out all day.
+SUPMALE:Minimize the damage.
+LEADFEMALE:Get far away from ground zero.
+SUPMALE:Getting too old for this.
+LEADFEMALE:The horror.
+LEADFEMALE:The horror.
+LEADMALE:Shh! Shh! Before Dan gets up, let's go over the plans for his surprise party.
+OTHERFEMALE:Crystal, what do you have to report? I want to thank you for having me do decorations.
+OTHERMALE:You're quite welcome.
+OTHERMALE:And, in light of our $40 budget, I have decided upon balloons and stupid hats.
+LEADFEMALE:Good choice.
+OTHERMALE:And now can we hear from the cake committee? Two "P"s in happy, right? How are you going to get Dan down there, Roseanne? I'll say, "it's all-you can-eat-night at the lodge.
+LEADFEMALE:You got to defend your crown.
+LEADFEMALE:" So what should we do? You help Crystal with decorations.
+SUPMALE:Darlene, I don't care if you want to go or not, you're going.
+LEADMALE:I hate these parties.
+LEADFEMALE:No kid should have to watch their parents do the hully-gully.
+OTHERFEMALE:Not for the squeamish.
+LEADFEMALE:Good morning, dad.
+LEADMALE:Crystal, let's get out to those garage sales.
+LEADFEMALE:Yeah, you can always find a bargain.
+LEADFEMALE:Dad, where you going? Fishing.
+SUPFEMALE:Today? Goodbye.
+SUPMALE:It's November, dad.
+SUPFEMALE:The lake is frozen.
+SUPMALE:Then I'm bowling.
+LEADMALE:See you tomorrow.
+SUPMALE:Dan, wait! Don't you want to be with your family? Is this a trick question? What about the Michigan/Illinois game, dad? Don't you guys realize what today is? Oh, Dan, I forgot.
+LEADMALE:It's Dan's birthday.
+LEADFEMALE:It is? Happy birthday, Dan.
+OTHERMALE:Forget my birthday.
+SUPMALE:Do I have to spell it out? P-m-s.
+OTHERFEMALE:Oh, my god! Are you sure? 17 years, every 28 days.
+LEADMALE:Yes, I'm sure.
+LEADMALE:I don't know, Dan.
+LEADMALE:Roseanne seems perfectly pleasant today.
+SUPFEMALE:When have you ever known Roseanne to be perfectly pleasant? I'm at the mall.
+SUPMALE:I got basketball practice.
+SUPMALE:Me, too.
+SUPFEMALE:No, no! Hold on! It'll be a 24-hour roller coaster ride with Sybil at the switch.
+LEADFEMALE:When my hormones act up, I'm good for one solid day of pure mean.
+LEADFEMALE:Once I busted a street light for every man who ever broke my heart.
+LEADMALE:Yeah, I remember the great blackout of '84.
+LEADFEMALE:Dan, wait.
+LEADMALE:You can't leave.
+LEADFEMALE:If you don't let go, I'm prepared to gnaw my own arm off.
+LEADMALE:Dan! Dan! Roseanne's got a big surprise party planned for you down at the lodge.
+SUPFEMALE:There's going to be like 50 people there.
+LEADMALE:No, it can't be.
+SUPMALE:Now, Dan, don't worry.
+LEADMALE:Roseanne does not have PMS today.
+LEADMALE:Dan.
+OTHERFEMALE:Do you think I'm pretty? I'm out of here! Ok.
+LEADMALE:So far, so good.
+LEADFEMALE:Dan's out working in the garage, out of the line of fire.
+SUPMALE:Dan! Dan, you in there? Yeah! What are you doing? Fixing this thing here.
+LEADFEMALE:It's Hair.
+LEADFEMALE:Hair is different.
+LEADMALE:Do I like it? What if she doesn't? Got to say something before Don't you like my hair? Too late.
+LEADFEMALE:I love it! I can't believe it.
+LEADFEMALE:I do something to make myself a little more attractive to you, and you don't even notice.
+LEADFEMALE:I didn't do this for myself.
+LEADFEMALE:I can't even see the hair on my head.
+SUPMALE:God, you men! You're taking me and the kids to the lodge at 5:00, and that's it.
+OTHERFEMALE:I don't care if it is your birthday.
+LEADFEMALE:Dan.
+SUPFEMALE:I love you.
+LEADFEMALE:5:00! He doesn't suspect a thing.
+SUPFEMALE:I tricked him into going, but No, he just thinks it's another normal birthday dinner.
+LEADMALE:Mom, you're ironing the towels? I can't wait around for you to do it, can I? Stay away from those towels! I have to refold them! Why don't you go put on your pretty pink dress with the little flowers on it? The pink dress? The one I had on first? And tell your sister to hurry up.
+SUPMALE:This whole family would fall apart if I wasn't here.
+LEADMALE:You're wearing that one? No.
+LEADFEMALE:And hurry up! I'm starving! This whole surprise party thing sure seemed a lot better last week.
+LEADFEMALE:Whose stupid idea was this, anyway? I know it was.
+LEADFEMALE:Don't throw it in my face.
+SUPFEMALE:Don't patronize me, Crystal! If you're going to have that kind of attitude, don't come if you don't want to.
+LEADMALE:You want to, don't you? It wouldn't be a party without you.
+OTHERMALE:Wow.
+LEADMALE:Aah! You know, Dan, I've been thinking.
+LEADFEMALE:Maybe I ought to take some night school classes like creative writing, word processing, or something like that.
+LEADMALE:Oh.
+LEADFEMALE:Ok.
+LEADMALE:I'm supposed to say something here.
+LEADFEMALE:Let's try Sounds good, honey.
+LEADMALE:Maybe I should really join an aerobics class and try to get in shape.
+LEADMALE:I could do both, but I'd never be home.
+SUPMALE:What do you think? Um Oh, you look like the perfect little gentleman.
+LEADMALE:Let's see your hands.
+SUPMALE:They're filthy.
+SUPFEMALE:You wash them.
+OTHERMALE:You ought to wash your hands, too, Dan.
+LEADFEMALE:Oh, this tie! I've always loved this tie.
+SUPFEMALE:The green and stuff.
+LEADFEMALE:I'll change into my green dress so we'll match! Stay away from those clean towels.
+OTHERFEMALE:Dan? Save yourself.
+LEADMALE:I kind of want to apologize to you 'cause, well, I'm sorry.
+LEADMALE:I know I've been a little excitable today.
+SUPFEMALE:Hadn't really noticed, honey.
+SUPFEMALE:Know what I asked Darlene to do? Catalog all my coupons according to expiration date and the four food groups.
+OTHERFEMALE:Then I began this letter to my third grade best friend.
+LEADFEMALE:I haven't had her address for something like 20 years! That's ok, honey.
+SUPMALE:You get whacked out every now and then.
+LEADMALE:What's your point, Dan? I really don't have a point.
+SUPFEMALE:Say it because I know what you're thinking.
+LEADMALE:You think I have PMS.
+SUPFEMALE:No, I wasn't thinking that, but I have been reading on it lately.
+LEADFEMALE:Do you know they have pills that supposedly help If you did have PMS.
+LEADMALE:A pill? A pill! You want me to take a pill? Do they have a pill for you, Dan? Oh! We're going to be late for Roseanne's surprise party.
+LEADMALE:It's my surprise party, Jackie, and why didn't you stop her? I hate surprise parties.
+LEADFEMALE:The only people having fun are the people who were in on it.
+LEADMALE:You're in on it.
+LEADMALE:Can we go so we can get home? Is she changing into another outfit? Or another personality.
+LEADMALE:Let's just enjoy our one moment of peace.
+SUPFEMALE:Dan, get in here! I love you, daddy.
+LEADMALE:You're going in.
+SUPFEMALE:Could be a suicide mission.
+LEADFEMALE:Stay low.
+LEADFEMALE:Stay low.
+LEADFEMALE:Don't worry.
+SUPMALE:You'll get through this.
+LEADFEMALE:Somewhere your real wife waits for you.
+LEADMALE:Come here, you big sexy man.
+LEADMALE:That's not her.
+OTHERMALE:Of course you don't have to tell your real wife.
+LEADMALE:We're out of here.
+SUPFEMALE:Jeez, what were you guys doing in there? Never mind.
+SUPFEMALE:Let's go.
+LEADMALE:Honey, come on.
+LEADFEMALE:We're almost going to be real late.
+LEADFEMALE:I'm not going.
+LEADMALE:Ok, ok, look, we've been through this before.
+LEADMALE:We know she's got 100 different personalities.
+OTHERFEMALE:We've seen them all.
+SUPMALE:How can I go when we're destroying the ozone layer? Kids, I want you to remember this.
+LEADMALE:PMS is serious stuff.
+SUPFEMALE:It causes depression, anxiety, physical pain.
+LEADFEMALE:And it's rough on your mother, too.
+LEADMALE:Listen, everybody, I'm going to check if our table's ready.
+LEADMALE:You wait for me.
+OTHERMALE:Hey, now, nobody eats the food, got it? Now, get around the door here and be really, really quiet.
+OTHERMALE:Then when Dan comes in, just yell surprise.
+LEADFEMALE:You know how, right? Our table's ready.
+LEADMALE:Surprise! Surprise! For he's a jolly good fellow for he's a jolly good fellow for he's a jolly good fellow Come on.
+OTHERMALE:I'm starving.
+OTHERFEMALE:Let's eat.
+LEADMALE:Isn't this great, Dan? All your friends came.
+LEADMALE:It's great, Roseanne.
+LEADMALE:How did you do this without me knowing? You really were surprised, weren't you? Are you kidding? When I You know, Dan, we should have a song, shouldn't we? Then, whenever we hear it, we'd go, that's our song.
+OTHERFEMALE:Did I invite you? Eddie, Eddie, hi.
+LEADFEMALE:How you doing? Oh, ok.
+LEADFEMALE:You're all right then.
+LEADMALE:Roseanne, I love your hair.
+LEADFEMALE:See, Dan.
+SUPMALE:So, what do you think, Roseanne? About what? The decorations.
+LEADFEMALE:I planned this very carefully.
+LEADFEMALE:I bet you didn't realize there are exactly 40 balloons here.
+LEADMALE:40? Dan is 39, Crystal.
+LEADFEMALE:Well, I'm sorry, Roseanne.
+OTHERFEMALE:I got him one to grow on.
+LEADFEMALE:You needn't apologize to me.
+LEADFEMALE:Apologize to Dan for ruining his party! There he goes.
+OTHERMALE:Hey, this ought to be our song.
+OTHERMALE:Play it again.
+SUPMALE:I'm pooped.
+LEADMALE:I'm sitting.
+OTHERMALE:You're no fun.
+SUPFEMALE:Come dance with me, sis.
+LEADMALE:Nah Please? Don't you think the party's going real good? The party's going great.
+SUPFEMALE:Dan's having a good time, don't you think? Are you kidding? What we have to remember is, she's a wonderful woman when her estrogen isn't whipping her into a psychotic frenzy.
+SUPFEMALE:Yeah.
+OTHERMALE:Like when I sprained my ankle, she was there.
+SUPMALE:And when I got ditched at the dance.
+OTHERMALE:And when your parents separated, Dan.
+LEADMALE:She was there.
+OTHERFEMALE:Let's face it She's bad luck.
+LEADFEMALE:Let's go see if mom left any chocolate on the dessert table.
+SUPFEMALE:Need anything, Dan? Menopause.
+LEADFEMALE:And there's some damn good-looking guys here tonight.
+SUPMALE:Ah, get off.
+OTHERFEMALE:It's been almost a month since Gary dumped you.
+LEADFEMALE:Uh, I dumped Gary.
+LEADMALE:Yeah.
+SUPMALE:Now here you are at some crummy party dancing with your sister.
+LEADMALE:It breaks my heart to see you like this.
+LEADFEMALE:I'm fine! You don't have to yell.
+LEADFEMALE:I'm the one person that loves you most.
+SUPMALE:Roseanne! If you weren't my sister, I just don't know who would be.
+LEADMALE:Having fun? Yeah.
+LEADMALE:You're probably wondering where Nancy is.
+LEADMALE:Who's Nancy? We had a fight.
+SUPFEMALE:She said she paid for everything.
+LEADMALE:She kicked me out.
+OTHERFEMALE:I'm living in my car.
+LEADFEMALE:Actually, it's her car.
+SUPFEMALE:I guess poker night at your place is out.
+SUPFEMALE:Why? Singing telegram for Dan Conner! What's that? Me and the guys got together to say happy birthday.
+SUPMALE:Well, hello there, birthday boy.
+LEADMALE:Yeah! Yeah! Whoo! Whoo! Whoo! Whoo! Yeah! Out! Well, uh Out! Out! Out! Out! Out! Out! You are the reason why there will never be a woman president! Whose idea was this? I might have known.
+LEADFEMALE:Rosie.
+SUPMALE:I blame you for it, Dan.
+LEADMALE:I might have expected it from your slimy friends, but not from the father of my children.
+LEADFEMALE:I'm sorry, dear.
+LEADFEMALE:As if that makes everything ok.
+SUPFEMALE:That poor woman was only trying to do her job and has been made to feel like dirt.
+OTHERMALE:I have to go comfort her, thanks to you! Mental note Kill Arnie.
+LEADFEMALE:Dan.
+LEADMALE:Dan.
+SUPFEMALE:Oh, Dan, Dan! She's making people do the limbo! You're kidding.
+LEADFEMALE:No.
+LEADFEMALE:Oh, my god.
+SUPFEMALE:It's your shift.
+LEADMALE:It's my birthday.
+SUPMALE:There are no birthdays in hell.
+LEADFEMALE:Go before somebody's hurt.
+SUPFEMALE:Give me a minute.
+OTHERFEMALE:I just realized I'm 39 years old.
+LEADFEMALE:39.
+SUPFEMALE:Next year, I'll be 40.
+SUPFEMALE:40.
+LEADFEMALE:That's almost middle-aged.
+SUPFEMALE:What have I done with my life? Oh, cut the introspective crap and get in there! Why do I have to put up with this every month? So she's got hormones.
+SUPMALE:Why should she just get away with it? When is it my turn? When will everybody tiptoe around me? When do I get PMS? Better now? Yeah, I'm good.
+LEADMALE:Come on.
+LEADFEMALE:We're just about ready to open the presents.
+LEADFEMALE:Presents.
+LEADMALE:That that's almost the end, right? No.
+OTHERMALE:Cake.
+LEADMALE:Come on, everybody.
+SUPFEMALE:Gather around.
+OTHERFEMALE:Dan's going to open his presents now.
+OTHERFEMALE:Come on.
+LEADMALE:Look, everybody! Aw.
+SUPMALE:Aw.
+LEADFEMALE:It's a little clown.
+LEADMALE:d.j. Made it himself.
+LEADFEMALE:It's a macaroni thing.
+OTHERFEMALE:Oh, look, honey.
+LEADFEMALE:He even spelled out "dad" using little, tiny spaghetti-Os.
+OTHERMALE:Oh.
+LEADMALE:Oh.
+OTHERFEMALE:Oh, and you said he had no talent.
+OTHERFEMALE:Let's see what's inside this one, huh? Hang in there, champ.
+SUPMALE:Only a couple more rounds to go.
+SUPFEMALE:You're doing fine.
+OTHERMALE:Can I have your attention? I'd like to propose a toast to my husband, so everybody hold up your glasses.
+SUPFEMALE:Higher.
+SUPFEMALE:For you, Dan Conner, my husband, my best friend, the father of these children.
+LEADFEMALE:You Are the ink in my pen.
+LEADFEMALE:You are the paper on which I write.
+LEADMALE:We've been married for 17 years.
+SUPFEMALE:We've had many wonderful times.
+SUPFEMALE:We've had many, many bad times.
+LEADFEMALE:Happy birthday, honey.
+LEADFEMALE:Hear, hear.
+LEADMALE:Hear, hear.
+LEADFEMALE:Like when we sawOl' Yeller and you cried.
+LEADFEMALE:You made me promise I'd never tell anybody, and I never have, and I never will.
+LEADFEMALE:Thank you, dear.
+LEADMALE:So here's to you, Dan Conner, my husband, my soul mate, my friend, my rock God, please let this be over.
+SUPMALE:A big rock on my couch that does nothing but watch TV.
+LEADFEMALE:That's it.
+SUPFEMALE:God's a woman.
+LEADFEMALE:Occasionally, it'll ask for a beer, and I have to get it because it's just a rock.
+SUPFEMALE:A rock can't roll over to the refrigerator, so I have to get the beer for it.
+LEADFEMALE:Yeah, a big TV-watching, beer-drinking rock But he's my rock, and I must live with it.
+LEADMALE:So happy birthday, Dan! Happy birthday, Dan! Happy birthday to you happy birthday to you happy birthday, dear Dan happy birthday to you Make a wish, Dan.
+LEADFEMALE:Yeah! Yeah! Yeah! Yeah! All right, Dan! Happy birthday.
+LEADFEMALE:All right.
+LEADMALE:Yes! I got my wish! Happy birthday, Dan.
+OTHERMALE:My birthday was yesterday, Roseanne.
+LEADMALE:I know, but we forgot to do your traditional birthday breakfast.
+LEADMALE:What's it going to be, pancakes, waffles, an omelet? Nothing's too good for my man.
+SUPMALE:I think I'll just go to the bedroom, read the paper, not talk to a soul.
+LEADMALE:Is that ok with you, Roseanne? God, he gets so damn moody.
+OTHERMALE:Happens every month, too.
+LEADFEMALE:Hmpfh, men!
+LEADFEMALE:

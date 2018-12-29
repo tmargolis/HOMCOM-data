@@ -1,0 +1,408 @@
+LEADMALE:okay, Jennifer, ask me one from the geometry category.
+LEADFEMALE:Alex, I'm tired of doing this.
+LEADFEMALE:I need a break.
+LEADMALE:Aw, come on, Jennifer! You can't let me down now.
+OTHERFEMALE:You've helped me through the first four rounds of the high school quiz-off.
+LEADFEMALE:The championships are only three days away.
+LEADFEMALE:It's gonna be on television.
+SUPFEMALE:I've got to be prepared.
+LEADMALE:Now, come on, just one more.
+LEADFEMALE:Alex, you're violating child-labor laws.
+SUPFEMALE:Please! I love it when you beg.
+OTHERFEMALE:Hi, guys.
+SUPFEMALE:Honey, clear those books off the table.
+LEADMALE:We've got to get dinner going.
+LEADFEMALE:Uh, mom, I really don't want to break my concentration.
+LEADMALE:Why don't you guys go out for dinner? Here's a couple of bucks.
+SUPMALE:Alex! Sorry, mom.
+LEADFEMALE:I'm just excited about the quiz-off, that's all.
+SUPMALE:Oh, me too.
+LEADMALE:In fact, this morning, I dropped off my plans for the set at the station.
+LEADFEMALE:How did daddy like them? Well, he didn't have a chance to see them yet, but I know he's gonna love my ideas.
+OTHERFEMALE:All right, Jennifer, hit me with a literature question, please.
+LEADMALE:Okay, but this is the last one.
+SUPFEMALE:In act five, scene five, of "MacBeth," MacBeth reflects on the nature of life.
+LEADFEMALE:Quote the passage exactly.
+SUPMALE:Mm.
+LEADMALE:That's a tough one.
+SUPFEMALE:G-give me a second.
+SUPMALE:Oh, hi, gang.
+LEADMALE:Hi, dad.
+OTHERFEMALE:Hi, honey.
+LEADFEMALE:Hi, dad.
+LEADMALE:Hey, Alex.
+OTHERFEMALE:How you doing today? "Life's but a walking shadow.
+SUPMALE:"A poor player that struts "and frets his hour upon the stage, "and then is heard no more.
+SUPFEMALE:"It is a tale, told by an idiot, full of sound and fury, signifying nothing.
+LEADMALE:" He seems a little depressed.
+OTHERMALE:He's practicing for the tournament finals.
+OTHERMALE:So, what did you think of my set designs? Well, um I-it's a little elaborate, isn't it? I was thinking more along the lines of the kind of set we used last year.
+LEADFEMALE:Well, last year's set was so dull.
+SUPMALE:Well, maybe.
+LEADFEMALE:I it I-I-it's hard for me to talk about the plans without having them in front of me.
+LEADFEMALE:Too bad I left them at the office.
+OTHERMALE:Good luck.
+LEADMALE:I happen to have an extra copy right here.
+LEADMALE:What a break.
+LEADMALE:Uh, I'll I'll get that.
+SUPMALE:Hello.
+SUPMALE:Uh, just a second.
+SUPMALE:Alex, it's for you.
+LEADFEMALE:Hello.
+SUPFEMALE:Oh, hi, Ted.
+LEADMALE:What? What do you mean you can't make it Sunday? So what?! I-it's not even life-threatening until it gets up to 105.
+LEADFEMALE:You can make it, Ted.
+LEADFEMALE:Come on! Ted! Oh, I'm sorry, doctor.
+SUPMALE:No, I didn't mean to excite him.
+SUPMALE:Listen, if Ted regains consciousness, could you have him Hello? Great! Just great! Ted Quinn can't make the finals on Sunday.
+OTHERFEMALE:Why not? Oh, I don't know.
+LEADFEMALE:Some gibberish about infectious pneumonia.
+SUPFEMALE:And now our team is a man short.
+SUPMALE:What about your friend, Susan aronson? She's very bright.
+LEADMALE:No good, dad.
+LEADFEMALE:She's in the 11th grade.
+OTHERFEMALE:Each team must consist of one player from the 10th, 11th, and 12th grades.
+LEADFEMALE:Where am I gonna find an incredibly bright, informed, quick-thinking 10th grader by Sunday? Alex? I know we don't usually get along, but it hurts me to see you in a desperate situation like this.
+LEADFEMALE:I'm in 10th grade.
+LEADFEMALE:I'm willing to be on your team.
+LEADMALE:Maybe if we set Ted up in a glass booth, he wouldn't infect anyone.
+OTHERFEMALE:Come on, Alex, I'd be good! You? Yes, her! Alex, what is this? Do you think you're the only one in this house who's interested in academic challenge? Yeah, I love academic challenges.
+OTHERMALE:Besides, it's gonna be on television! There's an exchange student from Brazil who's pretty bright.
+LEADFEMALE:Dad, by any chance, could you ask some of the questions in Portuguese? I'll adapt.
+LEADMALE:Okay.
+OTHERFEMALE:Okay.
+OTHERMALE:Petey, one more question.
+OTHERFEMALE:Grover Cleveland was elected to the presidency twice, in 1884 and again in 1892.
+SUPFEMALE:Who was Cleveland's secretary of the treasury, during his second term? Uh, petey, I don't I don't think this is gonna work out.
+LEADMALE:I mean, let's face it, most of the questions are gonna be in English.
+LEADMALE:Nice try, pal.
+SUPFEMALE:Hey, quÃ© serÃ¡, serÃ¡.
+OTHERMALE:Ciao.
+SUPMALE:Ciao.
+SUPFEMALE:Jennifer! Yes? Bring in the next guy, please.
+SUPFEMALE:Uh, he was the last one, Alex.
+SUPFEMALE:Oh, he can't be.
+LEADMALE:There's got to be at least one qualified kid in the 10th grade.
+LEADMALE:There are plenty of smart kids, but none of them wanted to be on the team with you.
+SUPMALE:I can't understand that.
+LEADFEMALE:I merely asked them to comply with a few simple rules.
+LEADFEMALE:Alex, you wanted them to salute you.
+LEADFEMALE:I'm the captain of the team, Jennifer.
+LEADFEMALE:These kids have got to learn to respect authority.
+OTHERFEMALE:So, what are you gonna do now? I don't know.
+LEADMALE:I don't know.
+LEADMALE:I got to think.
+SUPMALE:Hey, I'm sorry, Elyse.
+LEADFEMALE:Steven, I've been revising these plans all day.
+LEADFEMALE:Now, why are you so resistant to my ideas? I'm not resistant to your ideas, Elyse.
+OTHERMALE:But I just don't think theater in the round is what we want to do here.
+LEADFEMALE:Are you saying you don't like it? I-I'm not saying that.
+LEADMALE:You do like it? I'm not saying that.
+SUPFEMALE:I'm saying this is a high-school quiz show, not "my fair lady.
+OTHERMALE:" "My fair lady"! That's it! The quiz will be like "my fair lady"! Well, we've got the set for it.
+OTHERMALE:No, no, no, you don't understand.
+LEADFEMALE:What I've got to do is find my Eliza Doolittle.
+LEADMALE:A 10th grader who knows virtually nothing about anything.
+OTHERFEMALE:An empty vessel that I can fill with my knowledge, my insight, my wisdom.
+LEADFEMALE:Someone whose mind is a total blank.
+SUPMALE:A clean slate.
+OTHERMALE:Mom! Could you help me in the kitchen? I'm trying to make a snack.
+SUPMALE:I forgot how the blender works.
+LEADFEMALE:Mallory.
+LEADFEMALE:All right, Mallory.
+LEADMALE:Let's turn to the next question.
+LEADMALE:Alex, we've been doing this for hours.
+LEADFEMALE:I'm getting tired! She needs her rest.
+SUPFEMALE:Jennifer, I don't think you fully appreciate what an enormous task I've undertaken here.
+OTHERMALE:I'm taking a simple peasant girl whose greatest prior achievement was coordinating her eye shadow with her sweater, and I'm turning her into someone Someone who could have a conversation with me.
+SUPMALE:You're gonna have to give her more incentive than that, Alex.
+LEADFEMALE:Alex, let's just get this over with.
+LEADMALE:You're getting a little too pompous, even for you.
+LEADFEMALE:Okay.
+OTHERFEMALE:Now, we went over this one yesterday.
+SUPFEMALE:It's a geography question.
+LEADFEMALE:At the Southern tip of Chile lies a body of water named for a famous explorer.
+LEADFEMALE:Name this body of water.
+SUPMALE:Uh, a body of water, right? Named for the famous explorer.
+LEADMALE:Come on, now.
+LEADFEMALE:Southern tip of Chile? The Hudson river.
+OTHERMALE:Aw! That's not right? No, it's the straits of Magellan! Oh! You guys are still at it? It's so late.
+OTHERFEMALE:I'm glad you're here.
+SUPFEMALE:We need your help with another dry run.
+LEADFEMALE:We've had five dry runs in the last two days, Alex.
+OTHERFEMALE:Just one more.
+SUPMALE:We're at a turning point here.
+LEADFEMALE:Mallory actually named all the cabinet members.
+OTHERFEMALE:That was me, Alex.
+LEADFEMALE:Okay, okay.
+SUPFEMALE:We need to work.
+LEADFEMALE:Please, mom, dad, do it for Mallory.
+LEADFEMALE:Well, maybe for a few minutes.
+LEADFEMALE:Great.
+LEADMALE:Okay, Elyse, and uh, Jennifer, sit over there, representing one team.
+LEADFEMALE:Mallory and Alex sit here.
+SUPMALE:And I'll stand here.
+SUPFEMALE:Uh, maybe you should stand on the chair, Steven.
+LEADFEMALE:Why? Because according to my revised, revised plan, the moderator's podium is elevated.
+SUPFEMALE:Uh, yeah.
+OTHERMALE:Well, look, I'm not quite sure we're going to be doing it that way, Elyse.
+LEADFEMALE:Why not? Well, there are a variety of factors involved.
+LEADFEMALE:Could you guys discuss this later, please? I mean, it's getting late.
+LEADFEMALE:It's very important that Mallory get some sense of what the actual tournament will be like.
+LEADMALE:Okay? Dad, go ahead.
+LEADFEMALE:Okay.
+LEADMALE:First question, in the area of mythology.
+OTHERFEMALE: Mythology.
+LEADFEMALE:Great.
+LEADFEMALE:You're good at this.
+OTHERMALE:Remember, I showed you the pictures? The guy with the wings on his feet? I remember.
+SUPFEMALE:Okay.
+SUPMALE:Who was romulus' twin brother? I don't know that one, mom.
+SUPMALE:Do you? Yes.
+SUPMALE:Would you like to share it with us? I'm not answering.
+SUPMALE:I have designed six perfectly good sets for this show, and I don't understand why your father refuses to use any of them.
+LEADMALE:Elyse, I thought you were going to design a very simple set.
+LEADMALE:Most of our viewers will not have 3-d glasses.
+OTHERMALE:Mom, mom.
+SUPMALE:Dad! Please.
+OTHERMALE:We're on television here.
+SUPFEMALE:The question now goes over to Harding high.
+SUPMALE:Who was romulus' twin brother? Uh, uncle Remus.
+SUPFEMALE:Not uncle Remus.
+SUPFEMALE:Just Remus.
+OTHERFEMALE:Well, I'll bet he was somebody's uncle.
+OTHERFEMALE:I mean, if romulus had kids, then Remus would be an uncle, wouldn't he? I suppose he would have, yes.
+LEADFEMALE:All right, then he was uncle Remus.
+SUPMALE:Maybe we practiced enough for one day.
+LEADMALE:Anyway, I have some other plans we can look over, Steven.
+SUPFEMALE:Uh, actually, you can never practice too much.
+LEADFEMALE:Steven! Uh, okay.
+LEADFEMALE:Okay.
+SUPMALE:Now, how about interlocking plexiglas platforms? They can be powered hydraulically.
+LEADFEMALE:Okay, we'll talk plexiglas.
+LEADMALE:Okay, Mallory, let's drill a little more.
+LEADFEMALE:Alex, I'm tired.
+OTHERFEMALE:Just a couple more questions.
+LEADMALE:Now What do the letters in the acronym "scuba" stand for? Well, it's kind of like skin-diving, isn't it? Yes.
+LEADMALE:Yes, it is.
+LEADFEMALE:Now, what do the letters stand for? We've gone over this before.
+LEADFEMALE:Self-contained underwater breathing apparatus.
+OTHERMALE:What did you say? Self-contained underwater breathing apparatus.
+SUPFEMALE:Again? Self-contained underwater breathing apparatus! By George, she's got it! 
+SUPMALE:Self-contained underwater breathing apparatus! And who invented it? Magellan! 
+LEADFEMALE:Five minutes to air, everybody! Hi! Hi! You're on one of the teams, aren't you? Uh-huh.
+LEADFEMALE:The Harding team.
+OTHERMALE:Great.
+LEADMALE:Good luck.
+OTHERMALE:Ha ha.
+SUPMALE:Thanks.
+LEADMALE:Uh, we're the guys who won the tournament last year.
+SUPFEMALE:Really? How exciting.
+SUPFEMALE:This year, we're the judges.
+LEADFEMALE:Really? Yeah.
+LEADMALE:Mm-hmm.
+LEADMALE:I'm sort of the head judge.
+LEADFEMALE:Well, I'm the co-head judge.
+LEADMALE:Well, I'm the alternate head judge.
+SUPMALE:Well, it's nice to meet you all.
+OTHERFEMALE:I'm so nervous.
+LEADFEMALE:Hey, don't worry.
+LEADMALE:You'll do fine.
+LEADMALE:I hope so.
+SUPMALE:Mallory, Mallory.
+SUPMALE:I've been looking all over for you.
+LEADFEMALE:What are you doing talking to these clowns? Alex, these clowns are the judges.
+SUPFEMALE:Hi.
+LEADFEMALE:How you doing? I'm Alex Keaton.
+LEADMALE:Nice jacket! Like the tie, too.
+SUPFEMALE:It'll probably be back in style again real soon.
+LEADMALE:Huh.
+OTHERFEMALE:Why didn't you tell me they were the judges? You didn't give me a chance.
+LEADMALE:Yeah, well, forget it.
+OTHERFEMALE:Forget it.
+LEADFEMALE:We've still got a couple minutes.
+LEADMALE:Let's go over a few things here.
+LEADFEMALE:Uh, have you memorized the Greek alphabet yet? No.
+LEADFEMALE:Never mind.
+SUPMALE:Never mind.
+SUPFEMALE:Name the four galaxies closest to the milky way.
+LEADMALE:Alex, stop it! You're making me more nervous.
+LEADMALE:I've been studying as hard as I can.
+SUPFEMALE:Just leave me alone now.
+LEADMALE:Alex.
+SUPFEMALE:Mallory.
+LEADMALE:Come on, take your places.
+LEADMALE:We're about to start.
+LEADMALE: Come on, girls.
+LEADFEMALE:Get over here and take your places.
+LEADFEMALE:Man 2
+LEADMALE:Hurry up there.
+SUPFEMALE: Yeah, great.
+LEADMALE: Get Harding high! Fight! Okay, everybody, just relax and try to forget you're on TV.
+LEADMALE:Make believe nobody's watching.
+SUPFEMALE:You'll be fine.
+OTHERFEMALE: Okay, let's go.
+SUPMALE:Count it, Andy.
+OTHERFEMALE:Five.
+LEADMALE:Four.
+LEADFEMALE:Three.
+LEADFEMALE:Two.
+LEADFEMALE:Good evening, ladies and gentlemen.
+OTHERMALE:I'm Steven Keaton, the station manager here at wks, and I'd like to welcome you to the final round of "wks high school quiz-off.
+LEADFEMALE:" Let's meet our two teams.
+LEADMALE:On my right, we have the finest minds of St.
+SUPFEMALE:Mary's high school Mary Catherine Robbins, Mary Beth McAllister, and Mary Margaret dunne.
+SUPMALE:And, uh, to my left, the top minds of Harding high school Grover garver, Mallory Keaton, and Alex Keaton.
+LEADFEMALE:Uh, our judges are the champions from last year from east high school.
+SUPMALE:Now let me remind you that, uh, the decision of the judges is final.
+LEADMALE:And now let us begin.
+LEADFEMALE:The first question It it's easier to answer the question when you know what the question is.
+OTHERMALE:I'm quite certain I'll know it, Mr.
+LEADFEMALE:Keaton.
+SUPMALE:Let's begin again.
+LEADMALE:Who was the last U.
+OTHERFEMALE:S.
+SUPFEMALE:president to be born in a log cabin? St.
+LEADFEMALE:Mary's.
+SUPFEMALE:James a.
+SUPMALE:Garfield.
+SUPFEMALE:Correct! Now Born November 19, 1831 in cuyahoga county, Ohio.
+SUPMALE:Fine.
+LEADMALE:Fine.
+LEADFEMALE:He was shot by Charles j.
+OTHERFEMALE:Guiteau July 2, 1881.
+LEADMALE:It was a Wednesday.
+LEADFEMALE:Very good.
+OTHERMALE:Mr.
+SUPMALE:guiteau was wearing all right, that'll be enough, Mary Margaret.
+OTHERMALE:Okay, next question.
+OTHERFEMALE:There's a body of water at the tip of Southern Chile that's named for the first man to circumnavigate the globe.
+LEADFEMALE:What is this body of water? Alex Keaton, Harding high.
+LEADFEMALE:The body To to the camera.
+LEADFEMALE:Right.
+SUPMALE:To the camera.
+SUPMALE:The body of water Five seconds, Harding.
+LEADMALE:The straits of ma-a-a Ma-a-a Uh, ma-a-a Uh, anyone else on the Harding team? Mallory Keaton.
+LEADMALE:Straits of Massachusetts.
+SUPMALE:No, no, I'm sorry.
+SUPMALE:The correct answer was the straits of Magellan.
+SUPMALE:Straits of Massachusetts is incorrect.
+OTHERMALE:Wait a minute, what's The judges say "close enough.
+SUPMALE:" Wait, wait, wait.
+OTHERMALE:I, uh, sorry, wait a minute, that's That's the wrong answer.
+LEADMALE:But but as I said before, the decision of the judges is final.
+SUPFEMALE:Uh, Harding will get credit for that answer.
+LEADMALE:Uh, the score is tied 5-all.
+SUPFEMALE:Uh, the the next question.
+SUPMALE:What is the name of the military alliance between the Soviet union and the eastern bloc nations? Mary Margaret of St.
+LEADFEMALE:Mary's.
+LEADMALE:The treaty of Moscow? No, I'm sorry.
+OTHERFEMALE:The question now goes over to Harding high.
+LEADFEMALE:Alex Keaton.
+OTHERFEMALE:The wa-a-a Wa-a-a-a 
+LEADMALE:Mallory Keaton, Harding high.
+SUPFEMALE:The Warsaw pact.
+LEADMALE:You're right! The correct answer is the Warsaw pact! What is the longest suspension bridge in the United States? Grover.
+LEADMALE:The verrazano-narrows bridge.
+OTHERFEMALE:Correct! Five points for Harding! 
+SUPMALE:Uh, the question was already answered, Mallory.
+LEADMALE:Yes.
+LEADMALE:I thought you might like to know what the second longest suspension bridge in the United States is.
+LEADFEMALE:No, not really.
+SUPFEMALE: But But apparently the judges do.
+LEADMALE:The golden gate bridge.
+OTHERMALE: Now it's all tied.
+LEADFEMALE:Here's another 5-point bonus question.
+SUPFEMALE:How many bones in the human body? Uh, that that was That was very close.
+SUPMALE:I don't think I can call it.
+LEADMALE:Judges? 
+LEADFEMALE:Mallory.
+SUPFEMALE: Okay, Mallory.
+LEADMALE:How many bones are in the human body? That's correct! Now the final question.
+SUPFEMALE:For 10 points, which will decide the match.
+LEADMALE:Consider your answer carefully.
+LEADMALE:Masters and Johnson are known for their research in what area? Mary Catherine.
+LEADMALE:That's correct! St.
+LEADMALE:Mary's wins 145 to 140! Thank you very much for being with us.
+SUPFEMALE:Good night, everybody.
+LEADFEMALE:Alex Alex, are you okay? Hey.
+OTHERMALE:Hey, Alex.
+LEADMALE:Alex, come on.
+SUPFEMALE:Alex! Straits of Magellan! Honey, are you okay? Mom? Dad? Is that you? Yeah.
+OTHERFEMALE:What happened? Nothing serious.
+LEADFEMALE:You just had an attack of stage fright.
+SUPFEMALE:Alex, you should have seen yourself.
+SUPFEMALE:You looked like a zombie.
+LEADMALE:You couldn't move.
+LEADMALE:You couldn't talk.
+LEADMALE:I can't believe it.
+SUPMALE:This must be a nightmare.
+SUPFEMALE:It's all on videotape, Alex.
+LEADMALE:You can see it for yourself.
+SUPFEMALE:Alex, she's exaggerating.
+LEADFEMALE:It wasn't that bad.
+LEADFEMALE:How did the team do? Well, you lost.
+LEADFEMALE:But not by much.
+LEADMALE:Mallory was fantastic.
+SUPMALE:She answered questions in history, literature, biology.
+LEADFEMALE:You should be very proud of her.
+OTHERFEMALE:We lost, huh? Well, yeah, but But Mallory Okay, okay, if I'm not mistaken, we have 26 days to file a complaint with the commissioner.
+LEADFEMALE:We can say that the captain of the team was incapacitated Alex! It's over! It can't be over! We didn't win! Excuse me.
+LEADMALE:Mr.
+SUPMALE:Keaton.
+LEADMALE:Uh.
+LEADFEMALE:My teacher said my answer to the crusade question is correct.
+SUPMALE:What's the difference, Mary Beth? Your team won.
+LEADFEMALE:We want to win by more.
+LEADMALE:Isn't it possible that your teacher is wrong? I don't think so.
+SUPMALE:She really knows her crusades.
+SUPFEMALE:She'd like to talk to you.
+SUPFEMALE:Uh, I-I'll be right back.
+OTHERMALE:Hey.
+LEADFEMALE:I was so ready for this contest, mom.
+LEADFEMALE:I knew everything there was to know.
+OTHERFEMALE:Ask me any question.
+SUPMALE:Why are you like this? No, no, general-knowledge stuff, history, literature.
+LEADFEMALE:Alex, can't you see what happened? This quiz-off was supposed to be fun.
+SUPFEMALE:Well, maybe not on this set.
+LEADFEMALE:But you turned it into the Spanish inquisition.
+LEADFEMALE:Spanish inquisition.
+SUPFEMALE:Pope sixtus iv Alex, see what you're doing? I'm sorry, mom.
+SUPMALE:Honey, you're pushing yourself too hard.
+LEADMALE:There is a limit to how much a human being can accomplish.
+OTHERFEMALE:You've got to slow down.
+LEADMALE:Mom! Dad needs your help.
+LEADFEMALE:Those St.
+LEADMALE:Mary's girls really have him on the ropes.
+OTHERFEMALE:Okay.
+SUPFEMALE:Well, I will deal with this mother to mother.
+LEADMALE:You don't look so good, Alex.
+LEADMALE:Excuse me.
+SUPMALE:I've been comatose for the past two hours.
+OTHERFEMALE:I didn't have a chance to freshen up.
+LEADMALE:C-can I talk to you for a second? Sure.
+LEADFEMALE:O-on a scale of 1 to 10, how obnoxious have I been to you? Alex, I'm tired of quizzes.
+LEADFEMALE:Just talk to me in normal sentences for a change, okay? Okay.
+LEADFEMALE:I guess this has been a pretty rough week for you, huh? Uh, it's good training.
+SUPFEMALE:If I ever have to stand up for questioning by the secret police, I'm ready.
+LEADFEMALE:I-I was only doing it because I wanted our team to win the contest.
+SUPMALE:You know, Alex, sometimes I worry about you.
+LEADFEMALE:You take everything so seriously.
+LEADFEMALE:You got to learn to relax more.
+LEADMALE:Have you ever thought of spending a few weeks at a dude ranch? Not really.
+LEADFEMALE:Well, why don't you just kick me or something, every time I get out of hand? Every time? There wouldn't be enough places to kick.
+SUPFEMALE:I'm sorry.
+LEADFEMALE:Eh.
+LEADFEMALE:Come on, Alex.
+OTHERFEMALE:Let's go home.
+SUPMALE:Oh, this has been one of the worst days of my life.
+SUPFEMALE:Yeah.
+LEADMALE:Why are you smiling? I knew the answers, Alex.
+LEADMALE:Maybe I'm smarter than I thought.
+LEADFEMALE:Maybe so.
+SUPMALE:What was the fifth amendment to the U.
+SUPMALE:S.
+LEADFEMALE:constitution? I'd answer that, but I have the right to remain silent.
+SUPMALE:Not bad.
+LEADMALE:Not bad.
+LEADMALE:

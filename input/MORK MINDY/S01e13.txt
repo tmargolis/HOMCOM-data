@@ -1,0 +1,382 @@
+SUPFEMALE:Nanu-nanu.
+LEADMALE:( loud clank ) Shazbot! Hi, Mork.
+SUPMALE:Be calm.
+LEADFEMALE:Okay.
+LEADFEMALE:Everything is going to be all right, but just start packing, okay?! What? We've got to get out.
+LEADFEMALE:We're going to blow this burg.
+SUPMALE:It's over.
+OTHERMALE:The party's over! Boulder's had it.
+LEADFEMALE:What are you talking about? There's a plague! It's an epidemic.
+SUPMALE:It's called Christmas! Oh the Christmas plague.
+SUPFEMALE:You know about it.
+LEADMALE:It affects the brain.
+SUPMALE:There're mindless hordes all out in the street milling around.
+LEADMALE:Last night, while you were at school, there was a roving gang terrorizing the neighborhood.
+OTHERMALE:They were just singing for trouble.
+SUPMALE:Singing for trouble? Yes, they wanted to beat up Monty Hall and his family.
+LEADFEMALE:They were going from house to house singing, "Deck the halls, deck the halls" Mork, those are Christmas carolers.
+SUPFEMALE:They're harmless.
+LEADMALE:Oh, a lot you know.
+OTHERFEMALE:Quick! We've got to get you out of here! The whole town's under martial law.
+SUPFEMALE:There's a little fat dude in a red suit on every corner and he's called, he's called Santa Claus.
+SUPMALE:And he's stopping everybody! And people are really sick 'cause they're putting plastic babies on everybody's lawn covered in straw.
+SUPFEMALE:I don't know, but we've got to get out of here before we're all infected! Mork.
+SUPFEMALE:Mork.
+LEADFEMALE:Relax.
+OTHERFEMALE:Now, this might be hard for you to understand, but it's all part of our Christmas holiday.
+OTHERFEMALE:Oh, that explains it.
+LEADMALE:You see, the men in the red suits are collecting money for people that are less fortunate.
+LEADFEMALE:And the carolers are singing because that makes people happy.
+SUPMALE:Oh, yeah? Tell that to the "Halls" after they're decked.
+LEADFEMALE:You see, this holiday is to celebrate the birth of one of Earth's greatest men called Jesus Christ.
+LEADFEMALE:Oh, is that the guy with the glasses that runs Boulder Stereo? No, I don't think that's him.
+LEADMALE:You see, Jesus was a wise and wonderful man.
+LEADFEMALE:That's why this time of year brings out the best in people.
+LEADMALE:It's a time for caring and sharing, when you open up your heart to your fellow man.
+LEADMALE:Oh, I see.
+LEADMALE:For a few short weeks each year, humans try to act human.
+LEADMALE:Well, it's a start.
+OTHERFEMALE:Well, it's a darn good one.
+LEADMALE:Orson will be pleased to hear about this.
+OTHERFEMALE:( doorbell rings ) I'll get it.
+LEADMALE:( utters Orkan sounds ) Mindy, you don't have to worry about snowing tonight, because here's your fair-weather friend, Susan.
+OTHERFEMALE:Mork, Mork, Mork, Mork, Mork.
+LEADMALE:Oh, Sue, Sue, Sue, Sue, Sue.
+LEADFEMALE:You're such a dear child.
+LEADMALE:Well, Susan Taylor, whatever brings you into this neighborhood? After all, there's no valet parking.
+LEADFEMALE:Mindy! Oh! Nonsense.
+SUPFEMALE:I'd go to a tacky area to see a friend.
+LEADFEMALE:Oh, that's nice.
+SUPFEMALE:I know.
+OTHERMALE:So, what brings you by? Oh, Christmas.
+LEADFEMALE:You know, at Christmas you stop to think about your friends, and that's why I'm here.
+LEADFEMALE:After all, you two are my best friends.
+LEADFEMALE:We're your only friends.
+LEADFEMALE:Oh, what beautiful Christmas cards.
+OTHERMALE:Where did you buy them? Oh, she didn't.
+LEADMALE:One man gave them all to her.
+OTHERFEMALE:Aha.
+LEADMALE:The mailman.
+LEADMALE:Oh, that's the guy.
+LEADMALE:The one with the well-stuffed pouch.
+LEADFEMALE:Did you string up your Christmas cards? Oh, sort of.
+LEADFEMALE:I hung up my Christmas card.
+LEADMALE:Oh, then I'll give you a card.
+SUPFEMALE:Here, are you into camels? Oh, thank you, Mork, but it's just not the same.
+LEADMALE:Cute camel, though.
+LEADMALE:Oh, Mindy, your place is just so homey, not like mine.
+LEADFEMALE:I mean, mine is just so gosh-darned elegant.
+LEADFEMALE:It's just that it's not really the kind of place you'd like to spend Christmas in all alone.
+SUPMALE:Oh, loneliness.
+SUPFEMALE:Heavy sigh.
+LEADMALE:I know.
+LEADFEMALE:What about that guy you're dating uh, the lawyer? Oh, Patrick.
+LEADMALE:Oh, well, no, we're not going to be able to spend Christmas together.
+LEADMALE:He has this silly quirk about spending the holidays with his wife.
+OTHERFEMALE:That's easily fixed.
+LEADMALE:Just have him come over and bring the little woman along.
+OTHERFEMALE:Mork, she doesn't know that I exist.
+LEADMALE:Oh, that's probably why she didn't send you a card.
+SUPMALE:But you have to let people know what you're doing.
+LEADFEMALE:Uh! I have the solution.
+LEADFEMALE:Why don't you come over here for Christm Excuse me, Mork, I forgot I have to talk to you.
+OTHERMALE:You were going to invite her to spend Christmas with us, weren't you? Uh-huh, uh-huh, uh-huh.
+OTHERMALE:I got the right idea.
+SUPMALE:I think fast.
+SUPMALE:I want to spend Christmas with you, Dad and Grandma.
+SUPFEMALE:So does she.
+LEADMALE:But I don't want to spend it with her.
+LEADFEMALE:Why? You told me Christmas was a time of caring and sharing, a time when you open up your heart to your fellow man or strange woman.
+SUPMALE:What made you change your mind? I didn't change my mind.
+OTHERFEMALE:I just Oh, you don't understand.
+LEADFEMALE:I think I do understand.
+SUPFEMALE:You didn't mean what you said.
+LEADFEMALE:It was a nice idea, though, this But I guess this Christmas is just a sham.
+LEADMALE:No, I mean, it's still a nice idea, but she's just so ( disgusting groan ).
+LEADMALE:And her ego is so inflated.
+SUPFEMALE:Oh, all right, ask her.
+SUPMALE:Oh, thank you, Mindy.
+LEADFEMALE:Susan, even though you're yech! And inflated, would you like to spend Christmas over here? Well, I suppose I could change my plans.
+SUPMALE:Swell.
+OTHERFEMALE:Gee, I forgot.
+SUPMALE:I can't.
+SUPFEMALE:Oh, that's too bad.
+LEADMALE:Well, maybe next year.
+LEADMALE:Well, I'm a nooner.
+LEADFEMALE:I could never possibly get here in time for the festivities.
+LEADFEMALE:Oh Well, I'll wake you up.
+LEADMALE:Well, if it's that important to you, I suppose I could come over and spend Christmas Eve here, and then you could wake me up in time for the fun in the morning.
+OTHERFEMALE:Okay, you win.
+LEADFEMALE:Thank you for thinking of us.
+LEADMALE:What are friends for? Well, listen, I really do I do prefer to have the Christmas meal around 1:00.
+LEADFEMALE:Oh, fair warning: I only eat white meat.
+LEADFEMALE:Well, I guess we'll have to get a Caucasian turkey then.
+LEADMALE:Oh, we're going to have such fun.
+SUPMALE:Ciao.
+SUPFEMALE:Grub.
+LEADFEMALE:See, Mindy, aren't you glad we did the right thing? ( knock on door ) MORK: In come.
+LEADFEMALE:Eugene! What's action, faction? Uh-uh-uh.
+SUPMALE:What's this? A tree.
+LEADMALE:A tree in bondage? Eugene, you're weird.
+LEADFEMALE:Why are you dragging this dead thing around? Haven't you seen a Christmas tree before? Oh, a Christmas tree.
+SUPMALE:No.
+OTHERMALE:Man, sometimes you act like you're from another world.
+LEADMALE:It's a Christmas tree.
+LEADMALE:You decorate it.
+LEADFEMALE:Why? Well, Mork, there are certain things you do on Christmas.
+SUPFEMALE:One, decorate the tree.
+LEADMALE:Two, eat turkey.
+LEADFEMALE:Three, exchange gifts.
+LEADMALE:Whoa, munchkin.
+SUPMALE:Run the gift part by me again.
+OTHERFEMALE:Well, Mindy'll buy you something.
+SUPFEMALE:And probably her Dad and Grandma.
+OTHERMALE:Oh, and ipso facto, I'm supposed to buy them something.
+LEADMALE:Now you got it.
+LEADFEMALE:Ooh, what a pleasant tradition.
+SUPFEMALE:SUSAN ( sing-song ): Knock, knock Who's there? Susan.
+LEADMALE:Susan who? Susan Taylor.
+OTHERFEMALE:What a terrible knock-knock joke.
+SUPFEMALE:Oh, Mork, I'm so full of the essence of Christmas.
+LEADFEMALE:I'd like you to meet my main munchkin, Eugene.
+SUPFEMALE:Oh, Mork, I am so thrilled.
+LEADFEMALE:Hello, there.
+LEADMALE:I am so thrilled that you and Mindy have invited me to spend this special time of the year with you that, well, I've decided to share with you one of my most cherished possessions.
+LEADFEMALE:A heavenly top piece for our tree my Gucci angel.
+LEADMALE:Well, any friend of yours is a friend of ours and your winged guest is welcome here.
+LEADFEMALE:Fly, little friend, be free! Oh, heavy remorse.
+OTHERFEMALE:I've killed your flighty friend.
+LEADFEMALE:I'm sorry.
+SUPFEMALE:It was your most prized possession.
+SUPMALE:That's all right.
+LEADFEMALE:I have six more at home.
+LEADMALE:Well, I must fly.
+LEADFEMALE:Oh, think of your friend.
+SUPFEMALE:Oh, that reminds me.
+SUPFEMALE:I'll drop off another angel with Mindy later.
+SUPFEMALE:Ciao.
+LEADMALE:Pekinese.
+LEADFEMALE:Boy, she's something else.
+LEADFEMALE:Yeah, I like her, too.
+SUPFEMALE:Eugene, would you come with me and help me pick out presents for the family? Sure.
+LEADMALE:But I gotta tell you something.
+LEADFEMALE:That lady friend of yours has the wrong idea about Christmas.
+LEADMALE:She does? Yeah.
+LEADFEMALE:Getting presents is nice, but giving presents is what the gig's all about.
+SUPFEMALE:Oh, like Mindy said, caring and sharing.
+OTHERFEMALE:Right.
+SUPFEMALE:It's the time of the year when everyone's full of brotherly love.
+LEADMALE:Will you let go?! I saw it first! I got more of it! No, you haven't! Hey, girlie, can you help me? Come back here! Come back here! WOMAN: You had plenty yesterday.
+LEADFEMALE:Don't you have one with green? Mork?! Mork?! Eugene! You can't buy anything under there.
+LEADMALE:Come on out.
+SUPMALE:Oh, no way, Jose.
+OTHERMALE:Nyet, nix.
+LEADFEMALE:I'm no chump.
+SUPMALE:These people are out for blood.
+SUPFEMALE:I'd rather go swimming in a blender.
+SUPFEMALE:Hey, Mork, here comes a salesman.
+LEADFEMALE:Can I help you? You can help me.
+LEADMALE:What? He's scared to come out.
+SUPFEMALE:Will you come out of there right now! No! Face it like a man! Hey, everybody, there's a sale on the second floor.
+OTHERMALE:That's right, 110% off.
+OTHERFEMALE:I'm sorry.
+SUPFEMALE:I had to save myself, and besides I all I want is just a sweater.
+OTHERMALE:It's all right.
+SUPFEMALE:They'll be back when they find out there's no second floor.
+SUPMALE:What kind of sweater do you want? Well, I'd like to go big-time maybe.
+LEADMALE:Cardin, Yves St.
+LEADMALE:Laurent.
+OTHERMALE:I've got 12 bucks.
+LEADFEMALE:Oh, yeah, I've got to buy three presents with that or four, including Susan.
+OTHERFEMALE:Twelve bucks, huh? I've got an idea for you, friend.
+LEADFEMALE:Why don't you do your shopping at McDonald's? All right, Eugene, we're off to the Golden Arches.
+LEADMALE:Mork, he was putting you on.
+LEADMALE:Oh, I guess 12 bucks doesn't buy very nice presents then.
+SUPMALE:Not for that many people.
+OTHERFEMALE:Too bad.
+SUPMALE:At home we used to make presents for people Sure, you can do that.
+SUPMALE:I thought that's against the law.
+LEADFEMALE:You know, because on TV they say you've got to buy everything.
+LEADMALE:It's part of the commercialization of Christmas, you know.
+LEADMALE:The stores would rather you buy them.
+LEADMALE:There's no reason you can't make them.
+OTHERMALE:Oh oh, yay, excitement, tingle.
+SUPFEMALE:I've got to get the material then.
+LEADFEMALE:Let's see, what do we need? We need lots of gum ball of string some dust balls, a little tiny whip.
+SUPFEMALE:MORK: Mindy, guess what? What? I have a surprise for you.
+SUPMALE:I've hid your present all over the house.
+SUPMALE:You'll never be able Don't sit there! Why did you hide your presents? Why didn't you just put them under the tree? I didn't want you to see them.
+LEADFEMALE:Didn't you wrap them? You're supposed to wrap your presents? Yes.
+LEADFEMALE:Okay.
+OTHERFEMALE:You're nothing! You're skuz! You're not worth the money! You're awful! Who would buy you in a million years?! Doesn't sound very Christmasy to me.
+LEADFEMALE:Mork, look.
+SUPFEMALE:See a little paper, a little ribbon, nice little bow.
+LEADMALE:This is how we wrap presents.
+SUPFEMALE:Oh, that's a lot more in the spirit of things.
+LEADMALE:Yes.
+LEADMALE:Well, guess what I got for you.
+SUPMALE:Go on, take a guess.
+LEADFEMALE:Come on, just one guess.
+LEADMALE:No, I don't want to guess.
+SUPFEMALE:I don't want to ruin it.
+LEADFEMALE:Oh, party pooper.
+LEADMALE:Well, I'll guess what you got for me.
+OTHERFEMALE:Come on, let me guess.
+LEADMALE:No.
+LEADFEMALE:Just give me a hint! Give me a hint! Give me a hint! No, Mork.
+OTHERMALE:You're just going to have to wait till tomorrow morning.
+LEADMALE:You know, you're just like a little kid.
+LEADMALE:( high-pitched hum ) Don't don't shake it.
+OTHERFEMALE:You're going to break the What? Oh cute.
+LEADMALE:SUSAN: Knock-knock.
+LEADFEMALE:Don't say, "Who's there?" It's a set-up for a terrible joke.
+LEADFEMALE:MORK: Entre vous.
+LEADMALE:Hi, there.
+LEADFEMALE:Oh, look at all the beautiful presents.
+LEADFEMALE:How nice.
+LEADMALE:I only got one gift myself this year.
+OTHERFEMALE:It's from my boyfriend, Patrick.
+LEADMALE:And his wife? I doubt it.
+SUPFEMALE:You know what he gave me for Christmas? A picture of himself.
+LEADMALE:And you opened it? No, I don't have to, I know.
+LEADFEMALE:That's what I'm giving for Christmas this year.
+SUPMALE:That man doesn't have a single bit of imagination.
+LEADMALE:Oh, well, Susan, forget about Patrick.
+LEADMALE:We're going to see that you have a really nice Christmas this year.
+LEADFEMALE:Yes, we have presents even for you.
+LEADMALE:That's nice.
+SUPMALE:Look, I really appreciate your inviting me over here for the holidays.
+SUPFEMALE:I know I kind of wangled my invitation, but, uh well, I'm really glad you invited me, and I think we're going to have a really nice Christmas.
+SUPMALE:Oh, I know we are.
+LEADFEMALE:Since everyone's in the Christmas spirit, let's open those presents! Now, I told you, we're going to open our presents tomorrow morning when Dad and Grandma get here.
+LEADMALE:Do you think you can wait that long? Who me? Yeah, you.
+LEADFEMALE:( chuckles ) Remember me? Mork the emotionless? I'm in control.
+LEADMALE:Everything's cool.
+SUPFEMALE:Tell you what tomorrow morning when they get here, you just give me a buzz.
+LEADMALE:If the energy's right, I'll come down.
+LEADFEMALE:We'll have a cocktail.
+SUPFEMALE:We'll talk.
+LEADMALE:'Cause you know, Christmas is really for kids.
+LEADFEMALE:Well, it is getting late.
+OTHERFEMALE:I think we probably should hit the sack.
+LEADFEMALE:Tomorrow's going to start pretty early.
+LEADMALE:Okay.
+LEADMALE:You know, in spite of what he just said, Mork certainly seems to be excited about Christmas.
+LEADMALE:Oh, he is.
+LEADFEMALE:It's like it's his first one.
+LEADFEMALE:You see, his, uh, parents, never celebrated Christmas.
+SUPFEMALE:Oh, that's sad.
+LEADMALE:Yeah, it is.
+LEADMALE:Mork and I have a lot in common.
+LEADMALE:( singing in Orkan ) ( Simon game beeping ) Catchy tune.
+LEADMALE:Oh, look at this lovely brooch cameo from the antique shop.
+LEADMALE:Oh, isn't it lovely? Oh, Fred, how did you know I wanted it? Well, I overheard you mention it to Mindy.
+SUPFEMALE:Every day since July.
+LEADMALE:Oh, Mindy, thank you so much for the gloves.
+OTHERFEMALE:They're really nice.
+SUPFEMALE:Oh, you're welcome.
+SUPMALE:Oh, and thank you for the lovely picture of yourself.
+OTHERFEMALE:It's time for my presents now.
+LEADMALE:I saved the best for last.
+LEADFEMALE:( babbling ) ( whistling ) Grandma may all your Christmases be bright.
+OTHERFEMALE:Oh, thank you.
+LEADMALE:Pops, keep those chestnuts roasting.
+SUPFEMALE:Susan, this is even better than your picture.
+LEADFEMALE:And Mindy, for you.
+SUPFEMALE:And thanks for being such a swell roomy.
+LEADFEMALE:Oh, thanks, Mork.
+LEADMALE:Say, this is nice.
+SUPMALE:What is it? Well, you said you've always wanted a rug try it on.
+LEADFEMALE:Just like Howard Cosell, and it's indoor/outdoor.
+LEADMALE:Um a-a painting? Oh, yes.
+LEADFEMALE:You said you liked music and antiques, so I combined the two and I made a portrait of Liberace made out of old bubble gum.
+OTHERMALE:I painted each wad myself.
+LEADMALE:Well, it's, um it's unusual.
+LEADFEMALE:Oh, I knew you'd like it.
+LEADMALE:Gee, I can't wait to see what I got.
+LEADFEMALE:Well, yours is the only one I bought, 'cause you said you wanted something returnable.
+LEADMALE:A saucer? Surprised? Oh, yes.
+LEADMALE:Uh, why a saucer? Well, Mindy said you'd only appreciate something shallow.
+SUPMALE:Well, it it's a bracelet.
+LEADMALE:No, it's a lawnmower.
+SUPMALE:Of course, it's a bracelet.
+LEADFEMALE:Oh.
+LEADMALE:It's handmade by Mork.
+OTHERFEMALE:Oh it's really interesting.
+LEADMALE:What kind of beads are these? Oh, they're not beads, and I know you'll love it, because there's a whole collection up in the attic.
+LEADMALE:They're flies.
+LEADMALE:They can't fly now, silly, they're dead.
+SUPFEMALE:And look, I hand-painted each and every one of their eyes which was really a drag, took a long time and I made, I made little clothing for them.
+LEADMALE:Little pants, too.
+LEADFEMALE:Oh, look, look his human's open.
+LEADMALE:And if you look real close and you hold them up to the light, you can see I put sequins on the wings so they could look like Liza Minelli in Cabaret.
+LEADFEMALE:Isn't it incredible? I knew you'd like it.
+OTHERMALE:Oh It was just worth it just to see the surprised look on your face.
+LEADMALE:Well, I-I appreciate the fact that it took you so long to make that.
+LEADMALE:Um, could you put that in the box for me? Oh, you know why I put it in such a big box? Why? So you couldn't guess what it was.
+LEADFEMALE:( laughs ) Did I fool you? ( honking bark ) You sure did, boy.
+OTHERFEMALE:I never would have guessed what was in there.
+LEADMALE:Well, did everyone like my swell gifts? ALL: Oh, yes.
+SUPMALE:Well, if you liked those, wait till you see what I got for the entire house.
+LEADMALE:It's something everybody can use.
+SUPFEMALE:Oh, dopey me.
+SUPMALE:It must be upstairs.
+LEADMALE:I'll go get it.
+LEADMALE:( singing in Orkan ) Will you look at this? Oh, my gosh.
+SUPMALE:I agree, but what can you say to the guy? Oh, no.
+SUPFEMALE:What I thought was a picture from Patrick, it's a thousand dollar bill.
+LEADFEMALE:Oh, no, I didn't get him anything because I thought he gave me a crummy picture.
+OTHERFEMALE:Oh, I've got to think of something that I can get for him and leave it in his mailbox.
+LEADMALE:I know.
+LEADFEMALE:I'll leave him one of my Gucci angels.
+LEADMALE:Oh, folks, now you got to admit it this is what Christmas is all about.
+LEADFEMALE:Not like those stupid presents Mork made for us.
+LEADFEMALE:Merry Christmas! FRED: Well, what should we do? I don't know.
+SUPMALE:Poor Mork.
+SUPMALE:I'm so embarrassed for him.
+SUPMALE:He worked so hard on the on all this stuff.
+LEADFEMALE:I know.
+LEADFEMALE:A rug, gum and dead flies.
+LEADMALE:It's tough to warm up to.
+LEADFEMALE:Oh, the poor boy.
+LEADMALE:Do we tell him? I mean, we don't want him to make the same mistake next year.
+SUPMALE:Dad, how do we tell him? Did you see the look on his face? MORK: You don't have to.
+SUPFEMALE:I made a fool out of myself.
+LEADMALE:MINDY: Mork I'm sorry I embarrassed you.
+LEADMALE:I'll be up in my room.
+OTHERFEMALE:Wait a minute.
+SUPFEMALE:Okay, so your presents weren't very practical, but it doesn't matter.
+LEADFEMALE:Oh, Mork, Dad's right.
+SUPMALE:It's not the gift, it's the thought that counts.
+SUPMALE:CORA: That's true, Mork.
+SUPFEMALE:It is the thought.
+LEADFEMALE:Thoughts are important? Well, of course.
+LEADFEMALE:I should have given you one of those for Christmas.
+OTHERFEMALE:What? A thought.
+LEADMALE:You can give a thought? No, but you can give it to yourselves, I can make it happen.
+OTHERMALE:Let me show you.
+LEADFEMALE:( sustained tones ) I don't believe it.
+OTHERMALE:What was your thought? Well, when I was a little girl, I used to have this dog named Peppy.
+OTHERFEMALE:And I, I let him loose one afternoon at a picnic and-and he ran away.
+LEADFEMALE:A week went by and I thought that he'd gotten run over by a car.
+LEADFEMALE:And I just remember the way I felt the day that Peppy ran up the driveway.
+SUPMALE:Oh, thanks, Mork.
+LEADMALE:What about you, Grandma? Well, I was just remembering my husband and our first Christmas together.
+LEADMALE:We, uh, we couldn't afford furniture or gifts for each other, but we bought a tree.
+LEADMALE:And it was the best Christmas ever.
+SUPFEMALE:What's wrong, Pops? Nothing.
+LEADFEMALE:Nothing at all.
+SUPFEMALE:You just made me remember the first time I held my newborn daughter.
+LEADMALE:My hands were so large and clumsy.
+LEADFEMALE:I just couldn't believe anything so tiny could make me so happy.
+SUPMALE:Thank you, Mork.
+LEADMALE:Me, too, Mork.
+LEADMALE:Thank you, from the bottom of my heart.
+SUPMALE:I'd forgotten how much I loved that dog.
+SUPFEMALE:You like it better than flies? ( chuckles ) Yes, even better than flies.
+LEADMALE:Whew.
+LEADFEMALE:I want to say something to you, too.
+OTHERFEMALE:This is my first Christmas and you made it really wonderful.
+LEADFEMALE:Thank you.
+OTHERMALE:Well 
+SUPFEMALE:

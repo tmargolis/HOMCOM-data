@@ -1,0 +1,357 @@
+LEADFEMALE:MORK: Nanu, nanu! ( upbeat theme playing ) Hi, Mork.
+LEADFEMALE:I'm home.
+LEADFEMALE:( screams ) May I take your coat? What are you doing in there? Trying to make your day a little bit better.
+SUPMALE:Oh, thank you.
+LEADFEMALE:Here.
+LEADFEMALE:Come.
+SUPMALE:Rest your weary bod.
+SUPFEMALE:There we go.
+LEADMALE:Here.
+LEADFEMALE:Oh.
+LEADMALE:Ah.
+LEADFEMALE:There we go.
+LEADFEMALE:Wait, wait, wait, wait.
+SUPFEMALE:Whoa! No.
+LEADMALE:Rest yourself there.
+SUPMALE:It's been a hard day at work, hasn't it, honey? There we go.
+LEADFEMALE:A little mental massage.
+OTHERFEMALE:Ooh-ooh, ah-ooh There we go.
+LEADMALE:There.
+SUPFEMALE:You cozy yet? Yeah.
+SUPFEMALE:I really appreciate what you're doing, but I haven't even been to work yet.
+LEADMALE:I brought it all home with me.
+LEADFEMALE:See? Oh.
+LEADMALE:Then the Algerian mud rub is out.
+OTHERFEMALE:( chuckles ) I guess so.
+OTHERFEMALE:Mind.
+OTHERFEMALE:What? How come you haven't told me what you're doing at the newspaper yet? Because I'm not supposed to tell anybody.
+SUPMALE:All right.
+SUPFEMALE:But you gotta promise not to tell anybody else.
+LEADMALE:My lips are stapled.
+SUPFEMALE:Okay.
+LEADFEMALE:See, I'm working at the Boulder Journal for a couple of weeks.
+SUPMALE:They hired me to answer the mail that comes in to their Lonelyhearts column.
+LEADFEMALE:What's a "Lonelyhearts" column? Oh, I know, spare parts for donors.
+LEADMALE:No.
+SUPMALE:Lonelyhearts column, it's for people who write in and ask for personal advice.
+LEADFEMALE:Oh, but why would they write in to a total stranger? I guess sometimes it's easier to, uh, bare your soul to someone you don't know.
+OTHERMALE:To tell you the truth, I'm kinda nervous about this 'cause I've never done anything like this before.
+SUPFEMALE:Oh, Mind, you're good at giving advice, like that time you told me not to eat soup with the thin end of the spoon.
+LEADFEMALE:Yeah.
+OTHERMALE:Well, my Journalism professor recommended me for the job.
+OTHERMALE:And nobody is supposed to know I'm doing this.
+OTHERFEMALE:See, the regular Miss Lonelyhearts is in Reno getting his divorce.
+LEADFEMALE:Are the letters in there? Can I read them, please? I mean, I am a super-intelligent alien with highly attuned powers of sensitivity.
+SUPFEMALE:Please, give me a chance.
+LEADMALE:Eeh.
+LEADFEMALE:I can tell you what that one's about already too.
+OTHERFEMALE:Okay.
+SUPFEMALE:How would a highly evolved being answer this one? All right.
+LEADMALE:Let's see.
+SUPFEMALE:"Dear Miss Lonelyhearts, "I found a pair of pantyhose in my husband's pocket.
+LEADFEMALE:Should I be worried?" Don't panic.
+LEADFEMALE:They may not be his.
+SUPFEMALE:I'm a whiz.
+OTHERFEMALE:I'm right there.
+LEADMALE:Next.
+LEADMALE:Oh.
+LEADMALE:Mork, listen to this one.
+SUPFEMALE:All right.
+LEADFEMALE:"Dear Miss Lonelyheart, "I've only lived in Boulder a few months "but they've been very lonely months.
+LEADMALE:Somehow, men just don't notice me.
+LEADFEMALE:" Poor guy.
+LEADMALE:( clears throat ) "I'm not looking for anyone that unusual, "just a nice guy who's sensitive, likes the same things I like, "and is genuinely interested in what I have to say.
+SUPMALE:"The trouble is I'm so busy every day, "going to a school and working in a deli, "I hardly have the opportunity to meet anyone or maybe I just don't know how.
+SUPMALE:Please help me.
+SUPMALE:" signed "J.
+LEADMALE:From New York.
+SUPMALE:" This letter's from Jeanie! She sounds pretty low, Mind.
+LEADFEMALE:Oh, she sure does.
+OTHERFEMALE:Boy, I'd sure like to see her meet a guy like the one she described.
+LEADMALE:Would that make you happy, Mind? It sure would.
+LEADMALE:We gotta help her somehow.
+LEADFEMALE:First thing I've gotta do is figure out how to answer this letter.
+SUPFEMALE:What we have to do basically is work out how she doesn't know that you and I know that she knows that she doesn't know that we know it.
+OTHERFEMALE:I wish it were that easy.
+OTHERMALE:WOMAN: Waitress.
+SUPMALE:Waitress! Jeanie Oh! More coffee? Sorry.
+OTHERMALE:You want a new bag? Just our checks, please.
+SUPFEMALE:Yeah, uh, certainly.
+OTHERMALE:WOMAN: Come on, let's go.
+LEADMALE:Here's your money.
+SUPMALE:( coins clink ) Bye.
+LEADFEMALE:Hey, Jeanie.
+LEADMALE:Can I see you for a minute? You know, for the last couple of weeks, you've been walking around in a daze.
+SUPMALE:Uh, Remo, I'm a little lonely.
+OTHERMALE:That's it? How can you be lonely? You got me, you got your friends, you got a television in your room.
+LEADFEMALE:Yeah, well, it's not that kind of lonely, Remo.
+OTHERMALE:I need a guy who thinks I'm special.
+SUPFEMALE:No problem.
+LEADFEMALE:What about Turk down at the gas station? Remember he whistled at ya? He's a great guy.
+SUPFEMALE:He once bowled 260.
+LEADFEMALE:Thanks, Remo, but a woman needs more than that.
+LEADMALE:Look, I'm not I'm not looking for Mr.
+SUPMALE:Perfect here.
+LEADFEMALE:I just want a guy who's sensitive, likes what I like, cares what I have to say.
+LEADMALE:There's nobody like that around.
+SUPMALE:You wanna know something? I get lonely too.
+SUPFEMALE:Boulder's a long way from New York.
+LEADMALE:We're a couple of fish out of pollution.
+LEADFEMALE:It's hard to find your way, but you gotta hang in there.
+SUPMALE:Someday you're gonna meet a great guy who will appreciate you as much as I do.
+OTHERMALE:I hope you're right.
+OTHERMALE:I know I'm right.
+LEADMALE:You know, I haven't found the right girl for me either.
+LEADMALE:But I figure why not have fun with the wrong ones while I'm waiting.
+OTHERFEMALE:Meanwhile, we have each other.
+LEADFEMALE:Hey, listen, why don't you let me close up for you tonight? No.
+LEADMALE:I'll close up.
+SUPFEMALE:Okay.
+LEADMALE:You know, I'll see you later on when I get home from Turk's.
+LEADMALE:Okay.
+SUPFEMALE:You sure you don't mind? No.
+LEADFEMALE:Sure.
+LEADMALE:You take it easy, huh? I'm not going anyplace anyway.
+OTHERMALE:( knocking ) Mork.
+SUPFEMALE:Hi.
+OTHERMALE:I was just in here closing up.
+SUPMALE:I was just out here knocking.
+LEADMALE:I think I hurt my hands because I guess I'm such a sensitive guy.
+SUPFEMALE:Uh, you wanna come on in? Oh, thanks.
+OTHERMALE:Can I? You know, I'm really fascinated by delicatessens.
+OTHERFEMALE:I bet you are too, huh? ( giggles ) Uh, Mork, you okay? Sure.
+LEADMALE:I guess okay as a sensitive guy can be.
+LEADFEMALE:Whoa! You've got a dirty-dish collection too.
+LEADFEMALE:Oh.
+SUPMALE:You collect dirty dishes? Yeah.
+LEADFEMALE:For about a week, and then Mindy makes me clean it up.
+OTHERFEMALE:( laughing ) Ah.
+LEADMALE:Can I get you something? Oh, no thanks.
+LEADFEMALE:Then why are you here? Just to keep you company.
+SUPMALE:Oh.
+SUPMALE:What did you say? "Oh.
+SUPFEMALE:" Fascinating.
+LEADMALE:Um, Mork, I don't understand.
+SUPFEMALE:The deli's closed.
+SUPMALE:Well, I You know, I was just thinking how much we two have in common.
+LEADFEMALE:You're kidding.
+SUPFEMALE:Like what? Well, for one thing, we both don't eat live game.
+LEADMALE:Arr! Arr! And we both love to laugh.
+LEADMALE:Ar, ar, ar, ar, ar! Ar, ar, ar, ar! Isn't that kind of uncanny? Mork, you seem sort of different tonight.
+SUPMALE:I sure do.
+LEADFEMALE:Yeah, well, uh I gotta finish cleaning up.
+SUPFEMALE:Then what are you gonna do? Uh walk home.
+SUPFEMALE:Maybe I could walk with you, kind of tag along.
+LEADFEMALE:We can do this.
+SUPMALE:Maybe talk.
+LEADFEMALE:We could be little walkie-talkies.
+SUPFEMALE:You know, no one's walked me home in a real long time.
+LEADMALE:Well, I'm not worried.
+OTHERFEMALE:I think you remember where it is.
+LEADFEMALE:Mm! Look! I made the newspaper.
+SUPFEMALE:Oh.
+SUPMALE:They printed my first replies in the Lonelyhearts column.
+LEADFEMALE:Oh, congrats, kudos, and plaudits.
+LEADFEMALE:Thanks.
+LEADFEMALE:What did you tell her? I shall read it to you.
+OTHERMALE:Well, I shall be attentive.
+SUPFEMALE:"Dear J.
+SUPFEMALE:From New York, "It's not easy leaving all your friends "and moving far away from home.
+LEADMALE:"You feel like an island in the midst of a sea of strangers.
+LEADMALE:" Took me half an hour to come up with that one.
+LEADMALE:That's a catchy phrase, Mind.
+LEADFEMALE:Tennessee Williams, move over.
+LEADMALE:Here comes Colorado McConnell.
+SUPFEMALE:"It's possible that the person you're looking for "is somebody you see every day but are just too busy to notice.
+SUPMALE:"Look around you.
+SUPFEMALE:"If he's there, try not to be shy.
+LEADFEMALE:"Reach out and show him how you feel.
+OTHERMALE:"He might become interested in you if he sees you're interested in him.
+OTHERMALE:" That's wonderful, Mind.
+LEADMALE:You're gonna make Abby crabby.
+LEADMALE:( chuckles ) You think? I just hope it helps Jeanie.
+LEADMALE:I was helping her yesterday.
+LEADMALE:You were? Yeah.
+LEADFEMALE:I went over to the deli last night and cheered her up.
+LEADMALE:You didn't tell her about the letters, did you? No, I just walked her home and gave her a few laughs.
+OTHERMALE:Oh.
+LEADFEMALE:That's nice.
+LEADFEMALE:The worst thing we could do is embarrass her.
+SUPMALE:I know.
+LEADMALE:Why are you building a tower of Cheerios? Because it's hard to stack oatmeal.
+OTHERFEMALE:Why do I ask? I have to get to class, so, uh, I'll see you a little later.
+LEADFEMALE:Oh.
+SUPMALE:If you get hungry, your peanut butter pagoda's on the refrigerator.
+SUPFEMALE:I'll never remember what order they were in.
+LEADFEMALE:One-oh-four.
+LEADMALE:( knocking ) ( laughs ) I feel like I'm living on a fault line.
+SUPFEMALE:Hi, Mork.
+SUPFEMALE:Can I come in? ( as Southern preacher ): I know you can do it! Just put one foot forward! I came by 'cause I wanted to thank you again for walking me home last night.
+OTHERFEMALE:I really did enjoy it.
+LEADFEMALE:( normal voice ): I had fun too, especially leapfrogging over those fire hydrants.
+LEADMALE:Too bad about that dog, huh? You know, Mork, um, ever since I moved here, I've sort of felt like an island in a sea of strangers.
+LEADFEMALE:That's a catchy phrase.
+SUPMALE:I mean, I know what it's like to be a stranger in a strange land.
+LEADFEMALE:Does Mindy know that you walked me home last night? Oh, yeah.
+LEADFEMALE:I told her all about it.
+LEADFEMALE:Well, how does she feel about that? Well, she says if you're happy, she's happy.
+SUPMALE:Yeah.
+LEADFEMALE:Mindy once told me that you and she were just good friends.
+SUPMALE:Is that still the way it is? Well, yeah, we're buddies.
+LEADFEMALE:That's all? That's enough.
+LEADFEMALE:Well, there's something that I forgot to give you last night.
+SUPFEMALE:Why did you do that? Well, 'cause, uh, I really hope that maybe we can keep seeing each other like we did last night.
+OTHERFEMALE:You mean we could do something very special like ringing doorbells and hide.
+LEADFEMALE:Your answer to my letter helped me a lot.
+LEADFEMALE:When I took the time to look around me, I found someone who was there all along, but I never realized how wonderful he is.
+LEADMALE:He came to my house the other night for dinner, and we had a terrific time.
+LEADFEMALE:He's so thoughtful.
+SUPMALE:He brought me this little gift, which will always remind me of him.
+LEADFEMALE:Before dinner we sat together for a while and talked.
+LEADFEMALE:The night had just begun, and already we were closer.
+LEADFEMALE:Before we knew it, we found ourselves holding hands.
+LEADMALE:Pretty soon one thing led to another.
+SUPMALE:When it came time for dinner, I realized he's one of the few guys I've met who tries to be a gentleman.
+LEADFEMALE:And in addition to all his other good qualities, he really knows how to make me laugh.
+LEADFEMALE:He has everything I've ever wanted in a guy.
+LEADMALE:He's so sensitive, gentle, he wouldn't hurt a fly.
+LEADMALE:( buzzing ) ( splash ) ( intermittent buzzing ) ( buzzing ) He's such a good listener.
+SUPMALE:He really cares about whatever I have to say.
+LEADMALE:And, you know, he likes the same things that I like.
+LEADFEMALE:It's almost like a dream come true.
+LEADMALE:I just hope it won't be long before he starts getting serious.
+LEADMALE:Thanks again for your kind help.
+OTHERMALE:Gratefully, J.
+LEADMALE:From New York.
+SUPMALE:She must have found somebody great! "I hope it won't be too long before he starts getting serious.
+SUPMALE:" ( knock on door ) Serious.
+LEADMALE:If she wants serious, I'll give her serious.
+SUPMALE:Hi, Mork.
+OTHERFEMALE:( as Nixon ): Hello, Jean, and I really mean that.
+LEADFEMALE:Are you glad to see me? Indeed, I am, Jean.
+SUPFEMALE:Make no mistake about that.
+SUPMALE:Is everything all right? You seem sort of strange.
+SUPFEMALE:I'm really in one of my serious moods, Jeanie.
+LEADMALE:See? Uh, is Mindy home? No, she's not here right now.
+SUPFEMALE:But you can ask anyone: Mr.
+LEADMALE:Bickley, Exidor They know her.
+SUPFEMALE:They'll vouch for me.
+SUPMALE:I am not a liar.
+LEADMALE:Oh, it was such a hectic day.
+OTHERMALE:I thought it would be fun just to come over, and we could sit and talk for a while.
+LEADMALE:Well, perhaps I could tell you one of my favorite jokes.
+LEADFEMALE:What's black and white and red all over? I know.
+LEADMALE:You're thinking, "a penguin with a heat rash.
+SUPMALE:" but no-o-o-o, no-o-o-o, it's not that.
+LEADFEMALE:It's not a nun with a sunburn, either.
+SUPFEMALE:Now, come here.
+LEADMALE:I'll tell you the secret.
+LEADFEMALE:( gasps ) Did you hear a hum? ( laughing ) We'll have to discuss this at another time.
+LEADFEMALE:You are too much, Mork.
+LEADFEMALE:Hi.
+SUPFEMALE:I'm home.
+OTHERFEMALE:She's home.
+LEADMALE:Oh.
+LEADFEMALE:Hi, Mindy.
+OTHERMALE:Hi.
+LEADMALE:I've been wanting to tell you how much fun I've been having with Mork.
+LEADMALE:Fun with Mork? ( normal voice ): I've been showing her a good time.
+LEADMALE:Wink, wink.
+LEADMALE:And I hope it will be for a lot more days to come.
+LEADMALE:Oh, Mind, I'm so glad it's okay with you.
+OTHERFEMALE:Me too.
+SUPMALE:Oh.
+LEADMALE:Do you remember that blue blouse I borrowed from you last week? Uh, well, it's in the bedroom right now.
+LEADFEMALE:Could you get it for me please? Yeah.
+LEADFEMALE:Sure.
+LEADFEMALE:Thanks.
+LEADMALE:Don't tell me you're the terrific guy she's been writing me about?! Yep, it's me.
+LEADMALE:Don't you realize what you've done? But you said it was nice if I made her happy.
+SUPMALE:Then when she wanted to see me again, I thought that was even nicer.
+LEADMALE:Oh, Mork.
+LEADMALE:Jeanie wants more than just a friend.
+SUPMALE:She wants somebody she can spend her life with.
+SUPFEMALE:You mean like you and I share our lives? And then some.
+SUPMALE:I forgot all about this blouse.
+LEADMALE:Mork, uh, if you like it, I could wear it tonight.
+SUPFEMALE:Um would you like to sit down? Jeanie, um I think we have a problem here.
+LEADFEMALE:A big one.
+LEADMALE:I, uh, don't know how to tell you this, but, uh, I think I have to before it goes too far, if it hasn't already.
+LEADFEMALE:Uh See I'm Miss Lonelyhearts.
+OTHERMALE:( chuckles nervously ) What? Uh, I I've been reading your letters, and I guess so has Mork.
+SUPMALE:And, uh, see, I was only trying to help.
+LEADMALE:Um, I I got this job at Jeanie Wait, Jeanie.
+LEADFEMALE:Um, I gotta go.
+LEADFEMALE:You told me you wanted me to make her happy.
+LEADMALE:Yeah, but the trouble is you made her ecstatic.
+LEADFEMALE:Oh, what a tangled web I weave.
+LEADMALE:I don't understand.
+SUPFEMALE:Why'd you have to write those letters? Why couldn't you come talk to me? I'm your brother.
+LEADMALE:I didn't wanna dump my problems on you, Remo.
+SUPFEMALE:I'm gonna drown my sorrows in rocky road.
+OTHERFEMALE:What good are these shoulders of steel if my little sister can't? Can't lean on 'em once in a while? I made a fool of myself, didn't I, Remo? It's not your fault.
+LEADMALE:How were you supposed to know.
+SUPFEMALE:Mork was such a heartbreaker? I'd have never guessed it.
+SUPFEMALE:I'm just so confused.
+OTHERMALE:I don't blame ya.
+OTHERMALE:Mork should have known better.
+SUPFEMALE:But whatever happened, I just can't believe that Mork or Mindy would do anything to hurt ya.
+LEADFEMALE:You know, if it had happened to me, I think I'd look at it in this way: Hey, at least I had a little fun.
+SUPMALE:I didn't sit at home with a long face.
+LEADFEMALE:I came out of my shell, and I'm not pregnant.
+SUPMALE:( knock on door ) Hi, Remo.
+OTHERMALE:Hi.
+SUPFEMALE:Uh, can we talk to Jeanie? Hey, guys, I don't think this is a real good time.
+LEADFEMALE:Please.
+LEADFEMALE:It's important.
+LEADMALE:Well, okay, but try and make her feel better, would you? Hi.
+OTHERFEMALE:I'll be in my room.
+LEADFEMALE:Don't worry about the ironing.
+LEADMALE:I'll take care of it.
+LEADFEMALE:Jeanie, I just wanna say I'm really sorry, and it was really dumb of me to think I could just step into a job and become Miss Know-It-All.
+SUPFEMALE:I mean, who am I to go around telling people what to do with their lives? I was just trying to be a friend.
+OTHERMALE:I didn't know you wanted "and then some.
+LEADMALE:" I'm sorry, Jean.
+LEADMALE:Wait, guys.
+SUPFEMALE:( sighs ) You see, ever since I, uh I moved to Boulder, I sort of had a hard time fitting in.
+SUPFEMALE:I never told anybody, and then finally I wrote Miss Lonelyhearts.
+LEADFEMALE:And she told me that this wonderful guy might be right in front of me, which he was.
+SUPFEMALE:And that all I had to do was to reach out to him, which I did.
+SUPFEMALE:And, guys, I had I had so much fun.
+LEADMALE:But do you know why? 'Cause you both helped bring out qualities in me that I forgot I had.
+LEADFEMALE:BOTH: We did? Terrific qualities.
+OTHERFEMALE:And you made me realize why I haven't met that right guy.
+LEADMALE:I haven't been the right girl.
+LEADMALE:Oh, you always have been to us.
+LEADMALE:I love you, Mork.
+OTHERMALE:I love you, Mindy.
+LEADFEMALE:Thanks to you guys, I'm starting to love myself again.
+OTHERFEMALE:Oh, I'm glad.
+OTHERFEMALE:Me too.
+LEADFEMALE:Me too.
+LEADFEMALE:Well, how does it look? Remo, did you ever write a letter to Miss Lonelyhearts signed "Confused"? Mork calling Orson.
+LEADFEMALE:Come in, Orson.
+LEADFEMALE:Mork calling Orson.
+SUPFEMALE:Come in, Orson.
+LEADMALE:Mork calling Orson.
+LEADFEMALE:Come in, Orson.
+SUPMALE:( makes horn sound ) Hey, move, will ya?! ORSON: What did you learn about this week, Mork? Oh.
+OTHERFEMALE:About shyness, your thighness.
+LEADFEMALE:Why do you toy with me so? Because you're there, sir.
+LEADMALE:You see, sir, shyness is a major problem here on Earth.
+OTHERMALE:It keeps people apart when they want to be together.
+LEADMALE:They see someone they want to know, but they're afraid to approach them.
+LEADFEMALE:What causes this shyness? Well, sir, I have a friend who became shy when she moved away from home to a place where she didn't know anybody.
+SUPMALE:You did that too, Mork.
+OTHERFEMALE:I know, sir.
+LEADFEMALE:At first it was very hard to feel at home here.
+LEADMALE:People were so strange.
+LEADMALE:They talk in heavy accents.
+SUPFEMALE:They drink with their mouths.
+SUPFEMALE:They sit on what we play checkers with.
+LEADMALE:I finally overcame it because I was willing to reach out.
+LEADFEMALE:What about your friend? She spent a lot of time feeling lonely, then she realized her best chance of going out was to be more outgoing.
+SUPMALE:That reminds me of an old Orkan saying.
+SUPMALE:Me too, sir.
+LEADMALE:"If one stays too long in his shell, he'll wind up nuts.
+LEADFEMALE:" On that same note, sir Nanu.

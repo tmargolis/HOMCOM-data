@@ -1,0 +1,300 @@
+LEADFEMALE:Jackie, hurry up! I'm next! Okay, sorry.
+SUPMALE:I got a few things for myself.
+SUPFEMALE:I'll pay you back later.
+LEADMALE:What'd you get? Just stuff.
+LEADMALE:Oh, let's see.
+SUPMALE:Disposable razors, Amaretto mist instant coffee, And a soft-pink light bulb.
+SUPMALE:So, who is he? Who's who? The guy you're dating.
+OTHERFEMALE:What? I just want to kick back, have a nice cup of coffee, And shave my legs in a flattering light.
+SUPFEMALE:He's married, isn't he? No.
+SUPMALE:He's not gonna leave his wife, you know.
+OTHERMALE:They say they will, but they never, ever do.
+LEADFEMALE:Roseanne, he is not married.
+SUPFEMALE:He's just a guy I met at that singles dance.
+SUPMALE:Okay.
+LEADMALE:So, what's wrong with him? Nothing! He's just youngEr.
+OTHERMALE:Well, how much younger is he? Way young? Like, milk-money young? No! Look, he can drive, he can vote, so let's drop it.
+LEADMALE:I'm just not that comfortable with it myself.
+SUPMALE:Well, so, is he cute? Yes.
+LEADMALE:And he's fun and he's smart.
+OTHERFEMALE:Oh, god, he's so smart.
+LEADMALE:He is so not for me.
+SUPMALE:God, you have such low self-esteem.
+LEADMALE:You're such an idiot.
+SUPFEMALE:Well, thank you.
+OTHERFEMALE:End of conversation.
+LEADMALE:Can we move the belt here, please? Well, now, that's not what I meant.
+LEADMALE:What I meant was, you know, It's too early for you to know if he's right for you or not, So I think you should let me decide.
+LEADMALE:No, Roseanne.
+LEADFEMALE:I'm not bringing this one over.
+SUPMALE:Oh, come on.
+LEADFEMALE:No way.
+SUPFEMALE:Oh, come on.
+LEADFEMALE:I'll be nice.
+LEADFEMALE:You will not.
+OTHERFEMALE:Dan will.
+LEADMALE:No.
+OTHERMALE:I am not gonna subject fisher to your abuse.
+OTHERFEMALE:"fisher.
+OTHERFEMALE:" Roseanne Come on, Jackie.
+LEADMALE:I want to meet fisher.
+SUPFEMALE:Come on! All right.
+LEADFEMALE:Okay, well, dinner on Thursday.
+LEADFEMALE:And hey, have you told him any lies that I ought to know about? Just that I'm 33.
+OTHERMALE:Okay.
+LEADMALE:And that I was one of those girls In the robert palmer video.
+OTHERMALE:Well, I hope you like instant, fisher, 'cause that's all we got.
+OTHERFEMALE:Oh, no, that's fine.
+LEADMALE:Dinner was great, Roseanne.
+SUPMALE:Everything was delicious.
+LEADFEMALE:yeah, right.
+SUPFEMALE:Compliments will only get you seconds, fisher.
+LEADMALE:Boy, I'm full.
+LEADMALE:Attaboy.
+LEADMALE:So, fisher, Jackie tells me That the two of you met at some singles dance.
+LEADFEMALE:Oh, god.
+SUPMALE:Oh, I'm just curious, you know.
+LEADMALE:How come somebody like you would have to go to one of those things? Well, 'cause-no, I know why you would.
+LEADFEMALE:I'm talking to fisher here.
+SUPFEMALE:I don't know.
+LEADMALE:I'm not the greatest at meeting people, And so I thought I'd give it a try.
+SUPFEMALE:And then I saw someone pretty With great legs and this terrific energy, And I thought, wow, that's somebody I got to meet.
+OTHERMALE:Wow.
+SUPFEMALE:Excellent answer.
+LEADFEMALE:Compliments will only get you seconds.
+LEADFEMALE:I'm home.
+LEADFEMALE:Darlene, come on in here And meet your aunt Jackie's new boyfriend.
+LEADFEMALE:Now, she's really sensitive about the age thing, See, so we're all on our best behavior.
+LEADFEMALE:Yeah, okay.
+LEADMALE:Fisher, this is our little Darlene.
+SUPFEMALE:Aren't you in my science class? Well, she held out longer than I thought she would.
+SUPMALE:What kind of work you in, fisher? I'm a commercial artist.
+LEADFEMALE:Really? Cool.
+LEADMALE:My boyfriend draws comics.
+SUPFEMALE:Oh, yeah? What kind of stuff? Oh, just stuff I write.
+SUPMALE:You know, sci-fi, gothic.
+SUPFEMALE:He's really starting to perfect his disemboweled body parts, But his vomit still needs a little work.
+LEADMALE:I can make a vomit sound.
+LEADFEMALE:Oh, yeah, d.j. ? Let's hear it.
+LEADMALE:A little tip, fisher.
+LEADMALE:He can't make the sound without actually doing it.
+OTHERFEMALE:You save it for later, honey.
+SUPFEMALE:So, Dan, what business are you in? what? It's all right.
+OTHERMALE:I used to run a bike shop but it went under, so now I'm doing a little dry-wall.
+LEADMALE:Oh, dry-wall.
+OTHERFEMALE:Oh, that's very what about you, Roseanne? Well, when I'm not busy Being an unemployed housewife and mother, I try to fulfill my duties as miss illinois.
+LEADMALE:Hello? Oh, hi, mom.
+OTHERMALE:That's grandma.
+SUPMALE:Before you ask, she's getting divorced from grandpa, Who's shacking up with some babe in kansas city.
+SUPMALE:More coffee? Yeah, really.
+LEADMALE:Oh, that's great.
+LEADMALE:Yeah, well, we're all just sitting here having dinner.
+SUPMALE:Jackie's over with her new boyfriend.
+OTHERMALE:Fisher.
+SUPMALE:Uh-huh.
+OTHERFEMALE:Oh, yeah, like a horse.
+OTHERMALE:Oh, she's just asking about your appetite.
+LEADMALE:Well, I just think that's great! Yeah, man, congratulations! Okay, well, I'll talk to you soon, then.
+SUPMALE:Yeah.
+SUPMALE:Bye.
+LEADFEMALE:Mom sold the house.
+LEADMALE:That was fast.
+SUPMALE:Is she happy about it? Well, uh, you can ask her yourself.
+LEADFEMALE:She'll be here on Saturday.
+SUPMALE:no! Now, that's how we feel, fisher, But you'll probably like her.
+LEADMALE:She's really old.
+LEADFEMALE:Well, mom's timing is perfect.
+LEADMALE:Must've sensed I was happy.
+SUPFEMALE:Exactly how long did bev say she was saying? I'm not sure.
+OTHERFEMALE:Too long.
+LEADFEMALE:What am I supposed to do, Dan? I can't tell her not to come, can I? Man, she's gonna get her digs in about the bike shop, about Becky.
+SUPFEMALE:She just can't wait to get started on me.
+LEADFEMALE:You? She's not even gonna see you.
+OTHERMALE:This blouse is gonna keep her busy till Thursday.
+SUPFEMALE:Thursday? She actually said Thursday? Just be nice.
+LEADMALE:Hello, everybody! Hi! I'm so happy to be with my family.
+LEADMALE:Dan, how are you doing? I'm all right.
+LEADFEMALE:Hi, mom! Hello, Jackie.
+LEADMALE:I'm sorry about the blouse.
+SUPMALE:Dan, would you help mom with her bag? Sure.
+LEADFEMALE:Whoa, this puppy's got some heft to it.
+LEADMALE:Hey, a bag like this has, uh, How many days' worth of clothes-3? Dan So, where are my sweet, wonderful grandchildren? Well, they were killed by d.j. And Darlene.
+LEADMALE:Mom, what was it like To actually sell the house? Actually, it was a huge relief.
+LEADMALE:How's dad doing with all this? Well, I imagine he's pretty depressed by the settlement.
+SUPMALE:Remember how he always dreamed of retiring? not going to happen.
+SUPFEMALE:Boy, you should see the way your face lit up when you said that.
+LEADMALE:Hmm.
+SUPMALE:And good reason.
+SUPMALE:Why don't you forget the tea for a moment and come sit down? What's going on? Now, You know, I'm going to be getting a lot of money from this house, And I could wait until I die, but I want to see it put to good use Now, when you seem to need it so much, So, this is for you.
+OTHERMALE:And since you always throw a fit when you're left out of anything, here.
+SUPFEMALE:Hey, thanks.
+LEADFEMALE:Oh, my god, it's $10,000! So is this! Oh, mom, you have no idea how much we need this right now! Oh, god, thank you! This is amazing! Mom! Well, it makes me so happy That I have it to give to you, And your father doesn't.
+LEADMALE:I think this calls for a celebration At la sizzler.
+LEADMALE:And we're all getting our own plates this time.
+LEADFEMALE:It's so important to me to see you girls happy.
+LEADMALE:I just wish I could do more.
+LEADFEMALE:So, I was thinking, Since I sold the house, Why don't I just move to Lanford? And then we can all be together.
+LEADMALE:Now, hold the party.
+SUPFEMALE:I'm going to go freshen up.
+SUPMALE:God, she's good.
+SUPFEMALE:We have got to stop her.
+OTHERFEMALE:Jackie, the woman just walked in here And handed you $10,000.
+LEADFEMALE:Well, sure.
+OTHERMALE:Take her side.
+SUPFEMALE:Look, we need the money and she needs us.
+LEADFEMALE:I mean, can't you just work up some more enthusiasm about this here? Okay.
+LEADFEMALE:Maybe I could use the money to move.
+LEADMALE:Work with me here.
+SUPFEMALE:She is just trying to butter us up, Roseanne, So that she can move to Lanford and we can't say a thing about it.
+OTHERMALE:Who's moving here? Dan No! Dan No, Roseanne, no! Oh, come on! Dan, she needs to be near her family now.
+LEADMALE:No, she doesn't.
+LEADFEMALE:She may think she does right now, But after 2 months and I have to kill her, she'll realize how wrong she was! She knew we would all feel this way, Roseanne.
+SUPFEMALE:That's why she's waving this money around! Yeah! What money? It's from mom.
+LEADFEMALE:Yubba.
+SUPMALE:She's just trying to buy us, Dan.
+SUPFEMALE:Can't you see that? Yeah, I think she hit my price.
+LEADMALE:Actually, she could've had me for half.
+LEADFEMALE:Roseanne! Honey, honey, she's your mother, I'll do whatever it takes, but I just want you to know one thing-I want this money.
+LEADMALE:Would you give me that check? You are drooling the zeroes off of it.
+LEADMALE:Why do you do all that? It's a lot of responsibility, being a woman.
+SUPMALE:God made us the bearer of children, We keep the human race going, And it's all very drying to the skin.
+SUPFEMALE:Well, it hardly seems worth it.
+LEADFEMALE:You know, Darlene, if you're old enough to have a boyfriend, You're old enough to start a beauty ritual.
+OTHERMALE:After all, skin is a gift.
+SUPFEMALE:I'll remember that.
+SUPFEMALE:Did your mother tell you I'm thinking of moving to Lanford? Really? Will you be moving before my birthday? I mean, it's my 16th, you know.
+LEADFEMALE:Pretty big.
+OTHERMALE:My, that is an important year.
+SUPFEMALE:I'm saving up to buy a cd player.
+OTHERFEMALE:Sort of a birthday gift to myself.
+LEADMALE:A cd player sounds fun.
+LEADFEMALE:What do you say you let your grandma Buy it for you a little bit early? Oh, no.
+SUPFEMALE:I couldn't let you do that.
+OTHERFEMALE:I mean, they're too They're too expensive-the good ones, anyhow.
+LEADFEMALE:Nonsense.
+OTHERMALE:And if you like, we can just keep it Between you and me.
+SUPFEMALE:Sometimes it's good for us girls To have a little secret.
+LEADFEMALE:Good night, sweetheart.
+SUPMALE:Hey! Hey, guys.
+OTHERFEMALE:hey, Jackie.
+LEADFEMALE:Roseanne, I have got "loose meat.
+SUPFEMALE:" I got 2 words for you too.
+SUPMALE:No, it's this great idea I got.
+LEADMALE:See, every time I make a run through iowa, I stop at this incredible little diner That sells loose meat sandwiches.
+LEADMALE:It's kind of like sloppy joes, but without the slop.
+SUPMALE:And anyway, the place is always packed, so I'm thinking Maybe we could pool our money and open up a place like that in Lanford And be like partners.
+LEADFEMALE:good morning, Jackie.
+SUPMALE:You didn't tell me mom was here.
+SUPMALE:Jackie, mom's here.
+SUPMALE:Morning, mom.
+LEADFEMALE:We'll talk about it later.
+LEADMALE:No, please, go on.
+LEADFEMALE:I always love to hear your little ideas.
+LEADMALE:Yeah, so you can criticize them.
+SUPFEMALE:No, that's not true.
+LEADMALE:I think it's wonderful that you have ideas.
+LEADFEMALE:If you don't keep having ideas, how are you ever going to come up with a good one? This is a good one.
+SUPFEMALE:I have a great idea.
+LEADFEMALE:Why don't the two of you shut up? Well, I'm sorry, but your sister should know better.
+OTHERFEMALE:Starting a business these days is insane! Didn't she learn anything from Dan's little bike shop fiasco? Mom, what part of "shut up" Do you not understand? Well, I can't stand by and let her encourage you To waste my money on one of her foolish ideas.
+LEADMALE:Oh, stupid me.
+LEADMALE:I thought the money was a gift.
+SUPFEMALE:Skin is a gift.
+LEADFEMALE:I'll be out in the car.
+OTHERMALE:Whoa.
+OTHERMALE:Where are you going? Nowhere.
+LEADFEMALE:Oh, we're just going to do a little early birthday shopping.
+LEADFEMALE:Yeah? Darlene, what are you trying to weasel out of your grandma? Nothing but love.
+LEADMALE:Bull.
+LEADFEMALE:And a cd player.
+OTHERMALE:No way.
+LEADFEMALE:What, so you get $10,000 and I get nothing? Well, you know what they say, Darlene-Wealth always skips a generation.
+LEADMALE:Out.
+LEADFEMALE:No cd player, mom.
+LEADFEMALE:How many times have we had this conversation? I told you I want you to stop spoiling the kids.
+SUPFEMALE:I wasn't doing anything wrong.
+LEADFEMALE:Well, then why were you trying to do it behind my back? Because you force us to do things that way, Roseanne.
+LEADFEMALE:No one can do anything in this house without you interfering.
+SUPFEMALE:Well, that's because it's my house.
+LEADMALE:I like it this way.
+SUPFEMALE:I like the kids poor.
+LEADMALE:That way they don't clash with the furniture.
+SUPMALE:For god's sake, why deprive the child Just because you're struggling? Learn from your mistakes.
+LEADFEMALE:What is that supposed to mean? Well, maybe if you'd have been a little more concerned About Becky's happiness, she'd still be here.
+LEADFEMALE:Here.
+SUPFEMALE:Take your check back.
+OTHERMALE:Jackie's right.
+OTHERMALE:It's never gonna work with you moving here, 'cause it'll always be like this.
+SUPFEMALE:Fine.
+LEADFEMALE:Why don't I just leave now? Fine! See you at thanksgiving! What'd you invite her to thanksgiving for? Can I come in? It's your house.
+LEADMALE:You can do whatever you like.
+LEADFEMALE:Well, this is Hard for me to say.
+LEADFEMALE:Go ahead.
+SUPFEMALE:You'll feel better.
+SUPFEMALE:I want the check back.
+LEADFEMALE:Pardon me? Well, you gave it to us 'cause we needed it, And we still need it.
+OTHERMALE:Here.
+LEADFEMALE:I told you it was yours.
+LEADFEMALE:It's not like I don't appreciate it or nothing.
+LEADMALE:Well, you have a frightening way of showing it.
+LEADFEMALE:I've never felt so unwelcome here.
+LEADFEMALE:Oh, sure you have.
+LEADMALE:What are you gonna do now? Oh, I suppose I'll go back to moline And rent a little apartment.
+OTHERFEMALE:Maybe I'll buy some new furniture, And then I'll just sit in a room until it's time to lie in a box.
+SUPFEMALE:Well, at least you have a plan.
+LEADMALE:Maybe I'll get one of those life alert things so I'll have someone to talk to.
+LEADFEMALE:Oh, come on, mom.
+LEADMALE:Don't do this.
+SUPMALE:Now, would you please get Dan to help me with these bags? Come on, mom.
+LEADFEMALE:We all got mad and said stuff that we didn't mean.
+LEADFEMALE:Now, put the bags down and we'll talk.
+LEADFEMALE:oh, Roseanne! Get in here, Jackie.
+OTHERFEMALE:Now, we both know we can't leave it like this.
+LEADMALE:Mom, maybe you could move here to Lanford If we would just agree on some stuff first.
+SUPMALE:I'm listening.
+LEADMALE:All right, well, first of all-You can't leave your house.
+LEADFEMALE:First of all, What I say goes around here.
+LEADFEMALE:And no more of this secret present crap either.
+LEADMALE:And I do not want to hear one more word about How we screwed up with the shop or how we screwed up with Becky.
+SUPMALE:And I want you to respect the fact that I'm an adult And I can make my own decisions.
+OTHERFEMALE:And there are certain things that I don't want to hear anymore, Like "flaky," "skinny," "die a spinster.
+LEADMALE:" That's just for mom, right? Jackie, I only tell you these things Because I want to see you do something With your life before it's too late.
+SUPMALE:Call us when you get home, mom.
+LEADFEMALE:I can't say anything to you girls, can I? Now you're getting it! What, is that what you really want? No, but if you're gonna move here, It's just like, we have to make a lot of changes, you know? We'll have to get used to it.
+SUPFEMALE:We'll have to change And you'll have to change.
+LEADMALE:But right now, let's start with you.
+LEADFEMALE:All right.
+LEADMALE:What do you have in mind? Well, maybe it would work If we just try being friends.
+LEADFEMALE:We are friends.
+SUPFEMALE:No, no.
+LEADFEMALE:No, we're not.
+SUPFEMALE:Isn't she cute? No, see, friends Are not judgmental, and there's camaraderie, you know.
+SUPFEMALE:Friends don't drive you into therapy.
+LEADFEMALE:Therapy? Who's in therapy? Roseanne Not important.
+OTHERMALE:So, how do you feel, mom? All right.
+SUPMALE:I'll be friends.
+SUPFEMALE:If I'm wanted.
+LEADMALE:Jackie Okay, friends.
+SUPFEMALE:All right, well, now let's go downstairs and practice being friends.
+LEADMALE:Not mothers and daughters, but friends.
+LEADFEMALE:Not too weird.
+LEADMALE:All right, this could be fun.
+LEADFEMALE:And, you know, as your friend, I just want to tell you you're treating your mother very badly.
+LEADFEMALE:Here's one.
+LEADFEMALE:Large patio, and it's very reasonable.
+LEADMALE:Hey, Jackie, isn't that your block? No.
+LEADFEMALE:That'd be great.
+LEADMALE:You and mom could be neighbors.
+SUPMALE:No, you don't want that apartment, mom.
+OTHERMALE:I know that building.
+SUPFEMALE:Bad snake problem.
+LEADFEMALE:"snake problem"? Yeah.
+SUPMALE:Big ones.
+OTHERFEMALE:Uh, didn't I see a "for rent" sign, though, Out front of the bowman house next door? Oh, yeah, yeah.
+SUPFEMALE:Uh, I just hope they've hosed all the blood off the walls.
+LEADFEMALE:I'll get it.
+LEADMALE:You girls just keep fighting over me.
+LEADFEMALE:Oh, hello.
+OTHERFEMALE:Come in.
+LEADFEMALE:Darlene, your boyfriend's here!
+SUPFEMALE:

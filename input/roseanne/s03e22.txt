@@ -1,0 +1,397 @@
+LEADMALE:Is it a boy or a girl? Wait for the ring to start moving.
+LEADMALE:Side to side's a boy.
+LEADMALE:Up and down's a girl.
+SUPMALE:I don't want to know.
+LEADMALE:Well, then don't look.
+SUPFEMALE:Well, only tell me if it's a girl.
+OTHERMALE:Side to side.
+SUPMALE:It's a boy.
+SUPMALE:Oh, I wanted a girl.
+LEADFEMALE:Well, you should have laid the other way.
+LEADFEMALE:This is stupid.
+LEADFEMALE:You're right.
+SUPFEMALE:Let's do it the scientific way.
+LEADMALE:Let me look at your butt.
+LEADFEMALE:What are you talking about? It's a scientific fact.
+LEADFEMALE:If it's a flat pancake butt, it's a girl, and if it's a bubble butt, it's a boy.
+LEADFEMALE:I am not going to show you my butt.
+LEADMALE:Come on.
+OTHERMALE:Just do it.
+LEADMALE:God, mom.
+LEADFEMALE:Get a life.
+OTHERFEMALE:We're just trying to figure out the sex of Crystal's baby.
+LEADMALE:Who cares? It's just going to be another screaming, whining, bratty, little life-sucking poop machine.
+LEADFEMALE:You still want her to babysit? Hey.
+LEADFEMALE:Hey.
+LEADMALE:Hey.
+SUPMALE:Hey.
+LEADFEMALE:What are we going to name this baby? Well, we have a tradition in our family.
+SUPFEMALE:My grandmother was Ruby, and my mother was Amber, and I'm Crystal, so I was thinking that this must stop.
+LEADFEMALE:Well, don't give it some dorky name like Becky.
+LEADFEMALE:What's wrong with your dorky name? It's like a chicken noise.
+SUPFEMALE:It's like Becky, Beck-Beck-Becky.
+LEADMALE:You're lucky.
+LEADMALE:It was the seventies.
+LEADFEMALE:You could have been named Frampton or Chablis.
+LEADFEMALE:Well, I got to go.
+LEADMALE:Help me.
+LEADMALE:Oh.
+SUPMALE:Mom, look.
+OTHERMALE:I ate my pop-tart into the shape of a gun.
+SUPFEMALE:Boom, boom.
+OTHERFEMALE:I definitely want a girl.
+LEADFEMALE:You better tell that to your butt.
+LEADFEMALE:Oh, Roseanne.
+LEADFEMALE:Remember, Lamaze class tomorrow night.
+LEADMALE:I'll be there.
+SUPMALE:Bye.
+LEADMALE:Wait.
+OTHERFEMALE:You're her Lamaze coach? What happened to ed? I'm just a backup in case the baby comes early or Ed's out of town.
+SUPFEMALE:I'll deliver my baby in a pool of warm water.
+SUPMALE:That's the gentlest way to deliver a baby.
+OTHERMALE:And I imagine it keeps the swimmers out of the shallow end.
+LEADFEMALE:I'm telling you.
+LEADMALE:You got hurt.
+LEADFEMALE:You should sue.
+OTHERFEMALE:I'm fine, Arnie.
+OTHERMALE:You're lucky you're alive.
+LEADFEMALE:What happened, Dan? Are you ok? Nothing.
+SUPMALE:No, it's ok.
+LEADMALE:I had a little accident at the job site.
+SUPFEMALE:You were almost killed.
+LEADFEMALE:It was great.
+LEADMALE:Dad.
+LEADMALE:I got in the way of a wrecking ball.
+SUPFEMALE:That's so lame.
+SUPFEMALE:Tell them the good part.
+OTHERMALE:Ok, I'll tell them.
+LEADFEMALE:So Dan is sitting in the Porto-Johnny minding his own business, and the wrecking ball comes in, and bam! Knocked that sucker 17 feet.
+LEADMALE:I measured it.
+LEADMALE:Did you see a doctor? It's just a couple bruises.
+LEADMALE:It could be like a concussion.
+SUPMALE:No.
+OTHERFEMALE:I got a hard head.
+LEADFEMALE:Does it hurt, dad? Get away from there.
+LEADMALE:I'm more embarrassed than anything else.
+LEADFEMALE:I crawled out with my pants around my ankles and there's 30 people standing staring at me.
+LEADFEMALE:It was really an awkward moment.
+LEADFEMALE:Fortunately I had the presence of mind to start the applause.
+SUPFEMALE:Don't you owe us money? I got to go.
+LEADFEMALE:Hey.
+SUPMALE:Hey.
+LEADMALE:What are you eating? Salami and peppers.
+LEADMALE:One brush with death a day isn't enough for you? I live on the edge.
+LEADMALE:You want a bite? Wuss.
+OTHERFEMALE:What are you doing up? I couldn't sleep, so I thought I'd go over some bills.
+LEADMALE:Maybe what happened today's keeping you awake.
+LEADMALE:Nah.
+LEADFEMALE:You weren't like worried something more serious could happen? Nope.
+LEADMALE:So that's our will there, huh? Ok, I was curious about what might happen to my wife and family if I hadn't been so lucky.
+SUPMALE:Come on.
+LEADMALE:It's the middle of the night.
+LEADMALE:Honey, I think we should talk about this.
+LEADFEMALE:What would happen if we went at the same time, like in a plane crash? We never go anywhere, Dan.
+LEADMALE:A plane would actually have to crash into the sofa.
+LEADMALE:We haven't changed this will in 16 years.
+OTHERMALE:Darlene and d.j. Aren't in here.
+LEADMALE:We left Becky to Ziggy.
+SUPFEMALE:He was the most responsible person we knew at the time.
+SUPFEMALE:He had his own Texaco card.
+OTHERMALE:What were we thinking? We were thinking anybody but our parents.
+SUPMALE:Come on.
+LEADMALE:Let's go to bed now.
+SUPMALE:How can you go to sleep knowing the kids aren't taken care of? Like they're taken care of when we're awake? Come on, Dan.
+OTHERMALE:I'm tired.
+OTHERMALE:I really think we should deal with this.
+LEADMALE:All right.
+SUPMALE:We'll decide who gets the kids.
+SUPFEMALE:Now Who do we really hate? Who did we get up to? Do you still want to be cremated? Yeah.
+OTHERFEMALE:Not right now.
+LEADFEMALE:You know, 'cause it is pretty complicated.
+LEADFEMALE:First I got to find the urn, then I got to find the matches.
+OTHERFEMALE:I was hoping you'd die on a Thursday when it's trash day.
+SUPFEMALE:I'll try to expire near the curb, dear.
+SUPFEMALE:You know, when I die, I don't want one of these funerals where everybody cries.
+SUPMALE:I want you to throw a great big party.
+LEADFEMALE:Oh, we will, dear.
+LEADFEMALE:Morning.
+LEADMALE:Hey.
+LEADMALE:Hey, girls.
+SUPFEMALE:So, which of us inherits this dump? What, were you eavesdropping? Well, you've been yakking about it all night.
+SUPFEMALE:And face it, Mom, you've got a voice that can bend steel.
+OTHERFEMALE:Yeah, well, we decided that when we die we're dividing everything between the three of you.
+LEADFEMALE:I just want the cash.
+LEADFEMALE:It has sentimental value.
+LEADFEMALE:Don't drink out of the milk carton.
+SUPFEMALE:What are you doing up so early? I started jogging again.
+LEADMALE:I ran all the way over here.
+LEADMALE:Good for you.
+LEADMALE:I'm just going to rest here for a second, and then you can drive me back home.
+SUPFEMALE:I'm going to work.
+LEADFEMALE:You want a lift? No.
+SUPMALE:I'm going to get breakfast first.
+OTHERMALE:It is the most important mooch of the day.
+LEADMALE:You be careful.
+OTHERFEMALE:Yeah, yeah, yeah.
+OTHERMALE:You got any oat bran or shredded wheat or Oh, cocoa puffs.
+OTHERFEMALE:Well, I'm out of here, too.
+OTHERMALE:Bye.
+LEADFEMALE:Bye.
+LEADFEMALE:Don't die.
+LEADMALE:I'll do my best.
+SUPFEMALE:What's that? Your will? Yeah.
+OTHERMALE:We were up all night figuring out who gets the kids if we die.
+SUPMALE:That's got to be fun.
+OTHERMALE:Don't worry.
+LEADFEMALE:You're off the hook.
+OTHERFEMALE:d.j. took my keys and locked himself in my truck.
+LEADMALE:Can I use yours? They're in my purse.
+LEADFEMALE:Why did he do that? He doesn't want me going to work.
+LEADMALE:"I'll be killed.
+SUPMALE:" Oh, man.
+LEADFEMALE:Don't worry.
+LEADFEMALE:I'll talk to him.
+LEADMALE:He'll be fine.
+LEADFEMALE:What did that mean, I'm off the hook? Oh, yeah.
+LEADFEMALE:We decided we'll leave the kids with Crystal and Ed.
+OTHERFEMALE:Why don't I get the kids? You get the washer and dryer.
+SUPFEMALE:We didn't want to separate them.
+LEADFEMALE:No, I'm serious.
+SUPMALE:I'm closer to those kids than anybody.
+SUPMALE:I know, but you're a single woman.
+LEADFEMALE:Well, a lot of single women raise families.
+LEADFEMALE:Yeah, I know, but they do it from the time that they're babies.
+LEADMALE:Roseanne, I have been there since day one.
+SUPMALE:Since they were babies.
+LEADFEMALE:You're trying to tell me I couldn't do it.
+SUPMALE:No, we just didn't want to burden you.
+OTHERFEMALE:Which is a really nice way of saying you don't trust me.
+SUPMALE:Hey, you'll thank me when I'm dead.
+OTHERFEMALE:Jack.
+LEADFEMALE:King.
+LEADMALE:You win.
+SUPMALE:Let's play again.
+LEADMALE:Don't you have homework to do or something? I want to stay with you.
+LEADMALE:Ok.
+SUPMALE:You getting hungry? Yeah.
+LEADFEMALE:I guess I ought to get dinner started.
+LEADFEMALE:Becky! War! War! Yeah, dad? You know where mom put that casserole? Yeah.
+SUPFEMALE:It's in the refrigerator.
+SUPMALE:I looked.
+OTHERFEMALE:I couldn't find it in there.
+SUPMALE:Geez, it's right here.
+LEADFEMALE:I guess I'll put it in the microwave.
+SUPMALE:Ok.
+LEADMALE:Hey, um Could you hand me the aluminum foil? What for? You're supposed to keep it covered, aren't you? Dad, you can't put metal in the microwave.
+SUPMALE:I was just going to use a little.
+SUPFEMALE:Just forget it.
+LEADFEMALE:I'll do it.
+OTHERFEMALE:Thanks, honey.
+SUPFEMALE:What are you guys doing? Getting ready to set the table.
+SUPFEMALE:Do you know where mom keeps the forks? I'm not dumb enough to fall for that stupid move.
+LEADMALE:Hey, don't call him stupid.
+LEADMALE:I didn't.
+LEADMALE:Yes, you did.
+OTHERMALE:Shut up.
+LEADMALE:You shut up, Darlene.
+SUPFEMALE:Whoa, whoa.
+SUPMALE:Hold on, killer.
+OTHERMALE:Deej, why don't you get washed up for dinner? Ok, dad.
+LEADMALE:I'll be right back.
+LEADFEMALE:What was that? Since I got home, he won't let me out of his sight.
+SUPMALE:Dad, he's crazy.
+LEADFEMALE:He's showing concern, which is more than I can say for others considering what happened to me yesterday.
+SUPMALE:You were sitting in a Porto-crapper that got nailed by a wrecking ball.
+SUPMALE:I didn't take one shot.
+OTHERMALE:Now, that is love.
+SUPMALE:I'm sorry.
+LEADFEMALE:Thank you, dear.
+SUPFEMALE:Oh, right.
+OTHERMALE:Suck up for the inheritance.
+SUPFEMALE:Ok, in through the nose, abdomen, chest, shoulders.
+LEADMALE:Fill up with air.
+SUPMALE:Exhale.
+LEADFEMALE:Think of letting go.
+SUPFEMALE:Keep the breathing moving.
+LEADFEMALE:Coaches, help mom relax.
+SUPMALE:So anyways, Jackie gets all bent out of shape, like trying to make me feel all guilty.
+LEADFEMALE:She can't take care of three kids, you know? Have you ever seen her fridge? She's got one egg and a can of Margarita mix.
+OTHERFEMALE:Coaches, a little word of encouragement for mom.
+LEADFEMALE:Atta girl, Crystal.
+SUPMALE:Ok, let's take a little time out here.
+LEADMALE:I'm sure you've been thinking of questions since the last class.
+SUPMALE:Anybody? This is my first baby.
+OTHERMALE:I was wondering how long it takes to push it out? 18 years.
+SUPFEMALE:I take it you've got kids? Yeah.
+OTHERMALE:Two or three.
+LEADFEMALE:Did you use natural childbirth? Well Kind of, but actually there's a story that goes along with this.
+SUPFEMALE:Get off me, Crystal.
+OTHERMALE:Oh, no, Roseanne.
+LEADMALE:You're not going to scare them, are you? We'll see what I say.
+OTHERMALE:Ok, now, my first kid, they just knocked me out, so I didn't feel anything.
+LEADFEMALE:Then they hand me the baby.
+LEADFEMALE:She's 16 now Blonde and thin.
+LEADMALE:I don't think she's mine.
+LEADMALE:But, uh Anyway, then when I had my third kid, I hadn't lost any weight from my second kid or from my first kid, so they were trying to give me this local deal and everything, but I kept feeling pain, so I keep on begging for more drugs until finally the doctor comes over and goes, "I'm sorry, Mrs.
+LEADMALE:Conner, "but if we give you any more drugs, it's going to kill your baby.
+LEADFEMALE:" So I thought about it for a while and, uh Then I said, "ok.
+LEADFEMALE:No drugs, but just hit me with a sledgehammer.
+SUPFEMALE:" Of course he wouldn't, so I ended up feeling the whole thing.
+SUPMALE:Was your husband there? Yeah.
+SUPMALE:He had taken the classes, so they had to let him in.
+SUPFEMALE:But all in all, I'm glad he was there.
+LEADMALE:This is all your idea.
+OTHERMALE:I hate you! Let go! Oh, god.
+OTHERFEMALE:It hurts.
+LEADFEMALE:Breathe.
+OTHERFEMALE:It helped before, but it's not helping now.
+SUPFEMALE:You're not doing it.
+LEADFEMALE:Honey, breathe.
+SUPFEMALE:How's she doing? Contractions are a minute apart.
+OTHERMALE:And she's at 8 centimeters.
+LEADMALE:8 centimeters.
+LEADMALE:You hear that, Roseanne? Way to dilate.
+LEADFEMALE:Oh, god, you're such an idiot.
+LEADMALE:Your mouth dry, Rosie? You want a Tab? Get her out of here.
+SUPFEMALE:Jackie, why don't you go get some ice? Ok.
+LEADMALE:I'm sorry I'm being so mean to you, Dan.
+SUPMALE:You're not, honey.
+SUPFEMALE:You're being mean to Jackie.
+SUPMALE:That's why I brought her.
+LEADMALE:I can't stand it.
+LEADFEMALE:I got to push.
+LEADFEMALE:Not till the doctor gets here.
+LEADFEMALE:Now, come on, blow.
+LEADMALE:Ok, ok, it passed.
+LEADMALE:You're pushing.
+LEADFEMALE:No, I'm not.
+LEADMALE:Yes, you are.
+LEADFEMALE:If you're not going to do this right, let's forget it.
+LEADMALE:All right.
+SUPMALE:We'll just go home.
+LEADFEMALE:God, you're such a moron.
+LEADMALE:Oh, god.
+LEADMALE:This is horrible.
+LEADMALE:What's happening to me? Either you're having a baby, or you ate the hospital food.
+LEADMALE:Oh, god, no.
+OTHERMALE:Not a funny doctor.
+LEADFEMALE:Just a little more now, Roseanne.
+LEADFEMALE:Get this thing out of me! Ok, we got a head.
+SUPFEMALE:Just one, right? Keep pushing, Roseanne.
+LEADFEMALE:I can't! I can't! I can't do anymore.
+OTHERMALE:Yes, you can.
+SUPFEMALE:Just one more good hard push.
+SUPMALE:Oh, Jackie, mom was right.
+LEADMALE:Sex is baaad! Ooh! What is it? What is it? Five.
+LEADMALE:Five.
+OTHERFEMALE:Five.
+OTHERFEMALE:Five.
+SUPMALE:One.
+LEADFEMALE:Yes! It's a boy! You did it! Let me see him.
+OTHERMALE:Let me see him.
+SUPFEMALE:They're cleaning him off right now.
+SUPFEMALE:Oh, Jackie, I'm so glad you were here.
+OTHERMALE:I apologize for being mean.
+SUPMALE:No, that's all right.
+LEADMALE:This is so great.
+LEADFEMALE:I'm here at the beginning of a new life.
+OTHERFEMALE:That's why you've got to be the godmother.
+LEADMALE:I don't know what to say.
+LEADFEMALE:The same thing you said when I asked you to be the girls' godmother.
+SUPMALE:Oh, ok.
+SUPFEMALE:Ladies and gentlemen, men, men, the starting quarterback for the Chicago Bears, Dan Conner's boy-oy-oy.
+SUPFEMALE:Just give me the baby.
+LEADMALE:Ooh He's beautiful, Dan.
+LEADMALE:Just like you, honey.
+SUPMALE:Oh, hello there, little baby.
+LEADMALE:You tried to kill me, didn't you? Oh, look at him, Dan.
+LEADFEMALE:He's smiling.
+SUPMALE:I'm up.
+SUPFEMALE:It's late.
+OTHERFEMALE:I can't sleep.
+SUPMALE:Why not? I'm thinking too much.
+OTHERMALE:Buddy I've already told you.
+LEADFEMALE:You don't have to worry about me dying, 'cause I'm not going to.
+SUPMALE:You almost did.
+LEADFEMALE:I'm not planning on dying for a long time, ok? Ok.
+LEADFEMALE:Go to sleep.
+OTHERFEMALE:Good night.
+SUPMALE:Good night.
+LEADMALE:But you could.
+SUPMALE:Deej, if you spend all your time worrying about dying, living isn't going to be much fun, is it? Well, how do I stop worrying? Well, I try to think about good stuff, like watching you grow up, teaching you how to drive a car, meeting the girl you're going to marry.
+SUPMALE:I don't like girls.
+LEADMALE:Yeah, you do.
+OTHERFEMALE:See? I still got a lot of stuff to teach you.
+LEADMALE:Ok.
+LEADMALE:Ok.
+OTHERMALE:Dad? When's Darlene going to die? Good night, d.j. See you in the morning.
+SUPMALE:You got it.
+LEADMALE:Hey.
+SUPMALE:Hey.
+LEADFEMALE:How was baby class? You know.
+LEADMALE:Same as always.
+SUPFEMALE:You know, I was thinking about this guardian stuff, and I was thinking maybe we should leave the kids with Jackie after all.
+LEADFEMALE:Roseanne, we've been through this.
+OTHERMALE:Yeah, but she's part of their lives, Dan.
+OTHERFEMALE:She knows when Becky's lying.
+LEADFEMALE:She knows when Darlene's sucking up to get money, and she understands all of d.j. 's weird little chatter.
+SUPMALE:Are you feeling a little guilty? Yeah, I guess so.
+SUPFEMALE:Aren't you? Yeah, I guess.
+OTHERMALE:Ok.
+LEADMALE:She wants them, she can have them.
+LEADMALE:Thanks.
+SUPMALE:Ok.
+OTHERFEMALE:You go wake them up, and I'll drive them over there.
+SUPMALE:Let's go to bed.
+SUPMALE:All right.
+LEADMALE:You know, Dan, you need to get more life insurance.
+SUPMALE:We got enough.
+OTHERMALE:No, we don't.
+SUPMALE:If you ever die, I want to grieve in Tahiti.
+LEADFEMALE:Me and Dan are dead.
+SUPFEMALE:You've moved into the house.
+LEADMALE:You're in charge of the kids.
+LEADFEMALE:Now, question number one.
+LEADFEMALE:It's Saturday night, 2 A.
+LEADFEMALE:M.
+LEADMALE:, and Becky's not home from her date yet.
+LEADMALE:What do you do? Ok.
+LEADMALE:Um Am I home from my date yet? Where am I? You don't have a date, Jackie.
+LEADMALE:You have three kids.
+LEADFEMALE:You will never have a date or life.
+OTHERFEMALE:Right.
+SUPFEMALE:No date, no life.
+SUPFEMALE:I forgot.
+OTHERFEMALE:Ok, I would call up all of Becky's friends.
+LEADMALE:Wrong.
+OTHERMALE:This is that 911 question, isn't it? Wrong.
+SUPMALE:Ok, what? I don't know.
+SUPMALE:You go to Darlene's room and threaten Darlene's life Threaten Darlene's life.
+SUPMALE:I should have known that.
+OTHERMALE:I should have had that one.
+LEADFEMALE:Ok, question number two.
+LEADFEMALE:d.j. 's found a dead cat and insists on keeping it as a pet.
+SUPMALE:What do you do? I would very gently explain to him that the cat had gone through his nine lives and we would have a simple funeral.
+LEADFEMALE:God, Jackie.
+SUPMALE:Are you even going to try or what? All right.
+LEADMALE:Ok.
+OTHERMALE:Dead cat.
+OTHERFEMALE:Dead cat.
+LEADFEMALE:Um, I truly don't know what I'd do.
+LEADMALE:Neither did I.
+SUPMALE:All right.
+LEADMALE:Next question.
+SUPFEMALE:Becky and Darlene have been fighting for two weeks.
+LEADMALE:So? Right.
+SUPMALE:Yeah.
+LEADMALE:Oh, yeah.
+LEADFEMALE:Ok, next question.
+LEADMALE:You're so exhausted from taking care of three kids and a house that you're not in the mood for sex for three whole months.
+SUPFEMALE:What do you do? Maybe you ought to give the kids to Crystal and Ed.
+LEADFEMALE:No, it's too late now.
+LEADFEMALE:No, no.
+LEADMALE:You wanted it.
+SUPMALE:You begged me.
+OTHERFEMALE:No, no.
+LEADFEMALE:You made your bed.
+SUPFEMALE:

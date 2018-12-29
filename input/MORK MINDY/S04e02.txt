@@ -1,0 +1,331 @@
+SUPMALE:Na-no, na-no.
+LEADMALE:Here, Grandma.
+LEADFEMALE:Put this on your forehead.
+LEADFEMALE:No, dear.
+LEADMALE:I'm feeling better now.
+OTHERFEMALE:All I want is a glass of water and a small Scotch.
+LEADFEMALE:It's 9:00 in the morning.
+LEADFEMALE:I'm not gonna serve you Scotch.
+SUPFEMALE:Yes, yes.
+LEADMALE:You're right, dear.
+LEADMALE:You're right.
+SUPFEMALE:Got any tequila? Oh, Mindy, I'll be all right.
+LEADFEMALE:It's just that I was so shocked at your changing your mind and deciding to marry Mork.
+SUPFEMALE:But, dear, if that is what you want, then we are going to give you a most beautiful wedding.
+SUPMALE:Well, thanks, Grandma.
+LEADFEMALE:I just want a small wedding.
+LEADMALE:You know, just family.
+SUPFEMALE:Mm-hm.
+LEADFEMALE:Uh, you're gonna stay around while I break the news to Dad, aren't you? No.
+SUPFEMALE:No, no, no.
+OTHERFEMALE:You don't need me.
+LEADFEMALE:Your father is a kind, loving, compassionate man.
+SUPMALE:And, uh, he'll understand.
+LEADFEMALE:Well, that helps.
+SUPFEMALE:Besides, I don't wanna be here when he freaks.
+LEADFEMALE:I feel like a hamster without a wheel.
+LEADFEMALE:I mean, I feel like a scuff mark on the loafer of life.
+LEADMALE:Would you mind if I broke every dish? No! Don't break my dishes.
+SUPFEMALE:- What about this tacky lamp then? - Mork.
+LEADFEMALE:- What happened to nonviolence? - Mind, wake up.
+LEADMALE:The '60s are over.
+LEADFEMALE:Mork, why are you carrying on like this? It's really no big deal, except Orson forbids us to get married.
+SUPFEMALE:Oh, he does, does he? Since when can Orson tell us whether we can get married or not? Since 2 million years ago when they outlawed marriage on Ork.
+SUPMALE:Well, I hope you told him it's legal here on Earth.
+LEADFEMALE:You bet.
+SUPMALE:- Then what happened? - He lit me up like Times Square.
+LEADMALE:Aah! Oh, baby, what's happening? You know, things like that, Mind.
+SUPFEMALE:Mork, you just can't accept his decision.
+LEADFEMALE:That really makes me mad.
+OTHERMALE:We're getting married.
+LEADFEMALE:We don't have to get anyone's permission.
+SUPMALE:- Hi, everybody.
+LEADFEMALE:- Permission for what? Oh, uh, to tear the tags off the pillows.
+LEADFEMALE:Ah.
+LEADMALE:Why don't you sit down? And I'll fix you a nice breakfast.
+LEADFEMALE:- Eggs, Danish - Son-in-law.
+LEADFEMALE:I'll have a Danish.
+OTHERMALE:A son-in-law? Yeah.
+LEADMALE:It's not exactly the way I had planned to break it to you.
+SUPFEMALE:But, uh, yeah, uh, Mork and I have decided to get married.
+SUPFEMALE:Over my dead body.
+LEADFEMALE:That'll trip us, Pop, but it won't stop us.
+LEADMALE:Fred, that's terrible.
+LEADFEMALE:Oh, Mindy.
+LEADFEMALE:I'm so happy for you and Mork.
+LEADFEMALE:You know what? I wanna throw you a shower.
+LEADFEMALE:No, no.
+LEADMALE:No happy and no shower.
+SUPFEMALE:Mindy, I can't believe after our discussion that you would turn around and do anything this Stupid? - Thank you, Mork.
+SUPFEMALE:- You got it.
+SUPFEMALE:Now, get out of her life.
+SUPFEMALE:Dad, this isn't your orchestra.
+LEADFEMALE:You just can't wave your baton and tell us what to do.
+SUPFEMALE:Fred, pumpkin, why are you so against their getting married? It's obvious they're in love.
+SUPMALE:Cathy, sweet potato, I know what I'm doing.
+LEADMALE:Heh.
+LEADMALE:Fred, poodle, that's what you said just before you put the garage door on backwards.
+OTHERMALE:Look, Cathy, angel face, trust me.
+LEADMALE:They can't get married because Mork is from Uh He Uh, they're from two different worlds.
+SUPMALE:Fred, there's no reason for us to get upset.
+OTHERFEMALE:I understand this is a talk between you and your daughter.
+OTHERFEMALE:I'll go run some errands.
+LEADMALE:You two discuss it calmly, and I'll abide by your decision.
+LEADMALE:Mindy, the shower is Saturday.
+SUPFEMALE:Oh.
+LEADFEMALE:Oh.
+LEADMALE:Oh.
+LEADMALE:Oh, idiot moi.
+LEADFEMALE:Hey, obviously you and your dad, like, need some space here, okay? And, uh, who am I to intrude upon your privacy? That's what makes me different from Allen Funt.
+LEADMALE:I'll just be up here knitting a Volkswagen.
+LEADMALE:Upstairs.
+LEADMALE:Remember Broadway? Have great rhythm Now, look, Mindy, let's just get one thing straight here.
+LEADMALE:Yes, Dad, lets.
+OTHERFEMALE:Look, I love you very much and we sure would like to have your blessing.
+LEADMALE:But we don't need anyone's permission to get married.
+LEADFEMALE:You know something, Mindy? You were a stubborn little girl and you've grown into a stubborn woman.
+LEADMALE:But I'll tell you something.
+LEADFEMALE:You've got a lot of You got a lot of moxie.
+SUPFEMALE:As a matter of fact, I'd really be proud of you if you weren't making such a tragic mistake.
+LEADFEMALE:Okay, Dad.
+OTHERFEMALE:I'm sorry you feel that way.
+LEADMALE:This is gonna hurt me more than anything I've had to do before, but if I have to, I'll walk down that aisle alone.
+LEADFEMALE:You will over my dead body.
+LEADMALE:You have my blessing.
+LEADFEMALE:Thank you, soft touch.
+SUPMALE:Oh, thank you, thank you, thank you! Oh, mon cher Papa! Oh, I love tweed.
+SUPMALE:I love I'm gonna be your son-in-law, and you can just call me Meathead.
+LEADMALE:You can count on it.
+OTHERFEMALE:I better get back and turn that garage door around or Cathy will never forgive me.
+SUPMALE:What have I done? Well, Mork, I've taken care of my half of the galaxy.
+LEADFEMALE:The rest is up to you.
+SUPMALE:You've gotta talk to Orson.
+LEADFEMALE:Mm-mm.
+LEADMALE:Oh.
+SUPFEMALE:No, no, Mind.
+LEADFEMALE:No way I'm gonna go one on one with the big O.
+LEADFEMALE:If you deal with Orson the way I just dealt with my father, you can get him to change his mind.
+SUPMALE:Mind, I'd rather join the Libyan Air Force.
+SUPFEMALE:Look, Mork, come on.
+SUPFEMALE:You just gotta confront Orson.
+LEADFEMALE:- And you've gotta do it right away.
+SUPMALE:- Mind.
+SUPMALE:Look, Mork, our future is in your hands.
+LEADMALE:Oh.
+LEADMALE:You're right, Mind.
+OTHERMALE:We have an industrial-strength love.
+SUPMALE:I'm gonna stand up to him! Mork calling Orson.
+OTHERMALE:Come in, your Winnebagoship.
+SUPFEMALE:Be nice.
+SUPMALE:Come on, Mind.
+LEADMALE:Ors and I go back a long way.
+LEADFEMALE:He was my Little League coach and the team bus.
+OTHERMALE:Mork calling Orson, come in, Orson.
+LEADMALE:Mork calling Orson, come in, Orson.
+LEADMALE:Come on out.
+LEADMALE:Show your face.
+LEADMALE:No one here? Well, it's always cheaper to call after 11 anyway.
+LEADFEMALE:What do you want, Mork? I'm in a hurry.
+SUPFEMALE:I was just on my way to the Intergalactic Wine and Cheese Festival.
+LEADFEMALE:Well, sir, this will only take a second.
+LEADMALE:Remember what you said when I asked if I could marry the marvelous, mercurial Midwestern Mindy? Yes.
+LEADMALE:I said no Orkan shall enter into marriage, especially to a lower life-form, one that still chews their food.
+LEADMALE:I was hoping you'd forgotten, sir, but I never really wanted to challenge your authority, and I hate to pooh-pooh your will, but there is nothing that you can do to stop me from marrying Mindy.
+LEADMALE:In that case, I'm going to miss our little chats.
+SUPFEMALE:Heh.
+LEADMALE:Oh, just kidding, sir.
+SUPFEMALE:You know, I don't know what gets into my head sometimes.
+LEADFEMALE:You know, I don't really need to marry Mindy.
+LEADFEMALE:Besides, her cooking tastes like insulation.
+LEADMALE:I'm glad to hear you say that, Mork.
+SUPFEMALE:But just remember, if you defy me, a hideous fate will befall you.
+LEADFEMALE:For example? I will alter your molecular structure into a life-form that will be more obedient.
+LEADMALE:Oh, ho.
+LEADFEMALE:You want obedience? Obedience are us.
+SUPMALE:You say jump, I say how high? You say run, I say how fast? You say "Camptown," I say "doo-dah.
+LEADMALE:" I've heard enough, Mork.
+SUPMALE:Hold your tongue.
+LEADFEMALE:Yes, sir.
+LEADMALE:You've got it.
+LEADFEMALE:Did I startle you? Not as much as if you'd been Ethel Merman, but What happened? You told Orson, right? You confronted him and told him that we were gonna be married? Well He backed down, right? Because you're strong and brave with the courage of your convictions.
+SUPMALE:Well And no force exists that can prevent us from being married, right, Mork? Well, those were my words exactly, Mind.
+LEADFEMALE:Um, you know, I told him I I really let him have it.
+SUPFEMALE:I leveled him.
+LEADFEMALE:- You did? - I made him feel lower than the price of pork in Tel Aviv.
+SUPFEMALE:Let's just break out the champagne right now.
+LEADFEMALE:Let's celebrate.
+LEADFEMALE:Let's pop our corks.
+LEADMALE:The shampoo is champagne! You're kidding, Mork? We're really getting married? - Oh, yes.
+LEADMALE:- Aah! I can't believe it! I'm so proud of you.
+LEADFEMALE:Mork has committed a flagrant violation of Orkan law.
+LEADFEMALE:He will be severely punished.
+OTHERFEMALE:- This is the big day.
+LEADMALE:- Yeah.
+SUPMALE:You want me to help you with that? No, I can get it.
+LEADMALE:I'm not one of those nervous brides-to-be.
+LEADMALE:Right.
+LEADMALE:Honey.
+LEADFEMALE:Honey, take it easy.
+LEADMALE:Oh, honey, come on, sweetie.
+LEADMALE:Come on, sit down, sit down, sit down.
+OTHERMALE:All right, now just take it easy, honey, and relax.
+LEADMALE:Here, I have something for you.
+OTHERFEMALE:I gave this to your mother on our wedding day, and I know she'd want you to have it.
+LEADMALE:Oh, Dad, her gold four-leaf clover.
+LEADFEMALE:Yeah.
+SUPMALE:I hope Mork doesn't replant it.
+LEADFEMALE:It always brought us a lot of luck.
+OTHERFEMALE:Look who we got as a daughter.
+SUPMALE:Aw, Dad, it's beautiful.
+LEADMALE:Thanks.
+LEADFEMALE:And thanks for always being there when I needed you.
+OTHERFEMALE:And I always will be.
+LEADMALE:- Just like that.
+LEADMALE:- Just like that.
+OTHERFEMALE:Well, I guess I'd better get to the chapel.
+LEADFEMALE:Just think, in a little while you'll be Mrs.
+SUPMALE:Mindy Mork doesn't have a last name.
+SUPMALE:Uh, what are you gonna call yourselves? Well, we've been talking about last names.
+LEADFEMALE:He's torn between Travolta and Pittsburgh.
+LEADMALE:But I think I can talk him into McConnell or Phoenix.
+OTHERFEMALE:Work on Phoenix.
+LEADMALE:I'll see you there.
+LEADFEMALE:Mork, we'd better get going.
+OTHERFEMALE:What are you doing in there? Oh, I'm just trying to work on my hair to achieve that John Davidson look.
+LEADMALE:You can do that at the church.
+LEADMALE:We really should have been there five minutes ago.
+LEADFEMALE:Okay, you're right.
+LEADFEMALE:We don't wanna be late, do we? There'd be 100 rabid bingo fans out there eating our smorgasbord.
+LEADFEMALE:Can you give me a hand with the, uh Ah! Oh, yeah, you're probably gonna need some help with that, won't you? What is that? What? Oh, this.
+LEADMALE:Oh, it's my morning coat.
+SUPMALE:Remember the guy with the accent and the pins in his mouth.
+SUPMALE:- No! I'm talking about the hair! - Mind, I told you I was working on it.
+OTHERFEMALE:Not just the hair, the ears and the nose.
+LEADFEMALE:Oh, that.
+OTHERMALE:Well, Orson's just turning me into a dog.
+LEADMALE:Come on, let's go.
+OTHERFEMALE:Orson's turning you into a dog? Yeah.
+LEADFEMALE:You'll have to drive, Mind.
+SUPFEMALE:I wanna stick my head out the window.
+SUPMALE:Orson's turning you into a dog? Um, yup.
+SUPFEMALE:Level time, isn't it? Well, Mind, um, I lied to you.
+LEADFEMALE:He really didn't give his permission for me to marry you.
+LEADMALE:I made my bed, now I have to lie in it, if I'm still allowed on the furniture.
+LEADFEMALE:Mork, we are getting married in one hour.
+LEADMALE:This is no time for jokes.
+OTHERMALE:Ow! Ow! Ow! LBJ! LBJ! - They're real! - Of course, Mind.
+LEADMALE:You don't get this kind of quality from a novelty shop.
+SUPFEMALE:I can't believe it.
+SUPFEMALE:This is happening.
+SUPFEMALE:This is really happening! Mork, we gotta do something.
+LEADFEMALE:What can we do? Well, I'm doing it right now, Mind.
+LEADFEMALE:Listen, I'm using all my will to reverse the process.
+SUPFEMALE:It's simply a case of mind over matter.
+OTHERMALE:Listen, we're gonna have the wedding just as planned.
+SUPFEMALE:I mean, he can't turn me into a dog.
+LEADFEMALE:Telegram for Mindy McConnell.
+SUPMALE:Stop it.
+LEADFEMALE:Sit! Sit! Leave them in the hall.
+LEADFEMALE:Oh, Mork, it's getting worse.
+SUPFEMALE:Your hair's getting longer and you were barking.
+OTHERFEMALE:I was? Oh, Mork, I think you're losing control of this.
+SUPMALE:I think you're losing the battle.
+OTHERMALE:Look at it this way, Mind.
+SUPMALE:It might be just a bad cough.
+LEADFEMALE:Could be worse.
+OTHERFEMALE:He might have turned me into a blowfish or a Stridex pad or a lounge singer.
+LEADFEMALE:Mork, come on, you've gotta fight.
+OTHERMALE:Try and stand up like a human.
+LEADMALE:I can't, Mind, but I can do this.
+LEADMALE:How could Orson do this to us? Quick, Mork, we've gotta call him.
+LEADMALE:Plug me into your mind with you and I'll talk him into changing you back.
+LEADMALE:Off! What you have to do is stick your finger in my ear and with your other hand scratch my head.
+LEADFEMALE:- I didn't have to do that the last time.
+SUPMALE:- But it sure will make me happy.
+LEADFEMALE:Just call him.
+LEADFEMALE:Mork calling Orson, come in.
+LEADMALE:Mork calling Orson, come in.
+SUPFEMALE:Where is Orson? How can he keep us on hold like this? Call him again, Mork.
+SUPMALE:I guess I'm in this by myself.
+LEADMALE:Mindy calling Orson.
+SUPMALE:Come in, Orson.
+LEADMALE:Where are you? This is an emergency! I'm here, Earthling.
+LEADMALE:What's the problem? Don't they allow pets in your building? Down, boy.
+LEADFEMALE:Mork, sit! Out! Out! Ah, you've kept his name.
+LEADFEMALE:I thought Scruffy would be more appropriate.
+SUPMALE:How can you be so cruel? You've stripped him of his dignity! You just can't go around turning people into Mork, I'm trying to make a point.
+LEADMALE:Fetch, Mork! I called the house.
+OTHERMALE:They don't answer.
+LEADFEMALE:I called the police, the hospitals.
+SUPFEMALE:Nothing.
+LEADFEMALE:They were behind me when I left them.
+LEADMALE:I don't know what happened.
+SUPFEMALE:Oh, dear, I'm getting worried.
+LEADFEMALE:That's gotta be Mork.
+LEADMALE:Nobody knocks on a church door.
+SUPFEMALE:It's about time you answered.
+LEADFEMALE:I was getting a headache.
+LEADFEMALE:- Was he invited? - Unfortunately he's the best man.
+OTHERFEMALE:I would have been here sooner, but it's a little tough hitchhiking in this outfit.
+LEADMALE:Interesting jacket.
+LEADFEMALE:It's a suit.
+LEADMALE:I lost the pants crawling over the wall.
+SUPFEMALE:Excuse me, did you see Mork and Mindy when you came in? Not unless they're wearing little red jackets and parking cars.
+LEADMALE:You mean they're not here yet? Well, lucky for you I'm an emcee.
+OTHERMALE:You were about to lose your crowd.
+OTHERMALE:Dear friends we are gathered here in this house of worship, just two blocks south of the House of Pies.
+LEADFEMALE:And speaking of pies, would someone please explain to me what is meant by Black Forest cake? Where is the Black Forest? Do they have cakes hanging from trees in the Black Forest? But most important, Padre, whatever happened to Forrest Tucker? Orson, I'm pleading with you.
+LEADFEMALE:How can you do this? If you give Mork back to me, he'll show you the values of being human.
+LEADMALE:If I had emotions, I'd probably be very touched right now.
+SUPMALE:Then you're not gonna change him back? He broke the law.
+LEADFEMALE:Orson, we came here Mork.
+LEADFEMALE:Mork? Here boy! All right, Orson.
+LEADMALE:I just want you to know one thing.
+LEADMALE:You may have changed Mork physically, but underneath all this fur, he's still Mork.
+LEADMALE:He risked everything for me so we could be married, and your little punishment isn't gonna change my plans.
+LEADMALE:I still love him and I'm going through with this ceremony.
+SUPFEMALE:You're going to marry a dog? No, I'm marrying Mork.
+OTHERMALE:We'll see, but she sure is a spunky little alien.
+LEADMALE:If you're not busy after the reception, would you like to catch a white sale? - I don't think so.
+LEADMALE:- I see.
+LEADFEMALE:How about washing my hair? Where's the groom? Who invited a dog? Phillipe, you're not supposed to be here.
+SUPFEMALE:You're supposed to be home taping the Ram game.
+LEADMALE:Oh, forget it.
+LEADMALE:Sit in the pew.
+SUPFEMALE:Hello.
+LEADMALE:Uncle Ernie, you're out on parole, good to see you.
+OTHERMALE:Aunt Tilly, bleached your mustache.
+LEADFEMALE:Wonderful.
+SUPMALE:Dearly beloved, we are gathered here today to join this man and this woman in the holy bond of matrimony.
+LEADMALE:Be there anyone here who opposes this union, let them speak now or forever remain silent.
+LEADMALE:Phew.
+LEADMALE:The rings, please.
+LEADMALE:Psst.
+LEADFEMALE:The rings.
+OTHERFEMALE:Talk to one another.
+OTHERFEMALE:I'll be right with you.
+LEADFEMALE:I hope your next wedding's casual.
+LEADMALE:And now, instead of reciting the traditional vows, Mork and Mindy have a few words to say to one another.
+SUPMALE:Mindy.
+OTHERMALE:Mork, when you entered my life, you brought me happiness, joy and laughter.
+OTHERMALE:My love for you transcends time and space.
+OTHERMALE:Grow with me, the best is yet to be.
+SUPMALE:Mind, you're my friend, my love, you're my life.
+LEADFEMALE:Supposed to be more but the lady in the card shop said, "Buy or get out.
+LEADFEMALE:" I don't know the right words.
+LEADFEMALE:Besides, I don't think there are enough to describe how I really feel about you.
+SUPMALE:"Love" is a small word but I think it covers so much.
+OTHERMALE:I love you.
+LEADMALE:By the power vested in me, by the state of Colorado, I now pronounce you husband and wife.
+LEADMALE:You may kiss the bride.
+LEADFEMALE:Welcome to my world, Mrs.
+SUPFEMALE:Pittsburgh.
+LEADFEMALE:I can't believe it.
+LEADMALE:We really got married.
+SUPFEMALE:Just think, Mork.
+OTHERFEMALE:In 24 hours, we'll be on a plane to Acapulco.
+LEADFEMALE:Oh, Acapulco is tres passé, Mind, that's for bottled water salesmen.
+SUPMALE:We're gonna spend 25 days and one beautiful night on Ork.
+LEADMALE:Ork? Mind, Mind, Mind I've never been in outer space before.
+LEADMALE:Will I even be able to breathe on Ork? Beats me, Mind, but we'll find out.
+OTHERMALE:

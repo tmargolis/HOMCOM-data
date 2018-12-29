@@ -1,0 +1,307 @@
+LEADMALE:What are you guys doing here? Mallory's reading Dad's tarot cards.
+OTHERMALE:Just watch.
+OTHERMALE:She's gonna predict a bright, rosy future.
+OTHERFEMALE:Oh, no.
+SUPMALE:It can't be.
+OTHERMALE:This is horrible.
+LEADMALE:What? What is it? Somebody got jam on this card.
+LEADFEMALE:I've had enough.
+LEADMALE:No, Dad, please, sit, please.
+SUPMALE:There's nothing to worry about.
+LEADMALE:I will show you that the cards know all.
+SUPFEMALE:Okay.
+LEADFEMALE:Oh! Okay, okay.
+LEADFEMALE:Says here that, in the recent past, you had a minor accident.
+LEADMALE:Is that true? Ma-Mallory, two days ago, while trimming my beard, I cut myself.
+LEADFEMALE:Oh.
+LEADMALE:You knew that.
+SUPFEMALE:Yes, but the cards didn't.
+SUPMALE:Am I mentioned here at all? Oh, yes, Mom, you're in the home area.
+SUPMALE:You're represented by the high priestess.
+LEADFEMALE:See, you're holding the three babies.
+LEADFEMALE:That would be, uh, Jen, Andy and me.
+LEADMALE:Well, where's Alex? He's probably represented by the newt in the corner.
+SUPFEMALE:Alex, I will never let you drag me to one of these things again.
+OTHERFEMALE:I don't understand; how can a human being not enjoy the Leland Economics Jamboree and Clambake? I mean, that's absurd.
+SUPMALE:You know, that was the best one we've ever had.
+SUPMALE:We've never had a kissing booth before.
+SUPFEMALE:Kissing money is disgusting, Alex.
+LEADFEMALE:What is your problem? I mean, it just seems like everything I do today is wrong, wrong, wrong.
+LEADFEMALE:It's so typical of you.
+SUPMALE:Hi.
+SUPMALE:How you doing? Steven, can I see you in the other room for a minute? What for? The thing.
+LEADFEMALE:Excuse me? Oh.
+LEADFEMALE:Oh, right, right, right.
+LEADMALE:Uh, the-the thing, yeah.
+SUPFEMALE:Mallory, Jen, can we see you in the living room? About the thing? Alex, I think we have a serious problem here.
+LEADFEMALE:I feel like I'm having a hard time relating to you.
+SUPMALE:We don't even talk anymore.
+SUPMALE:What are you talking about? See? We're talking.
+SUPMALE:Alex, let's face it, whenever the conversation veers away from politics or the economy or current events and heads towards something personal, you run like a little kid.
+SUPMALE:Lauren, what do you want from me? I want you to open up.
+LEADMALE:I want you to tell me what you're thinking, what you're feeling.
+LEADMALE:About what?! About us! I love you, you love me.
+SUPFEMALE:We're in a great place here.
+LEADFEMALE:Alex, emotionally, our relationship is right here.
+OTHERFEMALE:I think it should be here.
+LEADFEMALE:I love you, you love me.
+LEADFEMALE:We're in a great place here.
+LEADMALE:Only higher up.
+LEADMALE:Alex, you may not want to deal with this, but from my perspective, we got a lot of talking to do.
+OTHERMALE:Oh, Lauren, Lauren And you're obviously not ready for it.
+LEADFEMALE:Lauren Whoa! - See you later! Can I help you? I doubt it.
+OTHERMALE:Really? I happen to know you're having some romantic difficulties.
+LEADFEMALE:Oh, yeah? How do you know that? What, do the cards tell you? No, I was listening at the door.
+LEADFEMALE:But the cards might help you find a solution, if only you'll believe in them.
+SUPFEMALE:All right, I believe.
+LEADFEMALE:Hit me.
+SUPFEMALE:No, no, no.
+SUPMALE:First you have to follow the ancient tradition passed down from generation to generation.
+OTHERFEMALE:And now available in this book from Hasbro.
+SUPMALE:What do I do? First we separate the cards into decks of three.
+SUPMALE:Put one on your forehead and one on your knee.
+LEADMALE:And this is a personal low for me.
+OTHERFEMALE:Okay.
+LEADMALE:I see you purchasing six sweaters.
+SUPFEMALE:No, that's mine.
+OTHERFEMALE:I'm just kidding.
+LEADFEMALE:Okay, I'm just kidding.
+LEADMALE:Okay.
+LEADFEMALE:I see a dark-haired woman.
+OTHERMALE:She's upset about something.
+OTHERMALE:She's hurt.
+SUPFEMALE:Her man has let her down.
+LEADFEMALE:Yeah? Yeah, then what? Okay, she's distraught.
+LEADMALE:He's devastated.
+SUPFEMALE:He has no future.
+SUPMALE:Oh, God.
+LEADFEMALE:What? Go on.
+LEADMALE:Starting to see her more clearly now.
+LEADFEMALE:What, is it Lauren? No, it's Kitty Dukakis.
+OTHERMALE:Oh, hey, Mom, Dad, great timing.
+SUPFEMALE:Let me ask you something, okay? I been having this little problem with Lauren recently.
+SUPMALE:And, uh, I don't know, she seems to think that I can't relate on an honest, intimate level.
+LEADFEMALE:What do you, what do you guys do about that? Well, your mother and I make an effort every evening to, uh, have at least one, uh, deep, meaningful, uh, personal exchange.
+LEADMALE:What do you talk about? Well, it's personal.
+SUPFEMALE:I'll get it.
+LEADMALE:Hey.
+SUPFEMALE:Hi.
+SUPMALE:Hi.
+OTHERFEMALE:Uh, I-I smell something burning.
+LEADFEMALE:I-I think it's, uh, the thing.
+LEADMALE:Well, we better get in there.
+LEADMALE:There's nothing worse than burnt thing.
+LEADFEMALE:No.
+LEADFEMALE:So, uh, how you doing? Okay.
+OTHERMALE:I've been thinking a lot about what we talked about this afternoon.
+SUPFEMALE:Yeah? Me, too.
+LEADFEMALE:I, uh Jen, do you mind? This is kind of personal.
+LEADMALE:Boy, the amount of times that I'm asked to leave places.
+LEADFEMALE:I should just board the "Get out of the room" express.
+LEADMALE:It's leaving now.
+SUPFEMALE:Whoo-whoo! Listen, Alex, I didn't mean to imply that you don't have feelings or that you're immature.
+LEADFEMALE:I'm sorry.
+SUPFEMALE:Oh, babe I'm, uh, I'm-I'm sorry that I didn't take you seriously.
+LEADMALE:All that arguing, it's not gonna get us anywhere.
+OTHERFEMALE:Ah, you're so right.
+LEADFEMALE:I love you, Alex.
+LEADFEMALE:I love you, too.
+LEADMALE:I think we should go to group therapy.
+LEADFEMALE:Let's try some interpersonal communication.
+SUPMALE:Bobby, tell me some more.
+OTHERFEMALE:You obviously have some complex thoughts on relationships.
+SUPMALE:I do.
+OTHERMALE:If Janie here so much as, like, looks at another guy, she gets it or he gets it.
+SUPMALE:But definitely, somebody gets it.
+LEADFEMALE:Why do you think you do that, Bobby? Hey, what can I tell you? You know, I'm funny that way.
+LEADFEMALE:Uh, Janie, how does that make you feel? I don't know.
+SUPMALE:Do you feel that it takes away from your identity at all? It depends.
+LEADFEMALE:What does that mean? It's great to be here discussing relationships with the bottom of the food chain.
+LEADMALE:Yes, Alex, is there something you'd like to share with the rest of us? No, I don't share.
+LEADFEMALE:Alex, what is that beard you wear? Excuse me? A beard, a mask.
+SUPMALE:You hide your true self.
+SUPFEMALE:Hey, I used to do that.
+LEADMALE:I used to have a beard.
+LEADMALE:She did.
+SUPFEMALE:And I really miss it.
+SUPFEMALE:Alex, um, I want you to face Lauren and look her in the eyes.
+LEADMALE:Can you feel her energy? No, I feel Bobby's energy.
+OTHERFEMALE:Why does he express hostility in that repugnant manner? Yes, Alex, why do you? I don't know.
+LEADMALE:Why don't we move on? We'll come back to you.
+LEADMALE:I'll be here.
+LEADFEMALE:Tom, why don't you tell us some of the things that you do to keep your relationship with Vera fresh after all these years.
+LEADMALE:Well, for a long time, Vera and I didn't really talk much to each other at all.
+OTHERMALE:But recently, since I taught her how to use the TV remote, it's opened up a whole new area for us.
+LEADFEMALE:Before, Vera wouldn't say much.
+SUPMALE:Now she talks all the time.
+LEADFEMALE:For example, I'll say, "Do you think Geraldo looks a little too orange today?" And Vera says "No.
+OTHERFEMALE:" Let's try some free-form interpersonal communication.
+LEADFEMALE:Lauren, why don't you begin by questioning your partner.
+OTHERFEMALE:Okay.
+SUPFEMALE:Alex, did you have difficulty coming here today? You know that I did.
+SUPMALE:I mean, why do you have to ask me that? I think it's important for you to express it.
+OTHERMALE:Are you angry at Lauren for revealing personal problems between the two of you? No.
+SUPFEMALE:Do you have trouble showing affection to Lauren? No.
+OTHERMALE:If you were a tree, what kind of tree would you be? Look, uh, I-I got to go.
+LEADMALE:I just remembered something I have to do.
+LEADMALE:What do you have to do? Uh, run away screaming.
+SUPMALE:Alex, what's going on? Honey, l-let's just go, okay? No, I'm not leaving.
+SUPMALE:This is important to me.
+LEADFEMALE:It's important to us.
+SUPMALE:Honey, I can't stand it here! I mean, I don't, I don't, I don't fit in here! You didn't even try! I never played poker with tarot cards before, but I think I got a full house.
+LEADMALE:Let's see.
+OTHERMALE:What do you got? Uh, I got three ladies in a watermelon patch and two skeletons with floppy hats.
+LEADFEMALE:Beats me.
+SUPFEMALE:I got dragon high.
+LEADMALE:Two dwarves.
+LEADMALE:Read 'em and weep.
+LEADFEMALE:Four fools.
+LEADMALE:Hey.
+SUPMALE:Hey, Alex.
+LEADMALE:What's all this? This, this, Dad, is what's gonna save my relationship with Lauren.
+OTHERFEMALE:Now, what happened between you and Lauren? Well, I'll tell you the truth, Dad.
+OTHERMALE:We had a little fight about, uh, the way I didn't fit in at that group therapy session.
+LEADFEMALE:Well, there's a shocker.
+LEADFEMALE:But I'm going back, and it's not gonna happen again, because I'm gonna be armed to my psychological teeth.
+SUPFEMALE:Interpretation of Dreams.
+LEADMALE:Ah, the May issue of, uh, Popular Neurosis.
+SUPMALE:Yeah, this isn't exactly thriller-diller reading for me, but, uh, I don't know, I feel like I let Lauren down.
+LEADMALE:And, uh, if it's important to her for me to be in touch with my feelings, then I'm gonna read these books, gonna find out what my feelings are, and memorize them.
+SUPMALE:Alex, they're gonna be able to see right through you.
+SUPMALE:Mom, Mom, you're missing the point.
+OTHERMALE:The important thing is not what those people think of me, but-but that Lauren believes that I really tried to open up to her.
+SUPFEMALE:I mean, I'm doing this for her.
+LEADFEMALE:Hi.
+LEADMALE:Jen, do you mind? This is kind of personal.
+LEADMALE:I don't know why I bother leaving my room.
+SUPFEMALE:Alex, the best thing you can do for Lauren is to tell her honestly how you feel about her that you love her, that you care for her.
+LEADFEMALE:Nah, Dad, that's no good.
+LEADMALE:In this day and age, relationships have become a-a complicated, sophisticated, intellectual phenomenon.
+OTHERMALE:Piggies.
+LEADFEMALE:Yeah.
+OTHERMALE:Sorry, we're late; the traffic was terrible on Court Street.
+LEADFEMALE:Yeah, and I would like to share my feelings about that with all of you.
+OTHERMALE:You know, sitting there in the midst of all that bumper-to-bumper traffic, I realized that my anxiety was a manifestation of my subconscious desire to return to the womb.
+LEADFEMALE:That traffic was it jammed up going both ways? Alex, you amaze me.
+LEADMALE:You seem to have really blossomed since our last meeting.
+SUPFEMALE:Well, thank you, Dr.
+LEADFEMALE:Davidson.
+SUPMALE:Well, you're welcome.
+LEADFEMALE:Well, has anybody had any further thoughts about their relationship since we last met? Ooh-ooh, ooh-ooh.
+LEADMALE:Alex, I'm surprised.
+LEADMALE:Well, honey, I'm here, and darn it, I'd like to participate.
+LEADMALE:All right, Alex.
+LEADMALE:All right, um Let me share this with all of you.
+LEADMALE:I've been doing a lot of serious soul searching since our last meeting, because I felt that I didn't come across to the group in a positive light.
+LEADMALE:All of you felt that I was holding back on my true emotions.
+SUPFEMALE:Oh.
+LEADFEMALE:Afraid to confront my real feelings.
+OTHERMALE:Well, you were right.
+SUPMALE:I was afraid.
+LEADMALE:And so today, I'm here to stand before all of you and say I'm Alex P.
+SUPMALE:Keaton, and I'm repressed.
+LEADFEMALE:Oh, bravo! Thank you.
+LEADMALE:I'm s I'm okay.
+LEADFEMALE:Alex, this is wonderful.
+LEADFEMALE:You're repressed; I am so happy for you.
+OTHERFEMALE:Thank you, honey, and I-I'd be happy, too, if, you know, I wasn't so darn repressed.
+LEADFEMALE:This is great.
+LEADMALE:Now that you know what the problem is, you can really dig down and address the real emotional issues.
+LEADMALE:Oh, now, hold on, Lauren.
+LEADFEMALE:I mean, Alex has made a major breakthrough.
+LEADMALE:I think that is quite an accomplishment for one night.
+LEADMALE:Yes.
+LEADFEMALE:All right, let's move on to somebody else.
+LEADFEMALE:Vera, how about you? We'll come back to you, Vera.
+OTHERMALE:Lauren, how about you? How do you feel your relationship is working? Fine.
+LEADFEMALE:No complaints.
+OTHERFEMALE:Do you feel that you hold back in the relationship at all? Um no.
+OTHERFEMALE:You hesitated.
+SUPMALE:Did I? Yes, you did.
+OTHERFEMALE:Come on, honey.
+SUPMALE:Do what I did.
+OTHERFEMALE:Tell them you're repressed, they'll get off your back, they'll start torturing Vera.
+LEADMALE:But I'm not repressed.
+SUPMALE:Well, then why don't you just tell them some of the things that bother you about our relationship.
+LEADMALE:I mean, the way the way I avoid intimacy, meaningful conversation, make you go to-to clambakes and kiss money.
+LEADMALE:Well, Alex does, uh, tend to emotionally shut me out at important moments.
+SUPMALE:To kind of build a wall around himself.
+LEADFEMALE:We want to know about you, Lauren.
+LEADMALE:How does that wall affect you? No, I recognize it for what it 
+LEADMALE:A projection of his latent insecurity.
+SUPFEMALE:Lauren, not in psychological terms.
+LEADFEMALE:How do you really feel? Well, I, um I know what you're all doing here.
+LEADFEMALE:I'm quite familiar with this dynamic.
+LEADFEMALE:It's not a dynamic, Lauren.
+OTHERFEMALE:It's your feelings we're after.
+SUPMALE:Come on, Lauren, how do you feel? Lauren, you're not going to accomplish anything until you let go.
+OTHERMALE:Come on, Lauren, you can do it.
+LEADMALE:We're all here for you.
+OTHERMALE:All right, look, everybody hold it for a minute, all right? If Lauren doesn't want to talk, that's okay.
+LEADMALE:I mean, I know how she feels.
+SUPMALE:How do you really know if she doesn't express it? - I'm sorry, I have to go.
+LEADMALE:Wait Lauren.
+SUPFEMALE:Lauren! Okay, it says here in the relationship area that you're very happy and secure in your relationship.
+LEADMALE:Uh-huh, that's true.
+LEADFEMALE:Oh.
+LEADMALE:There's somebody else in the picture.
+SUPMALE:Another woman.
+LEADFEMALE:Nick, how could you? What? What? W-What'd I do? The cards say you're seeing another woman! Hey, they're lying I'm gonna knock their heads off! Should we put a stop to this? Oh, it's harmless enough, Elyse.
+SUPFEMALE:Mal, you know you are the only one for me.
+LEADMALE:I'll prove it to you; I'll marry you.
+LEADFEMALE:All right, that's enough! Hello, uh, Lauren.
+LEADMALE:Hi, hi.
+OTHERFEMALE:Hi.
+LEADMALE:Is Alex here? Yeah, he's in the living room.
+LEADFEMALE:That's him.
+LEADFEMALE:What's say we all go in the living room, watch some TV? There's a good movie on.
+SUPMALE:The Thing.
+LEADFEMALE:Elyse, I've seen that a thous Oh, The Thing/ Yeah, why didn't you you say so? Oh, I love The Thing.
+LEADFEMALE:Okay, everybody out.
+LEADMALE:They do that very smoothly, don't they? So, how you doing? Are you okay? Not really.
+LEADFEMALE:I don't know what happened to me today.
+LEADFEMALE:Someone asked me a few questions, and I ran out of the room like some kind of wild woman.
+SUPFEMALE:What kind of psychologist am I gonna be? Not a real busy one.
+LEADMALE:I've never admitted this before, but I have a real problem confronting my own emotions.
+SUPMALE:I don't know, I love listening to other people and helping them.
+LEADMALE:But I don't really like talking about myself.
+OTHERMALE:Hey, I love talking about myself.
+OTHERMALE:Just not in front of Bobby and Janie.
+LEADMALE:Well, you didn't seem to have a problem opening up to them today.
+SUPFEMALE:Oh, you didn't believe that, did you? I mean, I was just uh, telling them what they wanted to hear.
+OTHERFEMALE:I mean, I'm not repressed.
+LEADFEMALE:Yes, you are.
+LEADMALE:All right, I just don't like to stand around talking about it.
+LEADFEMALE:I only did that for you.
+OTHERFEMALE:Oh, great.
+LEADMALE:Where does that leave us? You said what you didn't really feel and I panicked.
+LEADFEMALE:We're in the same place we were when we started this.
+OTHERMALE:Jen, do you mind? That's it, I'm moving out.
+SUPFEMALE:You know, we got to get this thing worked out, so she can feel free to roam the house.
+LEADMALE:Look, Alex, I'm sorry that I dragged you into this.
+SUPMALE:I just want to be closer to you.
+SUPFEMALE:I don't want to feel like you're holding things back from me.
+LEADMALE:I'm a very private person.
+OTHERFEMALE:I mean, there are things about me that nobody knows.
+LEADFEMALE:There are things about me I don't even know.
+LEADFEMALE:But I've opened up more to you than I ever have to anyone else.
+LEADFEMALE:I mean, when I look in your eyes, I feel like I can tell you anything.
+LEADMALE:Really? All right, well, tell me something that you've never told anyone.
+SUPMALE:All right, all right.
+LEADFEMALE:All right, you got to promise you're not gonna tell anybody this, I mean, not a living soul.
+LEADFEMALE:I promise.
+SUPMALE:All right.
+SUPFEMALE:I'm worried about Quayle.
+LEADFEMALE:And, um And there's-there's one, uh, one other thing that I got to tell you.
+LEADFEMALE:And I'm not really sure how this is gonna go over with you.
+SUPFEMALE:You're right.
+OTHERMALE:There is a wall around me.
+LEADFEMALE:I built it.
+LEADFEMALE:And it's real high.
+LEADFEMALE:And it's that, um that controlled Alex that I want the world to see.
+SUPFEMALE:And I'm just afraid that if I let that wall down, that you're gonna see who I really am and you're not gonna love me.
+LEADMALE:There, I said it.
+LEADMALE:Is the wall down now? Yeah.
+LEADMALE:I still love you, Alex.
+LEADFEMALE:I love you, too.
+LEADFEMALE:

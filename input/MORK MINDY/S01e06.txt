@@ -1,0 +1,369 @@
+LEADMALE:Nanu, nanu.
+LEADFEMALE:( loud clank ) Shazbot.
+LEADMALE:( opening musical theme plays ) There.
+SUPMALE:Mork, I'm leaving now.
+LEADMALE:I'll be right down.
+SUPFEMALE:( singing Orkan song in squeaky voice ) I'm ready! Let's go! Ah, where do you think you're going dressed like that? I'm going to the shower with you.
+LEADMALE:But Mork, this is a bridal shower for a girl who's about to get married.
+OTHERMALE:Oh, on Ork, when we get married, they don't give them a shower, they just hose them down.
+LEADFEMALE:Mork, you don't understand.
+SUPMALE:A shower is another word for a party.
+SUPFEMALE:Oh, we'd better take an umbrella, then, because I heard on the radio that it's going to be cloudy with scattered parties.
+LEADFEMALE:I'm sorry, Mork, but you can't go with me.
+SUPMALE:See, this is just for women.
+SUPMALE:Men aren't allowed.
+LEADFEMALE:But I want to be with you.
+SUPMALE:And I want to be with you, too.
+LEADFEMALE:But, you know, you really should get out and meet more friends.
+OTHERMALE:You need to broaden your horizons and grow as a person.
+OTHERMALE:Oh, you're rejecting me because I'm short.
+LEADFEMALE:Oh, I'm not rejecting you.
+LEADFEMALE:But it's just not fair that I go out tonight; you have to stay here all alone.
+SUPMALE:Remember, you can learn something from everybody you meet here on Earth.
+LEADFEMALE:That's very true.
+LEADFEMALE:The garbage men today taught me to never lie on the curb on pickup day.
+SUPFEMALE:Mork, what were you doing lying on the curb? Well, I was watching some ants mug a grasshopper when he came by.
+OTHERMALE:And I suppose you're going to tell me that the garbage man picked you up and threw you into the truck? No, he said he couldn't do that unless I was tied and bundled.
+LEADFEMALE:Mork, this is all very interesting, but the point is that you need to go out and meet other people.
+SUPMALE:I don't know how to do that.
+LEADFEMALE:Just be friendly.
+LEADFEMALE:Oh, you mean like this? Hi, friends, Sal Worthless here, Worthless Motors.
+LEADFEMALE:I'll eat the chrome off a trailer hitch just to get me in my parking lot.
+LEADFEMALE:Let's all react.
+SUPFEMALE:This is my wife Spot and my dog Chuck.
+LEADMALE:No, it's my dog Chuck and my wife Spot.
+LEADMALE:If you believe that, you'll buy this watch.
+LEADFEMALE:We're just squealing to make you a good deal.
+LEADMALE:You don't have to put on an act.
+SUPMALE:Just be yourself.
+SUPFEMALE:( in squeaky voice ): Gizbah, funmeega.
+LEADFEMALE:Put on an act.
+LEADFEMALE:And put on your clothes.
+LEADFEMALE:Morning, everybody.
+OTHERMALE:FRED: Oh, good morning, honey! Did you enjoy yourself at that shower last night? Well, it was really kind of different.
+LEADMALE:Beth said that she and Jim are going to take separate honeymoons.
+SUPFEMALE:Separate honeymoons? Yeah.
+LEADFEMALE:They've been living together so long, they need a little time alone.
+OTHERFEMALE:Well, dear, where's Mork this morning? Oh, he's out in the neighborhood making new friends.
+LEADFEMALE:Ah, well, there goes the neighborhood.
+OTHERFEMALE:( laughing ) Why don't you just admit it, Daddy, I know you like him.
+OTHERMALE:Yeah, I'd sooner be tied to an amplifier at a Grateful Dead concert.
+LEADFEMALE:That can be arranged.
+LEADMALE:Oh, excuse me, do you have Neil Diamond? Only in my dreams.
+LEADMALE:Susan? Susan Taylor! I don't believe it.
+LEADFEMALE:Mindy! Mindy McConnel! I haven't seen you in three years.
+LEADMALE:What are you doing dressed like that? What do you mean? Aren't you a nun? What? Me? Whatever would give you that idea? Oh, wait a minute.
+LEADFEMALE:Wait a minute.
+SUPMALE:Uh Peace Corps.
+LEADFEMALE:Airline stewardess? Oh, come on, I know it was one of those unselfish professions.
+SUPMALE:No, I was never going to do any of those things.
+SUPMALE:Oh, what a shame.
+LEADFEMALE:You would have made such a sweet nun.
+SUPMALE:You always were so sweet.
+LEADFEMALE:Well, thanks, but I work here now.
+SUPFEMALE:Gee, it must be so exciting working in a music store, selling the instruments and sorting the sheet music and dusting off whatever.
+LEADFEMALE:Susan, you aren't still mad at me because of Jack, are you? Jack? Jack, Jack, Jack, Jack, Jack.
+SUPMALE:Oh, you must mean Jack Peterson.
+LEADMALE:That devastatingly handsome captain of the football team that you stole behind my back.
+OTHERMALE:Who is now president of the National Bank of Boulder and wanted to marry me and by now would have given me a $200,000 home, and the possibility of high regard in the community.
+LEADMALE:That's the one.
+LEADFEMALE:Gee, I never gave that a second thought.
+LEADFEMALE:So, what have you been doing since graduation? Oh, nothing much.
+SUPFEMALE:I was a little depressed about Jack, so Susan, I never went after Jack.
+SUPMALE:He's the one who chased me.
+SUPMALE:Mindy, dear, you'll just have to help your father with the inventory.
+LEADMALE:I have a bad case of wiener fatigue.
+SUPFEMALE:Okay, Grandma.
+LEADFEMALE:Susan, don't go away.
+LEADFEMALE:I want to talk to you later.
+LEADFEMALE:Don't worry.
+LEADMALE:Hi.
+LEADMALE:Would you like to be my friend for life? What's your name? Bug off, creep.
+SUPMALE:Oh.
+LEADFEMALE:I'm Mork.
+LEADFEMALE:May I just call you Bug Off? Nanu, nanu.
+LEADMALE:How'd you like a knuckle sandwich? Sorry, I don't eat meat.
+LEADFEMALE:Is there anything I could do for you? Yeah.
+SUPMALE:Get out of my sight.
+LEADMALE:Oh, hide-and-seek.
+LEADFEMALE:I know how to play that game.
+LEADMALE:( counting in Orkan ) Infinity! Here I come! Boy, he's good.
+LEADFEMALE:Whoa you're a very interesting specimen.
+LEADMALE:What's your name? Bug off.
+LEADFEMALE:Wow, dÃ©jÃ vu, I just met your brother.
+LEADMALE:Why don't you take a hike? Oh, football.
+OTHERMALE:I know that one! We got a good ball game, it's gonna be a good ball club.
+SUPFEMALE:( shouting gibberish ) ( speaking in slow motion ) I got it, baby! I got aah! I'm in the zone! I'm in the zone! ( whistles loudly ) I know.
+LEADMALE:It's too much craziness.
+LEADMALE:Yeah.
+LEADFEMALE:This is a music store, you see, not Mile-High Stadium.
+LEADMALE:I'm sorry, Mrs.
+OTHERMALE:Hudson.
+LEADFEMALE:Do you know where Mindy is? Yeah, she's in back.
+LEADMALE:She'll be out in a few minutes.
+LEADFEMALE:( singing in silly voice ) I didn't realize you were a friend of Mindy's.
+LEADMALE:Oh, yes.
+OTHERMALE:We live together.
+LEADMALE:Oh, really.
+SUPMALE:That's interesting.
+LEADMALE:I'm Susan Taylor.
+LEADMALE:I'm Mork.
+LEADMALE:Nanu, nanu.
+LEADMALE:Whatever.
+LEADMALE:Oh, are you a friend of Mindy's, too? Oh, yes, yes, from way back.
+LEADMALE:Well, since we're both friends of Mindy's, why can't we be friends together? Oh, Mork, I think that's a wonderful idea.
+LEADMALE:We should be friends.
+LEADMALE:Close friends.
+SUPFEMALE:As a matter of fact, I think we should celebrate by going out tonight.
+LEADFEMALE:Oh, Kay-o.
+LEADFEMALE:You want to pick me up? If you insist.
+LEADMALE:Is that what you do on a date? Yeah, well, whatever turns you on.
+LEADFEMALE:That did.
+LEADFEMALE:Uh, so, what-what do you drive, Mork? Oh, a Grembo Pasati.
+OTHERFEMALE:Oh, marvelous.
+OTHERMALE:Is that a foreign car? Oh, not where I come from.
+LEADFEMALE:I bought it from Gezo Geb.
+LEADFEMALE:( singing jingle in Orkan ) It's been in the shop for three bleems.
+LEADMALE:That's okay.
+SUPFEMALE:We can use my car.
+SUPFEMALE:Um, tell me, where do you live? Oh, one-six, one-nine, Pine Street.
+SUPMALE:It's just a hop, skip and a churnel from here.
+SUPFEMALE:Great.
+LEADMALE:I'll pick you up at 8:00.
+LEADFEMALE:Oh.
+LEADFEMALE:Oh, hi.
+SUPMALE:Mindy, you'd be real proud of me.
+LEADFEMALE:I made a friend right here in the store.
+OTHERFEMALE:You did? What's his name? Oh, it's a she.
+SUPMALE:It's a human specimen named Susan.
+LEADFEMALE:When she found out we were living together, she wanted to be my friend real bad.
+LEADMALE:( chuckling ): I'll bet she did.
+LEADFEMALE:In high school, Susan had a habit of collecting friends Oh.
+LEADFEMALE:Other people's friends.
+LEADMALE:Oh, she sounds real friendly then.
+SUPMALE:Yeah, well, that's the game she plays.
+LEADFEMALE:Oh, that and football, and I'll see you after the game.
+SUPFEMALE:Rick 'em, rack 'em, rock 'em, rock 'em.
+SUPFEMALE:Get that ball and really fight! Mork, what are you doing in there? You've been in that bathroom for over an hour.
+LEADMALE:MORK: Taking the worry out of being close.
+LEADMALE:Well, you'd better take the worry out of being late because Susan's going to be here any minute.
+LEADMALE:( singing in Orkan ) Whoa! Mayday! Mayday! Volgar the Enforcer! Over there! Mork, what are you doing? The sacred flame is burning.
+LEADMALE:It's a candle and it's burning because I just lit it.
+LEADMALE:Wait, wait.
+SUPMALE:You're safe.
+LEADMALE:Ah.
+LEADMALE:Phew! Phew! What a relief.
+LEADMALE:I was scared Orkless.
+SUPMALE:Why? On Ork, when the sacred flame is lit, it means that Volgar is coming to torture you.
+SUPFEMALE:I thought you Orkans had done away with violence.
+LEADFEMALE:Violence, yes; torture, no.
+LEADFEMALE:Mork, there's no such thing as nonviolent torture, except for The Gong Show.
+LEADFEMALE:Oh, no.
+LEADFEMALE:Volgar is even more terrifying than Chuck Barris.
+LEADFEMALE:What they do is, they march you up to the Sacred Kraal, and then Oh, no, no, it's too terrifying to even think about it.
+LEADFEMALE:They stretch you out and they tickle you by candlelight.
+SUPMALE:Thank God it's never happened to you.
+SUPFEMALE:Well, a few guys have tried, but Oh, that means that Volgar is coming, it's terrifying.
+LEADMALE:The mere thought of it, well, it makes me laugh.
+SUPMALE:Ha! No, shh.
+LEADFEMALE:Mork, why would they want to torture you? You see, before I got this assignment, I got a speeding ticket from the Stellar Patrol.
+LEADMALE:They said I was going the speed of light in a speed of sound zone.
+SUPMALE:I would have stopped but I didn't hear the siren until after they arrested me.
+LEADMALE:What happened, didn't you pay the ticket? Well, Orson said he fixed it, but I'm still terrified of hearing ( imitating siren blaring ) Yeah, I'd be a little worried if I heard that too.
+SUPFEMALE:Right, it means that Volgar is coming and it strikes terror into the hearts of jaywalkers, speeders and those who tell jokes.
+LEADFEMALE:Telling a joke is a crime on Ork? Only if it gets a laugh.
+LEADFEMALE:Mindy, I'd really like it if you came along with me tonight.
+SUPFEMALE:Mork, group therapy is fine.
+LEADFEMALE:Group dates I am not into.
+OTHERFEMALE:But I need you.
+SUPFEMALE:I need your advice.
+LEADFEMALE:Just be polite.
+OTHERMALE:Be a gentleman.
+SUPFEMALE:Pull out her chair.
+SUPFEMALE:Ah, practical jokes.
+SUPFEMALE:Onk! No, no, that's not what I mean.
+OTHERMALE:Oh, see, wrong again.
+SUPFEMALE:That's why I need you.
+LEADMALE:I have no need to sit through an entire evening with you and Susan.
+LEADMALE:Oh, I see.
+LEADFEMALE:Jealousy rears its ugly head.
+LEADFEMALE:( laughs ) Me, jealous of plain old Susan? Boy, that's a laugh.
+SUPFEMALE:( doorbell rings ) First of all, I'm not the jealous type, and secondly, what's to be jealous of? Susan.
+LEADFEMALE:May I come in? Oh, sure.
+LEADFEMALE:You look, uh, different.
+LEADFEMALE:Thank you.
+SUPFEMALE:I took a bath.
+LEADFEMALE:Did you? He's such a kidder.
+SUPMALE:Oh, yeah.
+LEADFEMALE:Mork's never serious.
+LEADMALE:Oh, Mindy, I hope you don't mind that Mork and I are going out tonight.
+LEADFEMALE:Oh, of course not.
+LEADFEMALE:Mork can do whatever he wants.
+OTHERFEMALE:That's so sweet of you.
+SUPFEMALE:Yeah.
+LEADFEMALE:Well, I guess we should be going.
+SUPMALE:Plain, old Susan.
+LEADMALE:Oh, Mindy, it's just such a shame that have to stay here all alone.
+LEADMALE:Oh, well.
+LEADMALE:I asked her to come along, but she said she didn't want to go.
+LEADMALE:Well, oh, if you insist, Mork.
+LEADFEMALE:Oh, and Susan, you and I have so much to catch up on.
+OTHERFEMALE:( playing aria from Carmen ) Fred.
+OTHERMALE:Fred! What's the matter with you? I haven't seen you so happy since the Beatles broke up.
+LEADFEMALE:Well, it isn't every day I gain a daughter and lose a Mork.
+LEADFEMALE:Fred.
+LEADMALE:Huh? Huh? Fred! Fred, what makes you think they're going to split up? Oh.
+SUPFEMALE:Well, Mindy told me what happened last night, and apparently Mork wants to see a lot more of Susan.
+LEADMALE:CORA: Why, hello, kids.
+SUPMALE:Well, hello.
+SUPMALE:Did you have a good time on your date last night, Mork? Yes.
+SUPMALE:We went to a big parking lot with a giant TV in the front.
+OTHERFEMALE:Oh.
+OTHERFEMALE:How did you like the movie? I didn't watch the movie.
+SUPFEMALE:Aha.
+LEADFEMALE:MINDY: He was too busy looking at all the cars.
+LEADFEMALE:Well, how do you know that? Because I sat between them.
+LEADMALE:But why? Because I couldn't get Susan to sit in the back seat.
+SUPMALE:It didn't matter, though.
+OTHERMALE:I didn't see anything.
+SUPMALE:All the car windows were steamed up.
+SUPMALE:Gosh, I'd hate to count up all the car windows I've steamed up in my day.
+OTHERMALE:( phone ringing ) I'll get that.
+LEADFEMALE:McConnell's Music.
+LEADMALE:Oh, hello, Susan.
+LEADFEMALE:Yes, he's here.
+SUPMALE:Just a minute.
+LEADMALE:It's your girlfriend.
+LEADFEMALE:Oh.
+LEADFEMALE:Susan.
+LEADMALE:Whoa, oh ( mumbling ) Yeah, she's gone now.
+SUPFEMALE:Yes.
+LEADFEMALE:( chuckling ): Oh, yes, whoa Yes.
+LEADFEMALE:Okay, I'll tell her.
+SUPMALE:Bye.
+LEADFEMALE:Ciao, arrivederci, chelan delecito.
+SUPMALE:Mindy, Yes.
+LEADMALE:Susan asked me over for dinner, but she said to tell you that she only has enough food for two.
+OTHERMALE:That's the most insulting thing I ever heard.
+LEADFEMALE:Oh, Dad.
+LEADFEMALE:Mindy, can I borrow some money to buy her some flowers? No, that's the most insulting thing I ever heard.
+LEADMALE:How can you as a self-respecting human being? Uh, whatever.
+SUPFEMALE:How can you, how can you dare to borrow money from my daughter to take out her friend who is only trying to steal you away from her, and obviously wants to get her hooks into you Is $20 enough? ( doorbell rings ) Coming.
+LEADMALE:( doorbell rings ) Hello, Mork.
+LEADMALE:Good-bye.
+LEADFEMALE:I brought you some presents.
+LEADMALE:Oh, thank you.
+LEADFEMALE:Here's five dollars.
+OTHERFEMALE:Thanks, but I already have one.
+LEADFEMALE:Oh.
+LEADFEMALE:Then here's some vegetation.
+SUPFEMALE:Oh, thank you.
+LEADMALE:( sneezes ) Oh, you ( sneezes ) You're welcome.
+OTHERMALE:Mindy picked them out.
+LEADMALE:Yes, well, I'm, I'm allergic to daisies.
+SUPFEMALE:Oh, she must have forgotten.
+LEADFEMALE:I'll bet.
+LEADFEMALE:Well, tell me, Mork, uh, what do you and Mindy talk about when you're all alone together? Lots of things.
+LEADFEMALE:I tell her everything.
+SUPFEMALE:Hmm, well, she'll just love hearing about what happens tonight.
+LEADMALE:Are you two, uh, very close? Oh, yes; sometimes we stand right next to each other.
+SUPMALE:Ah, well, that's very interesting.
+LEADMALE:I, I think I'd like a little wine.
+LEADMALE:All right, if you insist.
+LEADFEMALE:( whining ) I'll get the bottle.
+SUPMALE:Oh Susan has a pet.
+OTHERMALE:Long tongue.
+LEADFEMALE:Oh, and well-trained.
+LEADMALE:So, tell me, what do you do with your days? Oh, today I went to see a cowboy movie.
+LEADFEMALE:( cowboy drawl ): Jeb, I hate to say this, but I'm in love with your buffalo.
+LEADFEMALE:Yeah.
+LEADMALE:Would you open the wine? Oh, yes, ma'am.
+OTHERFEMALE:If there's some trail dust that has to be washed out, I'll get right at it.
+SUPMALE:What are you doing?! It's open.
+SUPFEMALE:Look at this mess.
+LEADFEMALE:Oh, I'm sorry.
+SUPFEMALE:I, I'd better head back to Mindy.
+LEADMALE:Uh, no, no, no, no, Mork, that's all right.
+LEADMALE:Uh, I, I can get a new dress.
+LEADMALE:And a new sofa.
+SUPFEMALE:And a new rug.
+LEADFEMALE:Uh, why don't we just change the mood a little? Oh, that reminds me of a joke.
+LEADFEMALE:These two Venusians walk into a bar.
+LEADFEMALE:One says to the other, "Ee-vizbah.
+SUPMALE:" The other one replies, "Arg, nimnull, arg.
+OTHERMALE:" I guess you've heard it.
+SUPMALE:The other one is, how many Martians does it take to screw in a light bulb? Oh does the name Volgar mean anything to you? This is no time to joke.
+LEADFEMALE:Just stretch out and relax.
+LEADFEMALE:Oh, no! You're not going to stretch me out in your Kraal! ( cuckoo clock strikes eight times ) Waah! Volgar the Enforcer! Oh you're not going to tickle me not at least alive! ( shouting frantically in Orkan ) ( babbling continues ) Whoop! Too late! Oh, you're crazy! Hey, you're crazy if you think you're going to let Volgar tickle me here.
+LEADFEMALE:( shrieking ) All right, now, stop it! Stop it! Stop it! Stop it! No! No! Don't tickle me! Don't tickle me! Don't tickle me! Ahh!! Mindy! Mindy.
+SUPMALE:Mork, I didn't hear you come in.
+LEADFEMALE:Oh.
+SUPFEMALE:Shall I go back out and come in noisier? Do whatever you want.
+LEADFEMALE:Kay-o.
+SUPMALE:( tromping footsteps ) ( door squeaking sounds ) ( squawking ) ( shoes squeaking sounds ) You want to hear about my date? Oh I know what you're doing.
+LEADMALE:It's called the silent treatment.
+LEADMALE:We used to have it on our planet, but we banned it because we thought it was an earthy thing to do.
+OTHERFEMALE:So, how was your dinner? I don't know.
+LEADMALE:We didn't get to eat.
+LEADFEMALE:Yeah, it looks like you were too busy doing other things.
+SUPMALE:Uh-oh.
+LEADFEMALE:Ring around the collar.
+OTHERMALE:Mork, do you think I'm jealous? Why should I be jealous? What you and Susan do on your date has nothing to do with me, and that's that.
+SUPFEMALE:Don't you want to hear what happened? Down to the last sordid detail.
+OTHERMALE:All right, here's the Reader's Digest version.
+OTHERFEMALE:Ding dong.
+LEADFEMALE:Here's some flowers.
+LEADMALE:( in falsetto ): Thank you very much.
+LEADFEMALE:( pretend sneeze ) ( falsetto ): I'd like a little wine.
+SUPMALE:( whining ) ( singing in Orkan ) Long tongue, whoop, homing instinct.
+LEADFEMALE:( speaking Orkan ) Da-da-da-da-da-da.
+LEADMALE:( falsetto ): Would you open it? ( regular voice ): Sure.
+OTHERMALE:Psshh! Ahh! ( sputters ) Oh, no! Whoa, do you know anyone named Volgar? ( falsetto ): Ah, no, no, ah! ( regular voice ): No, whoa, ah General destruction.
+LEADMALE:Ah, I can see it right now blood, death, everything.
+LEADFEMALE:Ah, don't tickle me, don't tickle me, don't tickle me! That's what happened.
+SUPFEMALE:Oh Oh, Mork, I'm so sorry your date didn't go well.
+LEADFEMALE:It didn't? Well I guess it wasn't a total loss.
+OTHERFEMALE:At least you learned something from it.
+LEADMALE:You know, I learned something about myself tonight.
+LEADFEMALE:Like what? I didn't want to admit it, but I was jealous.
+OTHERFEMALE:Why? I don't know.
+LEADMALE:You and I are We're best friends.
+SUPMALE:You know, we're buddies.
+LEADFEMALE:We're pals.
+LEADFEMALE:Oh, I think I understand.
+LEADFEMALE:Mindy What? I'd like to kiss my pal.
+SUPFEMALE:All right.
+LEADFEMALE:Oh, pulse.
+LEADFEMALE:Rapid heartbeat.
+LEADMALE:Temperature rising.
+OTHERFEMALE:I get it! What did you get? I think I know what made those car windows steam up at the drive-in.
+LEADMALE:( mimics remote zapping ) Ah Well, you want to watch television? ( crickets chirping ) Mork calling Orson.
+SUPFEMALE:Come in, Orson.
+LEADFEMALE:Mork calling Orson.
+LEADFEMALE:Come in, Orson.
+LEADFEMALE:Orson to Mork.
+LEADMALE:Orson to Mork.
+SUPMALE:Orson to Mork.
+OTHERMALE:Orson to Mork! Well, have you made any new discoveries on Earth? Yes, sir.
+SUPMALE:This week I met a new female specimen.
+LEADFEMALE:Whew! MORK: Her name is Susan.
+LEADMALE:And she tried to kiss me.
+SUPMALE:ORSON: Why? I don't know.
+LEADFEMALE:It's an old Earth custom practiced frequently by lovers, relatives and talk show guests.
+LEADMALE:Did you kiss her? No.
+SUPMALE:I wanted to kiss my pal.
+LEADMALE:Good thinking, Mork.
+SUPMALE:ORSON: Wait just a grindle! Isn't that the girl Mindy? That's my pal.
+LEADFEMALE:Your life is starting to sound like a real soap opera, Mork.
+LEADMALE:Just remember, your mission is to report objectively about life on Earth.
+LEADFEMALE:Don't get involved! You can count on me, Your Immenseness.
+LEADFEMALE:I'd be the last one on Earth to get involved.
+LEADMALE:( sighing ) Oh, this is Mork, signing off from Boulder, Colorado.
+LEADMALE:See you next week, Mindy.
+SUPMALE:I mean, I mean Morson.
+SUPFEMALE:Whew! An-nu.
+OTHERMALE:An-nu.
+SUPMALE:Whoa.
+SUPMALE:( self-conscious laugh ) Mmm oh.
+LEADMALE:Ciao.
+LEADFEMALE:

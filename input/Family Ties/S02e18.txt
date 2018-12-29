@@ -1,0 +1,323 @@
+LEADMALE:beautiful.
+LEADFEMALE:Oh, that was great, Elyse.
+LEADFEMALE:You certainly haven't lost your touch.
+SUPFEMALE:I'm so rusty.
+LEADMALE:I must have plucked 20 bad notes.
+SUPFEMALE:Come on.
+LEADFEMALE:No, you didn't.
+SUPFEMALE:I counted 23.
+LEADMALE:I only counted 19.
+LEADFEMALE:That's as high as you can count.
+LEADMALE:Listening to you reminded me of the old days.
+LEADMALE:Makes me want to go out and boycott some lettuce.
+LEADMALE:Did you know she was a folk singer? I wasn't really a folk singer.
+LEADFEMALE:Occasionally, I picked up a guitar.
+LEADMALE:Don't be so modest.
+LEADMALE:Your mother used to perform every Thursday night.
+SUPMALE:It was in a tiny, jam-packed, smoke-filled coffee house two floors underground.
+SUPMALE:The age of darkness cafe.
+SUPFEMALE:Sounds like a fun place.
+OTHERFEMALE:Wednesday was anarchist night.
+SUPMALE:People in favor of violent overthrow of the government got a free cocktail.
+LEADMALE:Hey, you remember that time we came there after the rally Don't get started.
+LEADFEMALE:We've got to go.
+LEADMALE:She's got a point.
+LEADFEMALE:You could have made a career out of singing.
+LEADFEMALE:Why didn't you pursue it? I had a family to raise, another career to build.
+OTHERFEMALE:Singing was never more than a hobby.
+SUPMALE:I did have a decent following.
+SUPMALE:Everybody thought you'd be the next Judy Collins.
+LEADFEMALE:You sing great, mom.
+LEADMALE:I bet you could have been the next Joan Collins.
+LEADFEMALE:Judy Collins, and your dad's exaggerating.
+OTHERMALE:Oh, no, he isn't.
+LEADMALE:You were really something special.
+SUPMALE:The world gained an architect, but lost a great singer.
+SUPMALE:Maybe you could have combined them and been the singing architect.
+OTHERFEMALE:Ah, to watch a great mind at work.
+LEADFEMALE:I just got an idea.
+LEADMALE:Andy and I went to a nightclub called the top spot.
+LEADMALE:It's no age of darkness cafe, but it was fun.
+LEADMALE:Maybe we could go sometime.
+SUPFEMALE:Sounds good.
+LEADMALE:Ahem.
+LEADMALE:We've got to go.
+LEADMALE:The timekeeper.
+LEADMALE:Thank you.
+LEADFEMALE:Bye-bye.
+SUPFEMALE:Good seeing you.
+LEADMALE:Good-bye.
+LEADMALE:And you, baby, time for bed.
+LEADMALE:Good night.
+LEADFEMALE:You were great.
+LEADMALE:Will you tuck me in? I'll tuck you in.
+LEADMALE:I'm going to bed early, too.
+SUPMALE:Alex is giving me a driving lesson tomorrow.
+OTHERFEMALE:We're going to work on opening the car door.
+LEADFEMALE:Alex, I want to actually drive.
+LEADFEMALE:Look, Mallory, you may be carrying packages sometime.
+LEADMALE:Ever think of that? Opening the car door is not always easy.
+LEADMALE:Hmm.
+SUPFEMALE:Hmm.
+SUPFEMALE:Thank you.
+LEADFEMALE:Thank you very much.
+SUPFEMALE:It's a pleasure to be here tonight.
+SUPMALE:Ah, you're a beautiful audience.
+SUPMALE:hi, mal.
+LEADMALE:Hi.
+SUPFEMALE:How did the driving lesson go? Great! I think I'm a natural-born driver.
+LEADMALE:Where's Alex? How did the lesson go? I thought I'd never see this house again.
+SUPMALE:Oh, Alex, don't be so melodramatic.
+LEADMALE:Don't worry.
+LEADFEMALE:It's not your fault.
+LEADFEMALE:I assumed that when you saw a sign marked "stop," you'd take it at face value.
+OTHERFEMALE:I told you, I didn't see the sign.
+LEADMALE:How could you? You were going in reverse.
+LEADMALE:It couldn't have been that bad.
+SUPFEMALE:Alex has no Patience.
+SUPMALE:He was yelling at me the whole time.
+LEADFEMALE:I wasn't yelling at you.
+SUPMALE:I was yelling at a cop to shoot at our tires.
+LEADMALE:You're not being very helpful, Alex.
+LEADMALE:Mallory needs a patient, tolerant teacher.
+OTHERMALE:Will you take me tomorrow, dad? Sure.
+LEADFEMALE:I'll be glad to.
+SUPMALE:You might need this.
+SUPFEMALE:What is that? Hi, honey.
+LEADMALE:You're late.
+LEADMALE:Where have you been? I'm glad you asked that question.
+LEADMALE:You going to answer? You won't believe this, but on the way home, I stopped in at the top spot, and I have an audition tomorrow afternoon! Hold down the enthusiasm a bit.
+LEADMALE:Honey, that's great.
+LEADFEMALE:How are you going to be a singer? Are you going to quit your job? Nobody's quitting any jobs around here.
+OTHERMALE:These people got kids to support.
+LEADFEMALE:They got a boy to put through college.
+LEADMALE:I'm not quitting my job.
+LEADMALE:I had such a good time last night that I was thinking how nice it would be to perform again.
+LEADFEMALE:In front of people? That's the basic idea.
+OTHERMALE:I think you're a great singer, but you're our mother.
+SUPMALE:I try to keep a low profile on that.
+LEADFEMALE:I thought, what have I got to lose? Your mother is very brave to try this.
+LEADMALE:It's important to pursue your dreams, no matter how great the odds against you.
+LEADMALE:Like you trying to get a driver's license.
+LEADFEMALE:Corky, why don't you try listening? I'm not listening to a dummy like you.
+LEADMALE:Hey, corky, I hear you got a new girlfriend.
+LEADFEMALE:Dennis, she's the greatest.
+SUPMALE:Her skin is so soft, when I touched her, I only got three splinters.
+LEADMALE:When I touched her, I only got three splinters.
+LEADMALE:Ok, Dennis.
+SUPMALE:You were great.
+SUPFEMALE:Hey, what about me? Oh, you were Oh, you were You guys crack me up.
+OTHERFEMALE:Pretty soon you'll kiss that dishwashing job good-bye.
+SUPFEMALE:We got it down.
+LEADFEMALE:He washes, I dry.
+OTHERMALE:All right.
+LEADMALE:You're the opening act.
+LEADMALE:We do two shows a night, $50 a week.
+LEADMALE:Congratulations.
+LEADFEMALE:Thank you, uncle Lou.
+SUPMALE:Thank you, uncle Lou.
+SUPFEMALE:I don't know, Steven.
+LEADMALE:What if he doesn't like me? He liked Dennis and corky, didn't he? I'm that bad? Of course not.
+LEADMALE:I never see your lips move.
+LEADMALE:Excuse me, sir.
+OTHERFEMALE:I'm Steven Keaton.
+SUPMALE:This is my wife Elyse.
+SUPFEMALE:She sings.
+LEADMALE:What do you do? I manage a public broadcasting station.
+LEADFEMALE:Ok, Steven.
+OTHERMALE:You'll follow the juggler.
+LEADFEMALE:It's a joke.
+LEADFEMALE:Come on! It's a joke.
+LEADFEMALE:Come on! He's here for moral support.
+SUPFEMALE:I'm the one with the audition.
+SUPMALE:Elyse Keaton, folk singer.
+LEADMALE:We're ready for you.
+LEADMALE:Uh, up there.
+LEADMALE:Thank you, honey.
+LEADMALE:Thank you, honey.
+LEADFEMALE:Good luck, honey.
+LEADMALE:Thank you.
+LEADFEMALE:There's a lot of suffering in the world today.
+OTHERMALE:We tend to forget about people who have less than we do.
+LEADFEMALE:We take things for granted.
+LEADMALE:We don't realize how lucky we are.
+LEADMALE:Excuse me.
+LEADFEMALE:Why are you telling me these things? If I want to feel guilty, I'll call my mother.
+SUPMALE:I'm sorry.
+LEADMALE:to everything turn, turn, turn there is a season turn, turn, turn and a time for every purpose under heaven a time to be born a time to die that's enough.
+LEADFEMALE:Why don't you come down here and talk? You were great, honey.
+LEADMALE:Did you think so? Lou is visibly moved.
+LEADFEMALE:So, how did I do? You definitely didn't stink.
+LEADFEMALE:Oh! You really mean that? Welcome to show business.
+LEADFEMALE:When do I start? Uh, start Saturday.
+OTHERFEMALE:Two shows a night, $25 a week.
+LEADMALE:Wait a minute.
+SUPMALE:You're paying Dennis and corky 50 a week.
+SUPMALE:Of course.
+LEADMALE:There are two of them.
+SUPFEMALE:Jeniffer, I just had my best driving lesson ever.
+SUPFEMALE:Maybe soon you can take me to school.
+LEADFEMALE:Sure! I'll be driving all over town.
+LEADMALE:I explained to you, officer.
+LEADFEMALE:She got the two pedals confused.
+OTHERFEMALE:I didn't get the pedals confused.
+LEADMALE:I got my feet confused.
+LEADMALE:Mallory, let me handle this, please.
+LEADFEMALE:She violated almost every traffic ordinance known to man.
+SUPMALE:She made a few little mistakes.
+OTHERMALE:Nothing out of the ordinary.
+SUPMALE:Dad What's this doing in the front yard? Alex, put that back, please.
+LEADFEMALE:Ah, Mallory's driving lesson.
+SUPFEMALE:I'll just put this with the other stuff.
+SUPMALE:Alex.
+SUPMALE:Officer, please.
+SUPMALE:If you come down hard on her now, you'll destroy her confidence.
+LEADFEMALE:I'll tell you what.
+LEADMALE:Just this one time, I'll let her go.
+LEADFEMALE:But, please, keep her off the streets.
+LEADFEMALE:She has a lot of potential.
+LEADFEMALE:What time tomorrow will we go driving? Mallory You're my daughter, and I love you very much, but I'm never getting into an automobile with you again.
+LEADMALE:Dad! Guys, I need your help.
+LEADMALE:Which one of these should I wear tonight? I told you, you got to go casual.
+SUPFEMALE:Couldn't you wear something with a veil? Mallory, why are you so embarrassed about this? Your mother's always loved to sing, and it's important for her now.
+LEADMALE:When Mrs.
+SUPMALE:weber had a midlife crisis, she just went to law school.
+OTHERFEMALE:Nancy Hefner's mom ran off with a college sophomore.
+LEADMALE:Let her sing.
+SUPFEMALE:I'm not going through a midlife crisis.
+LEADFEMALE:I just want to do something that I haven't done in years.
+LEADFEMALE:Midlife crisis.
+LEADMALE:Classic.
+LEADMALE:Classic.
+LEADFEMALE:Classic.
+LEADFEMALE:Classic.
+LEADFEMALE:Have you chosen a stage name yet? A stage name? Yeah.
+LEADFEMALE:Something with a little more pizzazz than Keaton.
+LEADMALE:I was thinking Elyse lamour.
+SUPFEMALE:She's a folk singer, not a stripper.
+LEADFEMALE:How about ramblin' Elyse lamour? No, thanks, Alex.
+SUPMALE:Come on, Elyse, you better get dressed.
+SUPMALE:I'm having trouble with this land is your land.
+LEADFEMALE:Can you sing it now? I could sure use the practice.
+LEADFEMALE:Let's see.
+OTHERFEMALE:this land is your land this land is my land from the redwood forest honey, I'm sorry.
+SUPMALE:California, right? California shoot.
+OTHERFEMALE:Start again.
+LEADMALE:Pick it up a little.
+LEADMALE:this land is your land this land is my land from California to the New York island from the redwood forest to the Gulf stream waters this land was made for you and me everybody! as I was walking that ribbon of highway I saw above me mom, maybe you should play some modern songs.
+LEADFEMALE:Songs like beat it or murder by numbers.
+OTHERMALE:Da do do do da da da da.
+LEADFEMALE:Ah, those old standards.
+SUPFEMALE:Amazingly enough, Mallory may have a point.
+LEADMALE:You should be ready with one of those songs.
+SUPFEMALE:How does one go? beat it, beat it beat it, beat it no one likes to be defeated show me what's funky show me what's right it doesn't I liked it.
+OTHERMALE:My father used to call me by my biblical name I'll start with this land, then blowing in No, no.
+SUPMALE:Blowing first Do it like you rehearsed it.
+LEADMALE:Count your blessings, knothead.
+SUPFEMALE:Ventriloquist acts are rare nowadays.
+LEADMALE:Right.
+LEADFEMALE:Lots of dummies are out of work.
+LEADMALE:You could be next.
+LEADFEMALE:Hey, pal, you're moving your lips.
+SUPFEMALE:I'll stop if you will.
+OTHERMALE:Good night.
+OTHERFEMALE:Don't forget.
+SUPFEMALE:Conserve firewood.
+SUPFEMALE:The log you save may be my uncle.
+LEADFEMALE:Good night! Dennis McKay and corky.
+OTHERFEMALE:Let's hear it for them.
+LEADFEMALE:A little lady came into our Wednesday audition and really knocked us for a loop and a half.
+SUPFEMALE:So put your hands together.
+SUPFEMALE:Let's have a warm top spot welcome for miss Elyse Keaton! Come on up here.
+SUPFEMALE:My name is Elyse Keaton.
+SUPFEMALE:I'm a singer.
+SUPMALE:Actually, I'm an architect, but I can't very well draw pictures of houses for you, can I? Um I'd like to dedicate this first set to a man who changed the course of my life A man named Woody Guthrie.
+LEADFEMALE:A man named Woody Guthrie.
+LEADMALE:this land is your land this land is my land from California oh, god.
+LEADMALE:Man, get real.
+SUPMALE:from the redwood forest to the Gulf stream waters license number xj473, please see edmundo.
+SUPFEMALE:Thank you.
+LEADMALE:as I was walkin' that ribbon of highway this land was made for you and me uh, that song had a lot of meaning for me, but, um I'm just one person.
+SUPMALE:Maybe we'll try something else.
+LEADMALE:Kumbaya, my lord Kumbaya Kumbaya, my lord Kumbaya Kumbaya Kumbaya, my lord Kumbaya better keep your day job, lady.
+LEADMALE:oh, lord, Kumbaya oh, lord, Kumbaya check, check.
+LEADMALE:Maybe you'll like this one better.
+SUPMALE:beat it beat it no one wants to be defeated whoo! show me Sorry.
+OTHERMALE:Elyse, darling, come on.
+LEADMALE:Please.
+LEADFEMALE:Take me home, please.
+SUPMALE:Sit down.
+LEADFEMALE:Relax.
+LEADMALE:Honey, you're upset.
+LEADFEMALE:I was horrible.
+LEADMALE:Isn't that funny? I thought you were great.
+SUPFEMALE:You sang beautifully, Elyse.
+LEADMALE:Really, mom.
+LEADMALE:The crowd wasn't ready for you.
+LEADMALE:They were too conservative.
+LEADFEMALE:You're very kind, but I wasn't any good.
+LEADMALE:I was rusty.
+OTHERFEMALE:I should've rehearsed more.
+SUPMALE:I just didn't sing well.
+LEADFEMALE:Mrs.
+SUPMALE:Keaton, I thought you were wonderful myself.
+LEADMALE:Great vocal ability.
+SUPMALE:It's your material, honey.
+LEADMALE:That's all.
+LEADMALE:Mind your own business, corky.
+LEADFEMALE:No.
+LEADMALE:Let him speak.
+LEADMALE:Well, it's those songs you're singing.
+LEADFEMALE:It's not what everyone today wants to hear.
+OTHERMALE:They have too much meaning.
+OTHERFEMALE:Sure, you and I can relate to them, but what about guys like Dennis here? I admit I couldn't follow it.
+LEADFEMALE:But those are the songs I want to sing.
+SUPMALE:Then sing for your own pleasure.
+OTHERFEMALE:You believe in yourself, they'll believe in you.
+OTHERFEMALE:Corky makes an excellent point, Elyse.
+LEADFEMALE:Thanks, Steve.
+LEADMALE:Let's have lunch.
+LEADFEMALE:Elyse.
+SUPMALE:Don't try to talk me into going back out there.
+SUPMALE:That was so horrible, so frightening.
+SUPFEMALE:I should never have done it in the first place.
+LEADFEMALE:It all came back with a rush, Elyse.
+SUPFEMALE:What did? Sitting in clubs like this, watching you up there, listening to you sing.
+SUPMALE:Cheering you on, hoping you'd sing another.
+LEADFEMALE:Loving your voice.
+OTHERMALE:Loving you.
+SUPMALE:I loved you so much then, Steven.
+OTHERMALE:I love you even more now, but that that's separate from this.
+LEADMALE:I made a mistake.
+SUPMALE:You can't go home again.
+LEADFEMALE:I was such a jerk.
+LEADMALE:I was out there trying to recapture something that's over.
+OTHERMALE:I'm too old for this, you know? It had its time, and so did I.
+LEADMALE:I made such a fool out of myself.
+LEADFEMALE:Look.
+LEADFEMALE:There's another audience at 10:00.
+LEADFEMALE:They don't know what a fool you made of yourself.
+OTHERFEMALE:I promise not to tell them.
+LEADFEMALE:Like corky said, do it for yourself, for your own pleasure.
+LEADMALE:You can go home again, Elyse.
+LEADMALE:You may not like what's happened to the neighborhood.
+LEADFEMALE:Do it, Elyse.
+SUPMALE:You won't be alone.
+LEADMALE:Your best friend will be with you.
+OTHERMALE:As you can see, he cannot see a thing.
+SUPMALE:Not a thing.
+SUPFEMALE:Nothing! How many fingers am I holding up? Uh, two.
+LEADMALE:The amazing corky! How does he do it? Thank you, and good night.
+SUPMALE:Dennis McKay and corky.
+LEADFEMALE:Let's hear it for them.
+LEADFEMALE:I'd like to introduce a lady who debuted here this evening.
+SUPFEMALE:For her second debut, miss Elyse Keaton! All right! Yay! Yay! Yay, mom! Thank you.
+SUPMALE:Thank you very much.
+LEADFEMALE:I haven't stepped on-stage to sing in almost 20 years In the sixties.
+SUPFEMALE:Anyone out there remember the sixties? Yay! We tried to ban the bomb and beautify America, and we sang songs.
+LEADMALE:Folk songs, songs of social protest.
+LEADMALE:I'm going to sing a few of those for you tonight.
+LEADMALE:We'll see how it goes.
+OTHERMALE:I'd like to dedicate this first set to a man who changed the course of my life A man named Steven Keaton.
+LEADMALE:come gather 'round, people wherever you roam and admit that the waters around you have grown and accept that quite soon you'll be drenched to the bone time to you is worth savin' better start swimmin' or you'll sink like a stone for the times they are a-changin' come writers and critics prophesize with your pen and keep your eyes wide the chance won't come again don't speak too soon the wheel's still in spin and there's no tellin' who that it's namin' for the loser now will later, too, win for the times they are a-changin
+SUPMALE:

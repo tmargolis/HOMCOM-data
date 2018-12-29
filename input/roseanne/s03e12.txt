@@ -1,0 +1,308 @@
+SUPMALE:1 What should we do this weekend? Can we drink beer and watch football on TV? Huh? Can we? Please, please? Ok, just this once.
+SUPMALE:Hello? Oh, hi, Ma.
+SUPMALE:Bye, Ma.
+LEADFEMALE:You're not interrupting anything.
+LEADFEMALE:Dan and I, we're just having sex.
+LEADMALE:Hey, Deej, what you watching? Hey, Laurel and Hardy.
+LEADFEMALE:Nice to see my boy has such discriminating taste.
+SUPFEMALE:He doesn't.
+SUPMALE:He just likes movies where the actors are dead.
+LEADFEMALE:Hey, guys.
+OTHERFEMALE:Well, I have some bad news.
+LEADFEMALE:Grandma Harris isn't going to be making her usual holiday visit this year.
+LEADMALE:What a shame.
+LEADFEMALE:You know, we're going to miss her.
+LEADMALE:I know, but cheer up because she's coming tonight.
+LEADFEMALE:Couldn't you stop her? Oh, I think it's great.
+LEADMALE:That's because she loves you.
+LEADFEMALE:Because I'm nice to her.
+SUPMALE:Yeah.
+SUPMALE:You're such a suck-up queen.
+OTHERMALE:Yeah.
+LEADMALE:This means we're stuck here on our Saturday night? Hey, this is my mother who we all love.
+SUPMALE:Besides, if you're not here, she'll talk to me, and nobody wants that.
+SUPMALE:Yeah, it'll be great Two hours of tense conversation followed by a delightful dinner from hell.
+LEADFEMALE:Help your brother clean up his room for Grandma.
+SUPFEMALE:I want it to sparkle.
+SUPFEMALE:Well, just pick up the big chunks.
+OTHERMALE:I'll get the big chunks down here.
+SUPMALE:Suck-up.
+LEADFEMALE:I'll hide in the garage.
+SUPFEMALE:Throw a stick at the window when she's gone.
+OTHERMALE:Chicken.
+LEADFEMALE:I hate how we act when she's around.
+LEADFEMALE:You get crazy, the kids get weird, and I become captain son-in-law, fending off deadly insults with his invincible phony grin of steel.
+OTHERMALE:I'll call Jackie and tell her mom's coming.
+LEADMALE:Like she'll rush right over after that fight they had.
+LEADFEMALE:She'll be here.
+LEADFEMALE:It's her mother.
+LEADMALE:Yeah, right.
+LEADFEMALE:No, watch and learn.
+LEADFEMALE:Hi, it's me.
+LEADFEMALE:What are you doing today? I was going to, like, make some fudge and watch that Kevin Costner movie on cable.
+LEADMALE:You know, the one where he's butt-naked? Great.
+LEADMALE:3:00 will be swell.
+SUPFEMALE:She loves her mother.
+LEADMALE:We were there for three days.
+OTHERFEMALE:Here's your dad with a cactus.
+OTHERMALE:It seems like it's raising its arms.
+LEADMALE:Here's dad playing stick-'em-up with the cactus.
+SUPMALE:Here he's doing the same thing.
+SUPMALE:And here again.
+LEADMALE:He really thought this was funny.
+LEADFEMALE:How about some more coffee, Grandma? Thank you, sweetheart.
+OTHERFEMALE:Darlene! So when's Jackie coming? Don't tell me she's still mad.
+LEADMALE:No, she'll be coming over.
+LEADMALE:Be nice to her this time.
+SUPMALE:I'm always nice to her.
+LEADMALE:That's why you tell her how dumping Gary was the worst mistake of her life and how she'll end up a lonely, bitter old maid.
+OTHERFEMALE:That's how we talk.
+LEADFEMALE:Don't worry, I'll be good.
+SUPMALE:Hi, Grandma.
+LEADFEMALE:Why didn't you come say hi when I got here? Why didn't you come up and say hi? Look who forgot to give Grandma a great big kiss.
+SUPMALE:Here you go, Grandma.
+LEADFEMALE:I put in skim milk and brown sugar, just the way you like it.
+LEADFEMALE:Becky is certainly blossoming into a beautiful young woman.
+LEADFEMALE:Feel free to speak directly to her, mom.
+LEADMALE:She's that blonde sitting next to you there.
+LEADMALE:Anyone special these days I should know about? There's this guy who just moved here from Evanston.
+SUPFEMALE:He asked me out tonight.
+LEADMALE:What did you tell him? Well, nothing yet, but She knows you rarely visit, and she'd rather spend that time with you.
+LEADMALE:Well, that's just silly.
+OTHERMALE:You can't waste an evening with me when you could be having fun.
+LEADFEMALE:Why the hell not? Thanks, Grandma.
+SUPMALE:I'll wear that silk blouse you got for my birthday.
+LEADFEMALE:I better make a call.
+SUPMALE:Guess I'll go out, too.
+SUPMALE:If it rains, I'll wear those galoshes you got me.
+LEADMALE:You stay here with us.
+SUPFEMALE:I don't want to stay.
+SUPFEMALE:I want to go out.
+LEADFEMALE:Oh, now where would you be going? What's that supposed to mean? Darlene, when you're a big girl like Becky you'll get to go on dates, too.
+OTHERFEMALE:Wait a damn minute! Ok, Darlene, get out in the kitchen.
+LEADFEMALE:She can't decide who's old enough to go out and who isn't.
+SUPFEMALE:Don't talk to her like that.
+LEADMALE:Why can Becky go out? Becky had a date.
+SUPMALE:Well, so could I.
+SUPMALE:Grandma acts like I'm 3 years old.
+LEADFEMALE:You are acting like you missed your nap.
+LEADFEMALE:I bet Becky doesn't even have a date.
+LEADMALE:I've got enough going on.
+SUPFEMALE:I don't need any more trouble from you.
+LEADMALE:I hate her.
+LEADFEMALE:How's it going, honey? Run away.
+OTHERFEMALE:Run away.
+OTHERMALE:It's a shame Becky has to go out the one night I'm in town.
+LEADFEMALE:You just told her to go.
+LEADMALE:Talk to her.
+OTHERMALE:Have her at least stay for dinner.
+SUPMALE:You talk to her.
+OTHERFEMALE:I don't want her to be mad at me.
+OTHERFEMALE:No, she can be mad at me.
+OTHERFEMALE:Fine.
+SUPMALE:Well, I need to visit the little girls' room.
+SUPFEMALE:62 years old and she still says the little girls' room.
+LEADMALE:Bring on the fudge and Kevin Costnerâs butt.
+OTHERFEMALE:I'm ready to sink my teeth into both of them.
+LEADMALE:How you doing, sis? Roseanne, are these towels clean? You are just evil.
+LEADMALE:Is that Jackie? Oh, no, you don't! Let me go! She's your mother! Don't make me hurt you, Roseanne.
+LEADMALE:You're going to get up and stay here.
+LEADMALE:Grow up.
+LEADMALE:Come on now.
+LEADMALE:Mom, hi.
+LEADMALE:Oh, tell me, Roseanne.
+LEADMALE:How many women can look that good without a drop of makeup? And your hair's adorable.
+LEADMALE:Thanks, mom.
+LEADFEMALE:You know, I'm almost glad your dad couldn't make it.
+LEADFEMALE:This give us girls a chance to have some fun.
+LEADFEMALE:This is mom, isn't it? I don't know.
+SUPFEMALE:I better check that birthmark she's got.
+LEADMALE:No, 665.
+LEADMALE:Close enough.
+OTHERMALE:I heard from Mrs.
+OTHERFEMALE:Quigley.
+SUPMALE:Our old neighbor? Mm-hmm.
+LEADMALE:She said everybody's fine, and her little Jeffrey should be out of prison soon.
+LEADFEMALE:Those eight years just flew by, didn't they? Remember when Jeffrey talked you into playing spin the bottle? Yeah.
+LEADMALE:He kissed me and his retainer fell off in my mouth.
+LEADFEMALE:My little angel was playing spin the bottle? Sure, Jackie, now you got me in trouble.
+LEADFEMALE:Ground her, mom.
+SUPFEMALE:Ground her.
+SUPMALE:Ground her.
+SUPFEMALE:Anything else you want to tell me while I'm knee-deep in this cheap chardonnay? Ok.
+LEADMALE:Remember this one weekend when you and dad went to one of his furniture conventions? Oh Oh, what? You two have some kind of wild party? Yeah In Chicago.
+LEADMALE:In Chicago.
+SUPFEMALE:Uh-oh.
+LEADFEMALE:Now she's thinking now.
+SUPFEMALE:Will she yell at us for something we did over 22 years ago, or There you go.
+LEADMALE:Ok, mom.
+OTHERMALE:You two are terrible.
+LEADMALE:Hey, I have one that's even better.
+OTHERMALE:Ok.
+LEADFEMALE:Ok.
+SUPMALE:Remember my friend Jeanine? You used to stay at her house till all hours.
+SUPFEMALE:Ok, well There was no Jeanine.
+LEADFEMALE:Jeanine was Dan! Roseanne, I thought you were studying.
+LEADFEMALE:I always got good marks.
+SUPFEMALE:Yeah, mostly on your neck.
+SUPMALE:All right, it's my turn.
+LEADFEMALE:Remember the design school I applied to that never answered back? Well, I actually got in.
+SUPMALE:You were accepted? Yeah.
+LEADMALE:Only I threw the letter away before you guys could see it.
+LEADMALE:You knew how much we wanted you to go there.
+SUPMALE:Well, I didn't.
+LEADFEMALE:Hey! Remember when I told you guys that Ringo actually called me up on the phone? I guess now we see what happens when we squander our opportunities.
+LEADFEMALE:Don't start, mom.
+OTHERFEMALE:Maybe if you'd gone to design school you'd have a career instead of Wasting my life bouncing from one meaningless job to the next.
+LEADMALE:You guys, come on.
+SUPMALE:Let's grab a vegetable and start chopping.
+LEADFEMALE:No, she's going to tell me everything I've ever done wrong in my life.
+SUPMALE:Come on.
+LEADMALE:I know you're dying to.
+SUPMALE:I wish for once I didn't have to.
+LEADMALE:I'll make it easy for you I'm a screw-up.
+LEADFEMALE:Jackie, you're not a screw-up.
+SUPFEMALE:Mom, you tell her she's not a screw-up.
+SUPMALE:I'm out of here.
+LEADMALE:Jackie.
+LEADFEMALE:What is it with you? Why can't you let her live her life? Because she had potential.
+SUPFEMALE:She had a spark.
+SUPFEMALE:We just didn't want to see it wasted.
+OTHERFEMALE:Your father and I said to each other, "there's no limit to what Jackie can do.
+SUPMALE:" You guys said that? You said I got a spark? Oh, yes.
+LEADFEMALE:Your father was convinced you'd be a lawyer because you loved to argue.
+SUPMALE:Really? Why do you think we worried so much? We never worried about Roseanne.
+LEADMALE:We knew what she'd be.
+LEADMALE:Oh? What? Safe and comfortable and a good mommy, just like you are now.
+LEADMALE:So what are you saying, mother? You're saying that all I could ever be is some ordinary housewife? Roseanne, you have a nice house, beautiful children A husband.
+LEADFEMALE:There's nothing wrong at all with being ordinary.
+LEADMALE:Hey, how's it going? Run away.
+LEADFEMALE:Run away.
+LEADFEMALE:So my mother's in there doing these back flips over Jackie.
+LEADMALE:I'm the one that turned out ok.
+SUPMALE:Jackie's a screw-up.
+LEADFEMALE:Roll with it, honey.
+LEADMALE:Roll with it? What the hell is that supposed to mean? I don't know.
+SUPMALE:I figured it was my turn to speak.
+OTHERFEMALE:That's ok.
+SUPMALE:I finished watching the whole game.
+LEADMALE:This was just the overtime.
+SUPFEMALE:I'm really hurt here, you know? I just can't believe it was always, like, Jackie could be this great astronaut or the president, and Roseanne Could be some great organ donor.
+SUPFEMALE:Dad? Oh, sorry.
+SUPFEMALE:What is it, Darlene? Actually, it was dad I wanted to talk to.
+OTHERFEMALE:Well, there he is.
+SUPFEMALE:All right.
+SUPFEMALE:Marcy just called and invited me over for dinner.
+LEADMALE:No, you're here tonight.
+LEADMALE:I don't appreciate your going over my head.
+LEADMALE:If I say no, he says no.
+SUPFEMALE:Right? Yes.
+OTHERFEMALE:No.
+OTHERFEMALE:It's one night, Darlene.
+LEADFEMALE:Ok? One night out of your entire life, and I think that you can Just roll with it.
+LEADMALE:That's sound advice, Darlene.
+LEADFEMALE:Now go on and get in there.
+LEADFEMALE:You come too, Dan.
+LEADFEMALE:Come on.
+LEADFEMALE:We'll have a nice family dinner.
+SUPFEMALE:This is really good.
+SUPMALE:Oh, I don't know.
+OTHERFEMALE:It seems ordinary to me.
+SUPMALE:I never learned how to cook.
+SUPFEMALE:You had other talents, dear.
+SUPFEMALE:Really? Like what? Would you like some salt? Roseanne, you know I'm not allowed salt.
+LEADMALE:Can I have more potatoes? Here you are, dear.
+LEADMALE:Roseanne also keeps this house going like a well-oiled machine.
+LEADFEMALE:How does she manage with her job and other stuff? Like what stuff? Like Like the, um PTA committee.
+OTHERMALE:How do they manage without her? I quit that over two years ago, Jackie.
+SUPFEMALE:Obviously your work there was finished, honey.
+LEADFEMALE:And she sold over 50 tickets to the Elks' glaucoma dance.
+LEADMALE:Which means I can dial a phone, huh? And d.j. has scouts every Saturday, which also means I had to master the fine art of driving.
+LEADMALE:Boy, I'm just a regular renaissance woman, aren't I? Becky, honey, tell me about the boy you're dating.
+LEADFEMALE:All my friends think he's really cute.
+LEADFEMALE:Darlene, you're lucky Becky's so popular.
+OTHERFEMALE:When you start dating she can give you some pointers.
+SUPMALE:If she's so popular, ask her which one of us got felt up.
+SUPFEMALE:Darlene, leave the table.
+SUPMALE:Yeah, I knew that would do it.
+OTHERFEMALE:I have an idea Let's skip dessert.
+LEADMALE:I'm full.
+LEADMALE:Let's go.
+LEADMALE:No, no.
+SUPFEMALE:Sit down.
+LEADFEMALE:Roseanne, how about some of your fabulous Dutch apple pie? You make that with cinnamon, right? Nutmeg, mom.
+SUPMALE:1 1/4 teaspoons of nutmeg.
+LEADMALE:You know, speaking of pies, one day when these two were knee-high to a grasshopper, I went out back to call them for supper.
+OTHERFEMALE:Jackie was over by the fence building a village out of those Legos.
+LEADMALE:Oh.
+SUPMALE:Oh, it was quite a project, believe me.
+LEADMALE:She had traffic lights and skyscrapers and hospitals and We get the picture, mom.
+OTHERFEMALE:Anyway, Roseanne was nowhere to be seen.
+SUPFEMALE:Well, I looked and looked and finally found her behind that big maple tree near the ditch.
+LEADFEMALE:There she sat in her white ruffled dress completely covered with dirt and making mud pies.
+LEADMALE:So you see, Roseanne, making pies must be in your blood.
+SUPFEMALE:Speaking of blood What time you shoving off tomorrow, Bev? Grandma, I've got to go.
+LEADMALE:But we haven't talked.
+SUPMALE:Ok.
+SUPMALE:What do you want to talk about? Maybe she wants to talk about my mashed potatoes, how creamy smooth they are.
+SUPMALE:Maybe, huh? Or maybe my biscuits.
+LEADFEMALE:How light and airy, the way they just fly across the room.
+LEADFEMALE:Or maybe she wants to talk about the other 10 million ordinary things I do in my ordinary life.
+OTHERFEMALE:Excuse me.
+LEADFEMALE:Is she getting enough iron? Hey, hey, what is your problem? My problem is I've got no spark.
+LEADFEMALE:Oh, Roseanne.
+LEADMALE:I didn't have to end up ordinary if she'd expected anything like she did you.
+LEADMALE:You missed out on the chance to be a neurotic mess.
+LEADMALE:It ain't right, Jackie.
+LEADFEMALE:She should've treated us the same.
+LEADMALE:You treat your kids the same? Yeah, I do.
+LEADFEMALE:You don't think I do? It's no big deal if she thought I had potential because she'll always think I messed up my life.
+SUPMALE:She'll always think you're the best mud pie maker in the whole world.
+LEADMALE:She decided that long ago.
+LEADMALE:It's not going to change.
+LEADMALE:That's the way mothers are.
+LEADFEMALE:Not this one.
+LEADMALE:I'm not going back down there, so forget it.
+LEADFEMALE:I made it through dinner.
+OTHERMALE:That was the deal.
+SUPMALE:I won't take any more "Becky beautiful" garbage.
+SUPFEMALE:You have more respect for your Forget it.
+SUPFEMALE:You're right.
+LEADMALE:You're not mad about what I did at dinner? I thought you were really out of line till I started throwing biscuits.
+LEADFEMALE:You threw biscuits at Grandma? No, I didn't want to hit d.j. You know how soft his skull is.
+LEADMALE:I miss all the good stuff.
+SUPFEMALE:Hey, Darlene, do you think that I Encourage you, you know, to do stuff? Well, I don't know.
+SUPFEMALE:What are you talking about? Well Do you think that I expect more out of Becky than I do out of you? I don't know.
+SUPMALE:You expect Becky things out of Becky Like good grades.
+LEADMALE:I expect good grades out of you, too.
+SUPFEMALE:I just never get them.
+LEADFEMALE:I think we both know that I'm smarter, just in a different way.
+SUPMALE:If you dropped me and Becky in the woods, I'd make it home and poor little Becky would crawl into a hollow log and die.
+LEADFEMALE:That's why I had two daughters I always carry a spare.
+LEADFEMALE:You know, I'm sorry I said I hated Grandma.
+LEADFEMALE:I guess I love her, but sometimes I don't like her.
+LEADFEMALE:Yeah, sometimes she makes it kind of tough.
+OTHERMALE:But then there's these other times where you just want to take her face in your hands and twist it till her head pops off.
+LEADMALE:It's good I never feel that way about you.
+SUPMALE:Yeah, it's a real good thing.
+SUPMALE:You know, I got this theory Grandma was probably a better mom than her mom, and you're definitely a better mom than Grandma was.
+LEADMALE:That's a good theory.
+LEADMALE:By the time I'm a mom, I'll be awesome because I'll have learned from both your mistakes.
+LEADMALE:Whoa.
+LEADFEMALE:Heavy.
+LEADMALE:What do you bet Grandma's downstairs making Becky look at her 400 pictures she took on her trip to Arizona? Becky will probably never get out of here.
+LEADFEMALE:Good.
+LEADFEMALE:I ought to head back to the snake pit.
+OTHERMALE:Want to come along? Will you be throwing any more biscuits? Yeah, if I can get a clear shot.
+SUPMALE:Here's the world's largest reptile museum Lizardland.
+LEADFEMALE:That's a lizard.
+SUPFEMALE:Here's a bigger lizard.
+OTHERFEMALE:That's the owner of the museum.
+SUPMALE:A very nice young man.
+SUPMALE:We told him all about you, Jackie.
+LEADFEMALE:He might be calling you.
+SUPFEMALE:His name is fess.
+OTHERMALE:Your dad playing stick-'em-up with a lizard.
+LEADFEMALE:Not as funny as the cactus, but you know your father.
+LEADMALE:You got his sense of humor.
+LEADFEMALE:

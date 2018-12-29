@@ -1,0 +1,374 @@
+LEADFEMALE:Hey, Andy and I are going out for a walk.
+LEADMALE:You want to come, Jen? Oh, no, thanks, Dad.
+LEADMALE:I've got this paper to write, and it's going kind of slow.
+LEADMALE:Oh, maybe I could help.
+LEADMALE:I don't think so, Dad.
+LEADMALE:I see.
+LEADFEMALE:You think that now you're in high school your homework's getting a little too complex for your old, intellectually washed-up dad.
+LEADFEMALE: Well, it's just that you go completely overboard in these situations.
+LEADMALE:It's like the time when you tried to help me with that book report on Huck Finn, and we had to write it on a raft floating down the Mississippi.
+SUPMALE:Well, what's so terrible about a parent trying to get involved with his children's education? After all, I help Andy with his homework.
+LEADMALE:I always redo it after you leave.
+SUPFEMALE:Jen, I'll tell you what.
+LEADMALE:I'll only help you if your paper's in an area of my expertise.
+LEADMALE:All right, Dad.
+LEADMALE:I'm writing a paper for my introduction to philosophy class on the existentialist perspective of SÃ¸ren Kierkegaard.
+SUPFEMALE:SÃ¸ren Kierkegaard? SÃ¸rie? Who's Kierkegaard? He was a Swedish philosopher, Andy.
+SUPMALE:He was a Danish philosopher, Dad.
+LEADFEMALE:T-Technically he was Danish.
+SUPFEMALE:But he had an apartment in Sweden.
+LEADMALE:Lauren, Lauren, come on, come on, let me take that.
+LEADMALE:Alex, it's one bag.
+LEADFEMALE:I can carry it.
+SUPMALE:Hey, listen, the woman I love is not gonna be lugging around a heavy grocery bag.
+LEADMALE:Yo, Alex! Sorry, sorry.
+SUPFEMALE:Forgot you were out there.
+LEADFEMALE: It's all right.
+LEADMALE:I'm used to it.
+SUPFEMALE:The minute we walked into the market, I knew you two were in your own world.
+SUPMALE:Lauren, I still can't believe it.
+LEADFEMALE:After three months of going out, you still seem to like Alex.
+LEADFEMALE:Have you ever taken a really good look at him? Oh, my God! You're right.
+OTHERMALE:Hey, hey.
+LEADMALE:Of course she likes me.
+LEADMALE:I'm cute, I'm intelligent, and I have unlimited earning potential.
+LEADMALE:I know that's what attracted me to you.
+LEADFEMALE:I think you guys make a cute couple.
+OTHERFEMALE:I just never want to go shopping with you again.
+LEADFEMALE: - Oh, I've got it! Hello.
+LEADFEMALE:Um, yeah.
+LEADMALE:Yes.
+LEADFEMALE:Hold on a second.
+LEADFEMALE:Uh, Lauren, it's for you.
+LEADMALE:For me? I thought from the ring it would be for me, but Hello.
+OTHERMALE:Eric, what a surprise! How'd you get the number here? Oh, I see.
+LEADFEMALE:Oh, I'm fine, fine.
+SUPFEMALE:How are you doing? Oh, that's great! Yeah, well, I don't know.
+LEADMALE:Um Yeah, I'll have to think about it.
+LEADFEMALE:Yeah, I will.
+OTHERMALE: Good hearing from you, too.
+LEADMALE:Bye-bye.
+LEADMALE:That was Eric Matthews.
+LEADFEMALE:Uh, Eric Matthews.
+LEADFEMALE:Why does that name sound familiar? He's the guy that I went out with before I met you.
+LEADMALE:Yeah, that's it.
+LEADMALE:Well, he's coming in from New York tomorrow night, and he wants to know about dinner.
+SUPMALE:Oh, well, geez, uh, I'm busy tomorrow night.
+LEADFEMALE:I think he meant me.
+LEADMALE:Oh, of course.
+SUPFEMALE:Oh, you! Oh, you-you should go.
+LEADFEMALE:Are you sure it wouldn't bother you? No! No, absolu Look, he's come all this way.
+LEADFEMALE:You know, uh, I think it would be a nice gesture.
+SUPMALE:Alex, that's so sensitive of you.
+LEADFEMALE:I-I thought you'd be threatened by something like this.
+LEADMALE:Hey What, are you kidding? Come on, you should know me better than that.
+LEADMALE:Now, let's just put the rest of this stuff away, okay? We'll go in, we'll have a nice dinner.
+LEADFEMALE:Afterwards, we'll get married.
+SUPMALE:Alex, sit down.
+LEADFEMALE:I'll make you some tea.
+LEADMALE:Oh, uh, no, listen.
+SUPFEMALE:Uh, uh, I'm going to get going 'cause I don't want to be here when, uh when Eric gets here.
+LEADMALE:Alex, you don't have to leave just 'cause Eric's showing up.
+OTHERFEMALE:Well, I know.
+LEADFEMALE:I know, but, uh, you two probably have a lot of catching up to do.
+LEADMALE:You know, I'd just be in the way.
+LEADMALE:So you go out and have a nice dinner.
+SUPMALE:You're n-not going to go out like that, are you? You know, dressed up.
+LEADMALE:Alex, this is just a sweater.
+LEADMALE:I know.
+LEADMALE:I know.
+SUPMALE:It's just it's just such a fancy one.
+LEADFEMALE:I mean I mean, you're just going out for dinner, right? You're not going to meet the queen afterwards.
+OTHERMALE:Alex, if you're nervous about this, I'll call it off.
+OTHERMALE:No, I-I'm kidding.
+LEADMALE:I'm kidding.
+SUPMALE:Okay, you sure? - Positive.
+SUPFEMALE:All right.
+LEADFEMALE: - Okay.
+SUPFEMALE:Eric.
+LEADFEMALE:Lauren.
+SUPFEMALE:Oh, you look terrific.
+LEADMALE:Your hair's a little shorter.
+SUPMALE:I like it.
+LEADMALE:Oh, thank you.
+SUPMALE:You look terrific, too.
+SUPMALE:Your hair's a little longer.
+LEADMALE:Well, thanks.
+SUPFEMALE:Nice of you to notice.
+LEADMALE:Mine's exactly the same.
+LEADMALE:I'm sorry.
+OTHERFEMALE:Eric, I'd like you to meet Alex Keaton.
+SUPFEMALE:It's a pleasure meeting you, Alex.
+SUPFEMALE:Yeah, pleasure meeting you, too, Eric.
+SUPMALE: You're a little early.
+LEADFEMALE:I wasn't expecting you for another hour.
+LEADMALE:Oh, you know me.
+LEADFEMALE:I'm always a little early.
+LEADFEMALE:Can't help it.
+LEADMALE:I think it's important to be punctual.
+OTHERMALE:Don't have to tell me.
+OTHERFEMALE:I'm, uh I'm I'm here for a date next week.
+LEADFEMALE:Why don't I call the restaurant and see if they can take us earlier? - Good idea.
+LEADFEMALE:Okay.
+SUPFEMALE:I'll be right back.
+LEADMALE:Right.
+OTHERFEMALE: So you and Lauren met over at Leland.
+LEADMALE:Uh, yeah.
+LEADMALE:Yeah, that's right.
+SUPMALE:She was, uh she was doing a psychology experiment on, uh, overachievers, so I applied.
+LEADMALE:I'm in the economics department myself.
+LEADFEMALE:My old stomping grounds.
+LEADMALE:How's Professor Carpenter doing? Great.
+LEADMALE:I had him for micro this past semester.
+OTHERMALE:He's a tough old guy, isn't he? Ooh, you bet.
+LEADMALE:I was, uh I was lucky to squeeze a B-plus out of him.
+LEADFEMALE:I mean, I deserved more, but-but-but he's got this crazy rule against giving A's.
+SUPMALE:Really? He must have started that rule after I left.
+SUPFEMALE:He, uh he-he gave you an A? A-plus.
+SUPFEMALE:Well, well, he ma he made up for the low grade, actually.
+LEADMALE:He, uh he recommended me for the Wilson scholarship.
+SUPMALE:Oh, congratulations.
+SUPFEMALE:I won that, too.
+LEADFEMALE:Well, I-I, uh I also won the Burke scholarship and the Harrison scholarship, the Matthews scholarship.
+SUPFEMALE:I received all those except the Matthews.
+SUPMALE:Oh, well, can't win them all.
+OTHERFEMALE:Especially not that one.
+SUPFEMALE:It's named after me.
+LEADMALE:Did I mention my miniature golf trophy? Look, uh, Alex It's sort of pointless for us to sit here comparing grades and awards.
+SUPFEMALE:I mean, we might as well just exchange rÃ©sumÃ©s.
+LEADFEMALE: Right, right.
+LEADMALE: This is amazing.
+LEADMALE:This is incredible.
+SUPMALE:I-I mean, Lauren-Lauren told me you worked on Wall Street.
+LEADMALE:I had no idea it was at Dunn and Bradley.
+LEADMALE:Dunn and Bradley.
+SUPMALE:That-that's the most prestigious banking investment firm in the world.
+SUPMALE:Isn't it? What is it like to work there? Oh, it's so magical.
+LEADFEMALE:It's hard to describe.
+LEADMALE:You know that feeling you had when you were a kid and your parents would take you to the bank? You'd dream about getting naked and leaping into the vault? Know it? I actually did it.
+LEADFEMALE:The only downside is that there's not much time for a personal life.
+LEADFEMALE:And even with all the success and all the money, when I get home to my empty apartment, I feel like there's something missing from my life.
+LEADMALE:Maybe you need a dog.
+LEADMALE:Okay, ready to go? - Yeah, okay.
+SUPFEMALE:Okay.
+OTHERFEMALE: Oh, I'm sorry.
+LEADMALE:You meant you two.
+LEADMALE:Okay, well, uh, I'll meet you outside when you're ready.
+OTHERMALE:I'm across the street in the black Porsche.
+OTHERFEMALE:Nice meeting you.
+OTHERFEMALE:Nice meeting you, Eric.
+SUPMALE: He's got a Porsche.
+LEADMALE:Hey, do you guys have a minute? I need your help on something.
+OTHERFEMALE:Yeah.
+LEADMALE:What's up? - Well, I-I've been up in my room trying to figure out what is attractive about me.
+LEADFEMALE:So far, a normal evening.
+OTHERMALE:Anyway, I've-I've come up with a with a partial list of-of some of my good points, and, uh Now, here's where I need your help.
+LEADFEMALE:Carrying the list? No, no, no, no, I mean, uh, filling it in.
+LEADMALE:Rounding it out.
+LEADMALE:You know, making sure I haven't haven't forgotten anything.
+LEADMALE:I, uh I think it's fun for the whole family.
+LEADFEMALE:Wait a minute, Alex, you you have a list here of your good points and Eric's good points.
+SUPFEMALE:Who's Eric? Uh, my imaginary friend.
+OTHERFEMALE:Uh, your imaginary friend has a Porsche? It's an imaginary Porsche.
+LEADMALE:He also has a job on Wall Street, an apartment in Manhattan, and he went out with Lauren for a year.
+LEADMALE:Well, that's how we met.
+LEADMALE:Uh uh, Lauren introduced us at a at a an imaginary, uh, real person, uh, get-together.
+LEADMALE:Which group were you with? All right, Eric is, uh Eric's Lauren's old boyfriend.
+SUPMALE:He's back in town, and they went out for dinner tonight.
+OTHERMALE: You let them go?  I let them go.
+LEADMALE:What's so amazing about that? Well, I just know that I'd be very nervous if one of Nick's old girlfriends came to visit him.
+LEADFEMALE:We'd all be nervous, Mal.
+SUPMALE:It would mean there had been a break-out at the women's detention center.
+SUPFEMALE:Uh, did you meet, uh, Eric? Uh, briefly, briefly.
+LEADFEMALE:We, uh we exchanged rÃ©sumÃ©s.
+SUPMALE:Ah.
+LEADFEMALE:I guess a handshake seemed too obvious.
+LEADMALE:I'm telling you, Dad, this guy is impressive.
+LEADMALE:It's the first time I've ever been in a room with someone that I didn't feel complete intellectual superiority over.
+SUPMALE:Thanks very much.
+LEADMALE:Mom, you know what I mean.
+SUPMALE:I mean, this guy, when you compare our rÃ©sumÃ©s, he tops me in every category.
+OTHERMALE:Alex, you have something that Eric doesn't have.
+SUPMALE:Lauren's love.
+SUPFEMALE:That's not something that can be put on a rÃ©sumÃ©.
+SUPFEMALE:No, Dad, he's got that down here.
+LEADMALE:I-I must be missing something.
+SUPFEMALE:There-there must be some good points that I have that Eric doesn't have.
+LEADMALE:So that's why I need your help, okay? I-I-I want to know what you like about Alex Keaton.
+LEADFEMALE:Huh? Who want who wants to get the ball rolling? - Uh - I Well - Mal? Mally? Huh? - Huh? I-I don't know.
+LEADFEMALE:It's so hard, Alex.
+LEADMALE:Can I get back to you? Come on, you know? This is real important to me now.
+SUPMALE:My-my whole relationship with Lauren could be at stake here.
+SUPFEMALE: All right, just give me a minute.
+SUPFEMALE:Uh you  Um uh Forget it, Mal.
+LEADFEMALE:I don't want you to hurt yourself.
+LEADFEMALE:I don't know, Dad.
+SUPFEMALE:I have to disagree with you.
+LEADFEMALE:Kierkegaard felt that all knowledge must be self-knowledge.
+LEADFEMALE:I think you're wrong, Jen.
+SUPMALE:He was also concerned with the larger societal problems.
+LEADMALE:Dad, you're missing the point completely.
+LEADMALE:Oh, am I? Kierkegaard believed that examining man's existence within a larger framework of a societal historical dialectic was an avoidance of subjective knowledge so essential to comprehending any type of spiritual truth.
+SUPFEMALE:Jennifer, go to your room.
+LEADMALE:That's a great argument, Dad.
+LEADFEMALE:What do you think Kierkegaard would have said to that? Who cares? He didn't have any kids.
+SUPMALE: Alex.
+LEADFEMALE:Hey, I thought you said you were gonna turn in early tonight.
+SUPMALE:Oh, yeah, I was, I was.
+SUPFEMALE:Just, uh just came down to get a snack.
+OTHERMALE:You seem a little distracted.
+LEADFEMALE:Oh, no.
+LEADMALE:No, no, I'm fine, fine.
+OTHERFEMALE:All right.
+LEADMALE:Enjoy your Brillo pad.
+LEADMALE:Hello.
+OTHERMALE:Hi, Stacey.
+OTHERFEMALE:Yeah.
+LEADMALE:Is Lauren back yet? No.
+LEADMALE:Yeah, yes, I know.
+LEADFEMALE:I know she went out with Eric.
+LEADFEMALE:Yes, I know he has a Porsche.
+LEADFEMALE:No message.
+OTHERMALE:No no message.
+LEADFEMALE:Hi.
+LEADMALE:Yeah, Columbus Columbus Grill? Um, yeah, is the Matthews party still there? I see.
+LEADFEMALE:They left two hours ago? Yes, I know he drives a Porsche.
+SUPMALE: 
+LEADMALE:Hey.
+LEADFEMALE:Hey.
+LEADMALE:Lauren.
+LEADMALE:Sweetheart.
+SUPFEMALE:Lauren.
+SUPMALE:Hey, honey bear.
+SUPFEMALE:Sweetheart.
+SUPMALE:Hey, Lauren.
+SUPFEMALE: Alex, what are you doing here? What am I doing here? What am I doing here? I live here, buddy.
+LEADFEMALE:No, you don't.
+SUPMALE:No, I don't.
+SUPMALE:But I live very nearby.
+LEADMALE:What the hell are you doing here? Look, Alex I think I know what you're thinking, and you're wrong.
+OTHERFEMALE:Oh, really, Eric? Well, let me tell you something.
+SUPMALE:I may not be one of your slick, fast-talking, money-mongering, underhanded Dunn and Bradley friends although I hope to be one one day but I am not that gullible.
+LEADMALE:Alex, listen to me.
+LEADFEMALE:On the way home from dinner tonight, my car broke down in the middle of nowhere.
+LEADFEMALE:We had to walk two miles to a gas station, get a tow truck, and then get a cab back here.
+SUPFEMALE:By that time, it was after 1:00, I didn't have a place to stay, so Lauren told me I could sleep in her room.
+LEADFEMALE:She's down the hall in Michelle's room.
+SUPMALE:You expect me to believe that your brand-new $40,000 Porsche just conveniently broke down tonight.
+SUPFEMALE:Actually, it was closer to $50,000.
+LEADFEMALE:Well, that's a very tough story to swallow, Eric.
+LEADFEMALE:Well, that includes dealer shipping and handling charges.
+OTHERFEMALE:Look, I'm talking about what happened with you and Lauren tonight.
+LEADFEMALE:Now, believe it or not, some things in life are more important than money and finance charges.
+SUPFEMALE: You don't believe that.
+LEADFEMALE:Well, uh, normally, I don't, normally, I don't.
+LEADMALE:But but in this case, Eric, there definitely is something that's more important to me than money.
+SUPMALE:Come on, Alex, nothing matters more than money.
+LEADFEMALE:I mean, let's be honest.
+SUPMALE:That's what separates guys like us from everybody else.
+LEADFEMALE:Look, that's not the point.
+SUPMALE:Come on, Alex, we've known it since we were kids.
+SUPMALE:Remember the first time you saw a dollar sign? April 22, 1971.
+LEADMALE:My first time, I was coming home from kindergarten.
+LEADFEMALE:I was with a couple of my other friends.
+LEADMALE:We passed a bank, and there it was in the window.
+LEADFEMALE:The other guys know what it was? - No.
+SUPFEMALE:They just thought it was a big "S" with two vertical lines through it.
+LEADFEMALE:To me, it was a symbol of life.
+LEADFEMALE:The other kids just went home for milk and cookies.
+OTHERFEMALE:I knelt.
+SUPMALE:I don't deny it, okay? I love money.
+SUPMALE:But there is definitely something in my life that I love more Lauren.
+SUPFEMALE:All right, Alex, I'll be honest with you.
+LEADMALE:I did come back here wondering if Lauren and I could start seeing each other again.
+LEADMALE:But from the minute I picked her up, all she did was talk about you.
+LEADFEMALE:I could see she was really in love.
+LEADMALE:So I decided just to have a good dinner, enjoy driving my new car, get a good night's sleep.
+OTHERMALE:Instead, dinner was lousy and overpriced, my car's in the shop, it's 2:07 in the morning, and I'm wide awake.
+SUPMALE:What a bust this trip was.
+SUPFEMALE:I just hope I can write it off.
+SUPFEMALE:You'll be able to write it off.
+LEADMALE:After all, we talked about business, right? You could tell them it was, uh it was a recruiting session for Dunn and Bradley.
+LEADMALE:Hi, honey.
+OTHERFEMALE:What is this? Some overachiever pajama party? I'm sorry, honey.
+LEADMALE:Did we wake you? Alex, what are you doing here? Oh, listen, uh, I talked to Eric.
+LEADFEMALE:He explained everything.
+LEADFEMALE:Don't worry.
+LEADMALE:What is there to explain? Why don't I just, uh, step out for a minute? Hey, hey, Lauren, listen, I-I wasn't gonna come over here.
+LEADMALE:It's just that I kept calling, and you weren't home.
+LEADMALE:And-and the restaurant said you left.
+SUPFEMALE:What? You called the restaurant? Alex, why? Don't you trust me? Of course I trust you.
+LEADMALE:You got a funny way of showing it.
+SUPMALE:Hey, come on, Lauren! Any other guy Alex, I don't care about any other guy.
+OTHERFEMALE:I care about you.
+SUPMALE:And our relationship.
+LEADMALE:And trust! You know, I can't believe you did this.
+LEADFEMALE:I'm really mad at you.
+LEADFEMALE: - Lauren.
+LEADMALE:Lauren.
+LEADMALE:Hey, Dad.
+LEADMALE:Where were you, Alex? It's 3:00.
+LEADFEMALE:Oh, uh, just, I was over at Lauren's.
+LEADMALE:What are you doing up? Oh, just a little reading.
+LEADMALE:Existentialism for Dads.
+LEADFEMALE:Yeah.
+LEADFEMALE:There's one thing I can say for Kierkegaard no matter how depressed you are, he's more depressed.
+SUPFEMALE:In a strange way, it's sort of a pick-me-up.
+LEADMALE:Mind if I borrow this book, Dad? - Sure, sure.
+SUPMALE:I recommend chapter 
+LEADFEMALE:"Existence is meaningless and life is absurd, so wipe that smile off your face.
+OTHERFEMALE:" What a rotten night, Dad.
+OTHERFEMALE:I-I was I was going crazy worrying about Lauren and Eric, so I went over there to see what was happening.
+LEADFEMALE:What was happening? Nothing until I got there.
+LEADFEMALE:And-and, uh, now Lauren thinks I don't trust her.
+SUPFEMALE:I doubt she'll ever talk to me again.
+SUPMALE:Look, Alex, there are a lot of  Let me just leave you with a thought from the immortal 
+SUPMALE:
+SUPMALE:"Women can't live with them, can't live without them.
+LEADFEMALE:" - Hi.
+LEADFEMALE:Hi.
+LEADMALE:Lauren, I'm sorry.
+LEADMALE:I'm really sorry.
+LEADMALE:Look, it's not all your fault.
+OTHERFEMALE:I-I should have been more aware.
+SUPFEMALE:I knew that even though you were trying to act gracefully, deep down it really bothered you.
+LEADMALE:That's the thing.
+OTHERMALE:I knew that you would think that deep down it it would bother me, so so I wanted to go even deeper and prove that you were wrong.
+LEADMALE:It just so happens that, uh, I don't go that deep.
+LEADMALE:You go plenty deep, Alex.
+LEADFEMALE:Too deep sometimes you overanalyze everything.
+OTHERFEMALE:I want you to have the best of everything, you know? And then, when I met Eric, I just couldn't help but think that maybe he was the best.
+OTHERFEMALE:Alex, I don't love Eric.
+OTHERMALE:Why not? I do.
+OTHERFEMALE:The point I'm trying to make is that I love you, and you're just gonna have to learn to accept that.
+LEADMALE:Maybe it might be a little easier for me to accept that if-if I knew why you love me.
+SUPMALE:What do you mean, why do I love you? Well, in order for a guy like me to feel secure, I-I have to know what it is that you love about Alex Keaton.
+SUPMALE:It's a lot of things.
+LEADFEMALE:I can't just sit here and name them.
+LEADFEMALE:Why not? Because it just doesn't work that way.
+OTHERMALE:Can you tell me why you love me? You're smart, you're beautiful, you're warm, you're wise, you're witty, you're sensitive, you're kind to children and old people, you care about what's going on in the world.
+SUPMALE:Boy, you're really good at this.
+SUPFEMALE:Yeah, better than you.
+LEADMALE:I'm At least you could give me a token "you're a nice guy" or something.
+LEADMALE:All right, Alex, you want to know why I love you? Yeah.
+LEADMALE:Because of "The Banana Boat Song.
+LEADFEMALE:" "The Banana Boat Song"?  Yes.
+LEADFEMALE:We were at one of those economic department symposiums you drag me to, and some guy was droning on for hours and hours about the deficit or the surplus or something.
+OTHERFEMALE:I don't know.
+LEADFEMALE:It was excruciatingly boring.
+LEADFEMALE:Then, suddenly, when I thought I just couldn't take it for another minute, you you sang to me "The Banana Boat Song.
+OTHERMALE:"  Day-o, Day-ay-ay-o Daylight come and me want to go home.
+SUPFEMALE:That's why I love you.
+SUPFEMALE:You ever heard me do "Misty"? Alex, it was the fact that in the middle of this stuffy affair with all your professors around, you sang me "The Banana Boat Song.
+SUPMALE:" It didn't make any sense.
+LEADFEMALE:It was a complete contradiction.
+LEADFEMALE:It's what makes you uniquely you.
+LEADFEMALE:All right.
+SUPMALE:All right.
+LEADMALE:You can't come up with anything concrete that'll have to do.
+SUPFEMALE:Alex, this isn't something you have to define.
+LEADMALE:You don't have to clarify.
+SUPFEMALE:It just is.
+SUPFEMALE:And it's wonderful!  Sure, I could sit around here all night and rattle off great things about you.
+LEADMALE: I got nowhere to go
+LEADFEMALE:

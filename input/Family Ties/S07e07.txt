@@ -1,0 +1,351 @@
+LEADFEMALE:Hey, Mal, you want to play catch? No, I don't really feel like it, Andy.
+OTHERMALE:Ask Alex.
+LEADMALE:M'kay.
+LEADMALE:Alex? Alex! Ah! Geez! Alex, you want to play catch? No, but I'd like to change seats.
+LEADFEMALE:Nick? - Hmm? - Nick? Nick, you want to play catch? Come on, babe, whip it in here.
+LEADFEMALE:Come on, babe, whip it in here.
+OTHERFEMALE:Oh, Andy, honey, this isn't the place to play ball.
+LEADFEMALE:Sorry, Mom.
+LEADMALE:Hey, you're good.
+LEADMALE:You don't drop it as much as Dad.
+SUPMALE:That's true.
+LEADMALE:I used to be a a pretty good ballplayer.
+LEADFEMALE:For a girl.
+LEADMALE:For a guy.
+OTHERMALE:Yeah, all the females in this family are better athletes than the males.
+LEADFEMALE:How 'bout you, Mal? Were you good, too? Well, you know, if I wanted to, I could have been a great athlete, Andy.
+SUPMALE:But I just hate to sweat.
+OTHERFEMALE:You know you know who's a good athlete, though, Andy? - Who? - Nick.
+OTHERFEMALE:Watch this.
+LEADFEMALE:Catch, honey.
+LEADFEMALE:Come on, babe, whip it in here.
+LEADMALE:Oh, what am I doing? I-I forgot where I was.
+SUPMALE:I'm sitting here laughing and my husband's in surgery.
+LEADMALE:That's okay, Mrs.
+SUPMALE:Keaton.
+SUPFEMALE:There's nothing wrong with laughing.
+LEADMALE:It helps to relieve the tension.
+LEADMALE:Yeah, absolutely, Mom.
+SUPFEMALE:Look at Shakespeare.
+OTHERMALE:Any time the going got rough in one of his plays, and the-and the tension was unbearable, big Bill would bring out some comic relief.
+LEADFEMALE:You know, a clown, a-a buffoon, a fool.
+OTHERFEMALE:There you guys are.
+LEADFEMALE:Amazing.
+LEADMALE:Life imitates art.
+OTHERFEMALE:Well, thank you.
+LEADMALE:It-it's very sweet of you to come, Skippy.
+SUPFEMALE:Aw, Mrs.
+OTHERFEMALE:Keaton, I would have been here sooner.
+LEADFEMALE:They gave me wrong info down at the desk.
+LEADFEMALE:Instead of Steven Keaton, they sent me to a Stephanie Kelton, who was in for a liposuction.
+LEADFEMALE:What? It went extremely well, she looks great.
+SUPMALE:I-In fact, as soon as she gets out, I'm invited to her house for an evening of aerobic dancing.
+LEADMALE:Well, sit down, make yourself comfortable.
+SUPMALE:I, uh, brought some things to cheer up Mr.
+SUPMALE:Keaton, and I didn't know what he wanted, so I brought an assortment.
+SUPMALE:Here's flowers, chocolates, archery set, uh oh, and this Slinky is for you, Mrs.
+OTHERFEMALE:Keaton.
+SUPFEMALE:I hope you don't mind it's slightly used.
+LEADFEMALE:It's my dad's.
+LEADMALE:That's very sweet, Skippy.
+OTHERMALE:Mrs.
+LEADMALE:Keaton? - Huh? Yes, yes? I have some good news.
+LEADMALE:The surgery is completed, and it went very well.
+LEADMALE:Oh, thank you.
+LEADFEMALE:Thank you, Doctor.
+SUPMALE:If it's okay, - can-can we go see him? - No, no, no, not yet.
+SUPMALE:He's in the coronary care unit.
+LEADFEMALE:Everything looks good, but we have to go slowly.
+SUPMALE:Now we have to wait and see how his heart adapts to the surgical procedure.
+SUPFEMALE:Wait, wait, so-so it's not - really over yet? - No, no, not yet.
+LEADMALE:The next few hours are going to be critical.
+SUPFEMALE:Thank you, thank you for your good work.
+SUPMALE:His will to live is extraordinary.
+LEADMALE:He obviously has a lot to live for.
+SUPMALE:And I think I'm looking at it right now.
+LEADMALE:Thank you.
+OTHERMALE:Oh! Oh.
+LEADFEMALE:Yay! - Yay.
+LEADFEMALE:Oh I just wish we could see him.
+LEADMALE:Oh, honey, just be grateful that the surgery went so well and just know that we're gonna have our daddy with us soon.
+LEADMALE:I can't wait to see E.
+LEADFEMALE:T.
+OTHERMALE:again.
+LEADFEMALE:Me, too.
+LEADFEMALE:Where's Mom? We're all set to go, she's not here.
+LEADFEMALE:Well, uh, she had a bunch of meetings.
+LEADFEMALE:She's probably stuck in traffic.
+SUPMALE:Well, we sure can't go without her.
+LEADMALE:We sure can't.
+LEADMALE:She has the car.
+LEADFEMALE:No, I mean it wouldn't be fun unless we all go anyway.
+LEADFEMALE:You know, the whole family.
+LEADMALE:Well, it's sweet to hear you say that.
+LEADMALE:All right, let's do it, let's go.
+SUPMALE:We can't go yet.
+LEADMALE:Mom's not back.
+OTHERFEMALE:Yeah, yeah, yeah, but why-why can't we just, you know, leave her a note and catch a cab? Fine plan.
+OTHERFEMALE:Ditch Mom.
+LEADFEMALE:That's not what I meant.
+LEADMALE:Well, no, that is what I meant.
+LEADMALE:What does E.
+LEADMALE:T.
+LEADFEMALE:Stand for? It means "Elyse Tardy.
+SUPFEMALE:" It means "Extra Terrestrial.
+SUPMALE:" What does that mean? Over to you, Jen.
+LEADFEMALE:It means not of this earth.
+OTHERMALE:Otherworldly.
+OTHERFEMALE:Yeah.
+OTHERMALE:Think Mallory.
+SUPMALE:Oh, that's it, Dad.
+LEADMALE:I am not going! - Oh He's been doing this to me all day.
+LEADMALE:Why, Alex? Why do you persist in tormenting your sister? It's a hobby.
+LEADMALE:All right, Mal.
+SUPFEMALE:I'm sorry, Mal, okay? I didn't mean to upset you.
+OTHERFEMALE:Please forgive me.
+SUPMALE:All right, I'll forgive you.
+LEADMALE:I'll go.
+LEADMALE:Now that was beautiful to witness.
+LEADMALE:That's maturity.
+SUPFEMALE:Thank you, Dad.
+OTHERMALE:He meant me.
+LEADFEMALE:He didn't mean you, he was looking right at me.
+LEADMALE:You were looking at me.
+SUPMALE:You meant me, right, Dad? Wait, what was that, was that a snort? - Are you snorting at me now? - I was not.
+LEADFEMALE:What's happening? - Dad, you were talking to me, right? Oh, come on.
+SUPMALE:I retract the statement.
+LEADFEMALE:You know, we all want to go to this movie, but it's not the most important thing in the world.
+LEADFEMALE:I mean, just look around.
+LEADFEMALE:We're all together.
+OTHERMALE:Granted, your mother is missing.
+OTHERFEMALE:But all of us are here.
+LEADFEMALE:And we have a beautiful home.
+LEADMALE:People who truly care for each other.
+LEADMALE:We're all healthy and happy Here it comes.
+LEADFEMALE:When I was a boy, many, many moons ago, going to a a movie show, as we called it in those days, was a very, very rare and special event.
+LEADFEMALE:Now, many nights many nights, my mom and dad and Rob and I would entertain ourselves.
+LEADMALE:Do you know what we used to do? Churn butter? No, Jennifer.
+LEADMALE:No, we'd sing.
+LEADMALE:Do you want me to beg? Is that what? Yahoo.
+LEADMALE:Yahoo.
+SUPMALE:What?! How's he doing? - What happened? - I was getting a cup of coffee.
+SUPMALE:Oh.
+LEADMALE:This is ridiculous.
+LEADMALE:Why-why don't you guys all just go home, and if anything happens, I'll call you.
+SUPMALE:Hey, absolutely not.
+OTHERFEMALE:Absolutely not.
+OTHERFEMALE:Look, you're the one who's exhausted.
+LEADMALE:Why don't you go home, and if anything happens, we'll just we'll call you.
+LEADFEMALE:Absolutely not.
+SUPMALE:Sounds to me like we're all staying.
+OTHERFEMALE:Uh, unless we all go home, and then they could give us a call.
+LEADMALE:Or-or-or-or they could go home, and we could call them.
+SUPFEMALE:One way or the other, I want you to go home.
+SUPMALE:Mrs.
+SUPFEMALE:Keaton? - Y-yes? Your husband's awake.
+OTHERMALE:Can-can we all? - Yes, yeah.
+SUPMALE:Oh.
+SUPFEMALE:Oh, oh, oh.
+OTHERFEMALE:You can see him right now if you like.
+SUPMALE:Okay, wait.
+LEADMALE:Shh, shh.
+SUPFEMALE:Okay.
+LEADMALE:Hi.
+SUPFEMALE:Hi.
+LEADMALE:I made it.
+LEADFEMALE:I'm alive.
+LEADMALE:Mm.
+LEADMALE:Or is this heaven? Hey! I guess not.
+LEADFEMALE:It's gonna be great to have Dad home again.
+LEADMALE:Ah.
+LEADMALE:When are Mom and Dad coming in? Well, it's gonna take a minute or two to walk up the driveway, Andy.
+SUPFEMALE:Dad's gonna be a little slower for a while.
+LEADFEMALE:Yeah, that's right.
+LEADFEMALE:Now remember, when Dad walks in, we have to act really nice, Alex.
+LEADFEMALE:What? What? Come on, what are you talking about? Well, let's face it, Alex.
+SUPMALE:You're just not nice.
+SUPFEMALE:Yeah, but I can act nice.
+SUPMALE:Did anyone notice that Dad was a little crabby on the way home? Of course he's crabby, Mallory.
+SUPMALE:He's been in the hospital.
+SUPMALE:That could really get to you.
+OTHERFEMALE:Yeah.
+LEADMALE:That and the fact that Mallory wouldn't stop jabbering - all the way home.
+LEADMALE:Alex, I was try and make him feel comfortable.
+SUPFEMALE:Oh, you were jabbering.
+OTHERFEMALE:The guy was trying to climb out the window, Mallory.
+LEADFEMALE:When's the last time you did No, he wasn't, Alex.
+OTHERFEMALE:What are you talking to me about? Hello, Father.
+SUPFEMALE:And hello to you, Daughter.
+LEADFEMALE:Dad, welcome.
+LEADMALE:Come, sit down, please.
+LEADFEMALE:Yes.
+SUPMALE:Care for a snack? Or, uh, beverage of your choice? Uh, may I brush your hair? Please, guys.
+SUPFEMALE:You don't have to treat your father like a guest.
+OTHERMALE:Sit down, honey.
+SUPFEMALE:Please make yourself comfortable.
+LEADFEMALE:Someone will be along shortly to take your order.
+SUPFEMALE:Please stop.
+LEADFEMALE:I'm fine.
+SUPMALE:I'm fine.
+LEADMALE:I'm the same guy I was ten days ago.
+LEADFEMALE:Just go do what you usually do.
+SUPFEMALE:Okay.
+SUPMALE:I'm gonna go down to the bank and see how the dollar is doing against the yen.
+LEADMALE:Attaboy, Andy.
+OTHERFEMALE:I hope your brother and sisters will follow your example.
+OTHERFEMALE:Dad, everything is normal.
+SUPFEMALE:But with a few little changes, we've decided that your life around here should be easier now.
+LEADFEMALE:You won't have to lift a finger.
+LEADMALE:You know how no one ever wants to take out the garbage? Well, Dad, I'm glad we're gonna do that for you.
+LEADFEMALE:Oh, Jen, please, let me do it.
+LEADMALE:Okay.
+SUPMALE:I say again, could you all just go do what you normally do? - Okay, Dad, just don't get upset.
+LEADMALE:I'm not upset.
+LEADFEMALE:Well, 'cause the doctor said that - I don't want to hear the word "doctor.
+LEADMALE:" Okay, the guy with the stethoscope said that you Please.
+LEADFEMALE:Go.
+LEADMALE:Get on with your lives.
+LEADFEMALE:Grow older.
+LEADMALE:Come on, everybody.
+LEADFEMALE:I know what you're trying to do, but it's Okay, I'll go read.
+LEADFEMALE:I'll go spend some quality time with my clothes.
+SUPFEMALE:Before I go, Dad, there's just there's one little thing I want to show you, okay? Just one, all right? Dad, the incredible Stair Lift O-Matic.
+LEADFEMALE:O-Okay, Dad, think about it.
+LEADMALE:Sit yourself down, and you will be zooming from basement to attic in mere seconds.
+LEADMALE:Alex, that is absolutely out of the question.
+LEADMALE:We are not installing a chairlift in our house.
+LEADFEMALE:All right, Dad, I wish you would've told me that before 'cause I got this incredible deal on the Stair Lift O-Matic Stair Buster X-90.
+SUPFEMALE:Dad, it-it comes with rearview mirrors, it comes with air-conditioning and, uh, cruise control.
+LEADFEMALE:Oh, all right, look.
+OTHERFEMALE:Hol-Hold it.
+SUPMALE:I know what you're trying to do here, and it's it-it's all very nice, but-but there's no need for it.
+LEADMALE:Yes, I had a heart attack.
+LEADMALE:Yes, I've had open heart surgery but, no, I'm not an invalid.
+LEADFEMALE:All right, well do you mind if we get the Stair Buster for my own personal use? Alex.
+SUPFEMALE:Okay, okay.
+LEADMALE:I'm sorry.
+LEADFEMALE:I just You know, I-I just I love you, - and I'm just happy that you're home.
+SUPMALE:Thank you.
+SUPFEMALE:It-it comes in four colors.
+LEADFEMALE:Alex.
+OTHERMALE:Are you okay? I'm fine.
+OTHERMALE:You seem a little edgy with the kids.
+LEADMALE:Well, excuse me, Elyse, if I'm not Mr.
+SUPFEMALE:Congeniality.
+LEADFEMALE:I've got a few things on my mind, okay? Well, if you've got to take it out on someone, why don't you take it out on me? I mean, they're just trying to help.
+LEADMALE:I don't know.
+LEADFEMALE:In the hospital, all I could think about was how great it would feel to walk through that front door.
+SUPMALE:Now that I'm here Why? This is where it happened.
+LEADFEMALE:I fell right over here.
+LEADMALE:I'm afraid every time I walk in this room, I'll think about it.
+LEADMALE:I love this room.
+LEADFEMALE:I'm sure you're gonna love this house.
+SUPMALE:It's quite a charming fixer-upper.
+SUPFEMALE:It's got four bedrooms, three bathrooms and there's a separate dining room over here.
+SUPFEMALE:Oh, Steven, this is beautiful.
+LEADMALE:Don't you think? Well, yeah, yeah, Elyse.
+LEADMALE:Yes, it is.
+SUPFEMALE:But don't you think it's also maybe a bit out of our price range? Oh, we can manage it now that you got that promotion.
+SUPMALE:Steven just got a job as program manager at WKS.
+LEADFEMALE:Yeah.
+SUPFEMALE:Public television.
+LEADMALE:Oh, yes, public television.
+LEADMALE:How nice.
+LEADFEMALE:We don't get that.
+LEADMALE:Channel 3.
+SUPFEMALE:Oh, yes, I know.
+SUPFEMALE:We had it, but we asked to have it removed.
+SUPMALE:Alex! Mallory! Come on in and look at the house! - So, this is going to be your third child.
+LEADFEMALE:Hmm? - Oh, yes.
+LEADMALE:Well, good luck.
+LEADFEMALE:Two children is something, but three can really put you in the poorhouse.
+LEADFEMALE:Oh, thanks.
+LEADMALE:Uh, you're quite a saleswoman.
+LEADFEMALE:You know, Mom, I've been doing some research in the neighborhood checking out resale values, property taxes and my conclusion is, is this house is wildly overpriced.
+LEADFEMALE:Oh, aren't you a clever little fellow? How would you like a nice stick of gum? Don't change the subject, lady.
+LEADMALE:You're $7,000 over, and you know it.
+SUPFEMALE:Mommy! - Mommy! Mommy! - What is it, Mallory? I love this house.
+OTHERFEMALE:You can see the mall from the front porch.
+LEADFEMALE:Maybe we can put your room out there.
+LEADMALE:Please, please, kids.
+LEADMALE:I think we can handle this.
+SUPMALE:$7,000 over? Are you sure? Were you happy with your tax return this year? What's the closet space look like? There's one in every room.
+OTHERFEMALE:Well, we can add on.
+LEADMALE:Add on? You think it's that easy? Have you no sense of zoning laws? Building codes? Housing agreements? Oh, yeah? Richard Nixon has the cooties.
+LEADFEMALE:That's quite a comeback, Mallory.
+OTHERMALE:Richard Nixon has the cooties, and Tricia Nixon wears bad pantsuits.
+LEADFEMALE:Honey, your brother's going through a bad time.
+OTHERMALE:Watergate.
+LEADMALE:Watergate.
+SUPFEMALE:Nixon's going to jail.
+LEADMALE:That's it! They're sweet.
+LEADFEMALE:Would you like to see the kitchen? - 
+SUPFEMALE:Oh, yeah.
+OTHERFEMALE:Can we just talk together for a minute? Oh, sure.
+SUPMALE:Sure, take your time.
+SUPFEMALE:I'll be right in here with my ear to the door.
+SUPFEMALE:I'm getting real good vibes about this place, Steven.
+LEADMALE:Well, so am I, but she's got a lot of other houses to show us.
+LEADMALE:I don't need to see any other houses.
+SUPMALE:I mean, everything we need is right here.
+OTHERMALE:All we need to do is open it up a little bit.
+LEADFEMALE:Oh, can't you just see it? We can open up this stairway here, put in a great big bay window right here in front and oh, we'll get this fireplace working.
+OTHERFEMALE:That shouldn't be too hard.
+LEADFEMALE:Oh, Steven, it-it could be wonderful.
+SUPMALE:What? Nothing.
+LEADMALE:It's just You're very beautiful when you get all architectural like that.
+SUPFEMALE:Oh, honey.
+LEADFEMALE:I can just see our family sitting in this living room.
+OTHERMALE:You and I holding each other.
+SUPMALE:Mallory sitting on the sofa, talking on the phone.
+SUPFEMALE:Alex on the sofa digging under cushions, trying to find loose change.
+LEADFEMALE:Would you guys mind taking the small bedroom? Can I borrow some turtle food? Hey, wait a minute.
+LEADFEMALE:You're not the Epsteins.
+LEADFEMALE:Well, no, we're the Keatons.
+SUPMALE:Hi, I'm Skippy Handleman from across the street.
+OTHERMALE:Oh! Well, these are our children, Alex and Mallory.
+SUPFEMALE:Va-va-va-voom.
+LEADFEMALE:Marry me! Marry me! Well? - Let's take it.
+LEADMALE:Oh, honey! What am I gonna do, Elyse? What am I gonna be like? It's gonna be fine, honey.
+SUPFEMALE:How do you know that? Well, you heard what the doctor said.
+LEADMALE:I don't want to hear the word "doctor.
+LEADMALE:" I'm sorry.
+LEADFEMALE:You heard what the man with the stethoscope said.
+OTHERFEMALE:It's gonna take some time to readjust.
+LEADMALE:What am I readjusting to? What kind of a what kind of a life am I gonna be living here? Well, the-the same kind of life you led before.
+LEADFEMALE:You heard what they said they said an active and full life.
+LEADFEMALE:What do they know? Doctors.
+SUPMALE:Don't say "doctors.
+LEADMALE:" You know what really worries me? Matt Pearson.
+LEADMALE:Oh, yeah, well, he's been on everyone's mind.
+LEADMALE:Who is he? Sales rep for PBS.
+SUPMALE:Big, brash, full of life kind of guy.
+OTHERMALE:Huge fan of my documentaries.
+SUPMALE:I think his favorite was probably The 
+SUPFEMALE:From River King to Croquette.
+LEADMALE:Well, he sounds like one of our kind of people.
+LEADMALE:Anyway, six months ago, he doesn't show up for the annual sales meeting.
+LEADMALE:And, uh, I ask about him.
+LEADMALE:Turns out he's had a heart attack.
+LEADMALE:He's five years younger than me, Elyse.
+SUPMALE:I saw him recently.
+LEADMALE:Completely different guy.
+SUPMALE:He looked terrible.
+LEADMALE:Thin, tired, skittish.
+LEADMALE:Scared of living.
+LEADMALE:Told me his doctor said he was as good as new.
+LEADMALE:He could do anything.
+LEADFEMALE:But he's afraid.
+LEADFEMALE:Afraid he's gonna get another heart attack.
+OTHERFEMALE:Are you afraid? I am.
+SUPFEMALE:Afraid of becoming another Matt Pearson; a living, passionless ghost.
+LEADFEMALE:I need passion in my life, Elyse.
+SUPFEMALE:Passion for the kids, passion for my work passion for you.
+SUPMALE:Honey it's all still there.
+LEADFEMALE:It's just gonna take some time.
+OTHERMALE:I'm just thrilled with every minute I have with you.
+LEADFEMALE:I love you.
+LEADMALE:I love you.
+LEADMALE:On second thought, I don't think we're gonna have to worry about that passion coming back.
+SUPFEMALE:Va-va-va-voom.
+SUPMALE:

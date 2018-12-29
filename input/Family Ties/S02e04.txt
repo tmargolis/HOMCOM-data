@@ -1,0 +1,455 @@
+LEADMALE:what is that? It's my geography project.
+LEADFEMALE:It's a relief map of Sweden.
+SUPFEMALE:That is Sweden? No.
+LEADFEMALE:It's just a map.
+LEADFEMALE:The actual country is much larger.
+SUPMALE:That is a terrible map of Sweden.
+LEADFEMALE:Where are your saunas? Where are your volvos? Why didn't I do this in my room? You're a Keaton, Jennifer.
+LEADFEMALE:What does it mean to be a Keaton? You go the extra mile.
+LEADFEMALE:What else? Perfection is my copilot.
+SUPMALE:That's right.
+OTHERMALE:Okay.
+OTHERMALE:We got a lot of work to do here.
+LEADMALE:This thing is totally unusable.
+LEADMALE:Okay, we're gonna need eight strips of number two balsa wood.
+OTHERFEMALE:We're gonna need 100 yards of corrugated paper.
+LEADFEMALE:We're gonna need 4 pounds of plaster of Paris and a herring.
+SUPMALE:Okay.
+LEADFEMALE:Get that all together, give me a shout.
+OTHERMALE:I'll have a look at it.
+LEADFEMALE:You're not going to help me? No, you have to take it from here, Jennifer.
+LEADFEMALE:I'm just the idea man.
+LEADFEMALE:It's here.
+SUPMALE:My letter's here.
+LEADFEMALE:I can't deal with it.
+LEADMALE:Mallory, opening mail is a skill we all have to learn.
+SUPFEMALE:"The Columbus express and the ed hanson agency "are pleased to announce that you've been selected "to be photographed in our annual mother/daughter modeling event.
+LEADMALE:" I won.
+LEADMALE:I won! Oh! I'm gonna be in the Sunday supplement! Look, there's a chance for a professional modeling contract, a $250 prize! This could be my big break.
+SUPFEMALE:How did you win a mother/daughter modeling contest by yourself? Ever hear of mom? I sent in that great picture that dad took of us at the beach last summer.
+OTHERFEMALE:Wait a wait wait Wait a minute, Mallory.
+LEADFEMALE:Uh, I was in that picture.
+LEADFEMALE:I won! I won! I won the mother/daughter modeling contest! Whoa! Is that, like, $250 each? Do we split that or what? No.
+LEADMALE:Relax, Alex.
+LEADFEMALE:I cut you out of the picture.
+LEADFEMALE:I drew a a volleyball where your head was.
+LEADFEMALE:Mom hasn't said anything about this.
+SUPFEMALE:That's because she doesn't know.
+OTHERMALE:It's a surprise.
+SUPMALE:Hey.
+LEADMALE:Hi.
+LEADFEMALE:Oh, mom! Guess what? I won a mother/daughter modeling contest! I didn't know you'd entered.
+LEADFEMALE:Well, we did.
+SUPFEMALE:And we won.
+LEADMALE:Isn't it great?! Wait a minute.
+LEADFEMALE:A-are you saying you entered me in a contest without asking me? I didn't want to get your hopes up.
+SUPFEMALE:This is the best thing that ever happened to me.
+LEADFEMALE:Isn't it great, mom? Aren't you excited? She looks thrilled.
+LEADMALE:Alex A good model doesn't show her true feelings.
+LEADMALE:She just smiles As if she doesn't have a thought in the world.
+LEADMALE:Then, uh, you should make a great model.
+SUPMALE:Thanks.
+LEADMALE:Ah.
+SUPMALE:Yo, "yennifer.
+LEADMALE:" Did you get that stuff I told you to get? Uh Yeah.
+LEADFEMALE:Except they didn't have that number two balsa wood you asked for.
+LEADFEMALE:But the guy told me this stuff would work just as well.
+LEADMALE:This? What is wrong with you, Jennifer? We can't use this.
+LEADMALE:That is the last time I send you to the lumberyard alone.
+OTHERMALE:Don't deny her her childhood, Alex.
+SUPFEMALE:Oh, hey.
+LEADMALE:Hey, that's a good idea, Mallory.
+SUPFEMALE:Maybe some of it will leak into your brain.
+SUPFEMALE:Mother, I've been reading these modeling instructions.
+OTHERFEMALE:I've got it all planned out.
+LEADFEMALE:I'll wear my white dress, and you can wear the black dress with the full sleeves.
+OTHERMALE:Now, hold on, Mallory.
+LEADFEMALE:I told you I didn't like it when you entered me in the contest without my permission.
+SUPMALE:I don't want to do this.
+SUPFEMALE:Why not? It's not something she wants to do.
+SUPFEMALE:You know, that's funny, 'cause it says here mom's been working towards a modeling career her whole life.
+LEADMALE:Alex, give me that.
+LEADFEMALE:No! Mallory, I think it's important that mom read her own autobiography.
+LEADFEMALE:Wait what autobiography?! "After a hard day of shopping for sweaters "with my gorgeous daughter, Mallory, "I hurry home to make sure "my husband's happy in his favorite chair with his robe, his slippers and his pipe"? Mallory, that's ridiculous.
+LEADFEMALE:I don't smoke a pipe.
+SUPMALE:Get a load of Mallory's biography.
+SUPMALE:"I've always liked the simpler things in life Children, rain, cashmere.
+LEADMALE:" Jennifer! Mallory, it is unbelievable that you would do this.
+SUPMALE:You're right, mom.
+SUPMALE:I shouldn't have done it.
+LEADMALE:It's just that I really wanted to win, and you were so busy, I didn't think it would hurt.
+LEADMALE:I'm really sorry, mom.
+LEADMALE:I was wrong.
+LEADFEMALE:Good.
+LEADFEMALE:I'm I'm glad you can see that.
+LEADMALE:I do.
+OTHERFEMALE:So will you do it? No! Why not? I don't know.
+LEADMALE:I I'd feel silly.
+LEADFEMALE:Are you saying I'm silly for wanting to do it? All of you think I'm silly, don't you? I do.
+SUPMALE:Thanks a lot, mom.
+SUPMALE:Oh, honey, don't Oh, boy.
+LEADFEMALE:She, uh, she seems upset.
+OTHERMALE:I better go talk to her.
+LEADFEMALE:Sometimes only a brother knows what needs to be said.
+LEADMALE:Modeling.
+SUPMALE:Pfft.
+LEADMALE:I better go, too.
+SUPFEMALE:Sometimes only a sister knows what needs to be said.
+SUPFEMALE:Modeling.
+LEADMALE:I'll have to fake it.
+SUPFEMALE:Elyse Maybe you should think about giving in on this one.
+OTHERFEMALE:Steven, she entered me in a contest without asking me.
+LEADFEMALE:Then then she wrote these phony biographies.
+SUPFEMALE:Okay.
+OTHERFEMALE:Obviously, Mallory's gotten carried away.
+LEADMALE:But at least she she She's taking some initiative, showing some enthusiasm.
+LEADFEMALE:I've always wanted her to care about something.
+LEADMALE:I always hoped it'd be physics instead of fashion.
+OTHERFEMALE:Well, they both start with a "fff" sound.
+SUPMALE:I'm not a model, honey.
+LEADFEMALE:Models get so carried away with their outfits and and tossing their hair.
+LEADMALE:It's just not me.
+SUPMALE:It's just one day.
+SUPFEMALE:It would mean so much to her.
+OTHERMALE:I guess it couldn't hurt.
+LEADMALE:Oh! 
+SUPMALE:Beautiful, beautiful.
+OTHERMALE:I love it.
+LEADMALE:Who's the mother? Who's the daughter? I can't tell the difference.
+LEADFEMALE:This is great, mom.
+LEADMALE:Isn't this your idea of heaven? Yeah, well, I always pictured a larger room.
+LEADFEMALE:Okay, mom, Mallory.
+LEADMALE:I'll be back in a couple of hours to pick you up.
+LEADMALE:Got to get dad from the dentist.
+LEADMALE:Or I could wait around.
+SUPMALE:Dad can hitch.
+LEADFEMALE:Keaton girls, am I right? That's us.
+LEADFEMALE:What did I tell you? Ed hanson.
+LEADMALE:I recognize you from your pictures.
+OTHERMALE:Ed hanson.
+LEADFEMALE:What did I tell you? Here.
+OTHERMALE:My agency is cosponsoring this event.
+SUPMALE:Wow, you own your own agency.
+OTHERFEMALE:Thanks, sweetheart.
+OTHERFEMALE:Well, come on.
+LEADFEMALE:Hey.
+OTHERMALE:I think we're almost ready for you.
+OTHERMALE:Come on, follow me.
+LEADFEMALE:Isn't this great, mom? I already have an agent.
+LEADFEMALE:Remember no frowning, grimacing, pouting.
+SUPMALE:And above all, don't smile.
+SUPMALE:That causes more wrinkles than anything.
+SUPFEMALE:But, mom, what if they want me to smile for the camera? A high-fashion model never smiles.
+LEADFEMALE:She holds her head steady and looks straight at the horizon.
+OTHERMALE:You know you have beautiful eyes? Thank you.
+LEADFEMALE:Your nose and mouth are no slouches, either.
+SUPFEMALE:Not that I've ever seen that mouth smile.
+SUPMALE:Was that a smile? I think it was.
+LEADFEMALE:Heather.
+LEADMALE:What did I just tell you? No laughing, no smiling.
+SUPMALE:Oh.
+OTHERFEMALE:This must be your sister.
+SUPMALE:You're mother and daughter going on a trip to Paris.
+LEADFEMALE:Okay.
+SUPMALE:Take it, Phil.
+LEADFEMALE:Okay.
+SUPMALE:Packing, packing, packing.
+SUPMALE:Okay? You're smiling as you're packing.
+SUPMALE:You love packing.
+SUPMALE:You love traveling.
+LEADFEMALE:That's beautiful.
+LEADFEMALE:You love smiling.
+LEADFEMALE:Okay, keep it up.
+SUPMALE:That's beautiful, Elyse.
+LEADFEMALE:Beautiful.
+LEADFEMALE:Honey, sweetie, darling, would you mind just taking one step behind your mom? That's beautiful, honey.
+LEADFEMALE:Beautiful.
+LEADMALE:Beautiful.
+LEADMALE:Okay! I'm exhausted! Camera! Okay.
+LEADMALE:It's airport time.
+OTHERFEMALE:Let's go.
+OTHERMALE:We're going to the airport.
+LEADMALE:Come on.
+SUPMALE:Line 'em up.
+SUPFEMALE:Okay.
+LEADMALE:You're getting ready.
+LEADFEMALE:You're getting ready.
+SUPFEMALE:You're getting on the plane.
+OTHERFEMALE:You're airborne! Ooh! Ooh-ooh.
+SUPFEMALE:Beautiful, beautiful.
+LEADFEMALE:Uh-oh! Little turbulence.
+SUPMALE:Little turbulence.
+LEADMALE:Turbulence.
+LEADMALE:Give me more turbulence.
+LEADFEMALE:I love the turbulence.
+LEADMALE:Turbulence.
+SUPFEMALE:Not so much turbulence, kid.
+LEADFEMALE:Okay.
+SUPMALE:Keep it going.
+LEADMALE:Keep it going.
+LEADMALE:You're coming down for a landing.
+OTHERMALE:You're coming in.
+LEADFEMALE:You're almost down.
+LEADFEMALE:You are Down! Okay! Beautiful! I have seen you before.
+LEADMALE:I know I have.
+SUPMALE:Wasn't that you on the cover of Cosmopolitan? No.
+LEADFEMALE:This is my very first modeling experience.
+LEADFEMALE:You're not a professional model? Come on.
+LEADMALE:No.
+SUPMALE:My mom just brought me here for the contest.
+SUPFEMALE:You know, I'm, uh I'm planning a little contest of my own.
+LEADMALE:Okay, ladies.
+LEADFEMALE:Ladies.
+SUPMALE:We are in Paris now.
+SUPMALE:We're in Paris.
+LEADFEMALE:Okay? Bonsoir.
+SUPFEMALE:Bonjour.
+SUPFEMALE:Bonjour.
+SUPFEMALE:Bonjour.
+LEADMALE:Okay, we're gonna go for a little walk down the champs-Ã©lysÃ©es.
+LEADFEMALE:Are you ready? Start a-walking.
+SUPFEMALE:Beautiful.
+SUPMALE:Walking.
+LEADMALE:Walking.
+SUPFEMALE:Walking.
+LEADMALE:Let me see a little Paris in those faces.
+LEADFEMALE:Beautiful, beautiful.
+LEADMALE:Kid, that's a little too much Paris.
+LEADMALE:Elyse you see the arc de triomphe.
+LEADMALE:See it! Love it! Point to it! Show it to your kid! Show it to her.
+LEADFEMALE:You're not seeing it, kid.
+LEADFEMALE:It's a landmark.
+SUPMALE:Love it! Not that much, kid.
+LEADFEMALE:It's not the Eiffel Tower.
+LEADMALE:Honey, sweetie, darling, would you mind just moving a little further to the right? A little further.
+LEADMALE:That's good.
+LEADMALE:Further.
+LEADMALE:Further.
+LEADFEMALE:Further.
+LEADMALE:Good.
+SUPFEMALE:Further.
+LEADFEMALE: That's great, Elyse.
+LEADMALE:You look beautiful.
+LEADMALE:Beautiful.
+LEADFEMALE:Beautiful.
+LEADFEMALE:Beautiful.
+LEADFEMALE:That's terrific! Keep shooting, Phillip.
+SUPFEMALE:Beautiful, Elyse.
+LEADFEMALE:Beautiful.
+OTHERFEMALE:Give me that smile that only you can smile! Beautiful! That is wonderful! That's fabulous! I love it! It's beautiful, fantastic, wonderful, lovely, fabulous, fantastic! Oh, thank you.
+SUPMALE:Yeah, I've had a lot of compliments on those photographs.
+LEADMALE:I never realized so many people read the Sunday supplement.
+SUPFEMALE:No, that my first modeling job.
+LEADMALE:Who is it, mom? How much are they offering? Don't sign anything yet.
+LEADMALE:Do you mind? I'm trying to study here.
+OTHERMALE:Study? Shouldn't the book be on your head? Alex, you're not helping me with my project! I am going to get an "f," and I'll never get into college, and I'm gonna wind up on the street selling thimbles! Well, thank you.
+LEADFEMALE:I'll tell you, this doesn't sound like it's for me.
+LEADMALE:Goodbye.
+SUPMALE:Details, ma.
+OTHERMALE:Give me details.
+LEADMALE:Well, I-it was for a magazine ad, and they wanted me to pose in a bubble bath.
+OTHERFEMALE:Sounds like good exposure.
+OTHERFEMALE:Oh.
+LEADMALE:How does anyone expect me to get any studying done around here? Alex, you left me stranded in Sweden.
+SUPFEMALE:Oh, bundle up.
+OTHERFEMALE:I'm on my way.
+SUPMALE:Quiet night by the hearth? I tried to call you for hours.
+LEADMALE:Was the phone off the hook? Mnh-mnh.
+LEADFEMALE:People have been calling here all day about modeling.
+LEADFEMALE:I guess they saw that thing in the paper.
+OTHERMALE:Hey.
+LEADFEMALE:That must make the two of you feel great.
+LEADMALE:What, are you kidding, dad? I wouldn't waste my time on that stuff.
+SUPFEMALE:I'll get it.
+LEADFEMALE:Oh, hi, ed.
+OTHERFEMALE:Hi there, Valerie.
+LEADFEMALE:Mallory.
+LEADFEMALE:Right.
+SUPMALE:Hey.
+LEADMALE:Pretty exciting having your picture in the paper, huh? Oh, was it this week? Silly me.
+SUPFEMALE:I already threw it away and shredded it.
+SUPFEMALE:Oh, well.
+LEADMALE:Uh, ed.
+LEADFEMALE:Uh, Steven Keaton.
+LEADFEMALE:Come on in.
+LEADFEMALE:And You must be Elyse's husband.
+LEADMALE:Yes, I am.
+LEADMALE:Elyse! Elyse.
+LEADMALE:Sit.
+LEADFEMALE:Sit, sit, sit, sit, sit.
+LEADFEMALE:Elyse Proper penguin frozen gourmet dinners is looking for a spokesperson for their TV commercial.
+OTHERMALE:Elyse, they want you.
+OTHERMALE:And they're shooting it tomorrow! Tomorrow? Oh, that's such short notice.
+LEADFEMALE:Hey, no one turns down the penguin.
+SUPMALE:I I'm not sure about this.
+OTHERMALE:Elyse, they took one look at you and said, "Elyse Keaton is the proper penguin lady.
+OTHERMALE:" That's how I fell for her.
+LEADFEMALE:What do you say, Elyse? $1,500 for one day's work.
+LEADMALE:$1,500 This is ridiculous, right? Right.
+LEADMALE:Do you need a proper penguin man? 
+LEADFEMALE:Places! Ready to go! Oh.
+LEADFEMALE:Mallory.
+LEADFEMALE:I-i thought you all went bowling.
+LEADFEMALE:Oh, no.
+LEADFEMALE:I told dad to go ahead without me.
+LEADFEMALE:I've got a lot of studying to do.
+SUPMALE:Oh, uh, sorry.
+LEADMALE:Um, this is the day for your little commercial.
+LEADFEMALE:I forgot.
+SUPMALE:I get out of your way.
+LEADFEMALE:Okay, people.
+SUPMALE:This is for real.
+OTHERMALE:Places, everyone.
+LEADMALE:Places.
+LEADMALE:Roll 'em.
+LEADMALE:Proper penguin frozen food commercial.
+SUPMALE:Take 1.
+LEADMALE:And Action! I was held up at work.
+SUPFEMALE:Traffic was awful.
+LEADFEMALE:How am I supposed to cook an impressive dinner for 8 important friends in 20 minutes? What about the proper penguin? Oh, I forgot.
+LEADMALE:Thank you, sir penguin.
+SUPMALE:Look at that An entire gourmet meal right in your freezer.
+SUPFEMALE:Escargots, turtle soup, succulent Peking duck with all the fixings.
+SUPMALE:And for dessert, uh Cut.
+LEADMALE:Ye What is it? Sorry.
+SUPMALE:Mom, can I have the ice cream that was It's r-right behind the turtle Sorry.
+LEADFEMALE:Here, Mallory.
+SUPMALE:Now, please don't interrupt! I won't.
+LEADMALE:I'm sorry.
+LEADFEMALE:Can I just get a spoon? No.
+LEADFEMALE: Places, everyone.
+SUPFEMALE:Places.
+LEADMALE:Roll 'em.
+LEADFEMALE:Proper penguin frozen food commercial.
+OTHERFEMALE:Take 2.
+LEADFEMALE:And action! I was held up at work.
+LEADMALE:Traffic was awful.
+LEADMALE:How am I supposed to cook an impressive dinner for 8 important friends in 20 minutes? What about the proper penguin? Oh, I forgot.
+LEADMALE:Thank you, sir penguin.
+LEADFEMALE:Look at that An entire gourmet meal right in your freezer.
+LEADMALE:Escargots, turtle soup, succulent Peking duck with all the fixings.
+LEADFEMALE:And for dessert Oh.
+LEADMALE:Yes.
+LEADMALE:Ooh.
+LEADFEMALE:Why not? CrÃªpes suzette flambÃ©.
+SUPFEMALE:And I'll top it off with proper penguin premium Peruvian coffee in this Hardy boil-in-the-bag pouch.
+LEADFEMALE:Why fool with instant? Just pop it all in the microwave.
+SUPFEMALE:Excuse me.
+SUPFEMALE:Cut! Cut, cut, cut.
+LEADFEMALE:It's just that we don't have a microwave.
+LEADMALE:We don't need a microwave for the commercial! Oh.
+SUPFEMALE:Sorry.
+LEADMALE:Um, I'm just trying to help.
+LEADFEMALE:Look, kid It's 114 degrees in this suit.
+SUPFEMALE:Maybe I'll take a walk.
+LEADFEMALE:Make it a long one.
+LEADMALE: Okay.
+SUPMALE:Places, everybody.
+SUPMALE:Places.
+LEADMALE:Once more from the top.
+LEADMALE:Ready.
+LEADFEMALE:And Roll 'em.
+LEADMALE:Proper penguin frozen food commercial.
+LEADMALE:Take 4.
+SUPMALE: Okay.
+OTHERFEMALE:Very quietly.
+LEADFEMALE:Once again.
+OTHERMALE:And Action.
+LEADFEMALE:I was held up at work.
+LEADFEMALE:Traffic was awful.
+LEADMALE:How am I supposed to cook an impressive dinner for 8 important friends in 20 minutes? What about the proper penguin? He's locked out.
+SUPFEMALE:Cut.
+SUPFEMALE:Cut.
+SUPFEMALE:Cut.
+LEADFEMALE:Mallory.
+SUPFEMALE:Oh! Sorry.
+LEADFEMALE:Oh, stupid me.
+LEADFEMALE:I-I locked the door.
+SUPFEMALE:Habit.
+LEADFEMALE:Safety.
+SUPFEMALE:I'm sorry.
+OTHERFEMALE:Um I'm warning you, kid.
+LEADMALE:Proper penguin frozen food commercial.
+LEADMALE:Take 22.
+OTHERMALE: Action! I was held down at work.
+SUPMALE:Traffic was important.
+OTHERMALE:How am I supposed to cook I cannot believe you behaved like that.
+SUPMALE:Finish the commercial, mom? Sure.
+LEADMALE:After 34 takes.
+LEADFEMALE:It's not my fault you kept flubbing your lines.
+LEADFEMALE:I-I don't think I would have flubbed them so much if you weren't deliberately trying to throw me off.
+SUPFEMALE:What? Is that what you think I was doing in there? I just happened to be in the kitchen.
+SUPMALE:I was minding my own business.
+SUPFEMALE:Oh, and in the middle of shooting, you just happened to yell, "run for your life! The house is on fire!" Slipped out.
+LEADFEMALE:Mallory, you're acting like a 9-year-old.
+SUPFEMALE:Obviously, something is bothering you.
+OTHERMALE:Please tell me what it is.
+OTHERFEMALE:All right, I'll tell you what's bothering me.
+OTHERMALE:I'm the one who wanted to be a model, and you stole that away from me.
+SUPFEMALE:Now I'll never be one.
+LEADMALE:I didn't steal anything from you.
+LEADFEMALE:If you hadn't been there, they would have chosen me to be the proper penguin lady.
+LEADFEMALE:Well, maybe not the proper penguin lady, but at least the proper penguin daughter.
+SUPMALE:I didn't want to get into this to begin with.
+LEADMALE:You dragged me into it.
+OTHERFEMALE:Maybe so.
+OTHERFEMALE:But once you were there, you certainly enjoyed it.
+LEADMALE:Why does it matter so much to you that I enjoyed it? Because you forgot about me.
+LEADFEMALE:It's supposed to be my big, shining moment And everyone was shoving me aside.
+LEADMALE:You didn't even care.
+LEADFEMALE:It's like I didn't exist.
+LEADMALE:Honey, I-i didn't realize I hurt you.
+LEADFEMALE:Yeah, you were too busy with your makeup and your lines and your penguin friends.
+LEADFEMALE:You didn't have time for me.
+SUPMALE:I always have time for you.
+SUPFEMALE:I'm a mother first and a penguin lady second.
+LEADMALE:Don't tell your father.
+LEADFEMALE:Why did you do it, mom? You knew how important it was to me.
+LEADFEMALE:I don't know.
+OTHERMALE:I guess I got carried away.
+OTHERMALE:All that fuss, all that a-attention.
+LEADMALE:It was flattering.
+LEADFEMALE:I guess I just didn't stop to consider your feelings.
+LEADMALE:Everyone else has something they're good at.
+LEADFEMALE:I just wanted to be good at something, too.
+SUPFEMALE:Honey, you're good at lots of things! Oh.
+LEADMALE:They're not the things that anyone thinks are important.
+LEADFEMALE:Sometimes I feel like such an outsider.
+LEADMALE:Honey, it's true, maybe, that that different things are important to you, but it shouldn't make them any less valuable.
+OTHERMALE:Then why does everyone always make fun of the things that I like? If that's what's happening, I'm so sorry.
+LEADMALE:We should be much more aware of your feelings.
+LEADFEMALE:Especially me.
+LEADMALE:Oh, honey.
+SUPFEMALE:I should apologize, too.
+OTHERMALE:It was pretty childish of me to ruin your commercial.
+LEADMALE:You were good, too.
+LEADFEMALE:I would have been good, too, though.
+LEADMALE:I mean, I have everyone's lines memorized.
+OTHERFEMALE:Even sir penguin's.
+LEADMALE:You did? I was tied up at work.
+SUPFEMALE:Traffic was awful.
+LEADFEMALE:How am I supposed to cook an impressive meal for 8 important friends in 20 minutes? What about the proper penguin? Well, thank you, sir penguin.
+SUPMALE:Well, hey.
+LEADMALE:How'd the filming go? Okay.
+SUPMALE:Just okay, and you're hugging like that? Dad bowled a 200 game.
+LEADMALE:You don't see me slobbering all over him.
+LEADFEMALE:No.
+LEADFEMALE:But you did spike the bowling ball.
+SUPFEMALE:So, mom when's the next assignment? Uh I'm not gonna do any more modeling.
+LEADMALE:What? I thought you said it went okay.
+LEADMALE:Did they make you eat that penguin food? Mom, get get ahold of yourself.
+LEADMALE:We're talking about a lot of money here.
+LEADMALE:Some things are more important than money.
+LEADFEMALE:Name one.
+LEADMALE:Hello? Oh.
+LEADFEMALE:Hello, ed.
+OTHERFEMALE:Uh, yes well Well, thank you, but I'm really not interested in doing any more modeling.
+LEADMALE:But maybe my daughter is.
+SUPMALE:She happens to be right here.
+LEADFEMALE:Now, hold on.
+LEADFEMALE:Just be relaxed.
+SUPMALE:Mom.
+LEADMALE:Calm down.
+SUPMALE:Be yourself.
+SUPMALE:Bonjour
+SUPMALE:
