@@ -1,7 +1,7 @@
 import random
 import os
 
-directory = "/Users/tmg/Documents/HOMCOM/data/scripts/MORK MINDY"
+directory = "/Users/tmg/Documents/HOMCOM/HOMCOM-data/input/golden girls"
 weighted_choices = [('LEADMALE', 4), ('LEADFEMALE', 4), ('SUPMALE', 2), ('SUPFEMALE', 2), ('OTHERMALE', 1), ('OTHERFEMALE', 1)]
 characters = [val for val, cnt in weighted_choices for i in range(cnt)]
 print random.choice(characters)
