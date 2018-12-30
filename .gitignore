@@ -116,3 +116,5 @@ dmypy.json
 .DS_Store
 
 output/audio/Tests/
+output/.DS_Store
+output/audio/.DS_Store
