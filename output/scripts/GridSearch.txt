@@ -1,0 +1,45 @@
+python train.py --data_dir "/home/jovyan/work/HOMCOM-data/input/fresh prince" 
+
+--num_epochs 10 --batch_size 50 --num_layers 2 --rnn_size 256 --seq_length 25 --gpu_mem 0.666 --learning_rate 0.002
+train_loss = 5.472
+
+--num_epochs 10 --batch_size 25 --num_layers 2 --rnn_size 256 --seq_length 25 --gpu_mem 0.666 --learning_rate 0.002
+train_loss = 4.941
+
+--num_epochs 10 --batch_size 10 --num_layers 2 --rnn_size 256 --seq_length 25 --gpu_mem 0.666 --learning_rate 0.002
+* train_loss = 3.991
+
+--num_epochs 10 --batch_size 5 --num_layers 2 --rnn_size 256 --seq_length 25 --gpu_mem 0.666 --learning_rate 0.002
+train_loss = 2.747
+
+--num_epochs 10 --batch_size 10 --num_layers 1 --rnn_size 256 --seq_length 25 --gpu_mem 0.666 --learning_rate 0.002
+train_loss = 2.067
+
+--num_epochs 10 --batch_size 10 --num_layers 1 --rnn_size 128 --seq_length 25 --gpu_mem 0.666 --learning_rate 0.002
+train_loss = 3.377
+
+--num_epochs 10 --batch_size 10 --num_layers 1 --rnn_size 512 --seq_length 25 --gpu_mem 0.666 --learning_rate 0.002
+train_loss = 1.380
+
+--num_epochs 10 --batch_size 10 --num_layers 1 --rnn_size 512 --seq_length 35 --gpu_mem 0.666 --learning_rate 0.002
+train_loss = 1.756
+
+--num_epochs 10 --batch_size 10 --num_layers 1 --rnn_size 512 --seq_length 45 --gpu_mem 0.9 --learning_rate 0.002
+train_loss = 1.853
+
+--num_epochs 10 --batch_size 10 --num_layers 1 --rnn_size 512 --seq_length 45 --gpu_mem 0.9 --learning_rate 0.004
+train_loss = 1.975
+
+--num_epochs 10 --batch_size 10 --num_layers 1 --rnn_size 512 --seq_length 45 --gpu_mem 0.9 --learning_rate 0.001
+train_loss = 3.189
+
+--num_epochs 20 --batch_size 10 --num_layers 1 --rnn_size 512 --seq_length 45 --gpu_mem 0.9 --learning_rate 0.002
+train_loss = 0.581
+
+--num_epochs 30 --batch_size 10 --num_layers 1 --rnn_size 512 --seq_length 45 --gpu_mem 0.9 --learning_rate 0.002
+train_loss = 0.133
+
+--num_epochs 40 --batch_size 10 --num_layers 1 --rnn_size 512 --seq_length 45 --gpu_mem 0.9 --learning_rate 0.002
+train_loss = 0.053
+
+--num_epochs 50 --batch_size 10 --num_layers 1 --rnn_size 512 --seq_length 45 --gpu_mem 0.9 --learning_rate 0.002
